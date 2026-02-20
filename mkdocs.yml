@@ -70,6 +70,7 @@ nav:
   - Home: index.md
   - Methodology: methodology.md
   - "Research Tools & Process": tools.md
+  - "Master Evidence File": master-evidence.md
 
   # ── Tier 1: Foundations ──
   - "Tier 1 -- Foundations":
