@@ -12,7 +12,7 @@ What does the Hebrew word olam (H5769) mean in the Old Testament? Does it always
 
 This study continues the word-study phase of the series. The preceding studies established:
 
-- **etc5-05** (Four Hell Words): The four "hell" words (sheol, hades, gehenna, tartaroo) are lexically distinct, none inherently means "eternal conscious torment," and the dominant judgment vocabulary is apollumi (destroy). The torment vocabulary (basanizo, basanismos) is confined to Revelation, applied to specific named subjects. Established N029: "eternal fire" on Sodom (Jude 1:7) = ashes (2 Pet 2:6) — the Bible's own definition of "eternal fire" as permanent result, not ongoing process.
+- **etc5-05** (Four Hell Words): The four "hell" words (sheol, hades, gehenna, tartaroo) are lexically distinct, none inherently means "eternal conscious torment," and the dominant judgment vocabulary is apollumi (destroy). The torment vocabulary (basanizo, basanismos) is confined to Revelation, applied to specific named subjects. Established IB009-resolved (formerly N029, reclassified N→I-B): "eternal fire" on Sodom (Jude 1:7) = ashes (2 Pet 2:6) — the Bible's own definition of "eternal fire" as permanent result, not ongoing process.
 
 - **etc5-06** (Destruction Vocabulary): The destruction word-group (apollumi, apoleia, olethros, phthora, abad, shamad, kalah, karat) forms a unified cross-testament semantic field consistently describing cessation, ruin, and loss — never torment. The LXX bridge confirms this: H6 (abad) → G622 (apollumi) 141x (PMI 6.14); the torment terms (basanizo, basanismos) never translate any Hebrew destruction term. Established N030-N033, E151-E184, IA018-IA020, IB009-IB010.
 

@@ -310,7 +310,7 @@ Passages are grouped by topic cluster:
 **Key observations:**
 - The sequence: (1) Lord descends; (2) dead in Christ rise first; (3) living believers caught up together with them. The resurrection of the dead is the critical step — the dead are currently in the sleep of death, not in ongoing conscious fellowship with Christ.
 - Paul offers the resurrection as comfort for bereaved believers. If the dead were already consciously present with Christ in a better state, the comfort offered would logically be "they are already with Christ now, and resurrection will complete that." Instead, Paul's comfort is entirely focused on the resurrection event as the reunification point.
-- "Sleep in Jesus" (v.14) uses the sleep metaphor that is established across both testaments (etc5-01, N9 / Master N009).
+- "Sleep in Jesus" (v.14) uses the sleep metaphor that is established across both testaments (etc5-01, N9 / Master N009, reclassified to IA007 after Study 17).
 
 ---
 

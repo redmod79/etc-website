@@ -147,7 +147,7 @@ You are the Research Agent. Execute this study by:
    - `raw-data/` — Raw tool output
 5. Do NOT write `03-analysis.md` or `CONCLUSION.md`
 
-**CRITICAL:** No non-etc5 study references in any output files. Next evidence IDs: E289+, N047+, IA027+, IB018+, IC004+, ID004+.
+**CRITICAL:** No non-etc5 study references in any output files. Next evidence IDs: E289+, N047+, IC005+, IB018+, IC004+, ID004+.
 
 ### Priority Nave's Topics to Pull Full Entries For
 

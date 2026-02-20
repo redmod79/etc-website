@@ -97,7 +97,7 @@ These existing items are directly relevant to the God's-character question:
 | E116 | "Everlasting destruction from the presence of the Lord" (2 Th 1:9) | God's judgment described as destruction, not ongoing torment |
 | N5 | God alone possesses immortality (athanasia) as inherent attribute | ECT requires God to grant/maintain immortality in the condemned |
 | N8 | God can destroy both soul and body (Mat 10:28) | Capability of complete destruction is stated, not just punishment |
-| N029 | "Eternal fire" = permanent result (Sodom → ashes per Jude 1:7 + 2 Pet 2:6) | Aionios fire produces permanent results, not necessarily eternal process |
+| N029 *(reclassified to IB009-resolved after Study 5)* | "Eternal fire" = permanent result (Sodom → ashes per Jude 1:7 + 2 Pet 2:6) | Aionios fire produces permanent results, not necessarily eternal process |
 | N030 | Apollumi/apoleia paired as antithesis of life (zoe) in four independent texts | The biblical contrast is life vs. destruction, not life vs. torment |
 | N033 | Torment and destruction vocabulary lexically distinct, never co-applied | The two categories describe different outcomes |
 | N034 | Duration of olam/aionios determined by referent's nature | "Everlasting punishment" duration determined by referent (kolasis) |

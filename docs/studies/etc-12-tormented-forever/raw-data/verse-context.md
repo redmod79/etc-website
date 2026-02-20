@@ -243,7 +243,7 @@
 >
 > **1:9** Yet Michael the archangel, when contending with the devil he disputed about the body of Moses, durst not bring against him a railing accusation, but said, The Lord rebuke thee.
 
-*Note: Jude 1:6 — angels confined in "everlasting [aidios, G126] chains" UNTIL the judgment of the great day. This is a pre-final-state holding status. Jude 1:7 — Sodom set forth as an example "suffering the vengeance of eternal fire" — but established N029 (Sodom reduced to ashes, 2 Pet 2:6) shows "eternal fire" there = completed destruction.*
+*Note: Jude 1:6 — angels confined in "everlasting [aidios, G126] chains" UNTIL the judgment of the great day. This is a pre-final-state holding status. Jude 1:7 — Sodom set forth as an example "suffering the vengeance of eternal fire" — but established IB009-resolved (formerly N029, reclassified N→I-B; Sodom reduced to ashes, 2 Pet 2:6) shows "eternal fire" there = completed destruction.*
 
 **2 Peter 2:4-9:**
 > **2:4** For if God spared not the angels that sinned, but **cast [them] down to hell [tartaroo], and delivered [them] into chains of darkness, to be reserved unto judgment**;

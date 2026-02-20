@@ -126,7 +126,7 @@ The fire of Heb 10:27 is described by its action: esthiein (G2068, Pres Act Inf 
 | E214 | Mat 25:41 — hetoimasmenon (V-RPP-ASN = Perfect Passive Participle: already-prepared state) governs pyr aiōnion; the fire was prepared for the devil and his angels as stated recipients. | Mat 25:41 | **+etc5-14** |
 | IB008 | The ongoing torment language of Rev 20:10 and Rev 14:10-11 applies to specific named subjects; extending it universally to all persons in the lake is an inference. Resolved Moderate — weight AGAINST universal extension. | Rev 20:10; 20:15; 14:10-11 | **+etc5-14** |
 | IB010 | "Everlasting destruction from the presence of the Lord" — banishment reading requires understanding apo prosōpou as separation rather than source/agent. Resolved Moderate — weight AGAINST banishment reading. | 2Th 1:9 | **+etc5-14** |
-| N029 | "Eternal fire" on Sodom/Gomorrah = ashes (2 Pet 2:6; Jude 1:7) — demonstrates aionios fire = permanent result, not ongoing process. | Jude 1:7; 2 Pet 2:6 | **+etc5-14** |
+| N029 | "Eternal fire" on Sodom/Gomorrah = ashes (2 Pet 2:6; Jude 1:7) — demonstrates aionios fire = permanent result, not ongoing process. | Jude 1:7; 2 Pet 2:6 | **+etc5-14** *(reclassified to IB009-resolved after Study 5)* |
 | N033 | The destruction vocabulary (apollumi, abad, etc.) and torment vocabulary (basanizō, basanismos) are lexically distinct; they describe different things and are not used interchangeably. | etc5-06 | **+etc5-14** |
 
 ---
@@ -173,7 +173,7 @@ The fire of Heb 10:27 is described by its action: esthiein (G2068, Pres Act Inf 
 | I-B | 2 new items | IB016–IB017 |
 | **Total new** | **23 items** | — |
 
-**"Also In" fields updated for existing items:** E023, E110, E111, E116, E118, E119, E141, E180, E193, E208, E209, E210, E212, E214, IB008, IB010, N029, N033 — all receive **+etc5-14**.
+**"Also In" fields updated for existing items:** E023, E110, E111, E116, E118, E119, E141, E180, E193, E208, E209, E210, E212, E214, IB008, IB010, N029 *(reclassified to IB009-resolved)*, N033 — all receive **+etc5-14**.
 
 **New E classification breakdown:**
 - Conditionalist: E275 (Rom 2:12: apollōntai), E276 (Rev 11:18: diaphtheirō) = **2 Conditionalist**

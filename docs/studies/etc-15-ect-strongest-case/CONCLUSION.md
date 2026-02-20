@@ -69,13 +69,13 @@ The text is explicit: "tormented with fire and brimstone" (basanizō); "smoke of
 
 **Argument 3: Mat 25:46**
 
-Both aionion instances are A-ASF (E208). The noun kolasis (punishment, E209) specifies the punitive character of the outcome — not basanismos (torment). IB012 (Moderate toward referent-nature) governs: whether the same adjective imposes identical duration on both outcomes requires the interpretation step that aionios means "endless duration" rather than "permanent result determined by the referent's nature" (N034, N035). Since aionios fire on Sodom = ashes (N029), the referent-nature principle is established within the canon.
+Both aionion instances are A-ASF (E208). The noun kolasis (punishment, E209) specifies the punitive character of the outcome — not basanismos (torment). IB012 (Moderate toward referent-nature) governs: whether the same adjective imposes identical duration on both outcomes requires the interpretation step that aionios means "endless duration" rather than "permanent result determined by the referent's nature" (N034, N035). Since aionios fire on Sodom = ashes (IB009-resolved (formerly N029, reclassified N→I-B)), the referent-nature principle is established within the canon.
 
 **Tier: I-B (IB012, Moderate toward referent-nature interpretation)**
 
 **Argument 4: Mat 25:41**
 
-The fire was prepared FOR the devil (dative of purpose, E214). It is pyr aiōnion. N029 (eternal fire = permanent result: Sodom = ashes) already establishes that aionios fire does not necessarily mean ongoing eternal burning process. IB016 (Moderate, AGAINST universal extension) governs: the inference that same-fire = same-experience for humans as for the devil requires an inference step the adjacent text of Rev 20:15 (same author) does not support.
+The fire was prepared FOR the devil (dative of purpose, E214). It is pyr aiōnion. IB009-resolved (formerly N029, reclassified N→I-B) *(reclassified to IB009-resolved)* (eternal fire = permanent result: Sodom = ashes) already establishes that aionios fire does not necessarily mean ongoing eternal burning process. IB016 (Moderate, AGAINST universal extension) governs: the inference that same-fire = same-experience for humans as for the devil requires an inference step the adjacent text of Rev 20:15 (same author) does not support.
 
 **Tier: I-B (IB016, Moderate weight AGAINST)**
 
@@ -162,7 +162,7 @@ No new N items are established from this study.
 
 | Master ID | Statement | Based On | Also In |
 |-----------|-----------|----------|---------|
-| N029 | Eternal fire = permanent result (Sodom = ashes; Jude 1:7 + 2 Pet 2:6) | E147 | **+etc5-15** |
+| IB009-resolved (formerly N029, reclassified N→I-B) | Eternal fire = permanent result (Sodom = ashes; Jude 1:7 + 2 Pet 2:6) | E147 | **+etc5-15** *(reclassified to IB009-resolved after Study 5)* |
 | N034 | Duration of olam/aion determined contextually by nature of referent | E185, E186, E187, E188, E189, E190, E191 | **+etc5-15** |
 | N035 | NT aionios inherits the semantic range of olam, including contextually-bounded uses | N034, E197-E218 survey | **+etc5-15** |
 | N033 | Basanizo/basanismos and destruction vocabulary (apollumi, etc.) are lexically distinct, never used interchangeably for the same subject in the same passage | etc5-06 lexical survey | **+etc5-15** |
@@ -204,7 +204,7 @@ No new I items are established. All 8 ECT arguments are addressed by existing I-
 - ECT: 0
 
 **"Also In" fields updated for existing items:**
-E149, E150, E123, E119, E208, E209, E118, E214, E141, E144, E023, E193, E271, E212, N029, N033, N034, N035, IB006, IB008, IB009, IB011, IB012, IB014, IB015, IB016 — all receive **+etc5-15**.
+E149, E150, E123, E119, E208, E209, E118, E214, E141, E144, E023, E193, E271, E212, IB009-resolved (formerly N029, reclassified N→I-B) *(reclassified to IB009-resolved)*, N033, N034, N035, IB006, IB008, IB009, IB011, IB012, IB014, IB015, IB016 — all receive **+etc5-15**.
 
 Evidence items tracked in etc5-master-evidence.md.
 

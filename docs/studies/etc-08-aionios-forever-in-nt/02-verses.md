@@ -191,7 +191,7 @@ What does the Greek word aionios (G166) mean in the New Testament?
 - deigma (G1164) "example/specimen"
 - diken hupechousai — "undergoing [the] penalty/punishment"
 
-*Critical observation (N029 from etc5-05): The fire that consumed Sodom is called "eternal fire" (puros aioniou). But 2Pet 2:6 says God "turned [Sodom] into ashes." The fire is eternal not because it still burns today, but because it produced a permanent, irreversible result. This is the clearest NT evidence that "eternal fire" = permanent result, not ongoing process.*
+*Critical observation (IB009-resolved from etc5-05, formerly N029, reclassified N→I-B): The fire that consumed Sodom is called "eternal fire" (puros aioniou). But 2Pet 2:6 says God "turned [Sodom] into ashes." The fire is eternal not because it still burns today, but because it produced a permanent, irreversible result. This is the clearest NT evidence that "eternal fire" = permanent result, not ongoing process.*
 
 ### Revelation 14:6-12 (everlasting gospel + eternal torment context)
 **Rev 14:6:** And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people,

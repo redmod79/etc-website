@@ -27,7 +27,7 @@ None of the four terms inherently means "a place of eternal conscious torment." 
 2. **Revelation 20:13-14** — Hades delivers up the dead for judgment, then is cast into the lake of fire. Hades ends; the lake of fire is distinct. (E110, N026)
 3. **Acts 2:27, 31** — Peter quotes Ps 16:10 using hades, proving sheol = hades across the testaments. (E131, E135)
 4. **Isaiah 66:24** — The source text of the gehenna imagery: "their worm shall not die, neither shall their fire be quenched" — the objects are pigrê (corpses, dead bodies). (E141)
-5. **Jude 1:7 + 2 Peter 2:6** — Sodom's "eternal fire" (Jude) = "turned to ashes" (2 Pet). The biblical self-definition of "eternal fire" as permanent result, not ongoing process. (E147, N029)
+5. **Jude 1:7 + 2 Peter 2:6** — Sodom's "eternal fire" (Jude) = "turned to ashes" (2 Pet). The biblical self-definition of "eternal fire" as permanent result, not ongoing process. (E147, N029, reclassified to IB009-resolved after Study 5)
 6. **2 Peter 2:4** — Tartaroo applies only to fallen angels in pre-judgment "chains of darkness." (E145, E146)
 7. **Revelation 20:10** — The devil, beast, and false prophet are tormented "day and night for ever and ever." The strongest ongoing-torment passage in the NT. (E149)
 8. **Revelation 14:10-11** — Beast-worshippers tormented with fire; smoke ascends "for ever and ever." (E150)
@@ -145,6 +145,7 @@ Items from this study that are already in the master evidence file and are direc
 | N4 | **N027** | Sheol and hades refer to the same reality across the two testaments. | E138, E131, E135 | The LXX translates sheol as hades 58/67 times (E138); NT writers quote OT sheol passages using hades and treat them as referring to the same state (Acts 2:27/Ps 16:10 at E131/E135; 1 Cor 15:55/Hos 13:14). The correspondence is confirmed by both the translators' word choice and the NT writers' exegetical application. Both sides must acknowledge the lexical equivalence. | Neutral |
 | N5 | **N028** | Gehenna and sheol/hades are distinct terms describing different stages in the eschatological sequence: sheol/hades = pre-judgment state of the dead; gehenna = post-judgment final fate. | N026, E110, Matt 10:28 (E026), all 12 gehenna passages | N026 establishes hades as temporary and pre-judgment. Rev 20:13-14 establishes the sequence: hades delivers up → judgment → hades destroyed. The gehenna passages uniformly describe eschatological judgment outcomes, not the current state of the dead. No interpretation is required to see that these are different moments in the sequence; it follows directly from the temporal content of each group of passages. | Neutral |
 | N6 | **N029** | "Eternal fire" in biblical usage (as defined by the Bible's own cross-reference) denotes a fire whose result is permanent and irrevocable, not a fire that continues burning forever. | E147 | Jude 1:7 calls Sodom's judgment "eternal fire"; 2 Pet 2:6 (same letter-tradition) calls the same event "turned to ashes." These two statements by the same author about the same event provide the Bible's working definition. The conclusion follows without added concepts: if the eternal fire on Sodom = ashes, "eternal" modifies the permanence of the result, not the ongoing process of burning. | Neutral |
+> **[RECLASSIFIED]** N029 was reclassified from Neutral (N-tier) to I-B Conditionalist direction (STRONG), subsumed by IB009, after Study 5. All prose references to N029 should be read as IB009-resolved (formerly N029).
 
 ### Inferences
 
@@ -225,7 +226,7 @@ SIS #4a (same author, same passage, adjacent verse): Rev 20:10 names the devil/b
 | E150 | Rev 14:10-11: beast-worshippers tormented; smoke ascends "for ever and ever" | Neutral |
 | N027 | Sheol = hades across the two testaments (LXX + NT quotation proof) | Neutral |
 | N028 | Gehenna and sheol/hades describe different stages in the eschatological sequence | Neutral |
-| N029 | "Eternal fire" = permanent result (Sodom: eternal fire = ashes) | Neutral |
+| N029 | "Eternal fire" = permanent result (Sodom: eternal fire = ashes) | Neutral *(reclassified to IB009-resolved after Study 5)* |
 | IA016 | The four "hell" words are not interchangeable; none inherently means eternal conscious torment | Conditionalist |
 | IA017 | Mark 9 gehenna imagery is grounded in Isa 66:24's corpse-destruction context | Conditionalist |
 | IB008 | Ongoing torment language of Rev 20:10/14:11 — whether universal or specific to named entities | Moderate (weight AGAINST universal extension) |
@@ -272,31 +273,31 @@ The following existing master items are directly cited in this study and should 
 | Category | Conditionalist | ECT | Neutral | Total |
 |----------|---------------|-----|---------|-------|
 | E (Explicit) | 2 | 0 | 12 | 14 |
-| N (Necessary Impl.) | 0 | 0 | 3 | 3 |
+| N (Necessary Impl.) | 0 | 0 | 2 | 2 |
 | I-A | 2 | 0 | 0 | 2 |
 | I-B (new) | — | — | 1 new item | 1 |
 | I-C | 0 | 0 | 0 | 0 |
 | I-D | 0 | 0 | 0 | 0 |
-| **Subtotal new** | **4** | **0** | **15** | **19 new** |
+| **Subtotal new** | **4** | **0** | **14** | **18 new** |
 
-Note: The 2 new Conditionalist E items are E140 and E148. E149 and E150 were reclassified from ECT to Neutral in the etc5-18 audit (grammar, context, and harmony with other E-items: E149's subjects are symbolic entities whose destiny is apoleia/destruction per Rev 17:8,11; same formula = cessation in Rev 19:3; E150's grammar shows "for ever" attaches to smoke, not persons — E211). The 12 Neutral E items are E137-E139, E141-E147, E149, E150.
+Note: The 2 new Conditionalist E items are E140 and E148. E149 and E150 were reclassified from ECT to Neutral in the etc5-18 audit (grammar, context, and harmony with other E-items: E149's subjects are symbolic entities whose destiny is apoleia/destruction per Rev 17:8,11; same formula = cessation in Rev 19:3; E150's grammar shows "for ever" attaches to smoke, not persons — E211). The 12 Neutral E items are E137-E139, E141-E147, E149, E150. N029 (originally counted as 1 of 3 new Neutral N items) was reclassified to I-B Conditionalist direction (STRONG), subsumed by IB009; it is no longer counted in the N-tier.
 
 ### Running Master Totals After etc5-05
 
 | Category | Conditionalist | ECT | Neutral | Total |
 |----------|---------------|-----|---------|-------|
 | E (Explicit) | 84 | 6 | 60 | **150** |
-| N (Necessary Impl.) | 22 | 0 | 7 | **29** |
+| N (Necessary Impl.) | 22 | 0 | 6 | **28** |
 | I-A | 15 | 0 | 2 | **17** |
 | I-B | — (resolved as ECT or Neutral) | — | — | **8** |
 | I-C | 2 | 0 | 0 | **2** |
 | I-D | 0 | 3 | 0 | **3** |
-| **Total** | **84 C-E + 22 C-N + 2 I-C** | **6 ECT-E + 3 I-D** | **60 N-E + 7 N-N + 2 N-IA** | **209** |
+| **Total** | **84 C-E + 22 C-N + 2 I-C** | **6 ECT-E + 3 I-D** | **60 N-E + 6 N-N + 2 N-IA** | **208** |
 
 **Simplified tally:**
 - Conditionalist items (E+N): 84 + 22 = **106**
 - ECT items (E+I-D): 6 + 3 = **9**
-- Neutral items (E+N): 60 + 7 = **67**
+- Neutral items (E+N): 60 + 6 = **66**
 - Inferences (I-A): 17 (15 Conditionalist, 2 Neutral)
 - Inferences (I-B): 8 total (IB001-IB008); 6 resolved Moderate (IB001-IB003, IB005, IB007, IB008), 2 Unresolved (IB004, IB006)
 - I-C: 2 (Conditionalist)
@@ -322,7 +323,7 @@ From the explicit statements and necessary implications of this study:
 
 7. **The source text of the gehenna fire imagery (Isa 66:24, quoted directly in Mark 9:48) depicts fire and worm acting on pigrê — corpses, dead bodies, not conscious persons** (E141, E144).
 
-8. **"Eternal fire" on Sodom produced ashes** — the Bible's own cross-reference (Jude 1:7 + 2 Pet 2:6) defines "eternal fire" as permanently destructive result, not ongoing burning process (E147, N029).
+8. **"Eternal fire" on Sodom produced ashes** — the Bible's own cross-reference (Jude 1:7 + 2 Pet 2:6) defines "eternal fire" as permanently destructive result, not ongoing burning process (E147, N029, reclassified to IB009-resolved after Study 5).
 
 9. **Tartaroo applies only to fallen angels in pre-judgment confinement in "chains of darkness"** — it cannot be applied to human experience (E145, E146).
 

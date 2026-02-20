@@ -238,7 +238,7 @@
 - The Sodom "eternal fire" = "turned to ashes" (2 Pet 2:6, same Petrine letter tradition)
 - Jude uses the STRONGER "inherent endlessness" word (aidios) for fallen angels' chains (still active)
 - Jude uses the SOFTER "age-pertaining" word (aionios) for Sodom's fire (completed, produced ashes)
-- N029 (Neutral Necessary Implication): "eternal fire" = permanent result, not ongoing burning process
+- IB009-resolved (formerly N029, reclassified N→I-B): "eternal fire" = permanent result, not ongoing burning process
 
 ---
 
@@ -257,7 +257,7 @@
 - Applied exclusively to fallen angels — never to humans
 - Characterization: "chains of darkness" — not fire, not torment
 - Temporal: "reserved unto judgment" — pre-judgment temporary state (E145, E146)
-- 2 Pet 2:6: Sodom turned to ashes — confirms Jude 1:7's "eternal fire" = ashes (E147, N029)
+- 2 Pet 2:6: Sodom turned to ashes — confirms Jude 1:7's "eternal fire" = ashes (E147, IB009-resolved (formerly N029, reclassified N→I-B))
 - Context: Three examples of divine judgment and rescue (angels, flood, Sodom)
 
 ---

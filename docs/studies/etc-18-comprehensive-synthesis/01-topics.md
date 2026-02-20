@@ -662,7 +662,7 @@
 
 ### Study 17: etc5-17-gods-character-and-justice
 
-**Tally:** 24 E (E289–E312), 0 N new, 2 I-A (IA027–IA028 both Conditionalist), 1 I-B new (IB018 Moderate conditionalist), 0 I-C, 0 I-D = **27 total**
+**Tally:** 24 E (E289–E312), 0 N new, 1 I-A (IA028 Conditionalist), 1 I-B new (IB018 Moderate conditionalist), 1 I-C (IA027 Conditionalist — reclassified from I-A to I-C), 0 I-D = **27 total**
 
 **I-B New:**
 - IB018 (God's character more consistent with conditionalism vs. ECT): Moderate — **toward conditionalist**
@@ -687,7 +687,7 @@
 - E312: Psa 103:10, 14 — God has not dealt with us after our sins; "he remembereth that we are dust"
 
 **New I Items:**
-- IA027: The graduated punishment principle (Luk 12:47-48) extended to eschatological final punishment — uniform infinite eternal torment inconsistent with stated proportionality
+- IA027 *(reclassified from I-A to I-C)*: The graduated punishment principle (Luk 12:47-48) extended to eschatological final punishment — uniform infinite eternal torment inconsistent with stated proportionality
 - IA028: The pattern of God's non-desire (not willing apollumi) + non-perpetual wrath = coherent character portrait more consistent with annihilation than ECT
 
 **What CAN Be Said (etc5-17):**

@@ -183,11 +183,6 @@ After applying the stricter three-test N-tier methodology, no new N items are ad
 
 **I-A (Evidence-Extending):**
 
-**IA027** | Conditionalist | Luk 12:47-48; Ezk 18:20-30; Rom 2:6
-The proportional punishment principle — explicitly taught by Jesus (E311: many vs. few stripes based on knowledge) and embedded in the Ezk 18 proportional accountability framework — is extended to eschatological final punishment. If punishment is graduated based on degree of knowledge and responsibility, a doctrine of uniform infinite eternal torment for every unsaved person regardless of degree of guilt is not consistent with the stated proportionality principle. The conditionalist position — that destruction is the outcome, with varying degrees of experience possible before the final destruction — is more compatible with proportional punishment than ECT's uniform infinite torment.
-**Basis:** E311 (Luk 12:47-48: many/few stripes explicitly graduated); E293 (Rev 16:6: "worthy" = proportional judgment vocabulary in Rev); E290 (Deut 32:4: "his work is perfect" — no excess); Rom 2:6 (render to every man according to his deeds = proportionality principle, established in prior studies); the extension to eschatological final punishment is the inference step (criterion #5 systematizing + #4a SIS: Jesus's own teaching on graduated punishment governs the inference).
-First Appeared: etc5-17
-
 **IA028** | Conditionalist | Ezk 18:23, 32; 33:11; 2 Pet 3:9; Mat 18:14; Lam 3:33; Mic 7:18; Hos 11:8-9; Isa 57:15-16
 The pattern of statements about what God does NOT will/take pleasure in (death/apollumi of the wicked), combined with the pattern of statements about the non-perpetuity of his anger, constitutes a coherent biblical portrait of God's character that is more consistent with annihilation (a finite destruction that God does not delight in but executes in judgment) than with ECT (an infinite perpetual torment that God actively maintains forever, with anger never relenting). The individual statements are E-tier; the systematic inference from the pattern is I-A.
 **Basis:** E297, E106, E107 (no pleasure in death of wicked); E302, E303 (not willing apollumi); E300, E301, E298, E299 (anger non-perpetual); the systematization into a "more consistent with" claim is criterion #5.
@@ -241,7 +236,13 @@ Not Strong because: (a) God's holiness (E306, E307) is a genuinely weighty datum
 
 ---
 
-**I-C (Compatible External):** No new I-C items from this study.
+**I-C (Compatible External):**
+
+**IA027** | Conditionalist | Luk 12:47-48; Ezk 18:20-30; Rom 2:6
+The proportional punishment principle — explicitly taught by Jesus (E311: many vs. few stripes based on knowledge) and embedded in the Ezk 18 proportional accountability framework — is extended to eschatological final punishment. If punishment is graduated based on degree of knowledge and responsibility, a doctrine of uniform infinite eternal torment for every unsaved person regardless of degree of guilt is not consistent with the stated proportionality principle. The conditionalist position — that destruction is the outcome, with varying degrees of experience possible before the final destruction — is more compatible with proportional punishment than ECT's uniform infinite torment.
+**Basis:** E311 (Luk 12:47-48: many/few stripes explicitly graduated); E293 (Rev 16:6: "worthy" = proportional judgment vocabulary in Rev); E290 (Deut 32:4: "his work is perfect" — no excess); Rom 2:6 (render to every man according to his deeds = proportionality principle, established in prior studies); the extension to eschatological final punishment is the inference step (criterion #5 systematizing + #4a SIS: Jesus's own teaching on graduated punishment governs the inference).
+**Reclassification note:** Originally classified as I-A. Reclassified to I-C because the inference that proportional punishment principles from Luke 12:47-48 extend to the specific form (ECT vs. annihilation) of eschatological final punishment requires familiarity with the proportionality principle as a framework external to the direct judgment-vocabulary evidence — making it Compatible External rather than Evidence-Extending.
+First Appeared: etc5-17
 
 **I-D (Counter-Evidence External):** No new I-D items from this study.
 
@@ -261,9 +262,9 @@ Revised count:
 **New N items: 0**
 
 **New I items: 3**
-- I-A: 2 (IA027 Conditionalist, IA028 Conditionalist)
+- I-A: 1 (IA028 Conditionalist)
 - I-B: 1 (IB018 Neutral)
-- I-C: 0
+- I-C: 1 (IA027 Conditionalist — reclassified from I-A to I-C)
 - I-D: 0
 
 **Also In updates for existing items:**
@@ -298,15 +299,15 @@ Revised count:
 **New items from Study 17:**
 - New E: 24 (Conditionalist: 10, ECT: 0, Neutral: 14)
 - New N: 0
-- New I: 3 (IA: 2, IB: 1, IC: 0, ID: 0)
+- New I: 3 (IA: 1, IB: 1, IC: 1, ID: 0)
 
 **Updated total (after Study 17): 410 items**
 - E: 312 (Conditionalist: 128, ECT: 7 *(all 7 reclassified Neutral in etc5-18 audit; effective ECT: 0, effective Neutral: 179)*, Neutral: 172)
 - N: 46
-- I: 52 (IA: 28, IB: 18, IC: 3, ID: 3)
+- I: 52 (IA: 27, IB: 18, IC: 4, ID: 3)
 
 **Verification:** 312 + 46 + 52 = 410 ✓
-**I breakdown:** 28 IA + 18 IB + 3 IC + 3 ID = 52 ✓
+**I breakdown:** 27 IA + 18 IB + 4 IC + 3 ID = 52 ✓
 
 ---
 
@@ -318,7 +319,7 @@ The character-of-God evidence from Study 17 contributes the following to the ser
 
 **New neutral explicit items (14):** Fourteen items establish God's character attributes (righteousness of all his ways, love of judgment, holiness, his self-declaration) as facts both sides must acknowledge.
 
-**New conditionalist inferences (2 I-A):** IA027 extends the proportionality principle to eschatological punishment (consistent with conditionalism, creates tension with ECT's uniform infinite torment). IA028 systematizes the non-desire and non-perpetual-wrath pattern into a coherent character portrait.
+**New conditionalist inferences (1 I-A, 1 I-C):** IA028 (I-A) systematizes the non-desire and non-perpetual-wrath pattern into a coherent character portrait. IA027 (I-C, reclassified from I-A) extends the proportionality principle to eschatological punishment (consistent with conditionalism, creates tension with ECT's uniform infinite torment) — classified as I-C because it brings in the proportionality framework as a compatible external lens rather than extending E/N items directly.
 
 **New I-B tension (IB018):** The God's-character-and-final-fate inference is classified as I-B with a Moderate conditionalist resolution. Neither position's character inference reaches the N tier.
 

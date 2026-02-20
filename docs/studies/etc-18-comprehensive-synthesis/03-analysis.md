@@ -105,7 +105,7 @@ Gehenna passages (all 12 NT occurrences): torment vocabulary (basanizo/basanismo
 
 Sheol and hades: both righteous and wicked go there; they are temporary (delivered up at judgment, then cast into the lake of fire — E134, N026). The soul in sheol "cannot praise thee, death can not celebrate thee" (Isa 38:18 — E022).
 
-The Sodom paradigm: Jude 1:7 calls Sodom's destruction "the vengeance of eternal fire [puros aiōniou]" (E147); 2 Pet 2:6 describes the same event as "turning the cities of Sodom and Gomorrha into ashes [tephroō]" (E161). N029: "eternal fire" denotes permanent result, not ongoing burning process.
+The Sodom paradigm: Jude 1:7 calls Sodom's destruction "the vengeance of eternal fire [puros aiōniou]" (E147); 2 Pet 2:6 describes the same event as "turning the cities of Sodom and Gomorrha into ashes [tephroō]" (E161). N029 *(reclassified to IB009-resolved after Study 5)*: "eternal fire" denotes permanent result, not ongoing burning process.
 
 Second death: the lake of fire when applied to human wicked = "the second death" (thanatos — standard death word, not torment word): Rev 20:14 (E110); Rev 21:8 (E113). Overcomer exemption from the second death confirms it as a genuine death-outcome (E108, E109).
 
@@ -197,7 +197,7 @@ All 28 I-A items systematize E/N evidence into broader doctrinal claims. They re
 - IA018-IA022: Destruction vocabulary describes cessation; two vocabulary sets describe different outcomes; "everlasting destruction" = permanent result; OT olam punishment passages = permanent outcome; aionios is subject-dependent
 - IA023-IA024: Great White Throne judgment vocabulary pattern; torment vocabulary absent from all 10 major judgment passages while destruction vocabulary pervades them
 - IA026: Torment vocabulary confined to Revelation's apocalyptic genre; destruction vocabulary throughout didactic NT
-- IA027: Graduated punishment principle (Luk 12:47-48) extended to eschatological punishment
+- IA027: Graduated punishment principle (Luk 12:47-48) extended to eschatological punishment *(reclassified from I-A to I-C after Study 17)*
 - IA028: God's non-desire for apollumi + non-perpetual wrath = coherent character portrait more consistent with annihilation
 
 **Neutral I-A items (3):**
@@ -316,7 +316,7 @@ The aidios / aionios distinction is confirmed by two independent authors (Paul a
 
 Event-noun pattern (Hebrews): aionios modifies completed acts with permanent results — "eternal redemption" obtained once for all (ephapax, Heb 9:12), "eternal salvation" accomplished, "eternal judgment" as irrevocable verdict. The aionios quality = permanence of outcome, not duration of ongoing process.
 
-Application: "everlasting punishment" (kolasin aionion, Mat 25:46) — the punishment word is kolasis (from kolazo = prune/curtail), not basanismos (torment). IB012 governs the duration inference (Moderate toward referent-nature). "Everlasting destruction" (olethron aionion, 2 Th 1:9) — Paul uses the destruction word with the permanent-result adjective; the result IS destruction. "Eternal fire" (pyr aiōnion, Mat 25:41) — N029 governs via the Sodom paradigm (eternal fire = ashes).
+Application: "everlasting punishment" (kolasin aionion, Mat 25:46) — the punishment word is kolasis (from kolazo = prune/curtail), not basanismos (torment). IB012 governs the duration inference (Moderate toward referent-nature). "Everlasting destruction" (olethron aionion, 2 Th 1:9) — Paul uses the destruction word with the permanent-result adjective; the result IS destruction. "Eternal fire" (pyr aiōnion, Mat 25:41) — N029 *(reclassified to IB009-resolved)* governs via the Sodom paradigm (eternal fire = ashes).
 
 ### Pattern 5: The ECT Proof-Text Pattern (etc5-09 through etc5-12)
 
@@ -375,7 +375,7 @@ No I-B item resolved toward ECT. IB004 (the one unresolved item) pertains to ont
 
 Scripture's own designated example of "eternal fire" is Sodom (Jude 1:7: "suffering the vengeance of eternal fire [puros aiōniou]"). The same author in the same letter-tradition describes the same event: "turning the cities of Sodom and Gomorrha into ashes [tephroō]" (2 Pet 2:6). "The LORD destroyed them" — Jesus confirms "the flood came, and destroyed them all" and "the fire and brimstone from heaven and destroyed them all" (Luk 17:27-29).
 
-N029 establishes: "eternal fire" denotes a fire whose result is permanent and irrevocable — not a fire that continues burning forever. This is demonstrated by the Bible's own cross-reference, not by an external framework.
+N029 *(reclassified to IB009-resolved after Study 5)* establishes: "eternal fire" denotes a fire whose result is permanent and irrevocable — not a fire that continues burning forever. This is demonstrated by the Bible's own cross-reference, not by an external framework.
 
 This paradigm appeared in five separate studies without being artificially forced. When Scripture uses the same language (eternal fire) for Sodom and for the fate of the wicked, and Scripture itself defines what Sodom's eternal fire produced (ashes, complete destruction), the definition governs subsequent uses of the same language.
 

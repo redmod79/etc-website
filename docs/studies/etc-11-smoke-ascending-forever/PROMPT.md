@@ -74,7 +74,7 @@ What does Revelation 14:9-11 mean when it says "the smoke of their torment ascen
 **Jude 1:7 and 2 Peter 2:6 — Sodom as Example of "Eternal Fire"**
 - Jude 1:7: "Even as Sodom and Gomorrha... are set forth for an example, suffering the vengeance of eternal fire."
 - 2 Pet 2:6: "And turning the cities of Sodom and Gomorrha into ashes condemned [them] with an overthrow, making [them] an ensample unto those that after should live ungodly"
-- ESTABLISHED: N029 (etc5-08): "eternal fire" = permanent result, not ongoing burning — Sodom's fire has been extinguished for millennia; the "eternal fire" destroyed them permanently.
+- ESTABLISHED: IB009-resolved (etc5-08, formerly N029, reclassified N→I-B): "eternal fire" = permanent result, not ongoing burning — Sodom's fire has been extinguished for millennia; the "eternal fire" destroyed them permanently.
 
 **Isaiah 66:24 — Corpses, Worms, Unquenching Fire**
 - Isa 66:24: "And they shall go forth, and look upon the carcases of the men that have transgressed against me: for their worm shall not die, neither shall their fire be quenched; and they shall be an abhorring unto all flesh."
@@ -138,7 +138,7 @@ The immediately prior study (etc5-10) established critical SIS connections relev
 - **E149/E150** (Rev 14:10-11 and Rev 20:10 torment language) — Reclassified **Neutral** in an earlier etc5 study. Both the ECT reading (ongoing conscious torment) and the conditionalist reading (permanent nature of destruction) must account for these passages; the passages are not self-interpreting as to duration.
 - **E182** (Isa 34:10 smoke ascending for ever) — Classified **Neutral**.
 - **IB009** (Isa 34:10 smoke formula in Rev 14:11) — **Moderate toward permanent-desolation imagery**. This I-B item was resolved in a prior etc5 study: the smoke-ascending-for-ever formula in Rev 14:11 draws on Isa 34:10's Edom imagery, which describes a desolate landscape (animals dwelling there, no humans), not ongoing conscious suffering.
-- **N029** (from etc5-08): "eternal fire = permanent result, not ongoing burning" — The Sodom precedent (Jude 1:7 + 2 Pet 2:6) shows that "eternal fire" destroyed Sodom permanently; the fire itself is extinguished. N029 is established in this series.
+- **IB009-resolved** (from etc5-08, formerly N029, reclassified N→I-B): "eternal fire = permanent result, not ongoing burning" — The Sodom precedent (Jude 1:7 + 2 Pet 2:6) shows that "eternal fire" destroyed Sodom permanently; the fire itself is extinguished. This resolution is established in this series.
 - The anapauō (G373/G372) connection: Rev 14:13 uses the same verb form (anapausōntai) as Rev 6:11, and Rev 14:11's "no rest" (anapausis) is from the same root. etc5-10 established E242 (conditionalist) on this connection.
 
 **Running totals entering etc5-11:**
@@ -248,7 +248,7 @@ You are the Research Agent. Execute this study by:
 - E150 (Rev 20:10 torment language) — Neutral
 - E182 (Isa 34:10 smoke ascending for ever) — Neutral
 - IB009 (Isa 34:10 smoke formula in Rev 14:11) — Moderate toward permanent-desolation imagery
-- N029 (eternal fire = permanent result, not ongoing burning)
+- IB009-resolved (eternal fire = permanent result, not ongoing burning; formerly N029, reclassified N→I-B)
 - E242 (Rev 6:11 and Rev 14:13 — anapausōntai, same word/form) — Conditionalist
 
 **Evidence IDs available:** E250+ (next), N042+ (next), IA023+ (next), IB014+ (next)

@@ -202,7 +202,7 @@ Destruction vocabulary for the wicked:
 
 | Master ID | Statement | Classification | Also In |
 |-----------|-----------|----------------|---------|
-| N029 | "Eternal fire" = permanent result, not ongoing process (Jude 1:7 + 2Pet 2:6 = eternal fire → ashes) | Neutral | + etc5-08 |
+| N029 | "Eternal fire" = permanent result, not ongoing process (Jude 1:7 + 2Pet 2:6 = eternal fire → ashes) | Neutral *(reclassified to IB009-resolved after Study 5)* | + etc5-08 |
 | N033 | Basanizo/basanismos and destruction vocabulary lexically separate — never in same judgment description for same subject | Neutral | + etc5-08 |
 | N034 | Duration of olam contextually determined by nature of the subject, not the word itself | Neutral | + etc5-08 |
 | N035 | NT aionios carries the semantic range of olam via LXX (100x, PMI 5.67) | Neutral | + etc5-08 |
@@ -322,7 +322,7 @@ AGAINST symmetry-governs-duration (conditionalist reading):
 | E184 | etc5-06 | + etc5-08 |
 | E185 | etc5-07 | + etc5-08 |
 | E195 | etc5-07 | + etc5-08 |
-| N029 | etc5-05, etc5-06, etc5-07 | + etc5-08 |
+| N029 *(reclassified to IB009-resolved)* | etc5-05, etc5-06, etc5-07 | + etc5-08 |
 | N033 | etc5-06 | + etc5-08 |
 | N034 | etc5-07 | + etc5-08 |
 | N035 | etc5-07 | + etc5-08 |

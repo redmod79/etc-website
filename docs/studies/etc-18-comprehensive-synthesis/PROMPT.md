@@ -255,7 +255,7 @@ The 7 ECT E-items are: E038 (2 Cor 5:8 absent/present), E039 (Phil 1:23 depart/w
 ### etc5-17: God's Character and Justice
 - Five passages state God does NOT will/take pleasure in the apollumi (destruction) or death of the wicked: Ezek 18:23,32; Ezek 33:11; 2 Pet 3:9; 1 Tim 2:4; Lam 3:33; these are classified as Conditionalist E-items because they connect God's non-desire with the apollumi/death vocabulary that describes the wicked's fate
 - God's anger is non-perpetual as a character attribute (Isa 57:16; Mic 7:18; Lam 3:33): "he will not always chide; neither will he keep his anger forever" -- these constrain ECT's requirement of perpetual active wrath; IA028 established: the pattern of non-desire + non-perpetual wrath constitutes a coherent character portrait more consistent with annihilation
-- Graduated punishment principle confirmed (Luk 12:47-48; IA027): "that servant who knew his lord's will and prepared not himself, neither did according to his will, shall be beaten with many stripes; but he that knew not, and did commit things worthy of stripes, shall be beaten with few stripes"; IB018 established (Moderate conditionalist direction): God's character evidence assessed as a whole more consistently supports conditionalism than ECT
+- Graduated punishment principle confirmed (Luk 12:47-48; IA027, reclassified from I-A to I-C): "that servant who knew his lord's will and prepared not himself, neither did according to his will, shall be beaten with many stripes; but he that knew not, and did commit things worthy of stripes, shall be beaten with few stripes"; IB018 established (Moderate conditionalist direction): God's character evidence assessed as a whole more consistently supports conditionalism than ECT
 
 ---
 

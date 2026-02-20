@@ -319,7 +319,7 @@ Revelation 19:20–20:15 records four distinct casting events into or associated
 **Inference Items Bearing on This Study:**
 - IB008 (torment language not automatically universal) — Also In: etc5-13
 - IA013 (second death as actual death — Conditionalist systematic inference) — Also In: etc5-13
-- N029 (eternal fire = permanent result) — Also In: etc5-13
+- N029 (eternal fire = permanent result; reclassified to IB009-resolved after Study 5) — Also In: etc5-13
 
 ### New Items from This Study
 - E262 (1 Cor 15:26 + Rev 20:14 sequential structure — the fulfillment) — New

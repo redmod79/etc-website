@@ -303,7 +303,7 @@
 **Key judgment uses:**
 - Mat 25:46 — "kolasin aionion" (penal infliction + age-long/permanent) vs. "zoen aionion" (life + eternal) — both A-ASF (E208); IB012 governs
 - 2 Th 1:9 — "olethron aionion" (destruction + permanent/age-long) — aionios describes the permanent character of the destruction result (E116)
-- Mat 25:41 — "pyr aiōnion" (fire + eternal/permanent) — N029 governs: eternal fire on Sodom = ashes
+- Mat 25:41 — "pyr aiōnion" (fire + eternal/permanent) — IB009-resolved (formerly N029, reclassified N→I-B) governs: eternal fire on Sodom = ashes
 
 ---
 

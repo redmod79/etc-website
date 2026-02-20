@@ -276,7 +276,7 @@
 - "Sleep with thy fathers" is an idiom for death used throughout the OT (also of kings and patriarchs).
 - The phrase implies joining those who have already died — the same state as the fathers.
 
-**Note:** This is the OT prophetic use of sleep-for-death by divine voice. It is one of many OT examples confirming N009 (death = sleep is a consistent pattern across authors and testaments).
+**Note:** This is the OT prophetic use of sleep-for-death by divine voice. It is one of many OT examples confirming N009 (death = sleep is a consistent pattern across authors and testaments) *(N009 reclassified to IA007 after Study 17)*.
 
 ---
 
@@ -368,7 +368,7 @@
 - The narrative uses both the spirit-commendation language (parallel to E049, E048 from etc5-01) and the sleep language together, without treating them as contradictory.
 - The sleep language is the author's summary of the death; the spirit-commendation is Stephen's personal act of trust at the moment of dying.
 
-**Established items:** E049 (Master E049) for the spirit commendation; sleep language is part of N009.
+**Established items:** E049 (Master E049) for the spirit commendation; sleep language is part of N009 *(reclassified to IA007 after Study 17)*.
 
 ---
 
@@ -737,7 +737,7 @@
 **Direct statement (v.52, 55):** Jesus says "she is not dead, but sleepeth"; then "her spirit came again, and she arose straightway."
 
 **Key observations:**
-- Jesus uses the sleep metaphor for her death (v.52), consistent with Jhn 11:11 and the pattern of N009.
+- Jesus uses the sleep metaphor for her death (v.52), consistent with Jhn 11:11 and the pattern of N009 *(reclassified to IA007 after Study 17)*.
 - At restoration: "her spirit [pneuma] came again" — the pneuma's return = restoration to life.
 - The crowd "laughed him to scorn, knowing that she was dead" (v.53) — her physical death was apparent to observers.
 
@@ -927,7 +927,7 @@ The sleep metaphor for death appears in:
 - NT epistle: 1 Th 4:13-15 (Paul: those who are asleep; sleep in Jesus)
 - NT epistle: 2 Pet 3:4 (fathers fell asleep)
 
-The metaphor is attested by multiple authors (Moses, Job, Daniel, Jeremiah, Jesus, Luke, Paul, Peter) across every biblical genre. From N009 (Master N009): "Death is described as sleep in Jesus' own words and in Paul's consistent teaching."
+The metaphor is attested by multiple authors (Moses, Job, Daniel, Jeremiah, Jesus, Luke, Paul, Peter) across every biblical genre. From N009 (Master N009, reclassified to IA007 after Study 17): "Death is described as sleep in Jesus' own words and in Paul's consistent teaching."
 
 The properties associated with sleep that the metaphor draws on: unconsciousness (sleep involves lack of awareness), rest, and awaiting awakening. The OT texts explicitly state what the dead do not do (think, know, praise, work — E013-E022); the sleep metaphor's properties are consistent with these explicit statements.
 

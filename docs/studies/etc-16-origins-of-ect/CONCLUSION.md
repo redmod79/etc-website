@@ -33,7 +33,7 @@ The following items are the exegetical anchor from prior studies. They are not r
 - E147: Jude 1:7 "eternal fire" on Sodom + 2 Pet 2:6 "turned to ashes" = same event
 - N027: Sheol and hades = same reality across testaments
 - N028: Gehenna and sheol/hades = distinct, describing different eschatological stages
-- N029: "Eternal fire" = permanent destructive result, not ongoing burning process
+- IB009-resolved (formerly N029, reclassified N→I-B): "Eternal fire" = permanent destructive result, not ongoing burning process *(reclassified to IB009-resolved after Study 5)*
 - IA016: The four "hell" words describe distinct realities; none inherently carries ECT semantic content
 
 **From etc5-06 (Destruction Vocabulary):**
@@ -45,7 +45,7 @@ The following items are the exegetical anchor from prior studies. They are not r
 - E209: Kolasis (G2851, "penal infliction") is NOT basanismos (G929 = torment); appears only 2 times in NT
 - E210: Paul's consistent eschatological noun is olethros (destruction), never basanismos
 - N034: Olam/aionios duration = contextually determined by the subject's nature (Hab 3:6)
-- N029 (cited again): Eternal fire = permanent result, governs aionios-modifier passages
+- IB009-resolved (formerly N029, reclassified N→I-B) *(reclassified to IB009-resolved)* (cited again): Eternal fire = permanent result, governs aionios-modifier passages
 
 **From etc5-15 (Strongest ECT Case):**
 - E149: Rev 20:10 — devil/beast/false prophet tormented "day and night for ever and ever" (Neutral, reclassified from ECT in etc5-18 audit)

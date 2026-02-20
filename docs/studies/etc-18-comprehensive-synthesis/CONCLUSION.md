@@ -14,7 +14,7 @@ Taking all the biblical evidence together from the 17 prior studies in this seri
 
 ## Summary Answer
 
-The 410 deduplicated evidence items across 17 studies distribute as follows: 128 Conditionalist E-items, 0 ECT E-items, 184 Neutral E-items, 27 Conditionalist N-items, zero ECT N-items, 25 Conditionalist I-A items, zero ECT I-A items, 3 Conditionalist I-C items, and 3 ECT I-D items. The 7 E-items previously classified as ECT were reclassified to Neutral after a systematic audit applying the methodology's own rules: grammar (what the text's grammar actually states vs. what is assumed), context (what surrounding passages and same-author writings say), and harmony (one explicit statement cannot contradict another; unclear verses must be interpreted by clear). At the highest evidence tiers (E-tier classification and N-tier inference), the conditionalist vocabulary — death, destruction, perishing — pervades both testaments across all literary genres, while torment vocabulary appears in 18 eschatological occurrences confined to Revelation's apocalyptic imagery. No E-tier item, when read with attention to grammar, context, and harmony with other explicit statements, explicitly supports the ECT position. The ECT position generates zero N-tier items for the universal claim that all human wicked experience ongoing conscious torment forever; every ECT argument assessed in Study 15 remained at the I-B (competing evidence) tier. The conditionalist position generates 27 N-tier items directly from explicit statements without adding external concepts, and 25 I-A items systematizing E/N evidence without overriding any explicit statement. All 18 I-B (competing evidence) items were resolved using the Scripture-Interprets-Scripture protocol: two resolved STRONG in the conditionalist direction, fifteen resolved Moderate either toward conditionalist or against ECT claims, and one — the ontological question of substance dualism vs. holistic dichotomy — remains unresolved. The three ECT I-D items support ECT by overriding explicit statements (E029/N005: God alone has immortality; E024/N007: the soul can die; N008: God can destroy the soul), requiring redefinition of the plain vocabulary the text uses. The weight and distribution of the evidence base as classified across 17 systematic studies is more consistent with conditionalism than with ECT.
+The 410 deduplicated evidence items across 17 studies distribute as follows: 128 Conditionalist E-items, 0 ECT E-items, 184 Neutral E-items, 27 Conditionalist N-items, zero ECT N-items, 24 Conditionalist I-A items, zero ECT I-A items, 4 Conditionalist I-C items, and 3 ECT I-D items. The 7 E-items previously classified as ECT were reclassified to Neutral after a systematic audit applying the methodology's own rules: grammar (what the text's grammar actually states vs. what is assumed), context (what surrounding passages and same-author writings say), and harmony (one explicit statement cannot contradict another; unclear verses must be interpreted by clear). At the highest evidence tiers (E-tier classification and N-tier inference), the conditionalist vocabulary — death, destruction, perishing — pervades both testaments across all literary genres, while torment vocabulary appears in 18 eschatological occurrences confined to Revelation's apocalyptic imagery. No E-tier item, when read with attention to grammar, context, and harmony with other explicit statements, explicitly supports the ECT position. The ECT position generates zero N-tier items for the universal claim that all human wicked experience ongoing conscious torment forever; every ECT argument assessed in Study 15 remained at the I-B (competing evidence) tier. The conditionalist position generates 27 N-tier items directly from explicit statements without adding external concepts, and 24 I-A items systematizing E/N evidence without overriding any explicit statement (plus 4 I-C items applying compatible external frameworks). All 18 I-B (competing evidence) items were resolved using the Scripture-Interprets-Scripture protocol: two resolved STRONG in the conditionalist direction, fifteen resolved Moderate either toward conditionalist or against ECT claims, and one — the ontological question of substance dualism vs. holistic dichotomy — remains unresolved. The three ECT I-D items support ECT by overriding explicit statements (E029/N005: God alone has immortality; E024/N007: the soul can die; N008: God can destroy the soul), requiring redefinition of the plain vocabulary the text uses. The weight and distribution of the evidence base as classified across 17 systematic studies is more consistent with conditionalism than with ECT.
 
 ---
 
@@ -52,13 +52,13 @@ The 410 deduplicated evidence items across 17 studies distribute as follows: 128
 |------|---------------|-----|----------------|-------|
 | Explicit (E) | 128 | 0 | 184 | **312** |
 | Necessary Implication (N) | 27 | 0 | 19 | **46** |
-| I-A (Evidence-Extending) | 25 | 0 | 3 | **28** |
+| I-A (Evidence-Extending) | 24 | 0 | 3 | **27** |
 | I-B (Competing-Evidence) | — | — | — | **18** |
-| I-C (Compatible External) | 3 | 0 | 0 | **3** |
+| I-C (Compatible External) | 4 | 0 | 0 | **4** |
 | I-D (Counter-Evidence External) | 0 | 3 | 0 | **3** |
 | **TOTAL** | **183+** | **3+** | **206+** | **410** |
 
-*Verification: 312 + 46 + 28 + 18 + 3 + 3 = 410*
+*Verification: 312 + 46 + 27 + 18 + 4 + 3 = 410*
 *E verification: 128 + 0 + 184 = 312*
 *N verification: 27 + 0 + 19 = 46*
 
@@ -120,7 +120,7 @@ The text states: "The devil that deceived them was cast into the lake of fire an
 **E150 — Revelation 14:10-11 → NEUTRAL**
 The text states: Beast-worshippers "shall be tormented with fire and brimstone... And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night."
 - **Grammar:** E211 (tool-confirmed Greek parsing): the nominative grammatical subject of "ascendeth" (anabainei, present active indicative, 3rd singular) is ho kapnos (THE SMOKE, N-NSM). Basanismou (torment) is genitive — "the smoke OF torment." The "for ever and ever" (eis aionas aionon) modifies the ascending of the smoke, not the consciousness of the persons.
-- **Context:** The OT source parallel (Isa 34:10, the #1 tool-confirmed parallel) uses identical language ("the smoke thereof shall go up for ever; it shall not be quenched night nor day") for Edom's destruction — which is demonstrably completed. N029 (Sodom paradigm): "eternal fire" = permanent result, not ongoing process. IB009 (STRONG): the same formula in Rev 19:3 describes permanent cessation.
+- **Context:** The OT source parallel (Isa 34:10, the #1 tool-confirmed parallel) uses identical language ("the smoke thereof shall go up for ever; it shall not be quenched night nor day") for Edom's destruction — which is demonstrably completed. N029 *(reclassified to IB009-resolved)* (Sodom paradigm): "eternal fire" = permanent result, not ongoing process. IB009 (STRONG): the same formula in Rev 19:3 describes permanent cessation.
 - **Subject class:** Beast-worshippers (a specific tribulation-era class), not "all wicked people everywhere forever." IB008 (Moderate) prevents universal extension.
 - **Reclassification basis:** The grammar itself (E211) shows the "forever" attaches to smoke ascending (aftermath imagery), not to persons being consciously tormented. The OT parallel and within-book parallel both describe completed destruction. Reading this as perpetual conscious torment requires overriding the grammar.
 
@@ -209,7 +209,7 @@ The following are among the most significant conditionalist explicit statements 
 | N003 | Tselem (image of God) is the one creation-vocabulary term applied exclusively to humans |
 | N027 | Sheol and hades are the same reality across testaments |
 | N028 | Gehenna and sheol/hades are distinct, describing different eschatological stages |
-| N029 | "Eternal fire" denotes permanent result, not ongoing burning process (established by Sodom paradigm) |
+| N029 | "Eternal fire" denotes permanent result, not ongoing burning process (established by Sodom paradigm) *(reclassified to IB009-resolved after Study 5)* |
 | N033 | Basanizo/basanismos and the destruction vocabulary are lexically non-overlapping; no NT text uses both for the same event on the same subject |
 | N034 | Duration of olam is contextually determined by the subject's nature, not by the word itself |
 | N035 | NT aionios carries olam's semantic range including contextual determination |
@@ -229,9 +229,9 @@ Zero N-items across all 17 studies support the ECT position.
 
 ## I-Tier Summary
 
-### I-A Evidence (28 items)
+### I-A Evidence (27 items)
 
-**Conditionalist I-A (25 items):**
+**Conditionalist I-A (24 items):**
 | Items | Theme |
 |-------|-------|
 | IA001-IA011 | Anthropological inferences: psychosomatic unity, mortal soul, no inherent immortality, tree-of-life reading |
@@ -241,7 +241,6 @@ Zero N-items across all 17 studies support the ECT position.
 | IA018-IA022 | Destruction vocabulary describes cessation; two vocabularies describe different outcomes; aionios is subject-dependent |
 | IA023-IA024 | GWT judgment vocabulary pattern; torment vocabulary absent from all 10 major judgment passages |
 | IA026 | Torment vocabulary confined to Revelation's apocalyptic genre; destruction vocabulary in every didactic NT passage |
-| IA027 | Graduated punishment (Luk 12:47-48) applied to eschatological punishment |
 | IA028 | God's non-desire for apollumi + non-perpetual wrath = coherent character portrait |
 
 **Neutral I-A (3 items):** IA004 (image of God as distinguishing feature), IA006 (image of God = relational/functional), IA025 (judgment passages consistently show forensic structure)
@@ -277,11 +276,12 @@ All items where genuine textual evidence exists on both sides. All 18 resolved u
 
 **Strong resolution basis — IB013:** Five #4a SIS connections within the same author/book: Rev 16:7 (altar speaks — inanimate object speech in same book); Rev 6:8 (Death/Hades as horsemen in same vision sequence); Gen 4:10 (dead Abel's blood cries — tool-verified top NT parallel for Rev 6:10, score 0.330); Rev 20:4-5 (martyrs' "living" = first resurrection, same author/book); Rev 14:13 (anapauō characterizes the blessed dead, same word as Rev 6:11). Strong criteria satisfied.
 
-### I-C Evidence (3 items — all Conditionalist)
+### I-C Evidence (4 items — all Conditionalist)
 
 - **IC001:** Subjective-time framework for Phil 1:23 / 2 Cor 5:8 — external philosophical framework compatible with conditionalism
 - **IC002:** Rev 14:11 / 14:13 literary parallelism (no rest vs. rest from labors) — does not override E/N
 - **IC003:** Peter's restricted use of tartaroo demonstrates non-endorsement of broader Greek Tartaros cosmology
+- **IA027** *(reclassified from I-A to I-C)*: The proportional punishment principle (Luk 12:47-48: many vs. few stripes) extended to eschatological final punishment — classified as I-C because applying this principle to the ECT vs. annihilation question requires the proportionality framework as a compatible external lens
 
 ### I-D Evidence (3 items — all ECT-supporting, all override E/N)
 
@@ -313,7 +313,7 @@ N034 (Hab 3:6 demonstration): olam in the same verse applies to mountains that s
 
 The Jude 1:6-7 within-letter demonstration: aidios for angels' ongoing confinement; aionios for Sodom's completed fire (= ashes, 2 Pet 2:6) — same author, same letter, consecutive verses. Paul chose aidios for God's power (Rom 1:20) and aionios for punishment language in the same epistle.
 
-Application: "Everlasting punishment" (kolasin aionion) — kolasis is from kolazo (prune/curtail), not basanismos. IB012 governs the duration inference. "Everlasting destruction" (olethron aionion, 2 Th 1:9) — the result IS destruction. "Eternal fire" (pyr aiōnion) — N029 governs via the Sodom paradigm: eternal fire = permanent result, not perpetual burning process.
+Application: "Everlasting punishment" (kolasin aionion) — kolasis is from kolazo (prune/curtail), not basanismos. IB012 governs the duration inference. "Everlasting destruction" (olethron aionion, 2 Th 1:9) — the result IS destruction. "Eternal fire" (pyr aiōnion) — N029 *(reclassified to IB009-resolved)* governs via the Sodom paradigm: eternal fire = permanent result, not perpetual burning process.
 
 ### Study Area 4: The Four ECT Proof-Texts (etc5-09 through etc5-12)
 
@@ -323,7 +323,7 @@ The four major claimed ECT proof-texts were examined in dedicated studies. Each 
 
 **Souls Under the Altar (IB013: STRONG toward personification):** Five #4a SIS connections prevent the literal-conscious-spirits reading: altar speaks (Rev 16:7), Death/Hades as horsemen (Rev 6:8), Gen 4:10 blood-crying convention (tool-verified top NT parallel), martyrs' "living" = first resurrection (Rev 20:4-5), anapauō characterizes blessed dead (Rev 14:13). E051 reclassified from ECT to Neutral.
 
-**Smoke Ascending Forever (IB009: STRONG toward permanent desolation):** Rev 19:3 applies the identical formula to Babylon ("found no more at all") within the same book by the same author. Isa 34:10 is the tool-confirmed #1 OT parallel (smoke/desolation vocabulary bridge). N029 (Sodom paradigm) independently confirms: eternal fire = permanent result.
+**Smoke Ascending Forever (IB009: STRONG toward permanent desolation):** Rev 19:3 applies the identical formula to Babylon ("found no more at all") within the same book by the same author. Isa 34:10 is the tool-confirmed #1 OT parallel (smoke/desolation vocabulary bridge). N029 *(reclassified to IB009-resolved)* (Sodom paradigm) independently confirms: eternal fire = permanent result.
 
 **Tormented Forever (IB015: Moderate toward permanent/irrevocable):** The torment formula in Rev 20:10 applies to exactly three named supernatural/symbolic entities (devil, beast, false prophet). Rev 20:15 casts human wicked into the same lake without repeating the formula. IB009's within-book demonstration prevents Strong ECT resolution from the for-ever formula.
 
@@ -397,7 +397,7 @@ I-D items represent claims that require overriding the plain meaning of explicit
 
 ### Study Area 10: The Sodom Paradigm (etc5-05, 06, 11, 13, 15)
 
-Scripture's own designated example of "eternal fire" is Sodom. Jude 1:7 states Sodom suffered "the vengeance of eternal fire [puros aiōniou]." The same author in the same letter-tradition: "turning the cities of Sodom and Gomorrha into ashes [tephroō]" (2 Pet 2:6). Jesus: fire "destroyed them all" (Luk 17:29). The fire that Jude calls "eternal" is the fire whose result was total destruction — ashes. N029 establishes: "eternal fire" denotes a fire whose result is permanent and irrevocable, not a fire that continues burning forever. This appears in five separate studies without artificial imposition. When Scripture uses the same language (eternal fire) for Sodom and for the fate of the wicked, and Scripture itself defines what Sodom's eternal fire produced (ashes, complete destruction, "destroyed them all"), the definition governs subsequent uses of the same language.
+Scripture's own designated example of "eternal fire" is Sodom. Jude 1:7 states Sodom suffered "the vengeance of eternal fire [puros aiōniou]." The same author in the same letter-tradition: "turning the cities of Sodom and Gomorrha into ashes [tephroō]" (2 Pet 2:6). Jesus: fire "destroyed them all" (Luk 17:29). The fire that Jude calls "eternal" is the fire whose result was total destruction — ashes. N029 *(reclassified to IB009-resolved after Study 5)* establishes: "eternal fire" denotes a fire whose result is permanent and irrevocable, not a fire that continues burning forever. This appears in five separate studies without artificial imposition. When Scripture uses the same language (eternal fire) for Sodom and for the fate of the wicked, and Scripture itself defines what Sodom's eternal fire produced (ashes, complete destruction, "destroyed them all"), the definition governs subsequent uses of the same language.
 
 ### Study Area 11: The Positional Tally
 
@@ -405,9 +405,9 @@ The positional tally is required by the series methodology and must account for 
 
 - E-tier: Conditionalist 128, ECT 0, Neutral 184 (Total 312)
 - N-tier: Conditionalist 27, ECT 0, Neutral 19 (Total 46)
-- I-A tier: Conditionalist 25, ECT 0, Neutral 3 (Total 28)
+- I-A tier: Conditionalist 24, ECT 0, Neutral 3 (Total 27)
 - I-B tier: 18 total (2 Strong conditionalist, 15 Moderate all against ECT or toward conditionalist, 1 Unresolved)
-- I-C tier: Conditionalist 3, ECT 0, Neutral 0 (Total 3)
+- I-C tier: Conditionalist 4, ECT 0, Neutral 0 (Total 4)
 - I-D tier: Conditionalist 0, ECT 3, Neutral 0 (Total 3)
 
 The tally is sourced from etc5-master-evidence.md and verified against PROMPT.md.

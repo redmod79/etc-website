@@ -237,7 +237,7 @@ This is the smoke-for-ever formula (εἰς τοὺς αἰῶνας τῶν α�
 **Greek notes:**
 - G5020 (tartaroō) = unique Greek verb; to cast down to Tartarus (from Tartaros = the abyss below Hades in Greek cosmology); only NT occurrence.
 - Same pattern as Jude 1:6: angels reserved UNTO judgment (εἰς κρίσιν), not yet judged.
-- 2 Pet 2:5-6 continues the argument: God spared not the old world (flood) nor Sodom/Gomorrha (ashes). The Sodom-as-ashes parallel (v.6) is the N029 conditionalist evidence.
+- 2 Pet 2:5-6 continues the argument: God spared not the old world (flood) nor Sodom/Gomorrha (ashes). The Sodom-as-ashes parallel (v.6) is the IB009-resolved (formerly N029, reclassified N→I-B) conditionalist evidence.
 
 ### Matthew 25:41 — Everlasting Fire Prepared for Devil and Angels
 

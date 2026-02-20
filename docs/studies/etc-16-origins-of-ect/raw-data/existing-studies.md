@@ -33,7 +33,7 @@ are directly relevant to this study's research scope.
    fire act are pigrê (H6297, corpses/dead bodies), not conscious persons (E141).
 
 6. **"Eternal fire" = permanent result**: Sodom's "eternal fire" (Jude 1:7) produced
-   "ashes" (2 Pet 2:6) — same event, same author (E147, N029).
+   "ashes" (2 Pet 2:6) — same event, same author (E147, N029, reclassified to IB009-resolved after Study 5).
 
 7. **Tartaroo: strictly limited** — single occurrence (2 Pet 2:4), verb form, applies
    only to fallen angels, describes pre-judgment "chains of darkness," not fire or torment

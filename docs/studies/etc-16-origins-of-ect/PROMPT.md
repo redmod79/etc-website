@@ -140,7 +140,7 @@ This is Study 16 of 18 in the ETC5 series on "The Final Fate of the Wicked." Stu
 - The verb used with gehenna is apollumi (destroy), not basanizo (torment) (E142)
 - Explicit torment language (Rev 14:10-11; Rev 20:10) appears outside all four "hell" words (E149, E150)
 - Sheol and hades are equivalent across the testaments (LXX: 58/67 occurrences, PMI 33.87) (E138, N027)
-- "Eternal fire" on Sodom = ashes (Jude 1:7 + 2 Pet 2:6) — permanent result, not ongoing process (E147, N029)
+- "Eternal fire" on Sodom = ashes (Jude 1:7 + 2 Pet 2:6) — permanent result, not ongoing process (E147, IB009-resolved (formerly N029, reclassified N→I-B))
 - Tartaroo: one occurrence, applies only to fallen angels, pre-judgment temporary state (E145, E146)
 - The four "hell" words describe different stages of the eschatological sequence and are not interchangeable (N028, IA016)
 

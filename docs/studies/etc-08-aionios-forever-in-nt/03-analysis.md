@@ -175,7 +175,7 @@ Greek parsing: prokeitai deigma puros aioniou diken hupechousai
 
 2 Peter 2:6 (same author-tradition, same event): "And turning the cities of Sodom and Gomorrha into ashes [tephra] condemned them with an overthrow, making them an ensample unto those that after should live ungodly."
 
-The fire on Sodom is called "eternal" (aionios) in Jude 1:7. The same event is described as "turning into ashes" in 2 Pet 2:6. The fire is not currently burning under Sodom's territory. The "eternal" character attaches to the permanent result, not the ongoing process (this establishes N029 from etc5-05, cited as existing in master).
+The fire on Sodom is called "eternal" (aionios) in Jude 1:7. The same event is described as "turning into ashes" in 2 Pet 2:6. The fire is not currently burning under Sodom's territory. The "eternal" character attaches to the permanent result, not the ongoing process (this establishes N029 from etc5-05, cited as existing in master; N029 reclassified to IB009-resolved after Study 5).
 
 ### 4.8 Revelation 14:6 — Everlasting Gospel (Positive, Non-Judgment)
 
@@ -441,7 +441,7 @@ Paul's explication (destruction) constrains how Mat 25:46's kolasis is read.
 
 ### 12.2 Jude 1:7 + 2Pet 2:6 → N029 → IA020
 
-Jude 1:7 calls Sodom's fire "eternal" (aionios). 2Pet 2:6 says it produced "ashes." N029 (established in etc5-05): eternal fire = permanent result, not ongoing process. IA020 (established in etc5-06): this pattern extends to "everlasting destruction" (2Th 1:9) — aionion modifies the permanence of the destruction's result. This chain connects the Sodom passage to the 2Th 1:9 passage.
+Jude 1:7 calls Sodom's fire "eternal" (aionios). 2Pet 2:6 says it produced "ashes." N029 *(reclassified to IB009-resolved after Study 5)* (established in etc5-05): eternal fire = permanent result, not ongoing process. IA020 (established in etc5-06): this pattern extends to "everlasting destruction" (2Th 1:9) — aionion modifies the permanence of the destruction's result. This chain connects the Sodom passage to the 2Th 1:9 passage.
 
 ### 12.3 Mat 25:41 → Rev 19:20 → Rev 20:10
 

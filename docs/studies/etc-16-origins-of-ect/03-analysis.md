@@ -47,7 +47,7 @@ The following master evidence items from prior etc5 studies provide the exegetic
 - **E182** — Isa 34:10 (top OT parallel for Rev 14:11, score 0.401): smoke of desolated Edom going up for ever; referent is a burning wasteland, not conscious persons.
 - **E250** — Rev 19:3 uses the identical formula as Rev 14:11 for Babylon, which is "found no more at all" (Rev 18:21); completed destruction, same author.
 - **IB009 (RESOLVED STRONG)** — The smoke-for-ever formula is a permanent-desolation idiom, not a description of ongoing conscious suffering.
-- **N029** — "Eternal fire" = permanent destructive result (from Jude 1:7 + 2 Pet 2:6 = ashes).
+- **IB009-resolved (formerly N029, reclassified N→I-B)** *(reclassified to IB009-resolved after Study 5)* — "Eternal fire" = permanent destructive result (from Jude 1:7 + 2 Pet 2:6 = ashes).
 
 ### The Everlasting Punishment Passages
 
@@ -135,7 +135,7 @@ The three-example structure of 2 Peter 2:4-9 is important for understanding the 
 - Example 2: Old world → flood → Noah saved (v.5)
 - Example 3: Sodom and Gomorrah → turned to ASHES → Lot delivered (vv.6-7)
 
-The three examples serve to illustrate divine judgment and rescue. The "eternal fire" on Sodom (Jude 1:7, same Petrine letter tradition) = ashes (E147, N029). The tartaroo applied to angels is characterized as "chains of darkness," not fire and torment. The structural placement of Sodom's ashes as the third example immediately after the angels' dark chains provides within-passage evidence that Peter's judgment vocabulary for condemned entities (supernatural and human) uses darkness/destruction language, not torment language for the final state.
+The three examples serve to illustrate divine judgment and rescue. The "eternal fire" on Sodom (Jude 1:7, same Petrine letter tradition) = ashes (E147, IB009-resolved (formerly N029, reclassified N→I-B)). The tartaroo applied to angels is characterized as "chains of darkness," not fire and torment. The structural placement of Sodom's ashes as the third example immediately after the angels' dark chains provides within-passage evidence that Peter's judgment vocabulary for condemned entities (supernatural and human) uses darkness/destruction language, not torment language for the final state.
 
 ### The Vocabulary Distribution in Paul
 
@@ -231,7 +231,7 @@ The following items are new to Study 16 (not duplicating any existing master evi
 - E288: G2851 (kolasis) derives from G2849 (kolazo = to prune/curtail/restrain) (Neutral)
 
 **New N items:**
-None. All potential N-tier observations from this study are already captured in existing items (N027, N028, N029, N033, N034, N035).
+None. All potential N-tier observations from this study are already captured in existing items (N027, N028, IB009-resolved (formerly N029, reclassified N→I-B), N033, N034, N035).
 
 **New I items:**
 - IA026: The pattern that all torment vocabulary (G929/G928, 18 total NT occurrences) is confined to Revelation while all destruction vocabulary (G622/G3639, 96 total NT occurrences) appears throughout the NT — with the torment vocabulary never appearing in the didactic Pauline epistles that systematically teach about the fate of the wicked (Conditionalist, I-A)

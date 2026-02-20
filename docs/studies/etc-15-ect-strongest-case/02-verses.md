@@ -176,7 +176,7 @@
 
 **Jude 1:7** — Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire.
 
-*Note: E147 already established. The same Sodom and Gomorrah are turned to ashes in 2 Pet 2:6. N029 established: eternal fire = permanent result, not ongoing burning process.*
+*Note: E147 already established. The same Sodom and Gomorrah are turned to ashes in 2 Pet 2:6. IB009-resolved (formerly N029, reclassified N→I-B) established: eternal fire = permanent result, not ongoing burning process.*
 
 **Hebrews 10:27** — But a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries.
 

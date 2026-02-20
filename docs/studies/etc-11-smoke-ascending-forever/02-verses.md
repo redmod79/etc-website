@@ -384,7 +384,7 @@ The phrase "for ever and ever" (eis tous aionas tōn aiōnōn or variant) appear
 - "δεῖγμα" (deigma) = "example, specimen, display" — they are a currently visible exemplar
 - "πυρὸς αἰωνίου δίκην ὑπέχουσαι" = "undergoing punishment of eternal fire" — Present Active Participle "undergoing" / "suffering" — they ARE (present tense) undergoing the punishment of eternal fire
 
-**The interpretive question for Jude 1:7:** In what sense are Sodom/Gomorrah "presently undergoing" eternal fire? The fire was long extinguished by Jude's time. The answer (established as N029 in this series from etc5-08): the "eternal fire" is the fire that brought about their permanent, irrevocable destruction. They are presently "undergoing" it in the sense that they remain in their destroyed state — the punishment is permanent (eternal in its effects). They are an ongoing example precisely because they have never been restored. The "eternal fire" is called eternal because its effects are permanent and irreversible, not because the physical fire continues burning.
+**The interpretive question for Jude 1:7:** In what sense are Sodom/Gomorrah "presently undergoing" eternal fire? The fire was long extinguished by Jude's time. The answer (established as IB009-resolved in this series from etc5-08, formerly N029, reclassified N→I-B): the "eternal fire" is the fire that brought about their permanent, irrevocable destruction. They are presently "undergoing" it in the sense that they remain in their destroyed state — the punishment is permanent (eternal in its effects). They are an ongoing example precisely because they have never been restored. The "eternal fire" is called eternal because its effects are permanent and irreversible, not because the physical fire continues burning.
 
 ### 2 Peter 2:4-8
 
@@ -401,7 +401,7 @@ The phrase "for ever and ever" (eis tous aionas tōn aiōnōn or variant) appear
 
 **The Jude 1:7 + 2 Pet 2:6 synthesis (N029):** Sodom is "suffering the vengeance of eternal fire" (Jude) because it "turned into ashes" (2 Peter). The eternal fire produced ashes — permanent, complete destruction. "Eternal fire" = fire whose results are eternal (permanent, irreversible), not fire that burns forever. This is the established N029 in this series.
 
-**Relevance to Rev 14:11:** If the OT source text (Isa 34:10, Edom) shows smoke ascending for ever followed by desolation with animals, and if the Sodom precedent (the foundational smoke/fire type) results in ashes (not ongoing burning), then the "smoke ascending for ever" formula follows the OT pattern of expressing permanent, irreversible destruction — not ongoing conscious torment.
+**Relevance to Rev 14:11:** If the OT source text (Isa 34:10, Edom) shows smoke ascending for ever followed by desolation with animals, and if the Sodom precedent (the foundational smoke/fire type) results in ashes (not ongoing burning; per IB009-resolved, formerly N029, reclassified N→I-B), then the "smoke ascending for ever" formula follows the OT pattern of expressing permanent, irreversible destruction — not ongoing conscious torment.
 
 ---
 

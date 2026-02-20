@@ -150,7 +150,7 @@ This analysis applies the ETC5 series methodology (etc5-series-methodology.md): 
 2. The Hiphil imperfect yaqitsu (they shall awake) in v.2 describes the future event. Between the current "sleeping" and the future "waking," there is no described intermediate state.
 3. Dan 12:13 is a personal divine address to Daniel: "thou shalt rest" — God himself frames Daniel's death as rest until resurrection. This is the same pattern as Deut 31:16 (God frames Moses's death as sleep).
 
-**Cross-reference:** Master E023 (Dan 12:2 — neutral), E096 (Dan 12:13 — conditionalist), N009 (death = sleep pattern).
+**Cross-reference:** Master E023 (Dan 12:2 — neutral), E096 (Dan 12:13 — conditionalist), N009 (death = sleep pattern) *(reclassified to IA007 after Study 17)*.
 
 ---
 
@@ -180,7 +180,7 @@ In every death-context use of koimao, the word describes a state from which the 
 
 ### Key observation on the vocabulary convergence:
 
-In every language register (Hebrew and Greek), in every genre (wisdom, poetry, prophecy, narrative, epistle), across every OT author who addresses the state of the dead, the vocabulary of death is vocabulary of sleep, rest, inactivity, and non-knowing. Not one death-related use of any sleep word implies ongoing consciousness. This is N009 (necessary implication): the pattern is universal across authors, testaments, and genres.
+In every language register (Hebrew and Greek), in every genre (wisdom, poetry, prophecy, narrative, epistle), across every OT author who addresses the state of the dead, the vocabulary of death is vocabulary of sleep, rest, inactivity, and non-knowing. Not one death-related use of any sleep word implies ongoing consciousness. This is N009 (necessary implication, reclassified to IA007 after Study 17): the pattern is universal across authors, testaments, and genres.
 
 ---
 
@@ -202,7 +202,7 @@ In every language register (Hebrew and Greek), in every genre (wisdom, poetry, p
 2. The disciples' misunderstanding (taking sleep literally) shows the sleep metaphor was NOT automatically understood as referring to a pleasant conscious intermediate state — it was understood as literal sleep (unconscious rest) until Jesus clarified it meant death.
 3. The pattern: sleep metaphor for death, awakening for resurrection, is explicit in John 11 with the narrator's own commentary.
 
-**Cross-reference:** Master E047 (neutral), N009.
+**Cross-reference:** Master E047 (neutral), N009 *(reclassified to IA007 after Study 17)*.
 
 ---
 

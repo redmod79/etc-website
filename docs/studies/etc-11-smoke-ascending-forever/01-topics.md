@@ -162,7 +162,7 @@ The EDOM entry does confirm that Edom's fate involved specific "Prophecies conce
 3. Babylon destroyed like Sodom (Isa 13:19; Jer 50:40) → smoke ascending for ever and ever (Rev 19:3)
 4. Beast-worshippers tormented with fire and brimstone → smoke of their torment ascending for ever (Rev 14:11)
 
-Jude 1:7 (Sodom = eternal fire) + 2 Pet 2:6 (Sodom = ashes) together define what "eternal fire" means: it consumed them to ashes permanently. The fire is eternal in its effects, not in its ongoing duration. This is N029, established in etc5-08.
+Jude 1:7 (Sodom = eternal fire) + 2 Pet 2:6 (Sodom = ashes) together define what "eternal fire" means: it consumed them to ashes permanently. The fire is eternal in its effects, not in its ongoing duration. This is N029 *(reclassified to IB009-resolved after Study 5)*, established in etc5-08.
 
 ---
 

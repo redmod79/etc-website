@@ -108,7 +108,7 @@ G2303 (theion/brimstone) in the NT appears 7 times: 6 times in Revelation (all j
 - Jude 1:7: Sodom suffered "the vengeance of eternal fire" (πυρὸς αἰωνίου)
 - 2 Pet 2:6: Sodom was "turned to ashes" (tephroō = reduced to ash)
 
-N029 (established etc5-05): eternal fire on Sodom produced ashes — the "eternal" character refers to permanent result, not ongoing burning. The brimstone signature in the lake-of-fire passages carries the Sodom type into the eschatological context.
+N029 *(reclassified to IB009-resolved after Study 5)* (established etc5-05): eternal fire on Sodom produced ashes — the "eternal" character refers to permanent result, not ongoing burning. The brimstone signature in the lake-of-fire passages carries the Sodom type into the eschatological context.
 
 Rev 20:9 (immediately before the lake passages) depicts human armies being "devoured" (κατέφαγεν — consumed/eaten up) by fire. The consumption vocabulary in v.9 distinguishes the fire's action on human armies from the torment vocabulary of v.10 for the three supernatural entities.
 
@@ -169,7 +169,7 @@ Items already in master (confirmed/updated):
 | N021 | The second death IS the lake of fire, by explicit textual identification. | E110, E113 | Conditionalist |
 | N022 | Those in the first resurrection are exempt from the second death. | E109, E111, N021 | Conditionalist |
 | N026 | Hades is a temporary holding state that receives the dead, holds them until resurrection, delivers them up, and is then destroyed. | E134, E110 | Conditionalist |
-| N029 | "Eternal fire" in biblical usage denotes a fire whose result is permanent — not a fire that continues burning forever (Sodom → ashes). | E147 | Neutral |
+| N029 | "Eternal fire" in biblical usage denotes a fire whose result is permanent — not a fire that continues burning forever (Sodom → ashes). | E147 | Neutral *(reclassified to IB009-resolved after Study 5)* |
 
 New item from this study:
 
@@ -210,7 +210,7 @@ Items already in master bearing on this study:
 
 Add "etc5-13" to the Also In field for:
 - E075, E078, E081, E083, E086, E108, E109, E110, E111, E112, E113, E120, E134, E148, E149, E180, E212
-- N019, N021, N022, N026, N029
+- N019, N021, N022, N026, N029 *(reclassified to IB009-resolved)*
 - IB008, IA013, IB009, IB015, N033
 
 ---

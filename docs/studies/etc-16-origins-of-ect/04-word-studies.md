@@ -201,7 +201,7 @@ or past and future as well)."
 - Paul used aidios for God's power (Rom 1:20) and aionios for eternal life (in the same epistle)
 - Jude used aidios for fallen angels' ongoing chains (Jude 1:6) and aionios for Sodom's completed fire (1:7)
 
-**Sodom definition test (N029):**
+**Sodom definition test (IB009-resolved (formerly N029, reclassified N→I-B)):**
 Jude 1:7 = "eternal fire" (puros aioniou); 2 Pet 2:6 = same event = "turned to ashes"
 → "Eternal fire" = permanent destructive result, not ongoing burning process
 

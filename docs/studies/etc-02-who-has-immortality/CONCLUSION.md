@@ -121,7 +121,7 @@ Items from etc5-01 are noted with their Master ID.
 
 **Step 1 — Tension (summary from prior study):**
 - FOR: Master E038 (2 Cor 5:8); Master E039 (Phil 1:23); Master E050 (Luk 23:43); Master E051 (Rev 6:9-11); Master E052 (Heb 12:23)
-- AGAINST: Master E020 (Job 14:12); Master E017 (Ecc 9:5); Master E013 (Psa 146:4); Master N009 (death = sleep); N3/Master N006 (immortality at resurrection)
+- AGAINST: Master E020 (Job 14:12); Master E017 (Ecc 9:5); Master E013 (Psa 146:4); Master N009 (death = sleep) *(reclassified to IA007 after Study 17)*; N3/Master N006 (immortality at resurrection)
 
 **Step 2 — Clarity Assessment (additions from this study):**
 

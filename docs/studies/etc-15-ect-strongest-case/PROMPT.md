@@ -106,7 +106,7 @@ The following have master IDs — cite but do not duplicate:
 | IB015 | Rev 20:10 | For-ever on active torment verb = ongoing conscious? — Moderate |
 | IB016 | Mat 25:41 | Same fire for humans as for devil? — Moderate AGAINST universal extension |
 | IB006 | Luk 16:23-31 | Parabolic genre — Moderate toward parabolic |
-| N029 | Jude 1:7; 2 Pet 2:6 | Eternal fire = ashes on Sodom |
+| IB009-resolved (formerly N029, reclassified N→I-B) | Jude 1:7; 2 Pet 2:6 | Eternal fire = ashes on Sodom |
 
 ---
 

@@ -300,7 +300,7 @@ MAT 10:28; 11:23; 16:18; LUK 10:15; 16:23; ACT 2:27,31; REV 1:18; 6:8; 20:13,14
 - **2 Th 1:9** — everlasting destruction (olethron aionion) from the presence of the Lord
 - **Mat 10:28** — destroys (apollumi) body and soul in gehenna
 - **Rom 2:12** — perish (apollumi) without law
-- **Jude 1:7** — eternal fire = ashes (Sodom — established N029)
+- **Jude 1:7** — eternal fire = ashes (Sodom — established IB009-resolved (formerly N029, reclassified N→I-B))
 
 ### Supernatural being passages:
 - **Jude 1:6** — angels in chains of darkness

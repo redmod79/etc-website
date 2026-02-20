@@ -15,7 +15,7 @@ This is study 11 of 18 in the ETC5 series "The Final Fate of the Wicked." The ce
 - E172 (G929 basanismos all 6 NT uses in Revelation — Neutral)
 - E184 (Rev 14:11 and Rev 20:10 shared vocabulary — Neutral)
 - E147 (Jude 1:7 eternal fire = Sodom; 2 Pet 2:6 same event = ashes — Neutral)
-- N029 (eternal fire = permanent result, not ongoing burning — Neutral)
+- N029 (eternal fire = permanent result, not ongoing burning — Neutral; reclassified to IB009-resolved after Study 5)
 - N034 (olam duration = contextually determined — Neutral)
 - N035 (NT aionios inherits olam semantic range — Neutral)
 - IB009 (Isa 34:10 formula in Rev 14:11 — Moderate toward desolation imagery)
@@ -216,7 +216,7 @@ G929 (basanismos, "torment") has 6 NT occurrences, ALL in Revelation (E172 estab
 Critical observations:
 1. **Rev 9:5**: The same basanismos noun used in Rev 14:11 is used in Rev 9:5 to describe a *five-month limited* judgment. The noun does not inherently carry the meaning of eternal ongoing duration.
 2. **Rev 18:7, 18:10, 18:15**: All three uses describe Babylon's judicial destruction — a completed event ("in one hour," "is come to nought"). The same noun that describes this five-minute or five-hour event also describes what is characterized as "smoke ascending for ever" in Rev 19:3.
-3. **Distributional conclusion**: The word basanismos in Revelation describes (a) a five-month limited judgment (Rev 9:5), (b) a one-hour completed judgment (Rev 18:7,10,15), and (c) the smoke formula applied both to beast-worshippers (Rev 14:11) and to Babylon (Rev 19:3). The word itself does not determine duration — the formula "for ever and ever" determines the permanence of the *result*, as N029 establishes.
+3. **Distributional conclusion**: The word basanismos in Revelation describes (a) a five-month limited judgment (Rev 9:5), (b) a one-hour completed judgment (Rev 18:7,10,15), and (c) the smoke formula applied both to beast-worshippers (Rev 14:11) and to Babylon (Rev 19:3). The word itself does not determine duration — the formula "for ever and ever" determines the permanence of the *result*, as N029 *(reclassified to IB009-resolved)* establishes.
 
 ---
 
@@ -268,7 +268,7 @@ For beast-worshippers: this is the contested case. The subject is human beast-wo
 
 ## Section 10: The Sodom / Eternal Fire / Ashes Chain
 
-N029 (established in etc5-05) is the foundation for this section. The full chain:
+N029 *(reclassified to IB009-resolved after Study 5)* (established in etc5-05) is the foundation for this section. The full chain:
 
 **Step 1 — Sodom's destruction:**
 - Gen 19:24: "the LORD rained upon Sodom and upon Gomorrah brimstone and fire from the LORD out of heaven"
@@ -278,8 +278,8 @@ N029 (established in etc5-05) is the foundation for this section. The full chain
 - Jude 1:7: Sodom and Gomorrah "are set forth for an example, suffering the vengeance of eternal fire [puros aioniou]." The Sodom cities are called an "example" of eternal fire.
 - 2 Pet 2:6: "turning the cities of Sodom and Gomorrha **into ashes** [tephrosas, G4871 = reduced to ashes] condemned them with an overthrow, making them an ensample unto those that after should live ungodly."
 
-**Step 3 — The necessary implication (N029):**
-Both passages describe the same event. Jude calls it "eternal fire." Peter calls the result "ashes." The eternal fire of Sodom has not been literally burning since Genesis — the cities are in the Dead Sea region and their fire was extinguished millennia ago. The "eternal" character of the fire refers to the permanent, irreversible result of the destruction (ashes), not to the ongoing duration of the burning process. This is N029, a plain textual observation about the same event described by the same author (Jude/2 Peter are likely from the same author tradition).
+**Step 3 — The necessary implication (N029, reclassified to IB009-resolved):**
+Both passages describe the same event. Jude calls it "eternal fire." Peter calls the result "ashes." The eternal fire of Sodom has not been literally burning since Genesis — the cities are in the Dead Sea region and their fire was extinguished millennia ago. The "eternal" character of the fire refers to the permanent, irreversible result of the destruction (ashes), not to the ongoing duration of the burning process. This is N029 *(reclassified to IB009-resolved)*, a plain textual observation about the same event described by the same author (Jude/2 Peter are likely from the same author tradition).
 
 **Step 4 — The Edom smoke chain:**
 - Isa 34:9 (brimstone — H1614, same word as Sodom): "the dust thereof into brimstone"
@@ -290,7 +290,7 @@ Both passages describe the same event. Jude calls it "eternal fire." Peter calls
 - The "fire and brimstone" of Rev 14:10 draws directly on the Sodom-type judgment vocabulary (Nave's BRIMSTONE: ALL Revelation uses = FIGURATIVE; literal anchor = Sodom)
 - The smoke-for-ever formula (Rev 14:11) draws directly on Isa 34:10 (tool-confirmed #1 OT parallel, score 0.401)
 - Rev 19:3 (Babylon's smoke for ever) draws on the same formula for a clearly completed destruction
-- The result: N029 (eternal fire = permanent result) governs the fire-and-brimstone imagery; the OT source (Isa 34:10 = wasteland, not ongoing burning) governs the smoke-formula meaning
+- The result: N029 *(reclassified to IB009-resolved)* (eternal fire = permanent result) governs the fire-and-brimstone imagery; the OT source (Isa 34:10 = wasteland, not ongoing burning) governs the smoke-formula meaning
 
 The Sodom-Edom-Babylon chain is a continuous literary typology in which the same formula (fire-and-brimstone → smoke for ever → permanent desolation) is applied to each successive judgment in an escalating series. In none of the OT instances does the formula describe ongoing conscious suffering. In each case, the aftermath is desolation without inhabitants.
 
@@ -369,7 +369,7 @@ The convergent evidence from this study points in a consistent direction:
 
 4. **The "no rest day and night" parallel (Rev 4:8)** — the identical Greek phrase describes the living creatures' unceasing worship, demonstrating that the phrase means "unceasing activity" without specifying ongoing suffering.
 
-5. **N029 (eternal fire = permanent result)** — the Bible's own self-interpretation (Jude 1:7 + 2 Pet 2:6: Sodom = eternal fire = ashes) establishes that "eternal" fire/smoke language in biblical usage denotes permanent result.
+5. **N029 (eternal fire = permanent result; reclassified to IB009-resolved after Study 5)** — the Bible's own self-interpretation (Jude 1:7 + 2 Pet 2:6: Sodom = eternal fire = ashes) establishes that "eternal" fire/smoke language in biblical usage denotes permanent result.
 
 6. **The "for ever and ever" distribution** — 11 of 12+ Revelation uses apply to God/Christ/saints whose existence is inherently endless; when applied to judgment subjects, the formula adapts to the nature of the outcome (N034).
 

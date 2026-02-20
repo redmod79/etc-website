@@ -130,22 +130,22 @@ The fire is pyr aiōnion — everlasting fire. Human sinners are sent into this 
 
 **E118 already established (Neutral):** The everlasting fire was prepared for the devil and his angels.
 **E214 already established (Neutral):** Hetoimasmenon (Perfect Passive Participle) confirms already-prepared state; tō diabolō = dative of purpose.
-**N029 already established (Neutral):** Eternal fire on Sodom = ashes (2 Pet 2:6; Jude 1:7) — demonstrating aionios fire = permanent result, not ongoing burning process.
+**IB009-resolved (formerly N029, reclassified N→I-B) already established:** Eternal fire on Sodom = ashes (2 Pet 2:6; Jude 1:7) — demonstrating aionios fire = permanent result, not ongoing burning process.
 **IB016 (Moderate, AGAINST universal extension) already established:** The inference that same-location = same-experience for humans and supernatural entities requires an inference step that the adjacent text of Rev 20:15 does not support.
 
 ### Tier Assessment
 
 The text states: (a) everlasting fire exists; (b) it was prepared for the devil and his angels; (c) humans are sent into it.
 
-The ECT argument requires two inference steps: (1) aionios fire = endless ongoing process (N029 already establishes aionios fire = ashes on Sodom — i.e., permanent result not ongoing process); (2) same fire = same experience for humans as for the devil (IB016, Moderate weight AGAINST).
+The ECT argument requires two inference steps: (1) aionios fire = endless ongoing process (IB009-resolved (formerly N029, reclassified N→I-B) already establishes aionios fire = ashes on Sodom — i.e., permanent result not ongoing process); (2) same fire = same experience for humans as for the devil (IB016, Moderate weight AGAINST).
 
 - **Not E tier for ECT:** The text states the fire is everlasting and that humans are sent into it prepared for the devil. It does not state that humans experience ongoing conscious torment in it.
-- **Not N tier for ECT:** Two inference steps are required that fail the no-interpretation-required test: the aionios qualifier requires interpretation (N029 vs. endless-process reading), and the same-location inference requires adding a concept the adjacent text withholds (E212, IB016).
+- **Not N tier for ECT:** Two inference steps are required that fail the no-interpretation-required test: the aionios qualifier requires interpretation (IB009-resolved (formerly N029, reclassified N→I-B) vs. endless-process reading), and the same-location inference requires adding a concept the adjacent text withholds (E212, IB016).
 - **I-B (competing evidence — IB016, Moderate):** The fire's connection to the devil's named fate (E149: tormented for ever; reclassified Neutral in etc5-18 audit) provides some force toward ECT for human persons who enter it; the differentiated vocabulary in the adjacent passage (E212: torment formula applied to supernatural entities, withheld from human wicked) provides the competing evidence.
 
 **The ECT argument from Mat 25:41 reaches I-B tier.** Specifically, it is IB016 (already established), Moderate weight AGAINST universal extension of torment experience to human wicked.
 
-**No new evidence items needed.** Covered by E118, E214, N029, IB016, E212.
+**No new evidence items needed.** Covered by E118, E214, IB009-resolved (formerly N029, reclassified N→I-B), IB016, E212.
 
 ---
 
@@ -319,7 +319,7 @@ The text itself provides the key contextual disambiguator: pigrê = corpses. The
 | 1. Rev 14:9-11 — human torment for ever | Human beast-worshippers explicitly tormented; smoke ascending for ever | **E-tier (E150, reclassified Neutral etc5-18) for the torment fact; I-B (IB009 Strong, IB008 Mod, IB014 Mod) for the ECT inference** | E150, IB008, IB009, IB014 |
 | 2. Rev 20:10 — tormented day and night for ever | Three named entities explicitly tormented for ever | **E-tier (E149, reclassified Neutral etc5-18) for the torment fact; I-B (IB015 Moderate) for the ECT inference for human wicked** | E149, E212, IB015 |
 | 3. Mat 25:46 — everlasting punishment (same adjective) | Kolasis aionion uses same aionios as zoe aionion | **I-B (IB012 Moderate)** | E119, E208, E209, IB012 |
-| 4. Mat 25:41 — everlasting fire for devil and angels | Humans enter fire prepared for devil; devil tormented therein | **I-B (IB016 Moderate, weight AGAINST)** | E118, E214, N029, IB016, E212 |
+| 4. Mat 25:41 — everlasting fire for devil and angels | Humans enter fire prepared for devil; devil tormented therein | **I-B (IB016 Moderate, weight AGAINST)** | E118, E214, IB009-resolved (formerly N029, reclassified N→I-B) *(reclassified to IB009-resolved)*, IB016, E212 |
 | 5. Mark 9:43-48 — worm dieth not, fire not quenched | Present-tense verbs describe ongoing conscious state | **I-B (IB009 Strong, weight toward desolation)** | E141, E144, E271, IB009, E282 (new) |
 | 6. Dan 12:2 — everlasting contempt parallel to everlasting life | Grammatical symmetry: same olam for both outcomes | **I-B (IB011 Moderate, toward referent-nature)** | E023, E193, IB011, E283 (new) |
 | 7. Luke 16:23-24 — rich man in torment | Explicit conscious torment in Hades | **E-tier (E123, reclassified Neutral etc5-18) for the torment fact; I-B (IB006 Moderate, toward parabolic) for ECT doctrine inference** | E123, IB006 |

@@ -90,7 +90,7 @@ G126 (aidios) — 2 occurrences ONLY:
 
 **Key findings from etc5-06 (destruction vocabulary study):**
 
-- **IA020**: "Everlasting destruction" (olethron aionion, 2Th 1:9) — aionion modifies the permanence of the result of destruction, not the duration of an ongoing torment process. (N029 Jude 1:7 + 2Pet 2:6 = eternal fire → ashes = permanent result, same aionion-adjective pattern.)
+- **IA020**: "Everlasting destruction" (olethron aionion, 2Th 1:9) — aionion modifies the permanence of the result of destruction, not the duration of an ongoing torment process. (IB009-resolved Jude 1:7 + 2Pet 2:6 = eternal fire → ashes = permanent result, same aionion-adjective pattern.)
 - **N033**: Basanizo/basanismos and apollumi/apoleia/olethros are lexically separate — they never appear together in the same judgment description for the same subject.
 - **E171**: LXX never uses basanizo/basanismos to translate any Hebrew destruction term.
 - **E172**: G929 (basanismos) appears only in Revelation in the NT (6 occurrences).
@@ -129,7 +129,7 @@ The following focus areas are derived from tool discoveries (Nave's, Strong's, L
    - Mrk 3:29 ("eternal damnation/sin" — krisis aionios or hamartematos aionion)
    - 2Th 1:9 ("everlasting destruction" — olethron aionion — Paul's chosen noun = olethros = ruin)
    - Heb 6:2 ("eternal judgment" — krimatos aioniou — a verdict rendered once)
-   - Jude 1:7 ("eternal fire" — puros aioniou — Sodom's fire; cf. 2Pet 2:6 = ashes, N029)
+   - Jude 1:7 ("eternal fire" — puros aioniou — Sodom's fire; cf. 2Pet 2:6 = ashes, IB009-resolved)
    - Rev 14:6 ("everlasting gospel" — euangelion aionion — non-judgment context)
 
 6. **Group C non-eschatological uses** (critical for establishing semantic range):
@@ -264,7 +264,7 @@ This study builds on the following established evidence items from the ETC5 mast
 | N033 | N | Basanizo/basanismos and destruction vocabulary are lexically separate — never in same judgment description for same subject | etc5-06 |
 | E172 | E | G929 (basanismos) occurs ONLY in Revelation (6 occurrences) in the NT | etc5-06 |
 | E171 | E | LXX never uses basanizo/basanismos to translate any Hebrew destruction term | etc5-06 |
-| N029 | N | "Eternal fire" = permanent result, not ongoing process (Jude 1:7 + 2Pet 2:6 — same event: eternal fire → ashes) | etc5-05 |
+| IB009-resolved | I-B | "Eternal fire" = permanent result, not ongoing process (Jude 1:7 + 2Pet 2:6 — same event: eternal fire → ashes; formerly N029, reclassified N→I-B) | etc5-05 |
 | E149 | E | Rev 20:10 — devil, beast, false prophet tormented day and night for ever and ever | etc5 (master) |
 | E150 | E | Rev 14:10-11 — beast-worshippers tormented; smoke ascends for ever and ever; no rest day nor night | etc5 (master) |
 | E182 | E | Isa 34:10 is the highest-scoring OT parallel for Rev 14:11 (hybrid score 0.401); describes desolated wasteland, not conscious persons | etc5-06/07 |

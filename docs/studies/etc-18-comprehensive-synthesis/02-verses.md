@@ -548,7 +548,7 @@
 ### Graduated Punishment
 
 **Luk 12:47-48** — "And that servant, which knew his lord's will, and prepared not himself, neither did according to his will, shall be beaten with many stripes. But he that knew not, and did commit things worthy of stripes, shall be beaten with few stripes. For unto whomsoever much is given, of him shall be much required."
-*Source: E311. Jesus explicitly teaches graduated punishment — severity proportional to degree of knowledge and responsibility. IA027: extended to eschatological final punishment.*
+*Source: E311. Jesus explicitly teaches graduated punishment — severity proportional to degree of knowledge and responsibility. IA027 (reclassified from I-A to I-C): extended to eschatological final punishment.*
 
 ---
 

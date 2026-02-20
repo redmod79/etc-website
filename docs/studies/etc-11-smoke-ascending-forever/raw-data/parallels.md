@@ -351,4 +351,4 @@ REV 20:10              0.315   0.52  0.20  0.00  age, burn
 REV 11:8               0.310   0.55  0.10  0.00  sodom
 ```
 
-**NOTE:** 2 Pet 2:6 is the top NT parallel for Jude 1:7 (score 0.471) — confirming the Sodom-eternal-fire = ashes connection (N029 in this series).
+**NOTE:** 2 Pet 2:6 is the top NT parallel for Jude 1:7 (score 0.471) — confirming the Sodom-eternal-fire = ashes connection (IB009-resolved in this series; formerly N029, reclassified N→I-B).

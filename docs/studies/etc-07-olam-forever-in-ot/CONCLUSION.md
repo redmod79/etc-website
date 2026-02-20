@@ -73,7 +73,7 @@ The central debate passages are those that use olam in punishment contexts:
 
 **Ps 92:7, 9** (destroyed for ever — ad-olam): "They shall be destroyed for ever [ad-olam]" combined with "thine enemies shall perish [abad]." The destruction vocabulary (shamad + abad) accompanies the olam intensifier. See existing Master E162.
 
-**Mal 4:1-3** (burning oven, ashes): "All the proud, yea, and all that do wickedly, shall be stubble... the day that cometh shall burn them up... they shall be ashes [epher] under the soles of your feet." The outcome of the "everlasting" fire is ashes — same pattern as N029 (eternal fire on Sodom = ashes). See existing Master E156, E157.
+**Mal 4:1-3** (burning oven, ashes): "All the proud, yea, and all that do wickedly, shall be stubble... the day that cometh shall burn them up... they shall be ashes [epher] under the soles of your feet." The outcome of the "everlasting" fire is ashes — same pattern as N029 (eternal fire on Sodom = ashes; N029 reclassified to IB009-resolved after Study 5). See existing Master E156, E157.
 
 **Pattern across Category B:** Every olam judgment passage describes the outcome as permanent and irreversible without using ongoing-torment vocabulary. The consistent pattern is: desolation remains permanently (Isa 34), sleep does not end (Jer 51), contempt is permanent (Dan 12:2), enemies perish (Ps 92), ashes remain (Mal 4). The "for ever" quality attaches to the result, not to an ongoing process.
 
@@ -167,7 +167,7 @@ The OT evidence yields these textual observations:
 | E19 | The objects of fire and worm in Isa 66:24 are pigrê (corpses/dead bodies), not conscious persons. Mark 9:48 quotes this text directly. | Isa 66:24 | Neutral | Existing: **E141** |
 | E20 | The devil, beast, and false prophet are "tormented day and night for ever and ever" in the lake of fire. | Rev 20:10 | Neutral | Existing: **E149** |
 | E21 | Beast-worshippers "shall be tormented with fire and brimstone... and the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night." | Rev 14:10-11 | Neutral | Existing: **E150** |
-| E22 | "Eternal fire" applied to Sodom (Jude 1:7); the same event described by the same author tradition as "turning the cities of Sodom and Gomorrha into ashes" (2 Pet 2:6). | Jude 1:7; 2 Pet 2:6 | Neutral | Existing: **N029 basis** |
+| E22 | "Eternal fire" applied to Sodom (Jude 1:7); the same event described by the same author tradition as "turning the cities of Sodom and Gomorrha into ashes" (2 Pet 2:6). | Jude 1:7; 2 Pet 2:6 | Neutral | Existing: **N029 basis** *(N029 reclassified to IB009-resolved after Study 5)* |
 
 ### Necessary Implications (N)
 
@@ -175,7 +175,7 @@ The OT evidence yields these textual observations:
 |---|-----------------------|----------|-----------------------|----------------|-----------|
 | N1 | The duration olam denotes in any given use is determined by the nature and context of the subject, not by the word itself. | E7 (Hab 3:6: same olam for scattered mountains and enduring God's ways, same verse); E3 (Exo 21:6: olam = servant's lifetime); E5 (Jon 2:6: olam = 72 hours); E6 (Isa 32:14-15: olam + "until") | The same word in Hab 3:6 applies simultaneously to mountains that are destroyed and to God's ways that endure. Both sides must acknowledge this as a textual fact. The only explanation that accounts for this use is that the word adapts to its referent's nature, not that the word itself asserts absolute endlessness. | Neutral | **N034 (new)** |
 | N2 | NT G166 (aionios, "eternal/everlasting") carries the semantic range of Hebrew H5769 (olam), including age-pertaining quality with actual duration contextually determined. | E13 (LXX bridge: H5769 → G166 100x, PMI 5.67); E195 (statistical dominance of the association) | A PMI score of 5.67 at 100 occurrences is a statistically dominant, non-accidental correspondence. Both sides must acknowledge that NT writers who used G166 had adopted the LXX's vocabulary, and that the LXX's vocabulary was developed to translate H5769 olam. The semantic range NT aionios carries is the semantic range the LXX established for it. | Neutral | **N035 (new)** |
-| N3 | "Eternal fire" in biblical usage denotes a fire whose result is permanent and irrevocable — not a fire that continues burning forever — as established by the Bible's own cross-reference. | Jude 1:7; 2 Pet 2:6 | Same author, same event: one calls it "eternal fire," the other describes the result as ashes. | Neutral | Existing: **N029** |
+| N3 | "Eternal fire" in biblical usage denotes a fire whose result is permanent and irrevocable — not a fire that continues burning forever — as established by the Bible's own cross-reference. | Jude 1:7; 2 Pet 2:6 | Same author, same event: one calls it "eternal fire," the other describes the result as ashes. | Neutral | Existing: **N029** *(reclassified to IB009-resolved after Study 5)* |
 
 ### Inferences (I)
 
@@ -258,7 +258,7 @@ The Isa 34:10 → Rev 14:11 connection is the highest-scoring OT parallel (0.401
 | E141 | Isa 66:24 corpses (pigrê) | Add: etc5-07 |
 | E182 | Isa 34:10 = OT source for Rev 14:11 (score 0.401) | Add: etc5-07 |
 | E162 | Psa 92:7,9 shamad + abad + ad-olam | Add: etc5-07 |
-| N029 | Eternal fire = permanent result per Jude 1:7 + 2 Pet 2:6 | Add: etc5-07 |
+| N029 *(reclassified to IB009-resolved)* | Eternal fire = permanent result per Jude 1:7 + 2 Pet 2:6 | Add: etc5-07 |
 | IB009 | Isa 34:10 literary formula vs. Rev 14:11 torment language | Add: etc5-07 |
 
 ---

@@ -46,7 +46,7 @@ IB009 is upgraded from Moderate to **Strong** resolution (weight toward literary
 ### New Necessary Implication (N) Items
 
 No new N items are added in this study. The key implications are already covered:
-- N029 (eternal fire = permanent result) — established in etc5-05
+- N029 (eternal fire = permanent result) *(reclassified to IB009-resolved after Study 5)* — established in etc5-05
 - N034 (olam duration contextually determined) — established in etc5-07
 - N035 (aionios inherits olam semantic range) — established in etc5-07
 
@@ -58,7 +58,7 @@ No new I-A items are added in this study. The relevant systematic conclusions ar
 
 | ID | Claim | FOR | AGAINST | Resolution |
 |----|-------|-----|---------|------------|
-| IB014 | The phrase "they have no rest day nor night" (anapausin ouk ekhousin hēmeras kai nyktos, Rev 14:11) describes either (a) ongoing perpetual conscious suffering without any intermission [ECT reading], or (b) the unceasing, all-consuming character of the judgment process that admits no respite until it is complete, consistent with how the identical phrase in Rev 4:8 describes the living creatures' continuous activity [desolation reading]. | FOR ongoing suffering: E150 (Rev 14:10-11: explicit torment language applied to beast-worshippers; "no rest day nor night" in context of "smoke of their torment"). Plain ECT statement. | AGAINST ongoing suffering / FOR judgment-process reading: E253 (Rev 4:8: same phrase, same author, same book = continuous worshipful activity, not suffering); E250 (Rev 19:3: same formula for Babylon = completed destruction); N029 (eternal-fire-to-ashes = permanent result). Also E258 (same root appears as "rest" for righteous dead in v.13 — the contrast of adjacent verses implies the "no rest" describes the nature of the judgment, as the righteous "rest" by contrast describes the nature of their outcome, not necessarily ongoing eternal activity). | **Moderate — weight toward judgment-process/permanent-destruction reading.** The Rev 4:8 SIS connection (same author, same book, identical phrase = unceasing activity without specifying ongoing conscious suffering) is a #4a SIS connection that prevents the phrase from being unambiguously read as specifying perpetual ongoing consciousness. Combined with Rev 19:3 (same formula = completed destruction), the "no rest day nor night" language is contextually resolved as characterizing the irreversible, unceasing judgment execution rather than necessarily specifying perpetual ongoing conscious experience. |
+| IB014 | The phrase "they have no rest day nor night" (anapausin ouk ekhousin hēmeras kai nyktos, Rev 14:11) describes either (a) ongoing perpetual conscious suffering without any intermission [ECT reading], or (b) the unceasing, all-consuming character of the judgment process that admits no respite until it is complete, consistent with how the identical phrase in Rev 4:8 describes the living creatures' continuous activity [desolation reading]. | FOR ongoing suffering: E150 (Rev 14:10-11: explicit torment language applied to beast-worshippers; "no rest day nor night" in context of "smoke of their torment"). Plain ECT statement. | AGAINST ongoing suffering / FOR judgment-process reading: E253 (Rev 4:8: same phrase, same author, same book = continuous worshipful activity, not suffering); E250 (Rev 19:3: same formula for Babylon = completed destruction); N029 *(reclassified to IB009-resolved)* (eternal-fire-to-ashes = permanent result). Also E258 (same root appears as "rest" for righteous dead in v.13 — the contrast of adjacent verses implies the "no rest" describes the nature of the judgment, as the righteous "rest" by contrast describes the nature of their outcome, not necessarily ongoing eternal activity). | **Moderate — weight toward judgment-process/permanent-destruction reading.** The Rev 4:8 SIS connection (same author, same book, identical phrase = unceasing activity without specifying ongoing conscious suffering) is a #4a SIS connection that prevents the phrase from being unambiguously read as specifying perpetual ongoing consciousness. Combined with Rev 19:3 (same formula = completed destruction), the "no rest day nor night" language is contextually resolved as characterizing the irreversible, unceasing judgment execution rather than necessarily specifying perpetual ongoing conscious experience. |
 
 ---
 
@@ -80,7 +80,7 @@ Within Revelation itself, the identical formula is applied to an entity that is 
 
 **FOR literary formula/desolation — Plain items entering the upgrade assessment:**
 1. Rev 19:3 (new E250): same formula, same book, completed destruction
-2. N029: eternal fire = permanent result (Jude 1:7 + 2 Pet 2:6 = ashes)
+2. N029 *(reclassified to IB009-resolved)*: eternal fire = permanent result (Jude 1:7 + 2 Pet 2:6 = ashes)
 3. E147: Sodom eternal fire = ashes (Plain textual statement by same author tradition)
 
 **FOR literary formula/desolation — Contextually Clear items:**
@@ -90,7 +90,7 @@ Within Revelation itself, the identical formula is applied to an entity that is 
 **AGAINST (ongoing torment) — at Strong assessment:**
 The primary AGAINST item is E150 (ECT: explicit torment language, smoke ascending for ever, no rest day nor night). E150 is **Plain** in stating that (a) torment occurs, (b) smoke ascends for ever and ever, (c) no rest day nor night. However, E150 is **Ambiguous as to the duration mechanism** once the Rev 19:3 within-book demonstration is applied: if the identical formula in the same book describes completed destruction, then "smoke ascending for ever and ever" cannot be read as *necessarily* implying ongoing conscious perpetual experience — it may equally describe the permanent, irrevocable result of a completed judgment.
 
-**Strong resolution criteria satisfied:** Plain items on the FOR-desolation side (Rev 19:3 same-formula/same-book demonstration; N029; E147); the primary AGAINST item (E150) reduced to Ambiguous regarding the duration-mechanism question once the within-book demonstration is applied.
+**Strong resolution criteria satisfied:** Plain items on the FOR-desolation side (Rev 19:3 same-formula/same-book demonstration; N029 *(reclassified to IB009-resolved)*; E147); the primary AGAINST item (E150) reduced to Ambiguous regarding the duration-mechanism question once the within-book demonstration is applied.
 
 **Important qualification maintained from Moderate resolution:** The torment of the beast-worshippers (basanizo) is real. Both readings acknowledge genuine divine judgment. The Strong resolution applies specifically to the *duration mechanism* of the formula — the question of whether "smoke ascending for ever and ever" means perpetual ongoing conscious experience or permanent irrevocable result of completed destruction. The Strong resolution says: the formula means permanent irrevocable result, not perpetually ongoing conscious experience.
 
@@ -115,7 +115,7 @@ The following existing items are cited in this study and their "Also In" fields 
 | E151 | Ps 37:20 wicked consume into smoke | Add etc5-11 |
 | E132 | Jer 51:39 perpetual sleep | Add etc5-11 |
 | E194 | Jer 51:57 shall not wake | Add etc5-11 |
-| N029 | Eternal fire = permanent result | Add etc5-11 |
+| N029 *(reclassified to IB009-resolved)* | Eternal fire = permanent result | Add etc5-11 |
 | N033 | Basanizo/basanismos lexically distinct from destruction vocabulary | Add etc5-11 |
 | N034 | Olam duration contextually determined | Add etc5-11 |
 | N035 | NT aionios inherits olam semantic range | Add etc5-11 |
@@ -185,7 +185,7 @@ See the "New I-B Items" section above.
 
 **Items to update:**
 1. IB009: Change resolution from Moderate to Strong; add etc5-11 to Also In
-2. E147, E149, E150, E151, E172, E180, E182, E184, E192, E211, E212, E213, E132, E194, N029, N033, N034, N035, IA020: Add "etc5-11" to Also In field
+2. E147, E149, E150, E151, E172, E180, E182, E184, E192, E211, E212, E213, E132, E194, N029 *(reclassified to IB009-resolved)*, N033, N034, N035, IA020: Add "etc5-11" to Also In field
 
 **Statistics to update:**
 - E total: 249 → 258 (Neutral: 127 → 136)

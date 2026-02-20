@@ -80,6 +80,7 @@ The following N items are directly cited or confirmed in this study. "Also In" f
 | N005 | God currently possesses immortality exclusively; no creature currently possesses it as an inherent attribute, according to 1 Tim 6:16. | E029, E054 | Conditionalist |
 | N006 | Immortality (athanasia) is something mortals acquire at the resurrection, not at death or at birth. | E031, E032, E054, E055, E064, E082 | Conditionalist |
 | N009 | Death is described as sleep in Jesus' own words and in Paul's consistent teaching across multiple epistles and in OT prophetic literature. | E047, E020, E023 | Neutral |
+> **[RECLASSIFIED]** N009 was reclassified from Neutral (N-tier) to I-A Conditionalist, subsumed by IA007, after Study 17. All prose references to N009 should be read as IA007.
 | N023 | The dead are explicitly described as lacking consciousness, thought, knowledge, praise, and participation in earthly affairs — consistently across multiple independent biblical authors. | E017, E018, E019, E013, E014, E015, E016, E022, E020, E021 | Conditionalist |
 | N024 | Job 14:13-15 frames death as a state of unconscious waiting in the grave until a future call — not as a period of continued active existence. | E094, E020 | Conditionalist |
 
@@ -466,7 +467,7 @@ E013, E014, E015, E016, E017, E018, E019, E020, E021, E022, E023, E037, E038, E0
 2. On the day of death, the dead person's thoughts perish (E013).
 3. The dead do not praise God, give thanks, declare his lovingkindness, or communicate with the living (E014, E015, E016, E022).
 4. The dead person does not know what happens among the living (E021: "he knoweth it not, he perceiveth it not").
-5. Death is described as sleep by Jesus, Paul, God (speaking of Moses), Daniel (speaking of himself), and OT authors — across every genre and both testaments (E047, E023, E096, E097, E098, E099, E100, E136, E132; N009).
+5. Death is described as sleep by Jesus, Paul, God (speaking of Moses), Daniel (speaking of himself), and OT authors — across every genre and both testaments (E047, E023, E096, E097, E098, E099, E100, E136, E132; N009, reclassified to IA007 after Study 17).
 6. The blessedness of the righteous dead is characterized as "rest from their labours" — rest, not conscious activity (E129).
 7. Between death and resurrection, the dead are "not living" (E124; N025).
 8. Hades/sheol receives all the dead, holds them until resurrection, and is itself abolished at the final judgment (E131, E134, E110; N026).
