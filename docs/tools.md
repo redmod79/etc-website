@@ -1,6 +1,17 @@
 # Research Tools & Process
 
-*This page describes the automated research system that produced the 18 studies in this series.*
+*This page describes the automated research system and investigative methodology that produced the 18 studies in this series.*
+
+---
+
+## Investigative Stance
+
+Each study is produced by an agent that functions as an **investigator, not an advocate.** This distinction governs every step of the process:
+
+- **Gather evidence from all sides.** If a passage is cited by ECT proponents, examine it honestly. If a passage is cited by conditionalists, examine it honestly.
+- **Do not assume a conclusion before examining the evidence.** The conclusion emerges FROM the evidence, not the reverse.
+- **State what the text says, not opinions about it.** The agent does not use editorial characterizations like "genuine tension," "strongest argument," or "non-intuitive reading." It states what each passage says and what each interpretive position infers from it.
+- **Never use language like "irrefutable," "obviously," or "clearly proves."** Use "the text states," "this is consistent with."
 
 ---
 
@@ -27,7 +38,7 @@ Phase 2: Research Agent
 
 Phase 3: Analysis Agent
    ↓ Reads clean research files
-   ↓ Applies interpretive principles, does verse-by-verse analysis
+   ↓ Applies the etc5 evidence classification methodology
    ↓ Writes 03-analysis.md and CONCLUSION.md
 ```
 
@@ -49,9 +60,9 @@ Each study directory contains these files, produced by the pipeline:
 | `01-topics.md` | Research Agent | Nave's Topical Bible entries with all verse references for each topic |
 | `02-verses.md` | Research Agent | Full KJV text for every verse examined, organized thematically |
 | `04-word-studies.md` | Research Agent | Strong's concordance data: Hebrew/Greek words, definitions, translation statistics, verse occurrences |
-| `raw-data/` | Research Agent | Raw tool output archived by category (Strong's lookups, parsing, parallels, etc.) |
-| `03-analysis.md` | Analysis Agent | Verse-by-verse analysis, patterns identified, connections between passages, both-sides arguments |
-| `CONCLUSION.md` | Analysis Agent | Final evidence classification (E/N/I tables), tally, "What CAN/CANNOT Be Said" |
+| `raw-data/` | Research Agent | Raw tool output archived by category (Strong's lookups, parsing, parallels, LXX mapping, verse context, etc.) |
+| `03-analysis.md` | Analysis Agent | Verse-by-verse analysis with full evidence classification applied |
+| `CONCLUSION.md` | Analysis Agent | Evidence tables (E/N/I), tally, tally summary, and "What CAN/CANNOT Be Said" |
 
 ---
 
@@ -69,6 +80,138 @@ The tools draw from these primary data sources:
 | **Textus Receptus** | Byzantine Greek text tradition | For textual variant comparison |
 | **LXX Mapping** | Septuagint translation correspondences | Hebrew-to-Greek word mappings |
 | **Sentence embeddings** | Pre-computed semantic vectors | For semantic search across all sources |
+
+---
+
+## Evidence Classification (ETC5 Methodology)
+
+The core of the ETC5 methodology is a three-tier evidence classification system that distinguishes between what Scripture directly states, what necessarily follows from it, and what positions claim it implies.
+
+### The Three Tiers
+
+**E — Explicit.** "The Bible says X." You can point to a verse that says X. A close paraphrase of the actual words of a specific verse, with no concept, framework, or interpretation added beyond what the words themselves require.
+
+**N — Necessary Implication.** "The Bible implies X." You can point to verses that, when combined, force X with no alternative. Every reader from any theological position must agree this follows — no additional reasoning is required.
+
+**I — Inference.** "A position claims the Bible teaches X." No verse explicitly states X, and no combination of verses necessarily implies X. Something must be added beyond what the text contains.
+
+**Critical rule:** Inferences cannot block explicit statements or necessary implications. If E and N items establish X, the existence of passages that *could be inferred* to teach not-X does not prevent X from being established. Those passages must be evaluated on their own terms.
+
+---
+
+### The 4-Type Inference Taxonomy
+
+Inferences are further classified on two dimensions:
+
+|  | Derived from E/N | Not derived from E/N |
+|--|--|--|
+| **Aligns with E/N** | **I-A** (Evidence-Extending) | **I-C** (Compatible External) |
+| **Conflicts with E/N** | **I-B** (Competing-Evidence) | **I-D** (Counter-Evidence External) |
+
+**I-A (Evidence-Extending):** Uses only vocabulary and concepts found in E/N statements. An inference only because it systematizes multiple E/N items into a broader claim. Strongest inference type.
+
+**I-B (Competing-Evidence):** Some E/N statements support it, but other E/N statements appear to contradict it. Genuine textual tension where both sides can cite Scripture. Requires the SIS Resolution Protocol.
+
+**I-C (Compatible External):** Reasoning from outside the text (theological tradition, philosophical framework, historical context) that does not contradict any E/N statement. Supplemental only.
+
+**I-D (Counter-Evidence External):** External concepts that require overriding, redefining, or qualifying E/N statements to be maintained. Weakest inference type — requires the text to mean something other than what it says.
+
+**Evidence hierarchy:** E > N > I-A > I-B (resolved by SIS) > I-C > I-D
+
+---
+
+### Positional Classification Rules
+
+Evidence items are classified by position (Conditionalist, ECT, or Neutral) **only when one side must deny the textual observation.** Factual observations that both sides must accept — grammatical facts, statistical observations, genre identifications, subject identifications — are classified Neutral regardless of which side cites them.
+
+**E and N items go through four validation gates before receiving a positional classification:**
+
+1. **Subject Gate.** Is the grammatical subject a literal human being? Symbolic vision-figures, allegorical parable characters, nations used typologically, and non-human spirit beings fail this gate.
+2. **Grammar Gate.** Does the original-language grammar unambiguously support the proposed positional reading? Comma placement (absent from the Greek), particles read as establishing simultaneity, and modifiers attaching to different nouns than assumed all trigger failure.
+3. **Genre Gate.** Is the passage didactic prose? Parables, apocalyptic visions, and typological narratives fail this gate. Genre clarity scale: didactic > apocalyptic > parabolic.
+4. **Harmony Gate.** Is the classification consistent with all other E-items? If a conflict exists, the SIS principle is applied — clearer passages govern the reading of less clear ones.
+
+A failed gate does not automatically mean Neutral. The corrected observation is re-entered into the vocabulary scan, which may yield a classification in the opposite direction.
+
+---
+
+### The N-Tier Stricter Test
+
+Three questions must ALL be answered YES before an item is classified N:
+
+1. **Universal agreement:** Would a scholar from the *opposite* theological position necessarily agree this follows from the cited E statements?
+2. **No interpretation required:** Is this the only possible conclusion — not a choice between two readings?
+3. **Zero added concepts:** Does this add nothing beyond what the source E items themselves contain?
+
+If any answer is NO, the item is an inference, not a necessary implication.
+
+---
+
+### Scripture-Interprets-Scripture (SIS) Protocol
+
+Cross-referencing splits into two types:
+
+**#4a — SIS with verified textual connection.** When a clear passage interprets an unclear one, and the connection is verified (shared vocabulary, OT quotation, tool-verified parallel score, or the text itself establishes the connection), this is standard hermeneutics — not an inference trigger. The connection must be documented.
+
+**#4b — Cross-referencing without verified textual connection.** When the reader must supply the link between passages, this is an inference trigger. The connection depends on the interpreter's judgment, not on the text itself.
+
+**Clarity criteria** (what makes a passage "clearer"):
+
+1. Directness of vocabulary — actual words vs. figurative language
+2. Genre — didactic > apocalyptic > parabolic
+3. Scope — universal statement > specific situation
+4. Frequency — repeated across authors/testaments > single occurrence
+5. Self-interpretation — when the text explains its own meaning
+
+---
+
+### I-B Resolution Protocol
+
+When an inference has competing textual support (I-B), a five-step SIS Resolution must be documented in the CONCLUSION:
+
+1. **Identify tension.** List E/N items FOR and AGAINST the claim.
+2. **Assess clarity.** Rate each E/N item: Plain / Contextually Clear / Ambiguous.
+3. **Count and weigh.** Plain statements outweigh Ambiguous ones (not a mere vote count).
+4. **Apply SIS.** Plain statements determine the reading of Ambiguous ones.
+5. **State resolution:** Strong (plain statements on one side, only ambiguous on the other) / Moderate (mix on dominant side) / Unresolved (substantial plain/contextually clear on both sides).
+
+---
+
+### Verification Phase
+
+After completing all evidence tables, the analysis agent runs a mandatory verification pass:
+
+- Each E item is checked: does it directly quote or closely paraphrase actual verse text? Is it what the text *says* or what a position *infers* from it?
+- Each N item is checked against all three N-tier tests. Items that fail are moved to Inferences.
+- Each I item is checked with the source test (derived vs. external) and direction test (aligns vs. conflicts).
+- Every I-A is checked: does it require only criterion #5 (systematizing)?
+- Every I-B is checked: does it have E/N items on both sides?
+- Every I-D is checked: does it override at least one E/N statement?
+- Every #4a SIS connection is documented with shared vocabulary, OT quotation, or tool-verified parallel.
+
+---
+
+### Tally Summary Format
+
+Each CONCLUSION.md ends with:
+
+```
+- Explicit statements: [count]
+- Necessary implications: [count]
+- Inferences: [count]
+  - I-A (Evidence-Extending): [count]
+  - I-B (Competing-Evidence): [count] ([N] resolved, [M] unresolved)
+  - I-C (Compatible External): [count]
+  - I-D (Counter-Evidence External): [count]
+```
+
+Followed by **What CAN Be Said** (drawn from E and N tables) and **What CANNOT Be Said** (things neither side can claim the text directly states or necessarily implies).
+
+---
+
+### Deduplication in Study 18
+
+The final synthesis study (18) reads a master evidence file (`etc5-master-evidence.md`) that is updated incrementally as each prior study completes. Before computing the positional tally, all E/N/I items are deduplicated: two items are duplicates if they cite the same verse AND make the same observation. Items citing the same verse but making different observations are not duplicates. Both raw and deduplicated counts are reported.
 
 ---
 
@@ -117,7 +260,7 @@ For every verse studied, the tool is run in BOTH directions (`--hybrid-ot` and `
 
 - **Input:** A verse reference (e.g., "REV 14:11")
 - **Output:** Ranked list of parallel passages with composite scores
-- **Used by:** Research agent to discover cross-references and OT/NT connections (e.g., discovering that Rev 14:11's "smoke ascending" language draws from Isaiah 34:10)
+- **Used by:** Research agent to discover cross-references and OT/NT connections
 
 ---
 
@@ -158,7 +301,7 @@ Parses the Hebrew Bible (BHSA via Text-Fabric) with full morphological analysis.
     - `--construct "Gen 6:2"` -- Analyze construct chains (e.g., "sons of God")
     - `--lemma "מלאך"` -- Find every occurrence of a Hebrew lemma
     - `--search "sp=verb vs=qal vt=perf"` -- Search by grammatical features
-- **Used by:** Research agent for Hebrew word studies and grammar analysis
+- **Used by:** Research agent for Hebrew word studies and grammar analysis; Grammar Gate validation
 
 ---
 
@@ -173,7 +316,7 @@ Parses the Greek New Testament (N1904 via Text-Fabric) with full morphological a
     - `--clause "ROM 8:28"` -- Clause structure analysis
     - `--lemma "πιστεύω"` -- Find every occurrence of a Greek lemma
     - `--search "mood=participle"` -- Search by grammatical features
-- **Used by:** Research agent for Greek word studies and grammar analysis
+- **Used by:** Research agent for Greek word studies and grammar analysis; Grammar Gate validation
 
 #### greek_text_compare.py -- Textual Variant Comparison
 
@@ -236,7 +379,7 @@ Semantic search across 10 Hebrew and Greek grammar textbooks.
 - **Hebrew grammars:** BDB (Brown-Driver-Briggs), Futato, BHSG (Basics of Biblical Hebrew Student Grammar), GKC (Gesenius-Kautzsch-Cowley), Waltke-O'Connor
 - **Greek grammars:** Duff, Hudson, Machen, BDF (Blass-Debrunner-Funk), Wallace
 - **Options:** `--hebrew` or `--greek` to filter; `--book gkc` for a specific textbook
-- **Used by:** Research agent to verify grammar claims against standard reference works
+- **Used by:** Research agent to verify grammar claims against standard reference works; Grammar Gate validation
 
 ---
 
@@ -262,11 +405,11 @@ Regenerates the master study index (`INDEX.md`) and semantic search embeddings a
 
 The analysis agent follows these principles when drawing conclusions from the gathered data:
 
-1. **Scripture interprets Scripture.** Don't impose external meaning. Find how the Bible itself uses terms and concepts.
-2. **Answers must be consistent with ALL verses analyzed.** If verses seem to contradict, dig deeper into original language and context.
-3. **Context determines meaning.** Analyze words and phrases using expanding circles: verse > paragraph > chapter > book > same author > whole Bible. Context must match before assuming same meaning across passages.
+1. **Scripture interprets Scripture.** Clear passages determine the reading of unclear ones — when the connection between passages is verified by shared vocabulary, OT quotation, or tool-verified parallel score. Using clear passages to interpret unclear ones is standard hermeneutics, not an inference.
+2. **The plain meaning of words is explicit.** "Only" means only. "Became" means is. "Know not any thing" means lack knowledge. These are not separate conclusions — they are what the verses say. Do not classify the plain meaning of words as inference.
+3. **Context determines meaning.** Analyze words and phrases using expanding circles: verse > paragraph > chapter > book > same author > whole Bible. Context must match before assuming the same meaning across passages.
 4. **Scripture is the only authority for doctrine.** Church fathers, ancient Jewish sources, and denominational traditions are not authoritative. The question is always: "What does the Bible say?"
-5. **Go deeper when needed.** If initial research doesn't fully answer the question, search for related topics, look up Strong's words, and follow cross-references.
+5. **The counter-claim to an explicit statement is often the real inference.** If the text says "the dead know not any thing," the necessary implication is "the dead lack awareness." The inference is "these texts are limited to an earthly perspective" — which applies a qualifier the text does not state.
 
 ---
 
