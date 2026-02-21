@@ -1,325 +1,295 @@
-# Bible Study: What Does "Death" Mean in the Bible?
-
-## Question
-
-What does "death" mean in the Bible? Is death cessation of existence, separation of soul from body, or separation from God? What Hebrew and Greek words are translated "death"? What is the origin of death? Is death reversible? What is the "second death"?
-
----
-
-## Discovered Scope
-
-### Topics Found (from naves_semantic.py)
-
-#### Query: "death biblical meaning Hebrew Greek origin"
-
-| Topic | Score | Key Verse References |
-|-------|-------|---------------------|
-| DEATH | 0.37 | GEN 2:17; GEN 3:19; DEU 31:16; JOB 14:14; PSA 6:5; PSA 115:17; PSA 146:4; ECC 9:5,6,10; ECC 12:7; ISA 25:8; ISA 38:18,19; JHN 11:11; ROM 5:12,14; 1CO 15:21,22,26,55; HEB 2:14,15; HEB 9:27; REV 20:14; REV 21:4 |
-
-#### Query: "sleep resurrection dead unconscious"
-
-| Topic | Score | Key Verse References |
-|-------|-------|---------------------|
-| RESURRECTION | 0.64 | JOB 14:12-15; PSA 16:9,10; ISA 25:8; ISA 26:19; EZK 37:1-14; DAN 12:2,3,13; HOS 13:14; MAT 22:23-32; JHN 5:21,25,28,29; 1CO 15:12-57; 1TH 4:14,16; REV 20:4-6,13 |
-| DEAD (PEOPLE) | 0.47 | 1KI 17:17-23; 2KI 4:32-37; JHN 11:38-44; HEB 11:35 |
-| SECOND DEATH | 0.45 | REV 20:14 |
-| SLEEP | 0.41 | JOB 14:12; MAT 9:24; MRK 5:39; LUK 8:52; JHN 11:11,12; 1TH 4:14 |
-| DEATH | 0.42 | (see full entry below) |
-
----
-
-### Verse References (from Nave's DEATH entry — full entry)
-
-#### Death: Names and Descriptions
-
-- Giving up the ghost: GEN 25:8; GEN 35:29; LAM 1:19; ACT 5:10
-- King of Terrors: JOB 18:14
-- A Change: JOB 14:14
-- Going to thy fathers: GEN 15:15; GEN 25:8; GEN 35:29
-- Putting off this tabernacle: 2PE 1:14
-- Requiring the soul: LUK 12:20
-- Going the way whence there is no return: JOB 16:22
-- Being gathered to our people: GEN 49:33
-- Going down into silence: PSA 115:17
-- Returning to dust: GEN 3:19; PSA 104:29
-- Being cut down: JOB 14:2
-- Fleeing as a shadow: JOB 14:2
-- Departing: PHP 2:23
-
-#### Death Called Sleep
-
-DEU 31:16; JOB 7:21; JOB 14:12; JER 51:39; DAN 12:2; JHN 11:11; ACT 7:60; ACT 13:36; 1CO 15:6,18,51; 1TH 4:14,15
-
-#### Exemption from Death
-
-- Enoch: GEN 5:24; HEB 11:5
-- Elijah: 2KI 2
-- Promised to saints at second coming: 1CO 15:51; 1TH 4:15,17
-- No death in heaven: LUK 20:36; REV 21:4
-
-#### Death as a Judgment
-
-GEN 6:7,11-13; GEN 19:12,13,24,25; 1CH 10:13,14
-
-#### Unclassified Scriptures on Death
-
-GEN 2:17; GEN 3:19; GEN 27:2; DEU 32:39; JOS 23:14; 1SA 2:6; 2SA 1:23; 2SA 14:14; JOB 1:21; JOB 3:13,17-19; JOB 7:1,8-10,21; JOB 10:21,22; JOB 14:2,5-12,14,19-21; JOB 16:22; JOB 17:13,14,16; JOB 21:23,25,26,32,33; JOB 30:23; JOB 34:14,15; JOB 36:18,19; JOB 38:17; PSA 6:5; PSA 23:4; PSA 30:9; PSA 39:4,13; PSA 49:7,9; PSA 68:20; PSA 82:7; PSA 88:9-14; PSA 89:48; PSA 90:3; PSA 103:14-16; PSA 104:29; PSA 115:17; PSA 143:3; PSA 144:4; PSA 146:4; ECC 2:14-18; ECC 3:2,19-21; ECC 4:2; ECC 5:15; ECC 6:6,10; ECC 7:1,2,15; ECC 8:8; ECC 9:3,5,6,10; ECC 12:5,7; ISA 25:8; ISA 38:1,10-13,18; ISA 40:7; ISA 51:12; JER 9:21; HOS 13:14; ZEC 1:5; MAT 10:28; LUK 20:34-38; LUK 23:39-43; JHN 9:4; ROM 5:12,14; 1CO 15:21,22,26,55-57; 1TI 6:7; 2TI 1:10; HEB 2:14,15; HEB 9:27; HEB 13:14; JAS 1:10,11; 1PE 1:24; REV 1:18; REV 20:12-14; REV 21:4
-
-#### Death: Preparation For
-
-DEU 32:29; 2KI 20:1; PSA 39:4,13; PSA 90:12; ECC 9:4,10; ECC 11:7,8; ISA 38:18,19; LUK 12:35-37; JHN 9:4; ROM 14:8; PHP 1:21; HEB 13:14; JAS 4:15; 1PE 1:17
-
-#### Death of the Righteous
-
-NUM 23:10; 2SA 12:23; 2KI 22:19,20; PSA 23:4; PSA 31:5; PSA 37:37; PSA 49:15; PSA 73:24; PSA 116:15; PRO 14:32; ECC 7:1; ISA 57:1,2; DAN 12:13; LUK 2:29; LUK 16:22; LUK 23:43; JHN 11:11; ACT 7:59; ROM 14:7,8; 1CO 3:21-23; 1CO 15:51-57; 2CO 1:9,10; 2CO 5:1,4,8; PHP 1:20,21,23,24; 1TH 4:13,14; 1TH 5:9,10; 2TI 4:6-8; HEB 2:14,15; HEB 11:13; 2PE 1:11,14; REV 14:13
-
-#### Death of the Wicked
-
-NUM 16:30; 1SA 25:38; 2CH 21:6,20; JOB 4:21; JOB 18:14,18; JOB 20:4,5,8,11; JOB 21:13,17,18,23-26; JOB 24:20,24; JOB 27:8,19-23; JOB 34:20; JOB 36:12,14,18,20; PSA 37:1,2,9,10,35,36; PSA 49:7,9,10,14,17,19,20; PSA 55:23; PSA 58:9; PSA 73:3,4,17-20; PSA 78:50; PSA 92:7; PRO 2:22; PRO 5:22,23; PRO 10:25,27; PRO 11:7,10; PRO 13:9; PRO 14:32; PRO 21:16; PRO 24:20; PRO 29:1,16; ECC 8:10; ISA 14:11,15; ISA 17:14; ISA 26:14; JER 16:3,4; EZK 28:8,10; AMO 9:10; LUK 12:20; LUK 16:22-28; ACT 5:3-10; 1TH 5:3
-
-#### Spiritual Death
-
-LUK 1:79; JHN 5:24-26; JHN 6:50,51,53; JHN 11:26; ROM 5:12,15; ROM 7:11; ROM 8:5,6,12,13; 2CO 5:14; EPH 2:1,5,6; EPH 4:18; EPH 5:14; COL 2:13; 1TI 5:6; 1PE 2:24; 1JN 5:12
-
-#### Second Death
-
-PRO 14:12; EZK 18:4,10,13,21,23,24; EZK 33:8,9,11,14-16; MAT 7:13; MAT 10:28; MAT 25:30,41,46; MRK 9:43,44; ROM 1:32; ROM 6:16,21,23; ROM 8:13; ROM 9:22; 2TH 1:9; JAS 1:15; JAS 4:12; 2PE 2:12; REV 2:11; REV 19:20; REV 20:14; REV 21:8
-
-#### Death: Figurative of Regeneration
-
-ROM 6:2-11; ROM 7:1-10; ROM 8:10,11; COL 2:20
-
-#### Death: Apostrophe To
-
-HOS 13:14; 1CO 15:55
-
-#### Sleep as Symbol of Death (from SLEEP entry)
-
-JOB 14:12; MAT 9:24; MRK 5:39; LUK 8:52; JHN 11:11,12; 1TH 4:14
-
-#### Resurrection (from RESURRECTION entry)
-
-JOB 14:12-15; JOB 19:25-27; PSA 16:9,10; PSA 17:15; PSA 49:15; ISA 25:8; ISA 26:19; EZK 37:1-14; DAN 12:2,3,13; HOS 13:14; MAT 22:23-32; MAT 24:31; MAT 27:52,53; MRK 12:18-27; LUK 14:14; LUK 20:27-38; JHN 5:21,25,28,29; JHN 6:39,40,44,54; JHN 11:23-25; JHN 14:19; ACT 2:26-31; ACT 4:1,2; ROM 4:16-21; ROM 8:10,11,19,21-23; 1CO 6:14; 1CO 15:12-57; 2CO 4:14; 2CO 5:1-5; PHP 3:10,11,21; 1TH 4:14,16; 2TI 1:10; HEB 6:2; HEB 11:19,35; REV 1:18; REV 20:4-6,13
-
----
-
-### Strong's Numbers Found (from semantic_strongs.py)
-
-#### Core Death Vocabulary
-
-| Strong's | Word | Transliteration | Relevance |
-|----------|------|-----------------|-----------|
-| H4194 | מָוֶת | maveth | Primary OT noun for death; "death, the dead, their place or state (hades)"; used 120x+ |
-| H4191 | מוּת | muwth | Primary OT verb "to die"; causatively "to kill"; 232x+ occurrences |
-| H4193 | מוֹת | mowth | Aramaic equivalent of H4194; "death" (Dan) |
-| H4463 | מָמוֹת | mamowth | "A mortal disease; concretely, a corpse — death" |
-| H8546 | תְּמוּתָה | temuwthah | "Execution (as a doom) — death, die" |
-| G2288 | θάνατος | thanatos | Primary NT noun for death; 120x in NT; "death (literally or figuratively)" |
-| G599 | ἀποθνήσκω | apothnesko | Primary NT verb "to die off (literally or figuratively)"; 111x |
-| G2289 | θανατόω | thanatoo | "To kill; become dead; cause to be put to death"; verb from G2288 |
-| G3500 | νέκρωσις | nekrosis | "Decease; figuratively, impotency — deadness, dying"; 2x |
-| G3498 | νεκρός | nekros | "Dead (literally or figuratively)"; used 132x in NT |
-| G5054 | τελευτή | teleute | "Decease — death"; 1x |
-| G5053 | τελευτάω | teleutao | "To finish life — die, dead, let him die, was dead" |
-| G1935 | ἐπιθανάτιος | epithanatios | "Doomed to death — appointed to death"; 1x |
-| G684 | ἀπώλεια | apoleia | "Ruin or loss (physical, spiritual or eternal) — perdition, destruction, waste, perish"; key word for final destruction |
-| G622 | ἀπόλλυμι | apollymi | "To destroy fully — destroy, perish, lose"; key word in Matt 10:28 ("destroy" both soul and body) |
-| G336 | ἀναίρεσις | anairesis | "(The act of) killing — death"; 2x |
-
-#### Sleep as Death Metaphor
-
-| Strong's | Word | Transliteration | Relevance |
-|----------|------|-----------------|-----------|
-| G2837 | κοιμάω | koimao | "To put to sleep; passively/reflexively to slumber; figuratively to decease"; primary NT word for "sleep as death"; 18x |
-| G2518 | καθεύδω | katheudo | "To lie down to rest; figuratively to die"; 22x |
-| G879 | ἀφυπνόω | aphypnoo | "To become awake; by analogy to drop off in sleep — fell asleep"; 1x |
-| G5258 | ὕπνος | hupnos | "Sleep, i.e. (figuratively) spiritual torpor"; 6x |
-| H5123 | נוּם | nuwm | Hebrew "to slumber (from drowsiness) — sleep, slumber" |
-
-#### Soul, Spirit, and Breath
-
-| Strong's | Word | Transliteration | Relevance |
-|----------|------|-----------------|-----------|
-| H5315 | נֶפֶשׁ | nephesh | "A breathing creature; animal or (abstractly) vitality; life, soul, self"; used 754x; central to the nature of death |
-| H7307 | רוּחַ | ruach | "Wind; breath; spirit"; used 377x; "spirit returns to God" (Ecc 12:7) |
-| H5397 | נְשָׁמָה | neshamah | "A puff, wind, vital breath, divine inspiration"; breath of life in Gen 2:7 |
-| G5590 | ψυχή | psyche | NT equivalent of nephesh; "breath, spirit, soul, life"; 103x |
-| G4151 | πνεῦμα | pneuma | NT equivalent of ruach; "breath, spirit"; 385x |
-
-#### Destruction and Final Death
-
-| Strong's | Word | Transliteration | Relevance |
-|----------|------|-----------------|-----------|
-| G684 | ἀπώλεια | apoleia | "Perdition, destruction, ruin" — used for final fate of wicked |
-| H11 | אֲבַדּוֹן | abaddon | "A perishing; Hades — destruction"; name of the realm of destruction |
-| H13/H12 | אׇבְדַן / אַבְדָן | obdan/abdan | "A perishing — destruction" |
-
-#### Immortality / Life Words (context from etc5-01 and etc5-02)
-
-| Strong's | Word | Transliteration | Relevance |
-|----------|------|-----------------|-----------|
-| G110 | ἀθανασία | athanasia | "Immortality" — God alone has this (1 Tim 6:16); mortals must "put on" at resurrection (1 Cor 15:53-54) |
-| G861 | ἀφθαρσία | aphtharsia | "Incorruption, immortality" — humans seek this (Rom 2:7); Christ brought it to light (2 Tim 1:10) |
-| G862 | ἄφθαρτος | aphthartos | "Incorruptible" — applied to God in NT doxologies; applied to the resurrection body |
-| G2222 | ζωή | zoe | "Life (literally or figuratively)"; eternal life as the gift contrasted with death |
-
----
-
-### Related Existing Studies
-
-| Study | Question | Relevance |
-|-------|----------|-----------|
-| etc5-01-what-is-man | What is a human being? Body, soul, spirit — separate substances or aspects of one unity? Is the soul immortal? | Foundational: established that man "became" a nephesh (Gen 2:7); that soul/nephesh can die (Ezk 18:4; Rev 16:3); that death reverses creation; that death = sleep (N9); that God alone has immortality |
-| etc5-02-who-has-immortality | Who possesses immortality according to Scripture? When and how does a human receive it? | Foundational: established the vocabulary distribution (athanasia/aphtharsia never applied to present human state); immortality is received at resurrection not at death; the deathless state is post-resurrection (Luk 20:36); "life in himself" is a divine attribute |
-
-#### Key Findings from Prior etc5 Studies (for context)
-
-**From etc5-01-what-is-man:**
-
-- Man was formed from dust + breath of God and *became* (hayah) a living nephesh — he did not receive a pre-existing soul (Gen 2:7; E1, E53, N1). Death reverses this: dust returns to earth, spirit returns to God (Ecc 12:7; N4).
-- The soul (nephesh/psyche) can die — it is the grammatical subject of dying in Ezk 18:4 (E24, N7). "Every living soul died" (Rev 16:3; E28).
-- God alone currently possesses immortality (athanasia, G110) — 1 Tim 6:16 uses the unqualified *monos* (alone/only) (E29, N5).
-- Death is consistently called "sleep" across both testaments by Moses, Job, Daniel, Jesus, and Paul (N9). The metaphor implies unconsciousness and awakening at resurrection.
-- Multiple authors state the dead lack consciousness: thoughts perish (Psa 146:4), the dead know nothing (Ecc 9:5), no work/knowledge/praise in the grave (Ecc 9:10; Psa 115:17; Isa 38:18-19) (E13-E22, I5).
-- The question of the conscious intermediate state (Phil 1:23; 2 Cor 5:8 vs. Ecc 9:5; Job 14:12) was classified I-B Unresolved, with plain statements on both sides. This study may need to address these passages again.
-
-**From etc5-02-who-has-immortality:**
-
-- The three NT immortality-positive words (G110, G861, G862) are never applied to any present human being in any NT text (N13, N16).
-- The deathless state ("cannot die any more") is explicitly post-resurrection in Jesus's own teaching (Luk 20:35-36; E82, N3).
-- Death is the universal human appointment (Heb 9:27) and the consequence of Adam's sin passing to all (Rom 5:12) (E069, N18).
-- Death is "the last enemy" — currently active, its final destruction is eschatological at the resurrection (1 Cor 15:26; E083, N19).
-- Man in the fallen state did not possess inherent immortality; the tree of life was the external source God blocked (Gen 3:22-24; N15).
-- Wages of sin = death; gift of God = eternal life (Rom 6:23; E072). Death and life are opposite outcomes, not two modes of eternal existence.
-- Two I-B items remain Unresolved from etc5-01 and confirmed Unresolved after etc5-02: (IB001) the conscious intermediate state; (IB005) "spirit returns to God" as conscious personal entity.
-
----
-
-### Focus Areas
-
-Derived from the Nave's DEATH entry structure and tool discoveries:
-
-1. **The origin of death** — Gen 2:17 (God's warning); Gen 3:4 (serpent's contradiction); Rom 5:12-21 (Adam's sin brought death to all); 1 Cor 15:21-22. The sin-death causal chain appearing across five books.
-
-2. **The Hebrew and Greek vocabulary of death** — H4194 (maveth), H4191 (muwth), G2288 (thanatos), G599 (apothnesko), G622 (apollymi), G684 (apoleia). How each word is used; what senses it covers; whether "death" means the same thing in all contexts.
-
-3. **Three senses of death in Scripture** — (a) physical death (cessation of biological life): Gen 3:19; Ecc 12:7; Psa 146:4; (b) spiritual death (alienation from God while alive): Eph 2:1; Col 2:13; 1 Tim 5:6; Rom 8:6; Jhn 5:24; (c) second death (final, irreversible fate): Rev 20:14; Rev 21:8. Whether these are three aspects of one reality or three distinct things.
-
-4. **Death as the reversal of creation** — Gen 2:7 (dust + breath = living soul); Gen 3:19; Ecc 12:7; Psa 104:29; Job 34:14-15. The creation formula and the death formula.
-
-5. **Death called "sleep"** — DEU 31:16; JOB 7:21; JOB 14:12; JER 51:39; DAN 12:2; JHN 11:11 (Jesus explicitly equates it with death); ACT 7:60; 1CO 15:6,18,51; 1TH 4:14,15. G2837 (koimao) as the primary NT sleep-as-death word. What the metaphor implies about consciousness.
-
-6. **The nature of death: cessation vs. separation** — The Nave's DEATH entry under "Spiritual" and "Second Death" raises the question of whether death = separation from God (a relational concept) rather than cessation of existence. Key texts: Eph 2:1 (dead in trespasses while alive); 1 Tim 5:6 (dead while she liveth); Jhn 5:24 (passed from death to life); Rom 8:6 (carnally minded is death).
-
-7. **Reversibility of death** — First death: reversed by resurrection (Dan 12:2; Jhn 5:28-29; 1 Cor 15:51-57; 1 Th 4:16-17). Miracles of raising the dead (1 Ki 17:21-22; Luk 8:55; Jhn 11:43-44). Second death: irreversible (Rev 20:6 — the second death has no power over the resurrected; Rev 20:14 — death and hades cast into the lake; Rev 21:4 — no more death).
-
-8. **The "second death"** — Nave's entry: PRO 14:12; EZK 18:4,10,13,21,23,24; MAT 7:13; MAT 10:28; MRK 9:43,44; REV 2:11; REV 19:20; REV 20:14; REV 21:8. Whether it is actual death/destruction or eternal conscious torment (this intersects with I-D items from etc5-01 and etc5-02 regarding inherent immortality).
-
-9. **Death as enemy** — 1 Cor 15:26 (last enemy to be destroyed); Heb 2:14-15 (Christ destroys the one who holds power of death); Isa 25:8 (God will swallow up death in victory); Hos 13:14; Rev 20:14; Rev 21:4. Death as hostile intrusion, not divine design.
-
-10. **Death's "hold" on the wicked and the righteous** — Nave's subcategories: Death of the Righteous (PSA 23:4; PSA 116:15; DAN 12:13; LUK 23:43; PHI 1:23); Death of the Wicked (ISA 26:14; REV 20:14; 2TH 1:9). The question of whether the wicked "die again" in the second death or continue to live in torment.
-
-11. **Key I-B items carried forward from etc5-01 and etc5-02** — IB001 (conscious intermediate state for the righteous — Unresolved); IB005 ("spirit returns to God" as conscious person — Moderate toward life-force reading). This study should address these using the expanded death vocabulary and context.
-
----
-
-## Research Instructions
-
-You are the Research Agent for etc5-03-biblical-death. Execute this study by:
-
-1. Read the SKILL.md at `C:/Users/Michael/.claude/skills/bible-study2/SKILL.md` for full tool documentation and principles.
-2. Read your agent instructions at `C:/Users/Michael/.claude/skills/bible-study2/agents/research-agent.md`.
-3. Follow the **answer-question** workflow.
-4. Write research files to `D:/bible/bible-studies/etc5-03-biblical-death/`:
-   - `01-topics.md` — Nave's DEATH entry (full), SLEEP, SECOND DEATH, RESURRECTION, and SPIRITUAL DEATH subtopics
-   - `02-verses.md` — All verse texts for the key focus areas above, retrieved from `D:/bible/tools/data/kjv.txt`
-   - `04-word-studies.md` — Strong's research on H4194 (maveth), H4191 (muwth), G2288 (thanatos), G599 (apothnesko), G622 (apollymi), G684 (apoleia), G2837 (koimao), and related words
-   - `raw-data/` — Raw tool output organized by category
-5. Do NOT write `03-analysis.md` or `CONCLUSION.md` — those are for the analysis agent.
-
-### Priority Verse Sets to Retrieve
-
-**Origin of death:**
-GEN 2:17; GEN 3:4; GEN 3:19; ROM 5:12-21; 1CO 15:21-22; JAS 1:15; ROM 6:23
-
-**Definition — physical death:**
-GEN 2:7; GEN 3:19; ECC 12:7; PSA 104:29; PSA 146:4; ECC 9:5-6,10; JOB 34:14-15; ECC 3:19-21
-
-**Definition — sleep metaphor:**
-DEU 31:16; JOB 7:21; JOB 14:12-15; DAN 12:2; JHN 11:11-14; ACT 7:59-60; 1CO 15:6,18,51; 1TH 4:13-17
-
-**Definition — spiritual death:**
-EPH 2:1,5-6; COL 2:13; 1TI 5:6; ROM 8:5-6; JHN 5:24; LUK 1:79; JHN 11:26; 1JN 5:12
-
-**Second death:**
-REV 2:11; REV 20:6,14; REV 21:4,8; EZK 18:4,20; MAT 7:13; MAT 10:28; 2TH 1:9; 2PE 2:12; ROM 6:23
-
-**Reversibility:**
-DAN 12:2; JHN 5:28-29; 1CO 15:51-57; 1TH 4:16-17; LUK 20:35-36; 1KI 17:21-22; LUK 8:55; JHN 11:43-44
-
-**Death as enemy / eschatological defeat:**
-1CO 15:26; HEB 2:14-15; ISA 25:8; HOS 13:14; REV 20:14; REV 21:4
-
-**Key disputed passages:**
-2CO 5:4,8; PHI 1:23; LUK 23:43; REV 6:9-11; PSA 31:5
-
-### Carry-Forward Evidence from etc5-01 and etc5-02
-
-The following Master Evidence items are already established and should be referenced (not re-proven) in the analysis:
-
-- **E001-E060** from etc5-01 (especially: E1 Gen 2:7; E2 Gen 3:19; E12 Ecc 12:7; E13 Psa 146:4; E17 Ecc 9:5; E18-E19 Ecc 9:6,10; E20 Job 14:12; E24 Ezk 18:4; E26 Mat 10:28; E29 1Tim 6:16)
-- **E061-E088** from etc5-02 (especially: E069 Heb 9:27; E072 Rom 6:23; E073 Rom 5:12; E075 Isa 25:8; E076 Isa 26:19; E077 Isa 26:14; E078 Hos 13:14; E082 Luk 20:35-36; E083 1Cor 15:26; E084 1Cor 15:22)
-- **I-B Unresolved:** Master IB001 (conscious intermediate state); Master IB005 (spirit returns = conscious person). This study must address these with any new textual evidence.
-- **I-D items:** Master ID001 (inherent immortal soul); Master ID002 (soul that sins = only physical death of body). The second death discussion will intersect with these.
-
-### Word Study Priorities
-
-For `04-word-studies.md`, run the following:
-
-```
-cd "D:\bible\tools\search"
-python search_strongs.py --lookup H4194
-python search_strongs.py --lexicon H4194
-python search_strongs.py --lookup H4191
-python search_strongs.py --lexicon H4191
-python search_strongs.py --lookup G2288
-python search_strongs.py --lexicon G2288
-python search_strongs.py --lookup G599
-python search_strongs.py --lexicon G599
-python search_strongs.py --lookup G622
-python search_strongs.py --lexicon G622
-python search_strongs.py --lookup G684
-python search_strongs.py --lexicon G684
-python search_strongs.py --lookup G2837
-python search_strongs.py --lexicon G2837
-python search_strongs.py --lookup H5315
-python search_strongs.py --lexicon H5315
-python search_strongs.py --lookup H7307
-python search_strongs.py --lexicon H7307
-python search_strongs.py --lxx-map H4194
-python search_strongs.py --lxx-map H4191
-```
-
----
+# PROMPT — etc-03: What Does "Death" Mean in the Bible?
+
+## Agent Instructions
+
+1. Read SKILL.md at C:/Users/Michael/.claude/skills/bible-study2/SKILL.md
+2. Read agent instructions at C:/Users/Michael/.claude/skills/bible-study2/agents/research-agent.md
+3. Use methodology from D:/Bible/bible-studies/etc-series-methodology.md
+4. Read and update D:/Bible/bible-studies/etc-master-evidence.md
+5. Run BOTH --hybrid-ot AND --hybrid-nt for every key verse
+6. Do NOT reference etc-01-what-is-man (deleted). The anthropology study is etc-01-what-is-man.
+7. Read CONCLUSION.md from etc-01 and etc-02 for context:
+   - D:/Bible/bible-studies/etc-01-what-is-man/CONCLUSION.md
+   - D:/Bible/bible-studies/etc-02-who-has-immortality/CONCLUSION.md
+8. Output all files to D:/Bible/bible-studies/etc-03-biblical-death/
+
+## Study Question
+
+What does "death" mean in the Bible? Is death cessation of existence, separation of soul from body, or separation from God? Examine the Hebrew words maveth (H4194, noun, 160+ occurrences) and mut (H4191, verb, 835+ occurrences), and the Greek words thanatos (G2288, noun, 119 occurrences) and apothnesko (G599, verb, 112 occurrences). Trace the origin of death (Gen 2-3), the nature and meaning of physical death, spiritual death, and the second death (Rev 2:11; 20:6, 14; 21:8).
 
 ## Workflow
 
 answer-question
 
----
-
 ## Series Context
 
-This is study 3 in the ETC5 series: **The Final Fate of the Wicked**.
+This is study etc-03 in the "Final Fate of the Wicked" series.
 
-- etc5-01-what-is-man: What is a human being? (Completed 2026-02-19)
-- etc5-02-who-has-immortality: Who has immortality? (Completed 2026-02-19)
-- **etc5-03-biblical-death: What does "death" mean? (This study)**
-- Future studies in the series will address the intermediate state, resurrection, hell, the lake of fire, and the second death in detail.
+**Prior studies:**
+- etc-01-what-is-man (72 items) -- Established that man became a living soul (Gen 2:7), death reverses creation (Ecc 12:7), thoughts perish at death (Ps 146:4), the dead know nothing (Ecc 9:5), the soul can die (Ezek 18:4) and be destroyed (Matt 10:28), and man does not inherently possess immortality.
+- etc-02-who-has-immortality (60 items) -- Established that God alone has immortality (1 Tim 6:16), mortals must put it on at resurrection (1 Cor 15:53-54), eternal life is conditional on Christ (John 3:16; 1 John 5:11-12), the wages of sin is death (Rom 6:23), and no NT passage applies immortality vocabulary to the human soul.
+- Master evidence file: D:/Bible/bible-studies/etc-master-evidence.md (132 items total across prior studies)
 
-The analysis agent must follow the ETC5 series methodology (etc5-series-methodology.md) when writing 03-analysis.md and CONCLUSION.md.
+**This study's focus:** Define what "death" itself means in Scripture. Prior studies established facts about human nature and immortality; this study examines the meaning, origin, and types of death. This is foundational for later studies on the state of the dead (etc-04), destruction language (etc-05+), and the second death (etc-13).
 
 ---
 
-*Scoped: 2026-02-19*
-*Folder: bible-studies/etc5-03-biblical-death/*
+## Nave's Topical Bible Entries
+
+### Retrieve these FULL topic entries with `naves_db.py --topic`:
+
+1. **DEATH** -- Major entry covering: called sleep (Deut 31:16; Job 7:21; 14:12; Dan 12:2; John 11:11; Acts 7:60; 1 Cor 15:6,18,51; 1 Thess 4:14,15); exemption from (Enoch, Elijah); desired (Moses, Elijah, Job, Jonah, Paul); as judgment; symbolized (pale horse, King of Terrors); unclassified scriptures (Gen 2:17; 3:19; Deut 32:39; 1 Sam 2:6; Job 14:2,5-12,14; Ps 6:5; 89:48; 90:3; 146:4; Ecc 3:2,19-21; 9:3,5,6,10; 12:5,7; Isa 25:8; Rom 5:12,14; 1 Cor 15:21,22,26,55-57; Heb 2:14,15; 9:27; Rev 1:18; 20:12-14; 21:4); of the righteous; of the wicked; spiritual death (Luke 1:79; John 5:24-26; 6:50,51,53; 11:26; Rom 5:12,15; 7:11; 8:5,6,12,13; Eph 2:1,5,6; 4:18; Col 2:13; 1 Tim 5:6; 1 John 5:12); second death (Prov 14:12; Ezek 18:4,10,13,21,23,24; Matt 7:13; 10:28; 25:30,41,46; Mark 9:43,44; Rom 1:32; 6:16,21,23; 8:13; 2 Thess 1:9; Jas 1:15; 2 Pet 2:12; Rev 2:11; 19:20; 20:14; 21:8); figurative of regeneration (Rom 6:2-11; Col 2:20)
+
+2. **SECOND DEATH** -- General scriptures: Rev 20:14. Cross-reference: WICKED, PUNISHMENT OF
+
+3. **DEAD (PEOPLE)** -- Unclassified scriptures (Job 3:13-19; 14:11-15,21; 17:13-16; Ps 6:5; 30:9; 49:15; 88:10-12; 115:17; Prov 21:16; Ecc 9:5,6; Ezek 32:31; Dan 12:2; Luke 9:30,31; 20:35,36; 23:43; John 11:25). Raised to life instances. Cross-references: DEATH, RESURRECTION, WICKED PUNISHMENT OF
+
+4. **DEPRAVITY OF MAN** -- Scriptures concerning man's sinful nature (Gen 6:5-7; 8:21; Ps 51:5; Jer 17:9; Rom 3:9-19,23; 5:6,12-14; Eph 2:1-3). Cross-references: FALL OF MAN, SIN
+
+### Also search with `naves_db.py --search`:
+- "death" (50 results -- includes DYING, SLEEP, BURIAL, and many biographical death references)
+- "second death" (12 results -- includes cross-references to WICKED PUNISHMENT OF)
+
+---
+
+## Key Verses to Investigate
+
+*All verses below were identified by tool output (Nave's topical entries, semantic searches, Strong's lookups). Run --hybrid-ot and --hybrid-nt for each.*
+
+### A. Origin of Death (Genesis 2-3)
+| Verse | Topic | Tool Source |
+|-------|-------|-------------|
+| Gen 2:17 | "In the day thou eatest thereof thou shalt surely die" (mot tamut -- dying thou shalt die) | Nave's DEATH; semantic search |
+| Gen 3:3-4 | Serpent says "ye shall not surely die" | Nave's DEATH (unclassified) |
+| Gen 3:19 | "Dust thou art, and unto dust shalt thou return" | Nave's DEATH; master E005 |
+| Gen 3:22-24 | Barred from tree of life lest he "live for ever" | Nave's DEATH; master E006 |
+
+### B. Death as Reversal of Creation / Nature of Death
+| Verse | Topic | Tool Source |
+|-------|-------|-------------|
+| Ecc 12:7 | Dust returns to earth; spirit returns to God | Nave's DEATH; master E009 |
+| Ecc 3:19-20 | Man and beast share one breath and one fate | Nave's DEATH; master E008 |
+| Ecc 9:5-6 | The dead know not anything; love/hatred/envy perished | Nave's DEATH/DEAD; master E019-E020 |
+| Ecc 9:10 | No work, device, knowledge, wisdom in the grave | Nave's DEATH; master E021 |
+| Ps 146:4 | Breath departs, thoughts perish in that very day | Nave's DEATH; master E011 |
+| Ps 104:29 | God takes away breath, they die, return to dust | Nave's DEATH; master E010 |
+| Ps 6:5 | In death no remembrance; in the grave no thanks | Nave's DEATH/DEAD; master E017 |
+| Ps 115:17 | The dead praise not the LORD; go down into silence | Nave's DEATH; master E018 |
+| Ps 88:10-12 | No wonders in the dark; no praise from dead; land of forgetfulness | Nave's DEAD; master E044 |
+| Ps 30:9 | Dust cannot praise God or declare truth | Nave's DEAD; master E045 |
+| Job 14:2,5-12 | Man cut down, lies down, rises not till heavens be no more | Nave's DEATH; master E041 |
+| Job 14:14,21 | If a man die, shall he live again? His sons honored, he knows not | Nave's DEATH/DEAD; master E042 |
+| Job 3:13-19 | In death: wicked cease troubling, weary at rest | Nave's DEAD; master E043 |
+| Job 34:14-15 | If God gathers his spirit and breath, all flesh perishes | Nave's; master E012 |
+| Isa 38:18-19 | The grave cannot praise; only the living praise | Nave's DEATH; master E022 |
+| James 2:26 | The body without the spirit is dead | Nave's; master E013 |
+
+### C. Death Entered Through Sin (NT Theological Framework)
+| Verse | Topic | Tool Source |
+|-------|-------|-------------|
+| Rom 5:12 | By one man sin entered, and death by sin; death passed upon all men | Nave's DEATH; semantic search; master E066 (etc-02) |
+| Rom 5:14,17,21 | Death reigned from Adam to Moses; by grace life reigns | Nave's DEATH; G2288 lexicon |
+| Rom 6:23 | Wages of sin is death; gift of God is eternal life | Nave's DEATH (second); master E087 |
+| 1 Cor 15:21-22 | By man came death; in Adam all die, in Christ all made alive | Nave's DEATH; master E066 |
+| 1 Cor 15:26 | The last enemy that shall be destroyed is death | Nave's DEATH; master E065 |
+| 1 Cor 15:55-57 | O death, where is thy sting? Sting of death is sin | Nave's DEATH (apostrophe); semantic search |
+| Heb 2:14-15 | Christ destroyed him that had the power of death (the devil) | Nave's DEATH; semantic search |
+| Heb 9:27 | Appointed unto men once to die, then the judgment | Nave's DEATH; master E046 |
+| 2 Tim 1:10 | Christ abolished death, brought life and immortality to light | Nave's DEATH; master E027 |
+| Isa 25:8 | He will swallow up death in victory | Nave's DEATH; master E072 |
+
+### D. Death as Sleep
+| Verse | Topic | Tool Source |
+|-------|-------|-------------|
+| Deut 31:16 | "Thou shalt sleep with thy fathers" | Nave's DEATH (called sleep) |
+| Job 7:21 | "Now shall I sleep in the dust" | Nave's DEATH (called sleep) |
+| Job 14:12 | "Man lieth down, and riseth not" / "not awake out of their sleep" | Nave's DEATH (called sleep); master E041 |
+| Dan 12:2 | "Many of them that sleep in the dust of the earth shall awake" | Nave's DEATH (called sleep); master E023 |
+| John 11:11-14 | "Our friend Lazarus sleepeth... Lazarus is dead" | Nave's DEATH (called sleep); semantic search |
+| Acts 7:60 | Stephen "fell asleep" | Nave's DEATH (called sleep); master E053 |
+| Acts 13:36 | David "fell on sleep, and was laid unto his fathers, and saw corruption" | Nave's DEATH (called sleep) |
+| 1 Cor 15:6,18,51 | "Fallen asleep... asleep in Christ... we shall not all sleep" | Nave's DEATH (called sleep) |
+| 1 Thess 4:13-16 | "Them which are asleep... the dead in Christ shall rise first" | Nave's DEATH (called sleep); master E040 |
+
+### E. Spiritual Death
+| Verse | Topic | Tool Source |
+|-------|-------|-------------|
+| Luke 1:79 | "To give light to them that sit in darkness and in the shadow of death" | Nave's DEATH (spiritual) |
+| John 5:24-26 | "Passed from death unto life... the dead shall hear the voice" | Nave's DEATH (spiritual); G2288 lexicon |
+| John 6:50-53 | "Eat of this bread and not die... except ye eat, no life in you" | Nave's DEATH (spiritual); G599 lexicon |
+| John 11:26 | "Whosoever liveth and believeth in me shall never die" | Nave's DEATH (spiritual); G599 lexicon |
+| Rom 5:12,15 | "Death by sin... through the offence of one many be dead" | Nave's DEATH (spiritual) |
+| Rom 7:11 | "Sin, taking occasion by the commandment, deceived me and slew me" | Nave's DEATH (spiritual) |
+| Rom 8:5-6,13 | "To be carnally minded is death... if ye live after the flesh, ye shall die" | Nave's DEATH (spiritual) |
+| Eph 2:1,5-6 | "Dead in trespasses and sins... quickened us together with Christ" | Nave's DEATH (spiritual) |
+| Eph 4:18 | "Alienated from the life of God through the ignorance that is in them" | Nave's DEATH (spiritual) |
+| Col 2:13 | "You, being dead in your sins... hath he quickened together" | Nave's DEATH (spiritual) |
+| 1 Tim 5:6 | "She that liveth in pleasure is dead while she liveth" | Nave's DEATH (spiritual) |
+| 1 Pet 2:24 | "Being dead to sins, should live unto righteousness" | Nave's DEATH (spiritual) |
+| 1 John 3:14 | "He that loveth not his brother abideth in death" | G2288 lexicon |
+| 1 John 5:12 | "He that hath the Son hath life; he that hath not the Son hath not life" | Nave's DEATH (spiritual); master E096 |
+
+### F. The Second Death
+| Verse | Topic | Tool Source |
+|-------|-------|-------------|
+| Rev 2:11 | "He that overcometh shall not be hurt of the second death" | Nave's DEATH (second); SECOND DEATH; G2288 lexicon |
+| Rev 20:6 | "On such the second death hath no power" | G2288 lexicon |
+| Rev 20:14 | "Death and hell were cast into the lake of fire. This is the second death" | Nave's SECOND DEATH; Nave's DEATH (second); semantic search |
+| Rev 21:8 | "The fearful... shall have their part in the lake of fire... which is the second death" | Nave's DEATH (second); G2288 lexicon |
+| Rev 19:20 | Beast and false prophet cast alive into the lake of fire | Nave's DEATH (second) |
+| Rev 20:10 | Devil cast into lake of fire and brimstone | Semantic search |
+| Prov 14:12 | "There is a way which seemeth right... the end thereof are the ways of death" | Nave's DEATH (second) |
+| Ezek 18:4,10,13,21,23,24 | "The soul that sinneth, it shall die" / "he shall die" / "turn and live" | Nave's DEATH (second); master E016 |
+| Matt 10:28 | "Fear him which is able to destroy both soul and body in hell" | Nave's DEATH (second); master E028 |
+| Matt 25:41,46 | "Depart from me... everlasting fire... everlasting punishment" | Nave's DEATH (second) |
+| Mark 9:43-44 | "Fire that never shall be quenched; where their worm dieth not" | Nave's DEATH (second) |
+| Rom 1:32 | "They which commit such things are worthy of death" | Nave's DEATH (second); G2288 lexicon |
+| Rom 6:16,21,23 | "Sin unto death... wages of sin is death" | Nave's DEATH (second); master E087 |
+| Rom 8:13 | "If ye live after the flesh, ye shall die" | Nave's DEATH (second) |
+| 2 Thess 1:9 | "Punished with everlasting destruction from the presence of the Lord" | Nave's DEATH (second); master E090 |
+| James 1:15 | "Sin, when it is finished, bringeth forth death" | Nave's DEATH (second); G2288 lexicon |
+| 2 Pet 2:12 | "As natural brute beasts... shall utterly perish in their own corruption" | Nave's DEATH (second); master E095 |
+
+### G. Death Figurative of Regeneration
+| Verse | Topic | Tool Source |
+|-------|-------|-------------|
+| Rom 6:2-11 | "Dead to sin... buried with him by baptism into death" | Nave's DEATH (figurative); G2288 lexicon |
+| Col 2:20 | "If ye be dead with Christ from the rudiments of the world" | Nave's DEATH (figurative); G599 lexicon |
+
+### H. Key Additional Death Passages
+| Verse | Topic | Tool Source |
+|-------|-------|-------------|
+| 1 Sam 2:6 | "The LORD killeth, and maketh alive; bringeth down to the grave and bringeth up" | Nave's DEATH (unclassified) |
+| Deut 32:39 | "I kill, and I make alive; I wound, and I heal" | Nave's DEATH (unclassified) |
+| Ps 68:20 | "Unto GOD the Lord belong the issues from death" | Nave's DEATH (unclassified); master E099 |
+| Ps 89:48 | "What man is he that liveth and shall not see death?" | Nave's DEATH (unclassified) |
+| Ps 90:3 | "Thou turnest man to destruction; and sayest, Return, ye children of men" | Nave's DEATH (unclassified) |
+| Ps 49:7-9,15 | "None of them can by any means redeem his brother... God will redeem my soul from sheol" | Nave's DEAD; master E067-E068 |
+| Hos 13:14 | "O death, I will be thy plagues; O grave, I will be thy destruction" | Nave's DEATH (apostrophe) |
+| Rev 1:18 | "I am he that liveth, and was dead... and have the keys of hell and of death" | Nave's DEATH; G2288 lexicon |
+| Rev 6:8 | "His name that sat on him was Death, and Hell followed with him" | Nave's DEATH (symbolized); G2288 lexicon |
+| Rev 21:4 | "There shall be no more death, neither sorrow, nor crying" | Nave's DEATH; semantic search |
+| Matt 10:21 | "Brother shall deliver up the brother to death" | G2288 lexicon |
+| Deut 30:15,19 | "I have set before thee this day life and good, and death and evil... choose life" | Nave's DEPRAVITY; semantic search |
+
+---
+
+## Strong's Word Studies
+
+### Primary Hebrew words:
+| Number | Word | Transliteration | Occurrences | Definition |
+|--------|------|-----------------|-------------|------------|
+| H4194 | מָוֶת | maveth | 160 | Death (natural or violent); concretely, the dead, their place or state (hades); figuratively, pestilence, ruin |
+| H4191 | מוּת | mut | 835 | Verb: to die (literally or figuratively); causatively, to kill |
+
+### Primary Greek words:
+| Number | Word | Transliteration | Occurrences | Definition |
+|--------|------|-----------------|-------------|------------|
+| G2288 | θάνατος | thanatos | 119 | Death (literally or figuratively); from thnesko (to die) |
+| G599 | ἀποθνήσκω | apothnesko | 112 | Verb: to die off (literally or figuratively) |
+
+### Additional death-related words found by tool searches:
+| Number | Word | Transliteration | Occurrences | Definition |
+|--------|------|-----------------|-------------|------------|
+| H4463 | מָמוֹת | mamowth | 3 | A mortal disease; concretely, a corpse |
+| H8546 | תְּמוּתָה | temuwthah | 2 | Execution (as a doom) |
+| G2289 | θανατόω | thanatoo | 11 | To kill (literally or figuratively); to put to death |
+| G3500 | νέκρωσις | nekrosis | 2 | Decease; figuratively, impotency: deadness, dying |
+| G3498 | νεκρός | nekros | 132 | Dead (literally or figuratively); a corpse |
+| G5053 | τελευτάω | teleutao | 11 | To finish life; to die |
+| G5054 | τελευτή | teleute | 1 | Decease; death |
+| G2349 | θνητός | thnetos | 6 | Liable to die; mortal |
+| G4880 | συναποθνήσκω | synapothnesko | 3 | To die together with |
+| G1935 | ἐπιθανάτιος | epithanatios | 1 | Doomed to death |
+
+### LXX Mappings (from --lxx-map):
+- **H4194 (maveth)** maps to: G2288 thanatos (97x, score 27.43), G5054 teleute (8x), G86 hades (17x), G599 apothnesko (35x), G2222 zoe (12x -- in life/death contrast), G5590 psyche (17x -- death of the nephesh/psyche)
+- **H4191 (mut)** maps to: G599 apothnesko (366x, score 28.53), G2289 thanatoo (121x), G5053 teleutao (62x), G2348 thnesko (52x), G2288 thanatos (84x), G3498 nekros (27x), G615 apokteino (48x)
+
+---
+
+## Research Scope and Questions
+
+Investigate these questions using the verses and word studies above:
+
+### 1. Origin of Death
+- What does Gen 2:17 mean by "in the day thou eatest thereof thou shalt surely die" (mot tamut)? Did Adam die physically that day? What happened?
+- How does Gen 3:19 define what death is ("dust thou art, unto dust shalt thou return")?
+- What does barring from the tree of life (Gen 3:22-24) reveal about human mortality?
+- How does Rom 5:12 explain the entry of death into the world? What kind of death entered?
+
+### 2. Physical Death -- What Happens?
+- What do the OT passages describe as happening at death? (Ecc 12:7; Ps 146:4; Ecc 9:5-6,10; Ps 6:5; 115:17; 88:10-12; Job 14:12,21; 3:17-18; Isa 38:18-19)
+- Is death described as cessation of consciousness or as a transition to another form of existence?
+- What does the death-as-sleep metaphor teach about the nature of death? (7+ authors use it)
+- How does James 2:26 ("the body without the spirit is dead") relate to the creation formula (Gen 2:7)?
+
+### 3. Spiritual Death
+- What is "spiritual death" as described in Eph 2:1,5; Col 2:13; 1 Tim 5:6?
+- Is spiritual death "separation from God" or something else? What vocabulary is used?
+- How do John 5:24-26 and 1 John 3:14 use death language metaphorically?
+- What is the relationship between spiritual death and physical death?
+
+### 4. The Second Death
+- What is the "second death" (Rev 2:11; 20:6,14; 21:8)?
+- The phrase occurs only in Revelation -- what does the text explicitly say about it?
+- Rev 20:14 says "death and hell (hades) were cast into the lake of fire. This is the second death." What does this identify?
+- What OT/NT passages does Nave's classify under "second death"? (Prov 14:12; Ezek 18:4; Matt 10:28; 25:41,46; Rom 6:23; 2 Thess 1:9; 2 Pet 2:12; etc.)
+- Is the "second death" cessation, ongoing torment, or permanent separation? What does the text state vs. what is inferred?
+
+### 5. Death Vocabulary Analysis
+- What is the semantic range of maveth (H4194) across its 160 OT occurrences?
+- What is the semantic range of mut (H4191) across its 835 OT occurrences?
+- What is the semantic range of thanatos (G2288) across its 119 NT occurrences?
+- What is the semantic range of apothnesko (G599) across its 112 NT occurrences?
+- How does the LXX translate maveth and mut? Do the Greek translations reveal anything about how the Jews understood death?
+- Does the Bible ever define death as "separation of soul from body"? If so, cite the verse. If not, note this absence.
+- Does the Bible ever define death as "separation from God"? If so, cite the verse. If not, note this absence.
+
+### 6. Cross-Study Integration
+- How do this study's findings relate to etc-01 (man is a living soul, not immortal) and etc-02 (God alone has immortality, wages of sin is death)?
+- What does the meaning of death imply for the final fate debate? (Note: do NOT settle the debate here -- that's for later studies. Simply establish what death means.)
+
+---
+
+## Related Prior Studies (for reference, not duplication)
+
+Tool search found these prior studies on the same topic:
+- etc5-03-biblical-death (score: 0.729)
+- etc3-03-biblical-death (score: 0.652)
+- etc-03-biblical-death (score: 0.628)
+- etc2-03-biblical-death (score: 0.627)
+- etc4-03-biblical-death (score: 0.611)
+
+These are prior iterations. The etc series uses its own methodology (etc-series-methodology.md). Do not copy from prior studies; investigate independently using the tools.
+
+---
+
+## Output Files
+
+Write all output to: D:/Bible/bible-studies/etc-03-biblical-death/
+
+1. **01-topics.md** -- Full Nave's topic entries retrieved
+2. **02-verses.md** -- All verse texts with hybrid-ot/hybrid-nt results
+3. **03-analysis.md** -- Verse-by-verse analysis organized by section
+4. **04-word-studies.md** -- Complete word studies for H4194, H4191, G2288, G599 (and related terms)
+5. **CONCLUSION.md** -- Full evidence classification per etc-series-methodology.md, including:
+   - Explicit Statements table (with positional classification and Tree 3 applications)
+   - Necessary Implications table (with N-tier tests)
+   - Inferences table (with 4-type taxonomy)
+   - I-B Resolutions (if any)
+   - Verification Phase
+   - Tally Summary and Positional Tally
+   - What CAN Be Said / What CANNOT Be Said
+   - Analysis section
+   - Update etc-master-evidence.md with new items
+
+---
+
+## Estimated Scope
+
+- ~80-100 verses to investigate
+- 4 primary Strong's numbers + ~10 related numbers
+- 4 Nave's topics to retrieve in full
+- Builds on 132 existing master evidence items from etc-01 and etc-02
+- Expected output: ~60-80 evidence items (many overlapping with prior studies, some new)

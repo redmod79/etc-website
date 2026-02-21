@@ -1,443 +1,773 @@
-# Destruction Vocabulary — What Words Does Scripture Use for the Fate of the Wicked?
-## Study: etc5-06
-## Series: ETC5 — The Final Fate of the Wicked
-## Date: 2026-02-19
-
----
+# Destruction Vocabulary -- Hebrew and Greek Words for the Fate of the Wicked
 
 ## Question
-
-What words does the Bible use to describe the fate of the wicked? Examine the primary Hebrew and Greek destruction vocabulary: abad/apollumi (perish/destroy), shamad (destroy/annihilate), kalah (consume/finish), shachath (corruption/destruction), apoleia (destruction/perdition), olethros (destruction/ruin), and related terms. What do these words semantically mean? Do they describe ongoing conscious torment or cessation of existence? How does the destruction vocabulary in eschatological contexts relate to the torment vocabulary (basanismos, basanizo)?
-
----
+Hebrew/Greek destruction vocabulary: abad/apollumi (H6/G622), shamad (H8045), kalah (H3615), shachath (H7843), apoleia (G684), olethros (G3639). Lexical definitions, eschatological usage, the "perish vs. life" contrast pattern, destruction similes, and how these words function when applied to the fate of the wicked.
 
 ## Summary Answer
-
-The Bible's primary vocabulary for the fate of the wicked — across both testaments, multiple authors, and every genre — uses destruction words (apollumi/perish, apoleia/perdition, olethros/destruction, phthora/corruption, abad/perish, shamad/desolate, kalah/consume, karat/cut off) that denote cessation, ruin, and non-existence. These words are structurally paired as the antithesis of life (zoe/chayyim) throughout Scripture. A separate and lexically distinct torment vocabulary (basanizo/torment, basanismos/torment) appears in eschatological contexts almost exclusively in Revelation, applied to specific subjects (beast-worshippers in a tribulation context; the devil, beast, and false prophet). The LXX confirms this lexical separation: the Hebrew destruction terms (abad, shamad, kalah, karat) are never translated by basanizo or basanismos in the LXX; they are translated by apollumi, apoleia, and related destruction terms. The two vocabulary sets are lexically separate across both testaments.
-
----
+The Bible's primary vocabulary for describing the fate of the wicked consists of destruction/cessation words, not torment words. Four Hebrew words -- abad (H6, ~184 occurrences: to perish, to destroy), shamad (H8045, ~90 occurrences: to destroy utterly, to exterminate), kalah (H3615, ~206 occurrences: to consume, to finish), and shachath (H7843, ~147 occurrences: to corrupt, to decay, to ruin) -- form the OT destruction vocabulary. Three Greek words -- apollymi (G622, ~92 occurrences: to destroy fully, to perish), apoleia (G684, ~20 occurrences: destruction, perdition), and olethros (G3639, 4 occurrences: destruction, ruin) -- form the NT destruction vocabulary. The LXX translation patterns confirm cross-testament vocabulary continuity: abad maps to apollymi 141 times; shamad maps to apollymi 23 times; shachath maps to diaphtheiro 48 times; kalah maps to synteleo 85 times. The abad-apollymi-apoleia lexical chain (~296 combined occurrences) is the dominant vocabulary for the fate of the wicked across both testaments. No lexicon defines any of these words as "torment" or "ongoing conscious suffering." The destruction similes (chaff, wax, smoke, ashes, stubble, morning clouds) uniformly depict substances that are consumed and cease to exist. The "perish vs. life" contrast pattern appears across multiple authors (John 3:16; Matt 7:13-14; Rom 6:23; Phil 3:19; Psa 1:6; Psa 145:20; Mal 4:1-3): life and destruction are presented as opposite outcomes. The ECT position reads destruction vocabulary as metaphorical for spiritual ruin rather than cessation; this reading requires the destruction words to mean something other than their lexical definitions and the destruction similes to depict something other than what they naturally illustrate.
 
 ## Key Verses
-
-1. **John 3:16** — "whosoever believeth in him should not perish [apollumi], but have everlasting life." The antithesis of perishing and having life, using the primary destruction verb.
-
-2. **Matthew 10:28** — "Fear him which is able to destroy [apolesai — apollumi, Aorist Active Infinitive] both soul and body in hell [gehenna]." God destroys both components; the verb is apollumi.
-
-3. **Psalm 37:20** — "The wicked shall perish [yobedu — abad, Qal Impf 3mp]... they shall consume [kalah]; into smoke shall they consume away [kalah]." Three destruction terms: abad + kalah twice. (LXX: abad → apollumi.)
-
-4. **2 Thessalonians 1:9** — "Who shall be punished with everlasting destruction [olethron aionion] from the presence of the Lord." The only Pauline eschatological term used here is olethros (destruction), with aionion (everlasting) modifying the destruction.
-
-5. **Malachi 4:1-3** — "The day cometh that shall burn as an oven... it shall leave them neither root nor branch... they shall be ashes under the soles of your feet." Total combustion: stubble → consumed → ashes.
-
-6. **Obadiah 1:16** — "They shall be as though they had not been." The strongest OT non-existence statement for the fate of the nations.
-
-7. **Revelation 14:10-11** — Beast-worshippers "tormented [basanizo] with fire and brimstone... smoke of their torment [basanismos] ascendeth up for ever and ever." Torment vocabulary applied to a specific tribulation-era group.
-
-8. **Revelation 20:10** — Devil, beast, false prophet "shall be tormented [basanizo] day and night for ever and ever." Torment vocabulary applied to three named eschatological entities.
-
----
-
-## Full Analysis
-
-### The Cross-Testament Destruction Vocabulary
-
-The Bible's destruction vocabulary for the fate of the wicked is unified across both testaments through the LXX bridge. The dominant correspondence is H6 (abad) → G622 (apollumi): 141 LXX occurrences, PMI score 6.14. When the Psalms declare "the wicked shall perish [abad]," the LXX translates this as "shall perish [apollumi]," and the NT writers using apollumi for eschatological destruction are drawing on the same semantic field. H8045 (shamad) also maps primarily to G622 (apollumi): 23 occurrences, PMI 4.53.
-
-This cross-testament semantic continuity means the NT destruction vocabulary is not introduced as a new concept; it inherits and continues the OT framework.
-
-### Apollumi (G622) — Destroy Fully / Perish Completely
-
-Apollumi (92 NT occurrences) is the primary Greek word for the wicked's fate. Its lexical definition: "to destroy fully (reflexively, to perish, or lose), literally or figuratively." It describes:
-- Physical destruction (wineskins burst: Mat 9:17; Luke 5:37)
-- Death (Acts 27:34)
-- Cosmic dissolution (heavens perish: Heb 1:11)
-- Eschatological judgment (Mat 10:28; Jn 3:16; Lk 13:3,5; Rom 2:12; 2 Pet 3:9)
-
-In eschatological contexts, apollumi consistently stands in antithesis to life (zoe): "should not perish [apollumi] but have everlasting life [zoe aionion]" (Jn 3:16). The adversative structure (not perish BUT have life) places perishing and having life as mutually exclusive alternatives.
-
-Matthew 10:28 uses the aorist active infinitive (apolesai) — treating the destruction as a single, complete act — with both soul (psuche) and body (soma) as the objects. The word is apollumi (destroy), not basanizō (torment).
-
-First Corinthians 15:18 provides the definitional test: "those who fell asleep in Christ have perished [apolonto]" (hypothetical, if resurrection is false). Paul uses apollumi for the worst-case scenario absent resurrection — the complete, total destruction of the dead in Christ. This confirms that for Paul, apollumi in its eschatological register means cessation, not ongoing conscious torment; otherwise the absence of resurrection would not constitute "perishing."
-
-### Apoleia (G684) and Olethros (G3639)
-
-Apoleia (20 NT occurrences): the noun form of apollumi's semantic field. Used for the telos (final outcome) of enemies of the cross (Phil 3:19: "whose end is destruction"), for "vessels of wrath fitted to destruction" (Rom 9:22), for the broad road that leads to destruction vs. the narrow road to life (Mat 7:13-14), and for the beast's destiny (Rev 17:8,11: "goes into perdition").
-
-Olethros (4 NT occurrences): ruin/destruction in every occurrence. The eschatologically critical text is 2 Th 1:9: "everlasting destruction [olethron aionion] from the presence of the Lord." Paul's chosen vocabulary for the eternal punishment of the wicked is olethros — a noun of result denoting ruin — not basanismos (torment). The aionion (everlasting) modifier attaches to the destruction term. All four NT occurrences of olethros refer to destruction/ruin; none is used to mean ongoing conscious torment.
-
-### Phthora (G5356) and Related Terms
-
-Phthora (9 NT occurrences): decay, corruption, ruin. The antithesis in Gal 6:8 is "reap corruption [phthoran]" vs. "reap life everlasting [zoen aionion]" — the same structural antithesis (destruction vs. life) as in Jn 3:16 and elsewhere. The 2 Pet 2:12 comparison of false teachers to animals "made to be taken and destroyed" places them in the category of creatures whose end is consumption/death, not eternal conscious torment.
-
-### Hebrew Destruction Vocabulary: The Psalm 37 Cluster
-
-Psalm 37 concentrates five distinct destruction terms in one chapter, providing the OT's most sustained treatment of the wicked's fate:
-
-- **abad** (H6, perish): v.20 — Qal Imperfect 3mp: "shall perish"
-- **karat** (H3772, cut off): vv.9, 22, 28, 34, 38 — five Niphal forms: "shall be cut off" (passive: by God's action)
-- **shamad** (H8045, destroy): v.38 — Niphal Perfect 3p: "were destroyed"
-- **kalah** (H3615, consume): v.20 — Qal Perfect 3p (doubled): "consumed; into smoke consumed away"
-- **ain** (H369, non-existence): vv.10, 36 — "not be"; "he was not"
-
-The non-existence particle (ain) appears twice in Psalm 37 as the terminal statement after the destruction vocabulary. Verse 10: "yet a little while and the wicked shall not be [ain rasha]; yea, thou shalt diligently consider his place, and it shall not be [ainenu — he is not]." Verse 36: "he passed away, and lo, he was not [ain hu]." The destruction words lead to the non-existence words as their stated result.
-
-### The Non-Existence Passages
-
-The OT contains multiple non-existence expressions for the fate of the wicked that go beyond destruction vocabulary:
-
-- **Psalm 104:35**: "Let sinners be consumed [tamam] out of the earth, and let the wicked be no more [einam]" — consumption followed by non-existence
-- **Obadiah 1:16**: "They shall be as though they had not been [lo hayah]" — the strongest OT non-existence formula
-- **Ezekiel 28:19**: "never shalt thou be any more [lo tehyeh]" — permanent denial of future existence
-- **Isaiah 41:11-12**: "as nothing [ka-ayin]"; "as a thing of nought [ka-ephes]"; "thou shalt seek them and shalt not find them" — non-findable, as nothing, as zero
-
-These non-existence expressions consistently follow or accompany the destruction-vocabulary terms, not the torment-vocabulary terms.
-
-### Key OT Prophetic Testimony
-
-**Malachi 4:1-3**: Progressive combustion: wicked = stubble → fire burns them up completely → "neither root nor branch" (nothing remaining) → they become ashes (epher). Ashes (epher) are the physical residue of complete combustion in sacrificial contexts (Lev 4:12; Num 19:9). The cross-testament parallel connects Mal 4:1 to Isa 5:24 (fire devouring stubble/chaff; root as rottenness) and 2 Pet 3:7-12 (eschatological fire).
-
-**Nahum 1:8-9**: "He will make an utter end [kalah — noun H3617] of the place... affliction shall not rise up the second time." The phrase "affliction shall not rise up the second time" is the clearest OT statement of terminal finality. The enemy is completely eliminated; it cannot threaten again, because it no longer exists.
-
-**Hosea 13:3**: Four vanishing similes (morning cloud, early dew, chaff, smoke) — all depicting complete cessation. None of these images is compatible with ongoing preservation in torment.
-
-**Isaiah 66:24**: The source text (confirmed by cross-testament parallel tool, top NT parallel = Mark 9:48, score 0.424) for Jesus's gehenna imagery in Mark 9. The Hebrew word for the objects of the worm and fire is pigrê (H6297 = corpses/dead bodies), not living persons. The fire and worm act on the dead bodies of rebels. This passage was registered as E141 in etc5-05.
-
-### The Life/Death Antithesis
-
-Across both testaments and multiple authors, the eschatological antithesis is life vs. destruction/death — not life vs. torment. The structural pattern:
-
-| Destruction side | Life side | Reference |
-|-----------------|-----------|-----------|
-| apollumi (perish) | zoe aionios (everlasting life) | Jn 3:16 |
-| apoleia (destruction) | zoe (life) | Mat 7:13-14 |
-| phthora (corruption) | zoe aionios (eternal life) | Gal 6:8 |
-| thanatos (death) | zoe aionios (eternal life) | Rom 6:23 |
-| kolasis aionios (everlasting punishment) | zoe aionios (eternal life) | Mat 25:46 |
-| apoleia (perdition) | peripoiesis psuches (saving of soul) | Heb 10:39 |
-
-First John 5:11-12 states the antithesis in its clearest form: "He that hath the Son hath life; and he that hath not the Son of God hath not life [ouk echei ten zoen]." The state of those without the Son is "not having life" — described as the absence of life, not as an alternative mode of conscious existence.
-
-### The Torment Vocabulary and Its Distribution
-
-The torment vocabulary (basanizo/basanismos/kolasis) is lexically distinct from the destruction vocabulary and appears in different contexts with different subjects.
-
-**Basanizo** (G928, 12 NT occurrences) and **basanismos** (G929, 6 NT occurrences): In eschatological contexts, basanizo appears only in Revelation. All NT eschatological basanismos occurrences are in Revelation (9:5; 14:11; 18:7; 18:10; 18:15). Outside Revelation, NT eschatological passages use destruction vocabulary.
-
-The eschatological basanizo passages in Revelation apply to:
-- Revelation 9:5: locusts torment (basanizo) for five months — temporary, not lethal ("not that they should kill them")
-- Revelation 14:10-11: beast-worshippers tormented — a specific tribulation-era class (those with the mark, those who worship the beast)
-- Revelation 20:10: the devil, the beast, and the false prophet tormented forever — three named eschatological entities
-
-**Kolasis** (G2851, 2 NT occurrences): Matthew 25:46 ("everlasting punishment [kolasin aionion]") uses punishment vocabulary, not destruction vocabulary or torment vocabulary. The word's root (kolazō = to prune, curtail, chastise) emphasizes punitive-corrective action. The verse states the outcome for the wicked and righteous using the same adjective (aionion) without specifying the form of the punishment.
-
-**The LXX confirms the separation**: None of the Hebrew destruction terms (abad, shamad, kalah, karat) is translated as basanizo or basanismos anywhere in the LXX. The torment terms have a different lexical history (from basanos = touchstone for testing/torture), rooted in intertestamental torture contexts (Maccabees), not in the OT destruction-vocabulary of the Psalms and Prophets.
+- **Psalm 37:20** -- "The wicked shall perish (abad), and the enemies of the LORD shall be as the fat of lambs: they shall consume (kalah); into smoke shall they consume away"
+- **Psalm 68:2** -- "As wax melteth before the fire, so let the wicked perish (abad) at the presence of God"
+- **Psalm 145:20** -- "The LORD preserveth all them that love him: but all the wicked will he destroy (shamad)"
+- **Psalm 104:35** -- "Let the sinners be consumed (kalah) out of the earth, and let the wicked be no more"
+- **Matthew 10:28** -- "Fear him which is able to destroy (apollymi) both soul and body in hell"
+- **John 3:16** -- "Whosoever believeth in him should not perish (apollymi), but have everlasting life"
+- **Matthew 7:13** -- "Broad is the way, that leadeth to destruction (apoleia)"
+- **2 Thessalonians 1:9** -- "Punished with everlasting destruction (olethros) from the presence of the Lord"
+- **Malachi 4:1,3** -- "The day cometh, that shall burn as an oven; and all the proud... shall be stubble... they shall be ashes under the soles of your feet"
+- **Philippians 3:19** -- "Whose end is destruction (apoleia)"
 
 ---
 
 ## Evidence Classification
 
-*Following ETC5 Series Methodology (etc5-series-methodology.md). Items already in the master evidence file (E017, E019, E026, E110, E113, E114, E116, E117, E119, E141, E149, E150, IA013, IB001, IB008) are noted with their master IDs. New items are assigned next available IDs (E151+, N030+, IA018+, IB009+).*
+*Evidence items tracked in etc-master-evidence.md*
+
+### INVESTIGATIVE METHODOLOGY
+- This study investigates the destruction vocabulary of the Bible across both testaments. The role is investigator, not advocate.
+- Evidence is gathered from all relevant passages. Where passages support different interpretive positions, both readings are noted.
+- Statements below report what the text says. Interpretive inferences are classified separately.
+- No editorial language is used. Passages are quoted and observations stated.
 
 ---
 
-### 1. Explicit Statements Table (E Tier)
+### 1. Explicit Statements Table
 
-*E tier = what the text directly states; both sides must acknowledge as textual fact.*
+For each E-item classified as Conditionalist or ECT, Tree 3 (E-Item Positional Classification) application is documented below the table.
 
-| # | Explicit Statement | Reference | Classification | Master ID |
+| # | Explicit Statement | Reference | Position | Master ID |
 |---|---|---|---|---|
-| E1 | God "is able to destroy [apolesai — apollumi, Aorist Active Infinitive] both soul and body in hell [gehenna]." | Mat 10:28 | Conditionalist | E026 (existing) |
-| E2 | "Whosoever believeth in him should not perish [apollumi] but have everlasting life [zoe aionion]." The antithesis is stated as perish vs. have life. | Jn 3:16 | Conditionalist | E114 (existing) |
-| E3 | "The wicked shall perish [yobedu — H6 abad, Qal Impf 3mp]... they shall consume [kalah, Qal Perf 3p]; into smoke shall they consume away [kalah, second occurrence]." | Psa 37:20 | Conditionalist | **NEW: E151** |
-| E4 | "The wicked shall not be [ain rasha — non-existence particle]... and he is not [ainenu — non-existence particle + 3ms suffix]." After a little while, the wicked are stated to be non-existent; looking at his place, he is not there. | Psa 37:10 | Conditionalist | **NEW: E152** |
-| E5 | "The transgressors shall be destroyed together [nishmadu — H8045 shamad, Niphal Perf 3p]; the end of the wicked shall be cut off [nikratah — H3772 karat, Niphal Perf 3fs]." | Psa 37:38 | Conditionalist | **NEW: E153** |
-| E6 | "Evildoers shall be cut off [yikkaretu — H3772 karat, Niphal Impf 3mp]." | Psa 37:9 | Conditionalist | **NEW: E154** |
-| E7 | "Yet he passed away, and lo, he was not [ain hu — non-existence particle + 3ms pronoun]: yea, I sought him, but he could not be found." | Psa 37:36 | Conditionalist | **NEW: E155** |
-| E8 | "The day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up... that it shall leave them neither root nor branch." | Mal 4:1 | Conditionalist | **NEW: E156** |
-| E9 | The wicked "shall be ashes [epher — H665] under the soles of your feet in the day that I shall do this." | Mal 4:3 | Conditionalist | **NEW: E157** |
-| E10 | "They shall be as though they had not been [lo hayah — 'as-not they-were': כְּלוֹא הָיוּ]." | Obad 1:16 | Conditionalist | **NEW: E158** |
-| E11 | "He will make an utter end [kalah — H3617, noun: complete end/destruction] of the place thereof... affliction shall not rise up the second time." | Nah 1:8-9 | Conditionalist | **NEW: E159** |
-| E12 | "Let the sinners be consumed [yittamu — H8552 tamam, Qal Impf 3mp, jussive] out of the earth, and let the wicked be no more [einam — non-existence particle + 3mp suffix]." | Psa 104:35 | Conditionalist | **NEW: E160** |
-| E13 | "They that are far from thee shall perish [yobedu — H6 abad, Qal Impf 3mp]: thou hast destroyed [H6789 tsamat, Hiphil Perf 2ms] all them that go a whoring from thee." | Psa 73:27 | Conditionalist | **NEW: E161** |
-| E14 | "They shall be destroyed for ever [yishammedu — H8045 shamad, Niphal Impf + ad-olam]... for lo, thine enemies shall perish [yobedu — abad]." | Psa 92:7, 9 | Conditionalist | **NEW: E162** |
-| E15 | "Who shall be punished with everlasting destruction [olethron aionion — G3639 + G166] from the presence of the Lord and from the glory of his power." | 2 Th 1:9 | Conditionalist | E116 (existing) |
-| E16 | "As natural brute beasts, made to be taken and destroyed [phthoran — G5356]... shall utterly perish [phtharesontai — G5351] in their own corruption [phthora]." False teachers compared to prey animals made for destruction. | 2 Pet 2:12 | Conditionalist | E117 (existing) |
-| E17 | "The way of the ungodly shall perish [tobed — H6 abad, Qal Impf 3fs]." | Psa 1:6 | Conditionalist | **NEW: E163** |
-| E18 | "Whose end [telos] is destruction [apoleia — G684]." The enemies of the cross have apoleia as their final outcome. | Phil 3:19 | Conditionalist | **NEW: E164** |
-| E19 | "Enter ye at the strait gate: for wide is the gate... that leadeth to destruction [apoleia — G684]... and narrow is the way, which leadeth unto life [zoe]." Two roads; one to apoleia, one to life. | Mat 7:13-14 | Conditionalist | **NEW: E165** |
-| E20 | "He that soweth to his flesh shall of the flesh reap corruption [phthoran — G5356]; but he that soweth to the Spirit shall of the Spirit reap life everlasting [zoen aionion]." Phthora vs. eternal life as antithetical outcomes. | Gal 6:8 | Conditionalist | **NEW: E166** |
-| E21 | "We are not of them who draw back unto perdition [apoleia]; but of them that believe to the saving of the soul [peripoiesin psuches]." Apoleia contrasted with saving of the soul. | Heb 10:39 | Conditionalist | **NEW: E167** |
-| E22 | "Vessels of wrath fitted [katērtismena — perfect passive participle: already prepared] to destruction [apoleia]." Contrasted with vessels of mercy prepared for glory. | Rom 9:22 | Conditionalist | **NEW: E168** |
-| E23 | "Foolish and hurtful lusts, which drown men in destruction [olethron — G3639] and perdition [apoleia — G684]." Both olethros and apoleia paired as destruction terms. | 1 Tim 6:9 | Conditionalist | **NEW: E169** |
-| E24 | "He that hath the Son hath life [zoe]; and he that hath not the Son of God hath not life [ouk echei ten zoen]." The absence of the Son is stated as not having life — not as having torment or death-consciousness. | 1 Jn 5:12 | Conditionalist | E068 (existing) |
-| E25 | The LXX translates H6 (abad) as G622 (apollumi) 141 times (PMI score 6.14 — the dominant cross-testament correspondence). H8045 (shamad) translates as G622 (apollumi) 23 times (PMI 4.53). | LXX mapping data (H6 → G622; H8045 → G622) | Neutral | **NEW: E170** |
-| E26 | The torment terms G928 (basanizo) and G929 (basanismos) never appear as translations of any Hebrew destruction term (H6 abad, H8045 shamad, H3615 kalah, H3772 karat) in the LXX. | LXX mapping data (lexical survey, 0 occurrences of basanizo/basanismos for any Hebrew destruction term) | Neutral | **NEW: E171** |
-| E27 | G929 (basanismos = torment) appears in the NT only in Revelation, in 6 occurrences (Rev 9:5; 14:11; 18:7; 18:10; 18:15). Outside Revelation, basanismos does not appear in any NT eschatological context. | G929 BLB occurrence data | Neutral | **NEW: E172** |
-| E28 | The phrase G622 (apollumi) is applied to the heavens themselves: "They [the heavens] shall perish [apolountai]." Apollumi is used for the inanimate creation's dissolution. | Heb 1:11 | Conditionalist | **NEW: E173** |
-| E29 | "Except ye repent, ye shall all likewise perish [apoloisthe — G622, Aorist Middle Subjunctive 2nd Plural]." Stated identically twice. | Lk 13:3, 5 | Conditionalist | **NEW: E174** |
-| E30 | "For if the dead rise not... they also which are fallen asleep in Christ are perished [apolonto — G622, Aorist Middle Indicative 3rd Plural]." Without resurrection, those who died in Christ have completely perished. | 1 Cor 15:18 | Conditionalist | E128 (existing) |
-| E31 | The wicked "shall perish [yobedu — abad] at the presence of God" — compared to smoke driven away and wax melting before fire. Both similes depict complete dissolution. | Psa 68:2 | Conditionalist | **NEW: E175** |
-| E32 | "Never shalt thou be any more [lo tehyeh + lo]." Addressed to the king of Tyre after being reduced to ashes: permanent denial of future existence. | Ezk 28:19 | Conditionalist | **NEW: E176** |
-| E33 | "They shall be as nothing [ka-ayin — like non-existence]... as a thing of nought [ka-ephes — as zero/nothing]... thou shalt seek them, and shalt not find them." | Isa 41:11-12 | Conditionalist | **NEW: E177** |
-| E34 | "They shall be as the morning cloud... as the early dew that passeth away... as the chaff that is driven with the whirlwind... as the smoke out of the chimney." Four vanishing similes for the fate of the wicked. | Hos 13:3 | Neutral | **NEW: E178** |
-| E35 | The beast's destiny is described twice as "going into perdition [apoleia]." The same word (apoleia) used in Paul's epistles for the fate of the wicked applies to the beast. | Rev 17:8, 11 | Conditionalist | **NEW: E179** |
-| E36 | "The same shall be tormented [basanisthēsetai — G928, Future Passive Indicative] with fire and brimstone... and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name." Subject: specifically those who worship the beast and receive his mark. | Rev 14:10-11 | Neutral | E150 (existing) |
-| E37 | "The devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented [basanisthesontai — G928, Future Passive Indicative 3rd Plural] day and night for ever and ever." Subject: the devil, the beast, the false prophet. | Rev 20:10 | Neutral | E149 (existing) |
-| E38 | In Revelation 20:9, the nations surrounding the camp of the saints: "fire came down from God out of heaven, and devoured [katephagen — to eat up, consume] them." The nations receive consumption/devouring language; the three entities in v.10 receive torment language. Different vocabulary for different subjects in adjacent verses. | Rev 20:9 | Neutral | **NEW: E180** |
-| E39 | "These shall go away into everlasting punishment [kolasin aionion — G2851 + G166], but the righteous into life eternal [zoen aionion]." The same adjective (aionion) modifies both outcomes. The word is kolasis (punishment), not olethros (destruction) or basanismos (torment). | Mat 25:46 | Neutral | E119 (existing) |
-| E40 | G622 (apollumi) appears 92 times in the NT; G928 (basanizo) appears 12 times; of the 12 basanizo occurrences, eschatological uses are exclusively in Revelation (Rev 14:10; 20:10). | NT occurrence data for G622 and G928 | Neutral | **NEW: E181** |
-| E41 | Isaiah 34:10 — the highest-scoring OT parallel for Revelation 14:11 (hybrid score 0.401, theological score 0.30) — describes the desolation of Edom: "It shall not be quenched night nor day; the smoke thereof shall go up for ever." The referent is a burning, desolated wasteland, not conscious persons. | Isa 34:10 (cross-testament parallel tool data) | Neutral | **NEW: E182** |
-| E42 | "Sudden destruction [aiphnidios olethros] cometh upon them, as travail upon a woman with child; and they shall not escape." | 1 Th 5:3 | Conditionalist | **NEW: E183** |
-| E43 | "Many that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt [deraon olam]." The Hebrew term for the wicked's outcome is "deraon" (contempt/abhorrence) — the same word as Isaiah 66:24 ("abhorring") — describing how others regard the judged, not a torment term. | Dan 12:2 | Neutral | E023 (existing) |
-| E44 | The smoke of torment ascending "for ever and ever" (Rev 14:11) is the closest NT parallel to the language of Rev 20:10 (score 0.498); both share beast/mark/worship vocabulary. The subject in both passages is specifically beast-connected entities. | Rev 14:11; Rev 20:10 (cross-testament parallel tool data) | Neutral | **NEW: E184** |
+| E1 | The LXX translates abad (H6) as apollymi (G622) 141 times; this is the dominant mapping (PMI score 30.45) | LXX translation data | Neutral | E212 *NEW* |
+| E2 | The LXX translates shamad (H8045) as apollymi (G622) 23 times and exairo (to remove completely) 12 times | LXX translation data | Neutral | E213 *NEW* |
+| E3 | The LXX translates kalah (H3615) as synteleo (to complete entirely/consume) 85 times, ekleipo (to cease) 30 times, pauo (to stop) 15 times | LXX translation data | Neutral | E214 *NEW* |
+| E4 | The LXX translates shachath (H7843) as diaphtheiro (to rot thoroughly/destroy) 48 times and phtheiro (to corrupt/destroy) 6 times | LXX translation data | Neutral | E215 *NEW* |
+| E5 | The way of the ungodly shall perish (abad) | Psa 1:6 | Cond. | E216 *NEW* |
+| E6 | The wicked shall perish (abad), and the enemies of the LORD shall be as the fat of lambs: they shall consume (kalah); into smoke shall they consume away | Psa 37:20 | Cond. | E217 *NEW* |
+| E7 | Yet a little while, and the wicked shall not be: thou shalt diligently consider his place, and it shall not be | Psa 37:10 | Cond. | E218 *NEW* |
+| E8 | The transgressors shall be destroyed (shamad) together: the end of the wicked shall be cut off | Psa 37:38 | Cond. | E219 *NEW* |
+| E9 | As wax melteth before the fire, so let the wicked perish (abad) at the presence of God | Psa 68:2 | Cond. | E220 *NEW* |
+| E10 | The wicked shall be destroyed (shamad) for ever | Psa 92:7 | Cond. | E221 *NEW* |
+| E11 | The enemies of the LORD shall perish (abad); all the workers of iniquity shall be scattered | Psa 92:9 | Cond. | E222 *NEW* |
+| E12 | The LORD preserveth all them that love him: but all the wicked will he destroy (shamad) | Psa 145:20 | Cond. | E223 *NEW* |
+| E13 | Consume (kalah) them in wrath, consume them, that they may not be | Psa 59:13 | Cond. | E224 *NEW* |
+| E14 | Let the sinners be consumed (kalah) out of the earth, and let the wicked be no more | Psa 104:35 | Cond. | E225 *NEW* |
+| E15 | They that are far from thee shall perish (abad): thou hast destroyed all them that go a whoring from thee | Psa 73:27 | Cond. | E226 *NEW* |
+| E16 | How are they brought into desolation, as in a moment! they are utterly consumed (kalah) with terrors | Psa 73:19 | Cond. | E227 *NEW* |
+| E17 | He shall perish (abad) for ever like his own dung: they which have seen him shall say, Where is he? | Job 20:7 | Cond. | E228 *NEW* |
+| E18 | By the blast of God they perish (abad), and by the breath of his nostrils are they consumed | Job 4:9 | Cond. | E229 *NEW* |
+| E19 | When a wicked man dieth, his expectation shall perish (abad): and the hope of unjust men perisheth | Pro 11:7 | Cond. | E230 *NEW* |
+| E20 | They are dead, they shall not live; they are deceased, they shall not rise: therefore hast thou visited and destroyed (shamad) them, and made all their memory to perish (abad) | Isa 26:14 | Cond. | E148 |
+| E21 | The day of the LORD cometh... he shall destroy (shamad) the sinners thereof out of it | Isa 13:9 | Cond. | E231 *NEW* |
+| E22 | They that forsake the LORD shall be consumed (kalah)... the strong shall be as tow, and the maker of it as a spark, and they shall both burn together | Isa 1:28,31 | Cond. | E232 *NEW* |
+| E23 | Broad is the way that leadeth to destruction (apoleia), and many there be which go in thereat; narrow is the way which leadeth unto life | Matt 7:13-14 | Cond. | E233 *NEW* |
+| E24 | God is able to destroy (apollymi) both soul and body in gehenna | Matt 10:28 | Cond. | E028 |
+| E25 | Whosoever believeth in him should not perish (apollymi), but have everlasting life | John 3:16 | Cond. | E075 |
+| E26 | Except ye repent, ye shall all likewise perish (apollymi) | Luke 13:3,5 | Cond. | E234 *NEW* |
+| E27 | The flood came and destroyed (apollymi) them all; fire and brimstone from heaven destroyed (apollymi) them all | Luke 17:27,29 | Neutral | E235 *NEW* |
+| E28 | As many as have sinned without law shall also perish (apollymi) without law | Rom 2:12 | Cond. | E236 *NEW* |
+| E29 | The preaching of the cross is to them that perish (apollymi) foolishness; but unto us which are saved it is the power of God | 1 Cor 1:18 | Cond. | E237 *NEW* |
+| E30 | If Christ be not raised... they also which are fallen asleep in Christ are perished (apollymi) | 1 Cor 15:18 | Cond. | E238 *NEW* |
+| E31 | Not willing that any should perish (apollymi), but that all should come to repentance | 2 Pet 3:9 | Cond. | E239 *NEW* |
+| E32 | Whose end is destruction (apoleia), whose God is their belly | Phil 3:19 | Cond. | E240 *NEW* |
+| E33 | The heavens and the earth are reserved unto fire against the day of judgment and perdition (apoleia) of ungodly men | 2 Pet 3:7 | Cond. | E241 *NEW* |
+| E34 | Vessels of wrath fitted to destruction (apoleia) | Rom 9:22 | Cond. | E242 *NEW* |
+| E35 | Punished with everlasting destruction (olethros) from the presence of the Lord | 2 Thess 1:9 | Cond. | E090 |
+| E36 | Sudden destruction (olethros) cometh upon them... and they shall not escape | 1 Thess 5:3 | Neutral | E243 *NEW* |
+| E37 | Foolish and hurtful lusts drown men in destruction (olethros) and perdition (apoleia) | 1 Tim 6:9 | Cond. | E244 *NEW* |
+| E38 | The day cometh that shall burn as an oven; all the proud and all that do wickedly shall be stubble; the day shall burn them up, leaving neither root nor branch | Mal 4:1 | Cond. | E245 *NEW* |
+| E39 | Ye shall tread down the wicked; for they shall be ashes under the soles of your feet | Mal 4:3 | Cond. | E246 *NEW* |
+| E40 | They shall be as though they had not been | Oba 1:16 | Cond. | E247 *NEW* |
+| E41 | They shall be as the morning cloud, and as the early dew that passeth away, as the chaff driven with the whirlwind, and as the smoke out of the chimney | Hos 13:3 | Cond. | E248 *NEW* |
+| E42 | While they are drunken as drunkards, they shall be devoured as stubble fully dry | Nah 1:10 | Cond. | E249 *NEW* |
+| E43 | He will burn up the chaff with unquenchable fire | Matt 3:12 | Neutral | E250 *NEW* |
+| E44 | As the tares are gathered and burned in the fire; so shall it be in the end of this world... shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth | Matt 13:40-42 | Neutral | E251 *NEW* |
+| E45 | A certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries | Heb 10:27 | Cond. | E252 *NEW* |
+| E46 | Our God is a consuming fire | Heb 12:29 | Neutral | E253 *NEW* |
+| E47 | Fire came down from God out of heaven, and devoured them | Rev 20:9 | Neutral | E254 *NEW* |
+| E48 | The wages of sin is death; the gift of God is eternal life through Jesus Christ our Lord | Rom 6:23 | Cond. | E087 |
+| E49 | He that soweth to the flesh shall of the flesh reap corruption (phthora); he that soweth to the Spirit shall of the Spirit reap life everlasting | Gal 6:8 | Cond. | E088 |
+| E50 | There is one lawgiver, who is able to save and to destroy (apollymi) | Jas 4:12 | Neutral | E255 *NEW* |
+| E51 | These, as natural brute beasts, made to be taken and destroyed, shall utterly perish (phtheiro) in their own corruption | 2 Pet 2:12 | Cond. | E095 |
+| E52 | If any man defile the temple of God, him shall God destroy (phtheiro); the word used for God's action is the same word (phtheiro) used for the man's action | 1 Cor 3:17 | Neutral | E256 *NEW* |
+| E53 | The Lord shall consume (analisko) with the spirit of his mouth and destroy with the brightness of his coming | 2 Thess 2:8 | Neutral | E257 *NEW* |
+| E54 | By faith the harlot Rahab perished not (synapollymi) with them that believed not | Heb 11:31 | Neutral | E258 *NEW* |
+| E55 | Olethros (destruction) is etymologically related to ollymi, the root of apollymi; Strong's defines olethros as "ruin, i.e. death, punishment" | G3639 definition | Neutral | E259 *NEW* |
+| E56 | The torment vocabulary (basanizo G928, basanismos G929, kolasis G2851) constitutes a different word family from the destruction vocabulary (apollymi G622, apoleia G684, olethros G3639) | NT vocabulary data | Neutral | E260 *NEW* |
+| E57 | Apollymi is used for wineskins that "perish" (Matt 9:17) -- bursting and ceasing to function, not being tormented | Matt 9:17 | Neutral | E261 *NEW* |
+| E58 | Apollymi (G622) is derived from apo + the base of olethros; Strong's defines it as "to destroy fully" | G622 definition | Neutral | E262 *NEW* |
+| E59 | Apoleia (G684) is the noun form of apollymi; Strong's defines it as "ruin or loss" | G684 definition | Neutral | E263 *NEW* |
+| E60 | No lexicon defines abad, shamad, kalah, shachath, apollymi, apoleia, or olethros as "torment" or "ongoing conscious suffering" | Lexical data | Neutral | E264 *NEW* |
+| E61 | Everlasting punishment (kolasis aionios) vs. life eternal (zoe aionios); the same adjective (aionios) modifies both outcomes | Matt 25:46 | Neutral | E126 |
+| E62 | Sodom suffering the vengeance of eternal fire is set forth as an example; the cities are not still burning | Jude 1:7 | Neutral | E202 |
+| E63 | Rev 14:10-11: the smoke of their torment ascendeth up for ever and ever; subjects are beast-worshippers in an apocalyptic vision | Rev 14:10-11 | Neutral | E265 *NEW* |
+| E64 | Isaiah 34:10 uses identical "smoke ascending forever" language for Edom: "the smoke thereof shall go up for ever; from generation to generation it shall lie waste" -- Edom is not still burning | Isa 34:10 | Neutral | E266 *NEW* |
+| E65 | Dan 12:2: some to everlasting life, some to shame and everlasting contempt (deraon) | Dan 12:2 | Neutral | E023 |
+| E66 | Deraon (H1860, contempt/abhorrence) occurs only twice in the OT: Dan 12:2 and Isa 66:24; in Isa 66:24 it describes onlookers' reaction to corpses | Dan 12:2; Isa 66:24 | Neutral | E267 *NEW* |
 
 ---
 
-### 2. Necessary Implications Table (N Tier)
+#### Tree 3 Applications for Positional E-Items
 
-*N tier = unavoidably follows from E statements; no interpretation required; universal agreement.*
+All items classified as Conditionalist or ECT must pass all four gates of Tree 3.
 
-| # | Necessary Implication | Based on | Why it is unavoidable | Classification | Master ID |
+**Items already classified in prior studies with full Tree 3 documentation:**
+- E24/E028 (Matt 10:28): Classified Conditionalist in etc-01. All four gates passed.
+- E25/E075 (John 3:16): Classified Conditionalist in etc-02. All four gates passed.
+- E20/E148 (Isa 26:14): Classified Conditionalist in etc-04. All four gates passed.
+- E35/E090 (2 Thess 1:9): Classified Conditionalist in etc-02. All four gates passed.
+- E48/E087 (Rom 6:23): Classified Conditionalist in etc-02. All four gates passed.
+- E49/E088 (Gal 6:8): Classified Conditionalist in etc-02. All four gates passed.
+- E51/E095 (2 Pet 2:12): Classified Conditionalist in etc-02. All four gates passed.
+
+**New positional E-items requiring Tree 3 documentation:**
+
+**E5/E216 (Psa 1:6) -- "The way of the ungodly shall perish (abad)" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "perish" (abad) applied to the way of the ungodly. Destruction vocabulary. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "The way of the ungodly" -- metonymy for the ungodly themselves. The referent is literal human beings. PASS.
+  - Gate 2 (Grammar): abad is unambiguous in meaning: to perish, to be destroyed. PASS.
+  - Gate 3 (Genre): Wisdom psalm. Didactic content in poetic form. PASS.
+  - Gate 4 (Harmony): Consistent with E028 (Matt 10:28, destroy in gehenna), E075 (John 3:16, perish vs. everlasting life). No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E6/E217 (Psa 37:20) -- "The wicked shall perish (abad)... they shall consume (kalah); into smoke shall they consume away" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "perish" (abad), "consume" (kalah), "smoke" -- destruction/consumption vocabulary. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "The wicked" and "the enemies of the LORD" -- literal human beings. PASS.
+  - Gate 2 (Grammar): No ambiguity. Two destruction verbs (abad, kalah) used together. PASS.
+  - Gate 3 (Genre): Wisdom psalm of David. Didactic content. PASS.
+  - Gate 4 (Harmony): Consistent with E028, E075, E148. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E7/E218 (Psa 37:10) -- "The wicked shall not be... his place shall not be" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "shall not be" = non-existence. Cessation vocabulary. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "The wicked" -- literal human beings. PASS.
+  - Gate 2 (Grammar): No ambiguity. "Shall not be" (Hebrew ayin, "there is not"). PASS.
+  - Gate 3 (Genre): Wisdom psalm of David. Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with E028, E075, E217. Same psalm as E217. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E8/E219 (Psa 37:38) -- "The transgressors shall be destroyed (shamad) together: the end of the wicked shall be cut off" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "destroyed" (shamad), "cut off." Destruction vocabulary. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "The transgressors" and "the wicked" -- literal human beings. PASS.
+  - Gate 2 (Grammar): No ambiguity. shamad is unambiguous. PASS.
+  - Gate 3 (Genre): Wisdom psalm. Didactic. PASS.
+  - Gate 4 (Harmony): Same psalm as E217/E218. Consistent. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E9/E220 (Psa 68:2) -- "As wax melteth before the fire, so let the wicked perish (abad)" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "perish" (abad). Destruction vocabulary with melting-wax simile. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "The wicked" -- literal human beings. PASS.
+  - Gate 2 (Grammar): No ambiguity. abad = perish. PASS.
+  - Gate 3 (Genre): Psalm of triumph. Direct speech/prayer. PASS.
+  - Gate 4 (Harmony): Consistent with E028, E075, E217. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E10/E221 (Psa 92:7) -- "They shall be destroyed (shamad) for ever" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "destroyed" (shamad). Destruction vocabulary with duration qualifier ("for ever"). Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "The wicked" and "workers of iniquity" (v.7) -- literal human beings. PASS.
+  - Gate 2 (Grammar): No ambiguity. shamad = destroyed. "For ever" modifies the destruction. PASS.
+  - Gate 3 (Genre): Sabbath psalm. Didactic content. PASS.
+  - Gate 4 (Harmony): Consistent with E028, E090 (2 Thess 1:9: everlasting destruction). Same pattern: permanent destruction. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E11/E222 (Psa 92:9) -- "Thine enemies shall perish (abad); all the workers of iniquity shall be scattered" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "perish" (abad). Destruction vocabulary. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "Thine enemies" and "workers of iniquity" -- literal human beings addressed to God. PASS.
+  - Gate 2 (Grammar): No ambiguity. PASS.
+  - Gate 3 (Genre): Same psalm as E221. Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with E028, E075, E217. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E12/E223 (Psa 145:20) -- "The LORD preserveth all them that love him: but all the wicked will he destroy (shamad)" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "destroy" (shamad). Destruction vocabulary in contrast with "preserve." Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "All the wicked" -- literal human beings. PASS.
+  - Gate 2 (Grammar): No ambiguity. Antithetical parallelism: preserve vs. destroy. PASS.
+  - Gate 3 (Genre): Psalm of praise by David. Didactic content. PASS.
+  - Gate 4 (Harmony): Consistent with E028, E075, E087. Preserve/destroy contrast matches perish/life contrast. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E13/E224 (Psa 59:13) -- "Consume (kalah) them in wrath, consume them, that they may not be" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "consume" (kalah), "that they may not be" = cessation. Destruction vocabulary. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): Enemies (context: Saul's men). Generic application to the wicked. Literal human beings. PASS.
+  - Gate 2 (Grammar): No ambiguity. "That they may not be" (Hebrew ayin) explicitly defines the result of consumption. PASS.
+  - Gate 3 (Genre): Psalm of David. Direct speech/prayer. PASS.
+  - Gate 4 (Harmony): Consistent with E028, E075, E217 (Psa 37:20 -- consume into smoke). No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E14/E225 (Psa 104:35) -- "Let the sinners be consumed (kalah) out of the earth, and let the wicked be no more" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "consumed" (kalah), "be no more." Destruction/cessation vocabulary. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "Sinners" and "the wicked" -- literal human beings. PASS.
+  - Gate 2 (Grammar): No ambiguity. "Be no more" (Hebrew ayin) = non-existence. PASS.
+  - Gate 3 (Genre): Creation psalm. Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with E028, E075, E218 (Psa 37:10 -- "shall not be"). No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E15/E226 (Psa 73:27) -- "They that are far from thee shall perish (abad)" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "perish" (abad). Destruction vocabulary. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "They that are far from thee" -- generic human beings. PASS.
+  - Gate 2 (Grammar): No ambiguity. PASS.
+  - Gate 3 (Genre): Wisdom psalm of Asaph. Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with E028, E075, E217. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E16/E227 (Psa 73:19) -- "They are utterly consumed (kalah) with terrors" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "consumed" (kalah). Destruction/consumption vocabulary. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): The wicked described in context (v.17-20). Literal humans. PASS.
+  - Gate 2 (Grammar): No ambiguity. PASS.
+  - Gate 3 (Genre): Same psalm as E226. Didactic. PASS.
+  - Gate 4 (Harmony): Consistent. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E17/E228 (Job 20:7) -- "He shall perish (abad) for ever like his own dung" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "perish" (abad) "for ever." Permanent destruction. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): The wicked man (Job's friend Zophar speaking about the wicked). Literal human. PASS.
+  - Gate 2 (Grammar): No ambiguity. PASS.
+  - Gate 3 (Genre): Wisdom dialogue. Didactic content. PASS.
+  - Gate 4 (Harmony): Consistent with E090 (2 Thess 1:9: everlasting destruction), E221 (Psa 92:7: destroyed for ever). No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E18/E229 (Job 4:9) -- "By the blast of God they perish (abad), and by the breath of his nostrils are they consumed" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "perish" (abad), "consumed." Destruction vocabulary. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): Those who "plow iniquity and sow wickedness" (v.8). Literal humans. PASS.
+  - Gate 2 (Grammar): No ambiguity. PASS.
+  - Gate 3 (Genre): Wisdom dialogue. Eliphaz's observation. Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with E028, E217. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E19/E230 (Pro 11:7) -- "When a wicked man dieth, his expectation shall perish (abad)" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "perish" (abad) at death. Cessation vocabulary. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "A wicked man" -- literal human. PASS.
+  - Gate 2 (Grammar): No ambiguity. PASS.
+  - Gate 3 (Genre): Proverbial wisdom. Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with E011 (Psa 146:4: thoughts perish at death), E019 (Ecc 9:5: dead know nothing). No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E21/E231 (Isa 13:9) -- "He shall destroy (shamad) the sinners thereof out of it" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "destroy" (shamad). Destruction vocabulary applied to sinners. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "Sinners" -- literal human beings. PASS.
+  - Gate 2 (Grammar): No ambiguity. PASS.
+  - Gate 3 (Genre): Prophetic oracle ("the day of the LORD"). Didactic prophecy. PASS.
+  - Gate 4 (Harmony): Consistent with E028, E090, E223 (Psa 145:20). No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E22/E232 (Isa 1:28,31) -- "They that forsake the LORD shall be consumed (kalah)... the strong shall be as tow... they shall both burn together" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "consumed" (kalah), "burn together." Consumption/destruction. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "They that forsake the LORD" -- literal human beings. PASS.
+  - Gate 2 (Grammar): No ambiguity. Tow = flax fiber that is consumed by fire. PASS.
+  - Gate 3 (Genre): Prophetic oracle of Isaiah. Didactic prophecy. PASS.
+  - Gate 4 (Harmony): Consistent with E217 (Psa 37:20), E245 (Mal 4:1). No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E23/E233 (Matt 7:13-14) -- "Broad is the way that leadeth to destruction (apoleia)... narrow is the way which leadeth unto life" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "destruction" (apoleia) as the destination. Destruction vocabulary in contrast with "life." Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "Many" who go through the broad gate -- generic humanity. PASS.
+  - Gate 2 (Grammar): No ambiguity. apoleia = destruction/ruin. PASS.
+  - Gate 3 (Genre): Sermon on the Mount. Direct teaching of Jesus. Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with E075 (John 3:16: perish vs. life), E087 (Rom 6:23: death vs. life). Same destruction-vs-life pattern. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E26/E234 (Luke 13:3,5) -- "Except ye repent, ye shall all likewise perish (apollymi)" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "perish" (apollymi). Destruction vocabulary. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): Jesus' audience -- literal human beings. PASS.
+  - Gate 2 (Grammar): No ambiguity. apollymi = perish. PASS.
+  - Gate 3 (Genre): Direct teaching of Jesus. Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with E075, E028. Same word (apollymi). No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E28/E236 (Rom 2:12) -- "Sinned without law shall also perish (apollymi) without law" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "perish" (apollymi). Destruction vocabulary. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): Those who sin -- literal human beings. PASS.
+  - Gate 2 (Grammar): No ambiguity. PASS.
+  - Gate 3 (Genre): Pauline epistle. Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with E075, E087. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E29/E237 (1 Cor 1:18) -- "To them that perish (apollymi) foolishness; unto us which are saved... power of God" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "perish" (apollymi) vs. "saved." Destruction vocabulary. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "Them that perish" -- literal humans. PASS.
+  - Gate 2 (Grammar): No ambiguity. PASS.
+  - Gate 3 (Genre): Pauline epistle. Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with E075, E087. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E30/E238 (1 Cor 15:18) -- "They also which are fallen asleep in Christ are perished (apollymi)" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "perished" (apollymi). Paul argues that without resurrection, believers have perished (ceased to exist). Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "They which are fallen asleep in Christ" -- literal believers. PASS.
+  - Gate 2 (Grammar): No ambiguity. Paul's reductio ad absurdum depends on "perished" meaning cessation. PASS.
+  - Gate 3 (Genre): Pauline epistle. Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with E028, E075. Paul's argument requires that without resurrection, the dead have perished = ceased to exist. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E31/E239 (2 Pet 3:9) -- "Not willing that any should perish (apollymi)" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "perish" (apollymi). Destruction vocabulary. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "Any" -- generic humanity. PASS.
+  - Gate 2 (Grammar): No ambiguity. PASS.
+  - Gate 3 (Genre): Petrine epistle. Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with E075 (John 3:16). Same word (apollymi). No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E32/E240 (Phil 3:19) -- "Whose end is destruction (apoleia)" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "destruction" (apoleia). Destruction vocabulary. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "Enemies of the cross of Christ" -- literal humans. PASS.
+  - Gate 2 (Grammar): No ambiguity. apoleia = destruction. PASS.
+  - Gate 3 (Genre): Pauline epistle. Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with E233 (Matt 7:13: destruction), E087 (Rom 6:23: death). No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E33/E241 (2 Pet 3:7) -- "Reserved unto fire against the day of judgment and perdition (apoleia) of ungodly men" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "perdition" (apoleia = destruction). Destruction vocabulary. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "Ungodly men" -- literal humans. PASS.
+  - Gate 2 (Grammar): No ambiguity. PASS.
+  - Gate 3 (Genre): Petrine epistle. Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with E233, E240, E087. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E34/E242 (Rom 9:22) -- "Vessels of wrath fitted to destruction (apoleia)" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "destruction" (apoleia). Destruction vocabulary. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "Vessels of wrath" = the disobedient. Literal humans by analogy. PASS.
+  - Gate 2 (Grammar): No ambiguity. "Fitted to destruction" -- the purpose/destination is destruction. PASS.
+  - Gate 3 (Genre): Pauline epistle. Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with E233, E240, E087. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E37/E244 (1 Tim 6:9) -- "Drown men in destruction (olethros) and perdition (apoleia)" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "destruction" (olethros) and "perdition" (apoleia). Two destruction words together. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "Men" -- literal humans. PASS.
+  - Gate 2 (Grammar): No ambiguity. Two destruction nouns in parallel. PASS.
+  - Gate 3 (Genre): Pauline epistle. Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with E090, E233, E240. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E38/E245 (Mal 4:1) -- "Shall be stubble: and the day that cometh shall burn them up, leaving neither root nor branch" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "burn them up," "neither root nor branch." Complete consumption. Destruction. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "All the proud, yea, and all that do wickedly" -- literal humans. PASS.
+  - Gate 2 (Grammar): No ambiguity. "Burn up" = consume by fire. "Neither root nor branch" = nothing remains. PASS.
+  - Gate 3 (Genre): Prophetic oracle of Malachi. Didactic prophecy. PASS.
+  - Gate 4 (Harmony): Consistent with E028, E217, E233. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E39/E246 (Mal 4:3) -- "They shall be ashes under the soles of your feet" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "ashes." The wicked are depicted as the post-combustion residue. Destruction vocabulary. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "The wicked" -- literal humans. PASS.
+  - Gate 2 (Grammar): No ambiguity. Ashes are the inert residue after burning. PASS.
+  - Gate 3 (Genre): Prophetic oracle. Didactic prophecy. PASS.
+  - Gate 4 (Harmony): Consistent with E245 (same passage). No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E40/E247 (Oba 1:16) -- "They shall be as though they had not been" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "as though they had not been" = non-existence. Cessation vocabulary. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "All the heathen" (context: nations judged by God). PASS.
+  - Gate 2 (Grammar): No ambiguity. PASS.
+  - Gate 3 (Genre): Prophetic oracle of Obadiah. Didactic prophecy. PASS.
+  - Gate 4 (Harmony): Consistent with E218 (Psa 37:10: shall not be), E225 (Psa 104:35: be no more). No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E41/E248 (Hos 13:3) -- "As the morning cloud, and as the early dew that passeth away, as the chaff... and as the smoke" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- Four similes of dissipation/vanishing. Cessation imagery. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): Sinful Israel (Ephraim, v.1). Literal humans. PASS.
+  - Gate 2 (Grammar): No ambiguity. Four similes, all of things that vanish. PASS.
+  - Gate 3 (Genre): Prophetic oracle. Didactic prophecy. PASS.
+  - Gate 4 (Harmony): Consistent with E217 (smoke), E220 (wax melting). No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E42/E249 (Nah 1:10) -- "Devoured as stubble fully dry" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "devoured" with stubble simile. Consumption/destruction. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): The enemies of God. Literal humans. PASS.
+  - Gate 2 (Grammar): No ambiguity. PASS.
+  - Gate 3 (Genre): Prophetic oracle. Didactic prophecy. PASS.
+  - Gate 4 (Harmony): Consistent with E245 (Mal 4:1: stubble burned up). No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E45/E252 (Heb 10:27) -- "Fiery indignation, which shall devour the adversaries" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- "devour" (esthio = eat/consume). Destruction vocabulary. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "The adversaries" -- literal human beings. PASS.
+  - Gate 2 (Grammar): No ambiguity. "Devour" = consume. PASS.
+  - Gate 3 (Genre): Epistle to the Hebrews. Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with E028, E245. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+---
+
+### 2. Necessary Implications Table
+
+| # | Necessary Implication | Based on | Position | Why Unavoidable | Master ID |
 |---|---|---|---|---|---|
-| N1 | G622 (apollumi) and G684 (apoleia) are structurally placed as the direct antithesis of G2222 (zoe, life) throughout the NT eschatological vocabulary — they occupy the opposite pole from "having life" in every occurrence where they appear together. | E2 (Jn 3:16: not perish BUT have life); E19 (Mat 7:13-14: road to destruction vs. road to life); E20 (Gal 6:8: reap corruption vs. reap eternal life); E21 (Heb 10:39: perdition vs. saving of the soul) | Four independent texts by different authors (John, Matthew/Jesus, Paul, author of Hebrews) place apollumi/apoleia on the opposite side from zoe. Observable structural pattern both sides must acknowledge. | Conditionalist | **NEW: N030** |
-| N2 | The LXX translation of H6 (abad) as G622 (apollumi) 141 times establishes that the NT writers using apollumi for eschatological destruction were using vocabulary that the LXX had already established as the Greek equivalent of the Hebrew "perish/be destroyed" vocabulary in the Psalms and Prophets. | E25 (LXX mapping data: H6 → G622, 141x, PMI 6.14) | The quantitative LXX correspondence (141x, PMI 6.14) is the dominant cross-testament correspondence for either word. That the NT uses the LXX's established vocabulary for eschatological destruction is an unavoidable lexical observation. | Neutral | **NEW: N031** |
-| N3 | The Hebrew destruction terms (abad, shamad, kalah, karat) and the Greek NT destruction terms (apollumi, apoleia, olethros, phthora) form a unified semantic field across both testaments, consistently describing cessation, ruin, and loss rather than ongoing conscious torment. | E3, E5, E6, E14 (abad/shamad/karat in Psalms); E3, E8-E11, E17, E31 (multiple OT destruction passages); E2, E15, E18, E19, E22, E23, E28-E30 (NT apollumi/apoleia/olethros); E25, E26 (LXX bridge data); N031 | Observable from the complete lexical survey: none of the destruction terms is ever used in any context to mean "ongoing conscious torment." The LXX bridge confirms cross-testament semantic continuity. | Conditionalist | **NEW: N032** |
-| N4 | Basanizo (G928) and basanismos (G929) are lexically distinct from the destruction vocabulary (apollumi, apoleia, olethros, phthora) — no NT text uses both vocabulary sets to describe the same event or the same subject. | E26 (LXX: destruction terms never translated as basanizo/basanismos); E27 (basanismos occurs only in Revelation); E40 (G622 = 92 NT occ, eschatological basanizo confined to Revelation); E36, E37 (torment passages) vs. E2, E15, E18, E19 (destruction passages) | Complete occurrence survey shows the two vocabulary sets appear in different passages with different subjects and never together in the same judgment description. Observable lexical-distributional fact. | Neutral | **NEW: N033** |
+| N1 | The abad-apollymi lexical chain is verified by LXX translation (141 times); when the NT uses apollymi for the fate of the wicked, it uses the same word the LXX uses to translate the OT's primary destruction verb | E1/E212 (LXX: abad -> apollymi 141x), E24/E028 (apollymi in Matt 10:28), E25/E075 (apollymi in John 3:16) | Neutral | The LXX translation is a verifiable textual fact. Both sides accept that apollymi translates abad. | N027 *NEW* |
+| N2 | The "perish vs. life" contrast is a structural pattern across multiple authors: the two outcomes are presented as antithetical, not as two forms of continued existence | E25/E075 (John 3:16: perish vs. life), E23/E233 (Matt 7:13-14: destruction vs. life), E48/E087 (Rom 6:23: death vs. life), E32/E240 (Phil 3:19: destruction vs. glory), E12/E223 (Psa 145:20: destroy vs. preserve) | Neutral | Five passages from four authors present this contrast. The structural pattern is observable. Both sides acknowledge the textual contrast; they disagree about what "perish/destroy" means. | N028 *NEW* |
+| N3 | All biblical destruction similes for the wicked depict substances that cease to exist: chaff burned, wax melting, smoke dissipating, stubble consumed, ashes remaining, dew evaporating, morning clouds passing | E9/E220 (wax), E6/E217 (smoke, fat consumed), E38/E245 (stubble, no root or branch), E39/E246 (ashes), E41/E248 (clouds, dew, chaff, smoke), E42/E249 (stubble devoured) | Neutral | These are observable properties of the natural substances named. Wax melts, smoke dissipates, chaff burns, stubble is consumed. Both sides accept what these substances do; they disagree about whether the similes are meant to depict the actual fate or merely its severity. | N029 *NEW* |
+| N4 | The destruction vocabulary (apollymi, apoleia, olethros) and the torment vocabulary (basanizo, basanismos, kolasis) are distinct word families with different semantic ranges | E56/E260 (distinct word families), E58/E262 (apollymi = "to destroy fully"), E60/E264 (no destruction word means "torment") | Neutral | These are different Greek words with different definitions. Both sides accept the words are different; they disagree about whether the destruction words are metaphorical. | N030 *NEW* |
+
+**N-tier verification (3-question test applied to each):**
+
+- **N1/N027:** (1) Both ECT and Conditionalist scholars agree the LXX translates abad as apollymi 141 times. YES. (2) One meaning. YES. (3) Zero added. YES. PASSES.
+
+- **N2/N028:** (1) Both sides acknowledge the textual contrast between "perish/destroy" and "life." YES. (2) The observation is that the contrast exists; interpreting what it means would be I-tier. YES. (3) Zero added. YES. PASSES.
+
+- **N3/N029:** (1) Both sides accept what these substances naturally do. YES. (2) One meaning (what the substances do). YES. (3) Zero added. YES. PASSES.
+
+- **N4/N030:** (1) Both sides agree these are different word families. YES. (2) One meaning. YES. (3) Zero added. YES. PASSES.
 
 ---
 
-### 3. Inferences Table (I Tier)
+### 3. Inferences Table
 
-| # | Claim | Type | What the Bible actually says | Why this is an inference | Criteria | Classification | SIS Resolution | Master ID |
-|---|-------|------|------------------------------|--------------------------|----------|----------------|----------------|---------|
-| I1 | The Bible teaches that the destruction vocabulary (apollumi, abad, etc.) consistently describes cessation of existence — the wicked cease to exist — rather than ongoing conscious torment in another state. | I-A | E3 (Ps 37:20 abad + kalah + smoke imagery); E4 (Ps 37:10 non-existence particle: "not be"); E7 (Ps 37:36 "he was not"); E10 (Obad 1:16 "as though they had not been"); E12 (Ps 104:35 consumed → be no more); E32 (Ezk 28:19 "never shalt thou be any more"); E33 (Isa 41:11-12 "as nothing"); N030, N032. | No single verse states "the wicked cease to exist" as a comprehensive doctrine. Systematizes the destruction vocabulary pattern + non-existence expressions across both testaments into a positive doctrinal claim. | #5 (systematizing) | Conditionalist | I-A: Strong single-direction support | **NEW: IA018** |
-| I2 | The two vocabulary sets — destruction (apollumi, apoleia, olethros, phthora, abad, shamad, kalah, karat) and torment (basanizo, basanismos) — describe different outcomes for different subjects in Revelation, not a unified description of the same event for all the wicked. | I-A | E36 (Rev 14:10-11: torment = beast-worshippers, specific tribulation class); E37 (Rev 20:10: torment = devil/beast/false prophet, three named entities); E38 (Rev 20:9: nations = devoured/consumed, consumption vocabulary); Rev 20:15 (human wicked cast into lake without torment language); N033 (lexical separation confirmed); E2, E15, E19 (destruction vocabulary for all the wicked broadly). | Systematizes the different subjects + vocabulary choices in Revelation into a broader claim about different outcomes. Requires the inference step that vocabulary choice reflects outcome distinction. | #5 (systematizing) | Conditionalist | I-A: No torment language applied to general human wicked in any passage | **NEW: IA019** |
-| I3 | The biblical self-interpretation of "everlasting destruction" (olethron aionion, 2 Th 1:9) is that aionion modifies the permanence of the result of destruction, not the ongoing duration of a process of torment. | I-A | E15 (2 Th 1:9: olethron aionion — aionion attaches to the destruction noun); N029 *(reclassified to IB009-resolved)* (existing: eternal fire on Sodom = ashes, i.e., permanent result, not ongoing process); E147 (existing: Jude 1:7 + 2 Pet 2:6 = eternal fire = ashes). The aionion modifier functions identically for "eternal fire" (=ashes) and "everlasting destruction" (=permanent ruin). | Applies N029 (eternal fire = permanent result, reclassified to IB009-resolved) to the aionion-olethros construction. This is a #4a SIS connection: the Bible's own definition of "eternal fire" as a permanent result (via Jude 1:7 + 2 Pet 2:6) governs the parallel construction "everlasting destruction." | #5 (systematizing); #4a (SIS: Jude/2 Pet define "eternal" fire as producing ashes — same aionion-adjective pattern) | Conditionalist | I-A: SIS connection via N029/E147 | **NEW: IA020** |
-| I4 | The structural antithesis of destruction/death vs. life throughout Scripture teaches that the wicked's final state is genuine non-life (cessation) rather than an alternative form of conscious existence. | I-A | N030 (destruction vocabulary = structural antithesis of life); E24/E068 (1 Jn 5:12: "hath not the Son hath not life" — not having life, not having torment-life); E2 (Jn 3:16 not perish vs. have life); E20 (Gal 6:8 corruption vs. eternal life); IA014 (existing: death/life antithesis). | Systematizes the life/destruction antithesis pattern into the positive claim that the wicked's final state is non-life. IA014 (existing) covers the full cross-testament pattern; this study's data reinforces and supplements it. | #5 (systematizing N030 + E items into an ontological claim about the wicked's state) | Conditionalist | I-A — supported by IA014 (existing) | Supplement to IA014 |
-| I5 | The "smoke of their torment ascendeth up for ever and ever" in Revelation 14:11 is an appropriation of the permanent-desolation imagery of Isaiah 34:10 (smoke of burning Edom ascending forever) — a literary formula for permanent ruin — rather than a literal description of ongoing conscious suffering in perpetuity. | I-B | FOR this claim: E41 (Isa 34:10 = highest OT parallel for Rev 14:11, hybrid 0.401, theo 0.30; Edom's desolated wasteland = referent of ascending smoke); N029 *(reclassified to IB009-resolved)* (eternal fire = permanent result, not ongoing process). AGAINST: E36 (Rev 14:10-11 explicitly uses basanizo/basanismos = torment vocabulary in an eschatological context; the smoke is connected to their torment; the text says "no rest day nor night"). | Both sides have textual support. The OT background (Isa 34:10 = desolation imagery) points toward literary formula; the NT text's use of basanizo (torment) points toward conscious experience. | #2 (choosing between literary formula and literal description); #3 (applying genre/literary-context framework); #4a (SIS: Isa 34:10 = source text for the imagery) | Neutral | **Moderate — weight toward literary formula / permanent-desolation imagery.** The identified source text (Isa 34:10 = wasteland smoke, not conscious torment) governs the imagery via #4a SIS. The "no rest day nor night" language is contextually specific to beast-worshippers (same subject limitation as IB008). | **NEW: IB009** |
-| I6 | "Everlasting destruction from the presence of the Lord" (2 Th 1:9) means banishment / separation from God's presence — the wicked exist forever in a state of being cut off from God — rather than their complete annihilation as the result of encountering God's presence. | I-B | FOR: "from the presence of the Lord" (apo prosopou) could indicate source of separation/banishment. AGAINST: E15 (Paul's chosen noun is olethros = destruction/ruin, not separation vocabulary); Psa 68:2 (wicked perish abad at the presence of God = E31, presence = destructive agent); Psa 9:3 (enemies "perish at thy presence" — presence causes destruction, not separation); E3/E4/E7/E12 (non-existence vocabulary throughout the OT destruction cluster). | The reading "banishment from God's presence" is grammatically possible but requires understanding apo prosopou as a prepositional phrase of separation rather than source. It also requires understanding olethros as "condition of separation" rather than its lexical meaning (ruin/destruction). | #1 (adding the concept "ongoing existence in separation" not present in olethros); #2 (choosing between source reading and separation reading of apo prosopou) | ECT | **Moderate — weight AGAINST banishment/separation reading.** The clearer passages (Ps 9:3; Ps 68:2) use "at/from the presence" as the location/source of destruction, not of banishment. The word Paul chose (olethros = ruin, destruction) most naturally denotes the result of being destroyed rather than the ongoing state of being separated. | **NEW: IB010** |
+| # | Claim | Type | Position | What the Bible Actually Says | Why This Is an Inference | Criteria |
+|---|-------|------|----------|------------------------------|--------------------------|----------|
+| I1 | The Bible's destruction vocabulary for the fate of the wicked means cessation of existence: the wicked perish, are destroyed, consumed, and cease to be | I-A | Cond. | E5-E22/E216-E232 (abad, shamad, kalah used for the wicked across Psalms, Job, Proverbs, Isaiah); E23-E34/E233-E242 (apollymi, apoleia used for the wicked across Gospels, Paul, Peter); E35/E090 (olethros aionios = everlasting destruction); E38-E42/E245-E249 (destruction similes: stubble burned, ashes, devoured); E7/E218 (Psa 37:10: "shall not be"); E13/E224 (Psa 59:13: "that they may not be"); E14/E225 (Psa 104:35: "be no more"); E40/E247 (Oba 1:16: "as though they had not been"). | This systematizes ~40 E-items from ~15 biblical authors into a comprehensive claim. Every component is found in the E/N tables. It is an inference only because it draws a conclusion from the cumulative pattern. Uses only criterion #5 (systematizing) and #4a (LXX-verified vocabulary chain). | #5 (systematizing), #4a (SIS) |
+| I2 | The Bible's destruction vocabulary is metaphorical: "perish" means spiritual ruin (continued existence in a ruined state), "destroy" means inflict irreparable loss, and the similes depict severity rather than cessation | I-B | ECT-direction | FOR: E61/E126 (Matt 25:46: "everlasting punishment" -- punishment implies a subject who experiences it); E63/E265 (Rev 14:10-11: "tormented... smoke of their torment ascendeth up for ever and ever"); E44/E251 (Matt 13:42: "wailing and gnashing of teeth" in furnace -- implies conscious experience). AGAINST: E60/E264 (no destruction word lexically means "torment"); E57/E261 (apollymi for wineskins = physical ruin/cessation, not torment); E7/E218 (Psa 37:10: "shall not be"); E13/E224 (Psa 59:13: "that they may not be"); E14/E225 (Psa 104:35: "be no more"); E40/E247 (Oba 1:16: "as though they had not been"); all E-items using abad, shamad, kalah, apollymi, apoleia, olethros. | The claim requires every destruction word to mean something other than what the lexicons define it as, and every destruction simile to depict something other than what the natural process involves. The FOR evidence comes from torment-vocabulary passages (Rev 14:10-11, in apocalyptic genre) and one parabolic image (wailing in furnace), while the AGAINST evidence comes from 40+ didactic passages using destruction vocabulary across both testaments. | #1 (adding "spiritual ruin" meaning not in lexicons), #2 (choosing between lexical and metaphorical readings), #4b (using torment passages to redefine destruction passages) |
+| I3 | The phrase "everlasting destruction" (olethros aionios, 2 Thess 1:9) means ongoing destruction that never ends (an eternal process of being destroyed), not destruction whose result is permanent | I-B | ECT-direction | FOR: E61/E126 (aionios modifies both "punishment" and "life" in Matt 25:46; since "everlasting life" means ongoing life, "everlasting punishment/destruction" should mean ongoing destruction). AGAINST: E55/E259 (olethros = "ruin, i.e. death, punishment" -- a completed state, not an ongoing process); E10/E221 (Psa 92:7: "destroyed for ever" -- shamad parallels olethros aionios); E17/E228 (Job 20:7: "perish for ever" -- abad parallels olethros aionios); E62/E202 (Jude 1:7: "eternal fire" applied to Sodom -- the fire is not still burning; the destruction is permanent). | The claim requires olethros to be read as an ongoing process when the word means "ruin/death" (a result, not a process). It requires "everlasting" to modify the process rather than the result. Compare: "everlasting salvation" (Heb 5:9) does not mean an ongoing process of being saved but a salvation whose result is permanent. "Everlasting redemption" (Heb 9:12) does not mean an ongoing process of being redeemed. The same pattern: "everlasting destruction" = destruction whose result is permanent. | #2 (choosing between result-oriented and process-oriented readings of aionios + noun), #4b (importing Matt 25:46 pattern onto 2 Thess 1:9 without verified textual connection) |
+| I4 | "Wailing and gnashing of teeth" in a furnace of fire (Matt 13:42,50) describes eternal conscious torment, not the anguish of those being destroyed | I-B | ECT-direction | FOR: E44/E251 (Matt 13:42: "wailing and gnashing of teeth" implies conscious experience in the furnace). AGAINST: E24/E028 (Matt 10:28: same author Matthew uses apollymi/destroy for gehenna); E23/E233 (Matt 7:13: same author uses apoleia/destruction); E6/E217 (Psa 37:20: consume into smoke); E38/E245 (Mal 4:1: stubble burned up). | The claim requires "wailing and gnashing" to describe an ongoing state rather than the moment of being cast in (as a person being thrown into a furnace wails at the point of destruction). It also requires this parabolic imagery (the parable of the tares) to override same-author didactic statements (Matt 10:28: destroy soul and body). | #2 (choosing between momentary anguish and ongoing state), #3 (parabolic genre treated as didactic) |
 
 ---
 
-### I-B Resolution Subsections
+### I-B Resolution: I2 -- Destruction Vocabulary Is Metaphorical for Spiritual Ruin
 
-#### I-B Resolution: IB009 — Smoke ascending forever (Rev 14:11) as permanent-desolation imagery vs. literal conscious torment
+**Step 1 -- Tension:**
+- FOR: E126 (Matt 25:46: everlasting punishment implies ongoing experience), E265 (Rev 14:10-11: torment and smoke ascending forever), E251 (Matt 13:42: wailing and gnashing)
+- AGAINST: E264 (no destruction word lexically means torment), E261 (apollymi for wineskins = physical ruin), E218 (Psa 37:10: "shall not be"), E224 (Psa 59:13: "that they may not be"), E225 (Psa 104:35: "be no more"), E247 (Oba 1:16: "as though they had not been"), plus all ~40 E-items using destruction vocabulary
 
-**Step 1 — Tension:**
-- FOR (literary formula / desolation imagery): E41 (Isa 34:10 = OT source text, highest parallel, score 0.401 with theological match; Edom's burning land is the referent, not conscious persons); N029 *(reclassified to IB009-resolved after Study 5)* (existing: eternal fire terminology = permanent result, not ongoing process per Jude 1:7 + 2 Pet 2:6).
-- AGAINST: E36 (Rev 14:10-11: basanizo/basanismos used; smoke connected to "their torment"; text states "no rest day nor night" for the beast-worshipping class).
-
-**Step 2 — Clarity Assessment:**
+**Step 2 -- Clarity Assessment:**
 
 | Item | Level | Rationale |
 |------|-------|-----------|
-| E41 (Isa 34:10) | Plain | The referent is explicitly a desolated land; the text's own subject is the wasteland of Edom, not persons in conscious torment. OT didactic prophecy. |
-| N029 *(reclassified to IB009-resolved)* | Plain | Bible's self-definition of "eternal fire" as producing ashes (Jude 1:7 + 2 Pet 2:6: same author, same event, same fire = ashes). |
-| E36 | Contextually Clear | Apocalyptic vision genre; specific subject (beast-worshippers in tribulation); torment vocabulary is genuine and explicit; the "no rest" statement is unqualified within the passage. |
+| E126 (Matt 25:46) | Contextually Clear | kolasis (punishment), not apollymi (destruction). The word is from the torment vocabulary family, not the destruction vocabulary family. It does not define what destruction words mean. |
+| E265 (Rev 14:10-11) | Ambiguous | Apocalyptic genre. Uses basanizo (torment), not destruction vocabulary. Specific subjects (beast-worshippers). Does not define destruction words. |
+| E251 (Matt 13:42) | Ambiguous | Parabolic genre (parable of the tares). "Wailing and gnashing" could occur at the moment of destruction. |
+| E264 (no destruction word means torment) | Plain | Lexical fact. No lexicon defines abad, shamad, kalah, shachath, apollymi, apoleia, or olethros as "torment." |
+| E261 (wineskins perish) | Plain | apollymi used for a physical object that ceases to function. The word's meaning is visible in non-theological usage. |
+| E218 (Psa 37:10: shall not be) | Plain | Direct statement. Non-existence language. |
+| E224 (Psa 59:13: may not be) | Plain | Direct statement. Goal of consumption: non-existence. |
+| E225 (Psa 104:35: be no more) | Plain | Direct statement. Non-existence language. |
+| E247 (Oba 1:16: as though they had not been) | Plain | Direct statement. Non-existence language. |
+| All destruction vocabulary E-items | Plain | Each uses destruction words in their lexical meaning. |
 
-**Step 3 — Weight:**
-Plain OT source text (Isa 34:10 as the background for the smoke-forever formula) combined with the Bible's self-definition of eternal fire (N029, reclassified to IB009-resolved) outweigh the contextually-specific Revelation passage. The apocalyptic genre of Revelation calls for OT source-text analysis of its imagery.
+**Step 3 -- Weight:**
+FOR: 1 Contextually Clear item (Matt 25:46, which uses kolasis not destruction vocabulary) and 2 Ambiguous items (one apocalyptic, one parabolic).
+AGAINST: 5+ Plain items stating non-existence directly, plus ~40 E-items using destruction vocabulary at lexical value, plus 1 Plain lexical observation (no destruction word means torment).
 
-**Step 4 — SIS Application:**
-Isaiah 34:10 is the confirmed source text for Revelation 14:11's "smoke ascending forever" language (tool-verified parallel, highest OT score with theological flag). The OT source provides context: the smoke rises from a desolated wasteland, not from conscious persons. This is #4a SIS (verified textual connection: OT text quoted/alluded to → governs the imagery's referent). The clear OT source (Edom's desolation) interprets the unclear Revelation passage.
+**Step 4 -- SIS Application:**
+The FOR evidence does not use destruction vocabulary at all -- it uses torment/punishment vocabulary (basanizo, kolasis) from a different word family. The question is what the destruction words mean, and the FOR evidence does not address destruction words. The AGAINST evidence addresses destruction words directly: lexical definitions, usage patterns, explicit non-existence statements. The plain passages (lexical definitions, explicit non-existence language) govern the ambiguous ones (apocalyptic imagery, parabolic depictions).
 
-**Step 5 — Resolution: Moderate — weight toward permanent-desolation imagery / literary formula**
-The tool-verified OT source text (Isa 34:10) establishes that "smoke ascending forever" is the biblical idiom for permanent destruction/desolation. The torment vocabulary in Rev 14:10-11 is specific to the beast-worshipping class (same subject-limitation as IB008) and is in an apocalyptic genre. The literary background governs the smoke-imagery's meaning.
+**Step 5 -- Resolution: Strong**
+The FOR evidence uses different vocabulary (torment/punishment words) to argue about what destruction words mean. The AGAINST evidence includes the lexical definitions themselves, non-metaphorical usage (wineskins), and explicit non-existence statements ("shall not be," "be no more," "as though they had not been"). Destruction vocabulary means destruction. Master I036 *NEW*.
 
 ---
 
-#### I-B Resolution: IB010 — "From the presence of the Lord" in 2 Th 1:9 as separation vs. source of destruction
+### I-B Resolution: I3 -- "Everlasting Destruction" Means Ongoing Process
 
-**Step 1 — Tension:**
-- FOR (separation reading, ECT): "apo prosopou" (from the presence) could denote being removed/banished from God's presence — the wicked exist forever in a state of separation from God.
-- AGAINST (source reading, conditionalist): Paul's noun is olethros (destruction/ruin), not a separation word. OT "at God's presence" in destruction contexts = the presence is the destructive agent (Ps 9:3; Ps 68:2; Isa 2:10,19,21). E15; E4, E7, E10, E12 (non-existence vocabulary).
+**Step 1 -- Tension:**
+- FOR: E126 (Matt 25:46: aionios modifies both outcomes; since life is ongoing, destruction should be ongoing)
+- AGAINST: E259 (olethros = "ruin, death" -- a result), E221 (Psa 92:7: "destroyed for ever"), E228 (Job 20:7: "perish for ever"), E202 (Jude 1:7: "eternal fire" applied to Sodom -- not still burning)
 
-**Step 2 — Clarity Assessment:**
+**Step 2 -- Clarity Assessment:**
 
 | Item | Level | Rationale |
 |------|-------|-----------|
-| E15 (2 Th 1:9: olethros) | Plain | Lexical: olethros = ruin/destruction (noun of result). The word Paul chose names what happens to the wicked. Didactic (epistle). |
-| E31 (Ps 68:2: perish at presence) | Plain | "At thy presence" = the presence is where/by which the wicked perish. Psalmic/prophetic. |
-| Ps 9:3 (fall/perish at God's presence) | Plain | "At thy presence" = spatial/causal: presence causes perishing. Multiple Psalmic texts confirm this as the OT idiom. |
-| Isa 2:10,19,21 | Contextually Clear | "Hide from the glory of his majesty" = the LORD's presence causes destruction; people flee from it. Prophetic. |
+| E126 (Matt 25:46) | Contextually Clear | Uses kolasis (punishment), not olethros (destruction). The aionios-modifying-noun pattern is observable, but what the modified noun means is the question. |
+| E259 (olethros definition) | Plain | Lexical fact. olethros = ruin, death, destruction. |
+| E221 (Psa 92:7) | Plain | "Destroyed for ever" -- Hebrew parallel to olethros aionios. shamad = destroyed. The result is permanent. |
+| E228 (Job 20:7) | Plain | "Perish for ever" -- same pattern. abad = perish. Permanent perishing. |
+| E202 (Jude 1:7) | Plain | "Eternal fire" applied to Sodom. The cities no longer burn. The destruction was completed; its result is eternal. |
 
-**Step 3 — Weight:**
-The lexical weight of olethros (destruction-noun) is unambiguous. Multiple OT passages use "at/from the presence" as the source/agent of destruction. The separation reading requires olethros to mean something other than its lexical definition (ruin/destruction) and requires the "from the presence" phrase to denote banishment rather than the source of the destructive action.
+**Step 3 -- Weight:**
+FOR: 1 Contextually Clear item.
+AGAINST: 4 Plain items (lexical definition, two OT parallels showing the pattern, one biblical example proving the result-oriented reading).
 
-**Step 4 — SIS Application:**
-The OT texts (Ps 68:2; Ps 9:3; Isa 2:10,19,21) use "from the presence of the LORD" or "at thy presence" in contexts where God's presence causes destruction — this is the OT semantic register for the phrase. These are #4a connections (OT contexts using the same construction to mean "caused by God's presence/presence as destructive agent"). Paul's use of the same construction likely continues this OT idiom.
+**Step 4 -- SIS Application:**
+Jude 1:7 provides a biblical example of aionios + destruction language: Sodom suffered "the vengeance of eternal fire," yet the cities are not still burning. This demonstrates the result-oriented reading: the fire's effect is permanent, not the fire's process. "Everlasting destruction" follows the same pattern: the destruction's result is permanent. "Destroyed for ever" (Psa 92:7) and "perish for ever" (Job 20:7) provide Hebrew precedent for this reading.
 
-**Step 5 — Resolution: Moderate — weight AGAINST the separation/banishment reading**
-The lexical meaning of olethros (ruin/destruction) combined with the OT idiom (God's presence = destructive agent) weighs against reading the phrase as banishment into ongoing existence. The separation reading adds a concept (ongoing existence in separation) not contained in olethros.
-
----
-
-### 4. Verification Phase
-
-**Step A (Verify E statements):** All E items directly quote or closely paraphrase the stated verse text. E25, E26, E27, E40, E41, E44 are derived from lexical/parallel tool data — these are tool-verified statistical observations, not positional readings. E38 identifies vocabulary from Rev 20:9 that both sides must acknowledge. E39 is the grammatical observation about Mat 25:46 (same adjective; word is kolasis not olethros/basanismos). All E items pass the "what the text says" test.
-
-**Step B (Verify N statements):** N030: the antithetical structure of apollumi/apoleia vs. zoe is observable in four independent NT texts — both sides must acknowledge the structural pairing even if they disagree about what the antithesis implies. N031: the 141-occurrence LXX correspondence is a quantitative lexical fact. N032: the lexical survey showing no destruction term = torment anywhere in the full corpus is an observable fact. N033: the vocabulary distribution (basanizo confined to Revelation for eschatological uses; destruction vocabulary throughout) is an observable fact. All N items pass the three tests (universal agreement, no interpretation required, zero added concepts).
-
-**Step C (Source test):** IA018-IA020: all components are from E/N tables. IB009 and IB010: both have E/N items on both sides — correctly classified as I-B.
-
-**Step D (Direction test):** IA018, IA019, IA020: do not require any E/N statement to mean something other than its lexical value — they systematize. IB009: the Rev 14:11 passage and the Isa 34:10 data are in genuine tension — correctly I-B. IB010: the "apo prosopou" phrase in 2 Th 1:9 and the OT parallels are in tension — correctly I-B.
-
-**Step E (Consistency checks):** IA018-IA020 require only #5 (systematizing) and optionally #4a. IB009 and IB010 have E/N items on both sides. No reclassification needed.
-
-**Step F (SIS connections):** IB009 documents the Isa 34:10 connection (tool-verified parallel, Theo 0.30 flag). IB010 documents the OT "from the presence" construction in destruction contexts. Both are #4a (verified textual connections).
+**Step 5 -- Resolution: Strong**
+The biblical example of Jude 1:7 (Sodom's "eternal fire" produced a completed, permanent result) governs the reading of 2 Thess 1:9 (everlasting destruction = destruction whose result is permanent). The Hebrew precedent (Psa 92:7; Job 20:7) confirms this pattern. Master I037 *NEW*.
 
 ---
 
-## Master Evidence Update Summary
+### I-B Resolution: I4 -- "Wailing and Gnashing of Teeth" = Eternal Conscious Torment
 
-*Items already in the master evidence file are marked with their existing IDs. All new items require master file update.*
+**Step 1 -- Tension:**
+- FOR: E251 (Matt 13:42: wailing and gnashing in furnace)
+- AGAINST: E028 (Matt 10:28: apollymi/destroy in gehenna), E233 (Matt 7:13: apoleia/destruction), E217 (Psa 37:20: consume into smoke), E245 (Mal 4:1: stubble burned up)
 
-### Existing Items Cited in This Study (update "Also In" with "etc5-06")
+**Step 2 -- Clarity Assessment:**
 
-| Master ID | Description | Reference |
-|-----------|-------------|-----------|
-| E026 | God can destroy both soul and body | Mat 10:28 |
-| E114 | "Should not perish but have everlasting life" | Jn 3:16 |
-| E116 | "Everlasting destruction from the presence of the Lord" | 2 Th 1:9 |
-| E117 | False teachers as brute beasts made for destruction | 2 Pet 2:12 |
-| E119 | Same adjective (aionion) modifies both punishment and life | Mat 25:46 |
-| E023 | "Many that sleep... some to everlasting life, some to shame and everlasting contempt" | Dan 12:2 |
-| E141 | Isa 66:24 source: worm and fire act on pigrê (corpses) | Isa 66:24 |
-| E149 | Devil/beast/false prophet tormented day and night for ever | Rev 20:10 |
-| E150 | Beast-worshippers: tormented with fire; smoke ascends for ever | Rev 14:10-11 |
-| E068 | "He that hath not the Son of God hath not life" | 1 Jn 5:11-12 |
-| E128 | Dead in Christ "have perished" without resurrection | 1 Cor 15:18 |
-| IA013 | The second death is actual death — final destruction | Various |
-| IB001 | Conscious intermediate state | Various |
-| IB008 | Rev 20:10 torment language extending universally | Rev 20:10 |
-| N029 | "Eternal fire" = permanent result not ongoing process | Jude 1:7; 2 Pet 2:6 | *(reclassified to IB009-resolved after Study 5)* |
+| Item | Level | Rationale |
+|------|-------|-----------|
+| E251 (Matt 13:42) | Ambiguous | Parabolic genre (parable of the tares). "Wailing and gnashing" could describe the moment of being cast in, not an ongoing state. The text does not specify duration. |
+| E028 (Matt 10:28) | Plain | Same author (Matthew). Direct teaching: God destroys (apollymi) soul and body in gehenna. |
+| E233 (Matt 7:13) | Plain | Same author (Matthew). Direct teaching: the way leads to destruction (apoleia). |
+| E217 (Psa 37:20) | Plain | Direct statement: consume into smoke. |
+| E245 (Mal 4:1) | Plain | Direct statement: stubble burned up, nothing remains. |
 
-### New Items Added in This Study
+**Step 3 -- Weight:**
+FOR: 1 Ambiguous item (parabolic genre, unspecified duration).
+AGAINST: 4 Plain items (2 from the same author, Matthew, using destruction vocabulary).
 
-| New Master ID | Description | Reference | Classification |
-|---------------|-------------|-----------|----------------|
-| E151 | Wicked shall perish (abad) + consume (kalah ×2) into smoke | Psa 37:20 | Conditionalist |
-| E152 | "The wicked shall not be" + "he is not" (ain particle ×2) | Psa 37:10 | Conditionalist |
-| E153 | Transgressors destroyed (shamad) + end cut off (karat) | Psa 37:38 | Conditionalist |
-| E154 | Evildoers shall be cut off (karat, Niphal Impf 3mp) | Psa 37:9 | Conditionalist |
-| E155 | "He passed away... he was not [ain hu]... could not be found" | Psa 37:36 | Conditionalist |
-| E156 | Day burns wicked as stubble — "neither root nor branch" | Mal 4:1 | Conditionalist |
-| E157 | Wicked become ashes (epher) under the righteous' feet | Mal 4:3 | Conditionalist |
-| E158 | Nations shall be "as though they had not been [lo hayah]" | Obad 1:16 | Conditionalist |
-| E159 | "Utter end [kalah]... affliction shall not rise up the second time" | Nah 1:8-9 | Conditionalist |
-| E160 | Sinners consumed (tamam) → wicked be no more (einam) | Psa 104:35 | Conditionalist |
-| E161 | Those far from God shall perish (abad) — God destroys them | Psa 73:27 | Conditionalist |
-| E162 | Wicked "destroyed for ever" (shamad + ad-olam) + "shall perish" (abad) | Psa 92:7, 9 | Conditionalist |
-| E163 | "The way of the ungodly shall perish [tobed — abad]" | Psa 1:6 | Conditionalist |
-| E164 | "Whose end [telos] is destruction [apoleia]" | Phil 3:19 | Conditionalist |
-| E165 | Broad road to destruction (apoleia) vs. narrow road to life (zoe) | Mat 7:13-14 | Conditionalist |
-| E166 | Sow to flesh → reap corruption (phthora) vs. sow to Spirit → eternal life | Gal 6:8 | Conditionalist |
-| E167 | "Not of them who draw back unto perdition [apoleia]" vs. saving of the soul | Heb 10:39 | Conditionalist |
-| E168 | Vessels of wrath fitted to destruction (apoleia) vs. vessels of mercy for glory | Rom 9:22 | Conditionalist |
-| E169 | Lusts "drown men in destruction [olethros] and perdition [apoleia]" — paired terms | 1 Tim 6:9 | Conditionalist |
-| E170 | LXX maps H6 (abad) → G622 (apollumi) 141x (PMI 6.14); H8045 (shamad) → G622 (apollumi) 23x (PMI 4.53) | LXX mapping data | Neutral |
-| E171 | LXX never uses basanizo/basanismos to translate any Hebrew destruction term | LXX mapping data | Neutral |
-| E172 | G929 (basanismos) appears only in Revelation in the NT (6 occurrences) | G929 BLB data | Neutral |
-| E173 | Heavens "shall perish [apolountai — apollumi]" — apollumi applied to inanimate creation's dissolution | Heb 1:11 | Conditionalist |
-| E174 | "Except ye repent, ye shall all likewise perish [apollumi]" — stated twice identically | Lk 13:3, 5 | Conditionalist |
-| E175 | Wicked "perish [abad] at the presence of God" — smoke/wax similes of dissolution | Psa 68:2 | Conditionalist |
-| E176 | "Never shalt thou be any more [lo tehyeh]" — after fire reduces to ashes | Ezk 28:19 | Conditionalist |
-| E177 | Enemies "as nothing [ka-ayin]... as a thing of nought [ka-ephes]... seek them, not find them" | Isa 41:11-12 | Conditionalist |
-| E178 | Wicked as morning cloud, early dew, chaff, smoke — four vanishing similes | Hos 13:3 | Neutral |
-| E179 | The beast's destiny is described twice as "going into perdition [apoleia]" | Rev 17:8, 11 | Conditionalist |
-| E180 | Nations in Rev 20:9 "devoured [katephagen — consume/eat up]" — different vocabulary from v.10 torment | Rev 20:9 | Neutral |
-| E181 | G622 (apollumi) = 92 NT occurrences; eschatological basanizo (G928) confined to Revelation | NT occurrence data | Neutral |
-| E182 | Isaiah 34:10 (highest OT parallel for Rev 14:11) depicts ascending smoke from a desolated wasteland, not from conscious persons | Isa 34:10 (parallel tool data) | Neutral |
-| E183 | "Sudden destruction [aiphnidios olethros] cometh upon them... they shall not escape" | 1 Th 5:3 | Conditionalist |
-| E184 | Rev 14:11 and Rev 20:10 are the two closest NT parallels for each other (score 0.498) and share beast/mark/worship vocabulary limiting their subject-scope | Rev 14:11; Rev 20:10 (parallel tool data) | Neutral |
-| N030 | Apollumi/apoleia structurally paired as antithesis of zoe across four independent NT texts | E2, E19, E20, E21 | Conditionalist |
-| N031 | NT writers using apollumi for eschatological destruction employed the LXX's established Greek equivalent for Hebrew abad/shamad | E25 (LXX data) | Neutral |
-| N032 | The Hebrew and Greek destruction vocabulary forms a unified cross-testament semantic field of cessation/ruin (never torment) | E3, E5, E14, E25, E26, N031 | Conditionalist |
-| N033 | Basanizo/basanismos and destruction vocabulary (apollumi, apoleia, olethros, phthora) are lexically separate — they never appear together in the same judgment description | E26, E27, E36, E37, E40 | Neutral |
-| IA018 | The Bible teaches the wicked cease to exist (cessation) — systematizing destruction vocabulary + non-existence expressions | E3-E4, E7, E10, E12, E32, E33, N030, N032 | Conditionalist |
-| IA019 | The two vocabulary sets describe different outcomes for different subjects in Revelation | E36, E37, E38, N033 | Conditionalist |
-| IA020 | "Everlasting destruction" (2 Th 1:9) means aionion modifies the permanence of the ruin's result, not the duration of a torment process | E15, N029/E147 *(N029 reclassified to IB009-resolved)* | Conditionalist |
-| IB009 | Rev 14:11's "smoke ascending forever" = permanent-desolation imagery (from Isa 34:10) vs. literal ongoing conscious torment | E41, N029 *(reclassified to IB009-resolved)* FOR; E36 AGAINST | Neutral (Moderate — toward literary formula) |
-| IB010 | "From the presence of the Lord" (2 Th 1:9) = banishment/separation vs. presence as agent of destruction | E15, E31 AGAINST; grammatical analysis FOR | ECT (Moderate — AGAINST separation reading) |
+**Step 4 -- SIS Application:**
+Matthew 10:28 (destroy soul and body) and 7:13 (destruction) are didactic teaching by Jesus recorded by the same author (Matthew). Matthew 13:42 is a parable. Didactic teaching > parabolic imagery in the clarity hierarchy. The same-author didactic statements (destroy, destruction) govern the reading of the same-author parabolic image (wailing in furnace). The wailing occurs at the moment of destruction, not as an ongoing state.
+
+**Step 5 -- Resolution: Strong**
+2 same-author Plain didactic items (Matt 10:28; 7:13) on the AGAINST side vs. 1 Ambiguous parabolic item on the FOR side. The didactic governs the parabolic. Master I038 *NEW*.
 
 ---
 
-## Positional Tally — This Study's New Contributions
+### Verification Phase
 
-### New Items Added: 54 total (34 E + 4 N + 5 I-A + 2 I-B)
+**Step A: Verify explicit statements.**
+- Each E-item directly quotes or closely paraphrases Scripture, or states an observable linguistic/textual fact. Checked.
+- Each uses plain lexical meaning without adding concepts. Checked.
+- E-items state what the text says, not what a position infers. Checked.
 
-| Tier | Conditionalist | ECT | Neutral | Total New |
-|------|---------------|-----|---------|-----------|
-| E | 26 (E151–E168, E173–E177, E179, E183) | 0 | 8 (E170–E172, E178, E180–E182, E184) | 34 |
-| N | 2 (N030, N032) | 0 | 2 (N031, N033) | 4 |
-| I-A | 3 (IA018, IA019, IA020) | 0 | 0 | 3 |
-| I-B | 0 | 0 | 1 (IB009); 1 ECT (IB010) | 2 |
-| **Total** | **31** | **0** | **11 + 1 ECT-direction I-B** | **43 net new classified** |
+**Step A2: Verify positional classifications of E-items.**
+- All items classified Conditionalist have full Tree 3 documentation.
+- 7 items classified Conditionalist were documented in prior studies with all four gates passed (E028, E075, E148, E090, E087, E088, E095).
+- 30 new Conditionalist items have full Tree 3 documentation above with all four gates passed.
+- No E-items classified as ECT.
+- All Neutral E-items are textual observations both sides accept.
 
-### Running Master Totals After etc5-06
+**Step B: Verify necessary implications.**
+- Each N-item follows unavoidably from cited E-items. Checked.
+- Three N-tier tests applied to each. All pass (documented above).
+- All N-items are Neutral because both sides accept the textual observations; they disagree about interpretation.
 
-| Category | Previous Total | New This Study | Running Total |
-|----------|---------------|----------------|---------------|
-| E items | 150 | +34 | 184 |
-| N items | 29 | +4 | 33 |
-| I-A items | 17 | +3 | 20 |
-| I-B items | 8 | +2 | 10 |
-| I-C items | 2 | 0 | 2 |
-| I-D items | 3 | 0 | 3 |
-| **Total** | **209** | **+43** | **252** |
+**Step C: Verify inference classifications (source test).**
+- I1 (destruction = cessation): All components in E/N tables -> text-derived -> systematizing only -> I-A. Checked.
+- I2 (destruction = metaphorical ruin): E/N items on both sides -> text-derived -> I-B. Checked.
+- I3 (everlasting destruction = ongoing process): E/N items on both sides -> text-derived -> I-B. Checked.
+- I4 (wailing = eternal torment): E/N items on both sides -> text-derived -> I-B. Checked.
+
+**Step D: Verify inference classifications (direction test).**
+- I1: Uses only E/N vocabulary and concepts -> aligns -> I-A. Checked.
+- I2: Requires destruction words to mean "spiritual ruin" (other than lexical value) -> conflicts -> I-B. Checked.
+- I3: Requires olethros to mean "ongoing process" (other than lexical value of "ruin") -> conflicts -> I-B. Checked.
+- I4: Requires parabolic image to override didactic teaching -> conflicts -> I-B. Checked.
+
+**Step E: Consistency checks.**
+- I-A (I1): Only requires criterion #5 (systematizing) and #4a (SIS). Confirmed.
+- I-B (I2, I3, I4): All have E/N items on BOTH sides. Confirmed.
+
+**Step F: Verify SIS connections.**
+- abad -> apollymi (LXX 141x): verified textual connection (#4a). Checked.
+- shamad -> apollymi (LXX 23x): verified textual connection (#4a). Checked.
+- Jude 1:7 (eternal fire + Sodom = completed destruction): self-interpreting biblical example (#4a). Checked.
+- Matt 10:28 + Matt 7:13 governing Matt 13:42: same-author passages (#4a). Checked.
+- Rev 14:10-11 used to define destruction vocabulary: no verified connection between torment words and destruction words (#4b, inference trigger). Checked.
 
 ---
 
-## Tally Summary (This Study)
+### Master Evidence Update
 
-- **Explicit statements (E): 34 new** (26 Conditionalist, 0 ECT, 8 Neutral)
-- **Necessary implications (N): 4 new** (2 Conditionalist, 0 ECT, 2 Neutral)
-- **Inferences: 5 new**
-  - I-A (Evidence-Extending): 3 (all Conditionalist)
-  - I-B (Competing-Evidence): 2 (1 Neutral/both sides; 1 ECT direction)
+New items added to D:/Bible/bible-studies/etc-master-evidence.md:
+
+| New ID | Statement | Reference | Position | First Appeared |
+|--------|-----------|-----------|----------|----------------|
+| E212 | LXX translates abad (H6) as apollymi (G622) 141 times (PMI 30.45) | LXX data | Neutral | etc-06 |
+| E213 | LXX translates shamad (H8045) as apollymi (G622) 23 times and exairo 12 times | LXX data | Neutral | etc-06 |
+| E214 | LXX translates kalah (H3615) as synteleo 85 times, ekleipo 30 times, pauo 15 times | LXX data | Neutral | etc-06 |
+| E215 | LXX translates shachath (H7843) as diaphtheiro 48 times and phtheiro 6 times | LXX data | Neutral | etc-06 |
+| E216 | The way of the ungodly shall perish (abad) | Psa 1:6 | Cond. | etc-06 |
+| E217 | The wicked shall perish (abad)... they shall consume (kalah); into smoke shall they consume away | Psa 37:20 | Cond. | etc-06 |
+| E218 | Yet a little while, and the wicked shall not be; his place shall not be | Psa 37:10 | Cond. | etc-06 |
+| E219 | The transgressors shall be destroyed (shamad) together: the end of the wicked shall be cut off | Psa 37:38 | Cond. | etc-06 |
+| E220 | As wax melteth before the fire, so let the wicked perish (abad) | Psa 68:2 | Cond. | etc-06 |
+| E221 | The wicked shall be destroyed (shamad) for ever | Psa 92:7 | Cond. | etc-06 |
+| E222 | The enemies of the LORD shall perish (abad) | Psa 92:9 | Cond. | etc-06 |
+| E223 | The LORD preserveth them that love him: but all the wicked will he destroy (shamad) | Psa 145:20 | Cond. | etc-06 |
+| E224 | Consume (kalah) them in wrath, that they may not be | Psa 59:13 | Cond. | etc-06 |
+| E225 | Let the sinners be consumed (kalah) out of the earth, and let the wicked be no more | Psa 104:35 | Cond. | etc-06 |
+| E226 | They that are far from thee shall perish (abad) | Psa 73:27 | Cond. | etc-06 |
+| E227 | They are utterly consumed (kalah) with terrors | Psa 73:19 | Cond. | etc-06 |
+| E228 | He shall perish (abad) for ever like his own dung | Job 20:7 | Cond. | etc-06 |
+| E229 | By the blast of God they perish (abad), by the breath of his nostrils consumed | Job 4:9 | Cond. | etc-06 |
+| E230 | When a wicked man dieth, his expectation shall perish (abad) | Pro 11:7 | Cond. | etc-06 |
+| E231 | He shall destroy (shamad) the sinners out of it | Isa 13:9 | Cond. | etc-06 |
+| E232 | They that forsake the LORD shall be consumed (kalah); the strong as tow, burn together | Isa 1:28,31 | Cond. | etc-06 |
+| E233 | Broad is the way that leadeth to destruction (apoleia); narrow the way to life | Matt 7:13-14 | Cond. | etc-06 |
+| E234 | Except ye repent, ye shall all likewise perish (apollymi) | Luke 13:3,5 | Cond. | etc-06 |
+| E235 | The flood destroyed (apollymi) them all; fire and brimstone destroyed (apollymi) them all | Luke 17:27,29 | Neutral | etc-06 |
+| E236 | Sinned without law shall also perish (apollymi) without law | Rom 2:12 | Cond. | etc-06 |
+| E237 | To them that perish (apollymi) foolishness; unto us which are saved, power of God | 1 Cor 1:18 | Cond. | etc-06 |
+| E238 | If Christ be not raised, they fallen asleep in Christ are perished (apollymi) | 1 Cor 15:18 | Cond. | etc-06 |
+| E239 | Not willing that any should perish (apollymi), but all come to repentance | 2 Pet 3:9 | Cond. | etc-06 |
+| E240 | Whose end is destruction (apoleia) | Phil 3:19 | Cond. | etc-06 |
+| E241 | Reserved unto fire against the day of judgment and perdition (apoleia) of ungodly men | 2 Pet 3:7 | Cond. | etc-06 |
+| E242 | Vessels of wrath fitted to destruction (apoleia) | Rom 9:22 | Cond. | etc-06 |
+| E243 | Sudden destruction (olethros) cometh upon them, and they shall not escape | 1 Thess 5:3 | Neutral | etc-06 |
+| E244 | Foolish and hurtful lusts drown men in destruction (olethros) and perdition (apoleia) | 1 Tim 6:9 | Cond. | etc-06 |
+| E245 | The day shall burn them up as stubble, leaving neither root nor branch | Mal 4:1 | Cond. | etc-06 |
+| E246 | They shall be ashes under the soles of your feet | Mal 4:3 | Cond. | etc-06 |
+| E247 | They shall be as though they had not been | Oba 1:16 | Cond. | etc-06 |
+| E248 | As the morning cloud, early dew, chaff, and smoke | Hos 13:3 | Cond. | etc-06 |
+| E249 | Devoured as stubble fully dry | Nah 1:10 | Cond. | etc-06 |
+| E250 | He will burn up the chaff with unquenchable fire | Matt 3:12 | Neutral | etc-06 |
+| E251 | Cast them into a furnace of fire: wailing and gnashing of teeth | Matt 13:40-42 | Neutral | etc-06 |
+| E252 | Fiery indignation which shall devour the adversaries | Heb 10:27 | Cond. | etc-06 |
+| E253 | Our God is a consuming fire | Heb 12:29 | Neutral | etc-06 |
+| E254 | Fire came down from God out of heaven, and devoured them | Rev 20:9 | Neutral | etc-06 |
+| E255 | One lawgiver, who is able to save and to destroy (apollymi) | Jas 4:12 | Neutral | etc-06 |
+| E256 | If any man defile the temple of God, him shall God destroy (phtheiro) | 1 Cor 3:17 | Neutral | etc-06 |
+| E257 | The Lord shall consume (analisko) with the spirit of his mouth | 2 Thess 2:8 | Neutral | etc-06 |
+| E258 | Rahab perished not (synapollymi) with them that believed not | Heb 11:31 | Neutral | etc-06 |
+| E259 | Olethros = "ruin, i.e. death, punishment" (etymologically related to ollymi, root of apollymi) | G3639 definition | Neutral | etc-06 |
+| E260 | Destruction vocabulary and torment vocabulary are distinct word families | NT vocabulary data | Neutral | etc-06 |
+| E261 | Apollymi used for wineskins that "perish" -- burst and cease to function | Matt 9:17 | Neutral | etc-06 |
+| E262 | Apollymi = "to destroy fully" (from apo + base of olethros) | G622 definition | Neutral | etc-06 |
+| E263 | Apoleia = "ruin or loss" (noun form of apollymi) | G684 definition | Neutral | etc-06 |
+| E264 | No lexicon defines any of the seven destruction words as "torment" or "ongoing conscious suffering" | Lexical data | Neutral | etc-06 |
+| E265 | Rev 14:10-11: tormented with fire and brimstone; smoke of their torment ascendeth up for ever and ever | Rev 14:10-11 | Neutral | etc-06 |
+| E266 | Isaiah 34:10 uses identical "smoke ascending forever" language for Edom; Edom is not still burning | Isa 34:10 | Neutral | etc-06 |
+| E267 | Deraon (contempt/abhorrence) occurs only twice: Dan 12:2 and Isa 66:24 (onlookers' reaction to corpses) | Dan 12:2; Isa 66:24 | Neutral | etc-06 |
+
+New N-items:
+| New ID | Implication | Based On | Position | First Appeared |
+|--------|-------------|----------|----------|----------------|
+| N027 | The abad-apollymi lexical chain is verified by LXX (141x); NT apollymi carries OT abad's semantic weight | E212, E028, E075 | Neutral | etc-06 |
+| N028 | The "perish vs. life" contrast is a structural pattern across multiple authors | E075, E233, E087, E240, E223 | Neutral | etc-06 |
+| N029 | All biblical destruction similes depict substances that cease to exist | E220, E217, E245, E246, E248, E249 | Neutral | etc-06 |
+| N030 | Destruction vocabulary and torment vocabulary are distinct word families | E260, E262, E264 | Neutral | etc-06 |
+
+New I-items:
+| New ID | Claim | Type | Position | First Appeared |
+|--------|-------|------|----------|----------------|
+| I036 | The Bible's destruction vocabulary means cessation of existence | I-A | Cond. | etc-06 |
+| I037 | "Everlasting destruction" means ongoing process of being destroyed | I-B | ECT-direction | etc-06 |
+| I038 | "Wailing and gnashing of teeth" describes eternal conscious torment | I-B | ECT-direction | etc-06 |
+| I039 | Destruction vocabulary is metaphorical for spiritual ruin | I-B | ECT-direction | etc-06 |
+
+Existing items with "Also In" updated to include etc-06:
+- E028, E075, E087, E088, E090, E095, E126, E148, E202
+
+---
+
+### Positional Tally (This Study)
+
+| Tier | Conditionalist | ECT | Neutral | Total |
+|------|----------------|-----|---------|-------|
+| Explicit (E) | 37 | 0 | 29 | 66 |
+| Necessary Implication (N) | 0 | 0 | 4 | 4 |
+| I-A (Evidence-Extending) | 1 | 0 | 0 | 1 |
+| I-B (Competing-Evidence) | 0 | 3 | 0 | 3 |
+| I-C (Compatible External) | 0 | 0 | 0 | 0 |
+| I-D (Counter-Evidence External) | 0 | 0 | 0 | 0 |
+| **TOTAL** | **38** | **3** | **33** | **74** |
+
+Note: I-B items (I2/I039, I3/I037, I4/I038) classified by the direction they argue (ECT-direction). All three were resolved Strong toward the Conditionalist reading via SIS: (I2/I039) lexical definitions and explicit non-existence statements govern the metaphorical reading; (I3/I037) Jude 1:7's "eternal fire" = completed destruction governs 2 Thess 1:9; (I4/I038) same-author didactic teaching (Matt 10:28; 7:13) governs same-author parabolic imagery (Matt 13:42).
+
+---
+
+### Positional Tally (Cumulative: etc-01 through etc-06)
+
+| Tier | Conditionalist | ECT | Neutral | Total |
+|------|----------------|-----|---------|-------|
+| E    | 70             | 0   | 207     | 277   |
+| N    | 6              | 0   | 24      | 30    |
+| I-A  | 7              | 0   | 0       | 7     |
+| I-B  | 0              | 10  | 0       | 10    |
+| I-C  | 0              | 17  | 2       | 19    |
+| I-D  | 0              | 3   | 0       | 3     |
+| **TOTAL** | **83**    | **30** | **233** | **346** |
+
+---
+
+### Change Log
+
+| Date | Study | Items Added | Notes |
+|------|-------|-------------|-------|
+| 2026-02-20 | etc-06 | E212-E267, N027-N030, I036-I039 | Destruction Vocabulary study (74 new items: 56 new E, 4 new N, 4 new I; plus 10 E-items from prior studies referenced by master ID). Covers complete lexical analysis of seven destruction words: abad (H6, 184x), shamad (H8045, 90x), kalah (H3615, 206x), shachath (H7843, 147x), apollymi (G622, 92x), apoleia (G684, 20x), olethros (G3639, 4x). LXX translation patterns verified: abad->apollymi 141x, shamad->apollymi 23x, kalah->synteleo 85x, shachath->diaphtheiro 48x. Perish-vs-life contrast pattern documented across 5+ authors. Destruction similes analyzed (10 types). Three I-B items resolved Strong toward Conditionalist reading: destruction vocabulary means destruction (not metaphorical ruin), "everlasting destruction" means permanent result (not ongoing process), "wailing and gnashing" describes moment of destruction (not eternal state). Updated "Also In" for E028, E075, E087, E088, E090, E095, E126, E148, E202. |
+
+---
+
+### Tally Summary
+
+```
+- Explicit statements: 66
+- Necessary implications: 4
+- Inferences: 4
+  - I-A (Evidence-Extending): 1
+  - I-B (Competing-Evidence): 3 (3 resolved Strong toward Conditionalist reading)
   - I-C (Compatible External): 0
   - I-D (Counter-Evidence External): 0
+```
 
 ---
 
-## What CAN Be Said (Scripture explicitly states or necessarily implies)
+## What CAN Be Said (Scripture Explicitly States or Necessarily Implies)
 
-1. The primary eschatological vocabulary across both testaments uses words meaning "destroy," "perish," "ruin," "consume," "cut off," and "be no more."
-2. The LXX translates the Hebrew destruction terms (abad, shamad) primarily as the Greek destruction terms (apollumi, apoleia) — confirming semantic continuity across the testaments.
-3. The NT eschatological torment vocabulary (basanizo, basanismos) appears almost exclusively in Revelation, applied to specific named subjects: beast-worshippers (Rev 14:10-11) and the devil/beast/false prophet (Rev 20:10).
-4. The two vocabulary sets (destruction and torment) are lexically distinct and never appear together in the same eschatological judgment description for the same subject.
-5. The destruction vocabulary is structurally paired as the antithesis of life (zoe) throughout both testaments.
-6. Several OT passages use explicit non-existence expressions as the terminal statement for the fate of the wicked (Psa 37:10, 36; Psa 104:35; Obad 1:16; Isa 41:11-12; Ezk 28:19).
-7. Paul's chosen vocabulary for the eternal punishment of the wicked in his key eschatological passage (2 Th 1:9) is olethros (destruction/ruin), not basanismos (torment).
-8. Matthew 25:46 uses kolasis (punishment), not olethros (destruction) or basanismos (torment), for the wicked's eternal outcome — a distinct third term.
-9. The highest OT parallel for Revelation 14:11's "smoke ascending forever" is Isaiah 34:10 — which describes a burning, desolated wasteland (the land of Edom), not conscious persons in perpetual torment.
+1. The Bible's primary vocabulary for describing the fate of the wicked consists of destruction/cessation words. Four Hebrew words (abad, shamad, kalah, shachath) totaling approximately 627 occurrences and three Greek words (apollymi, apoleia, olethros) totaling approximately 116 occurrences form the destruction vocabulary. No lexicon defines any of these words as "torment" or "ongoing conscious suffering."
 
-## What CANNOT Be Said (not explicitly stated or necessarily implied)
+2. The LXX establishes verified cross-testament vocabulary continuity. Pre-Christian Jewish translators mapped abad to apollymi 141 times, shamad to apollymi 23 times, shachath to diaphtheiro 48 times, and kalah to synteleo 85 times. When the NT uses apollymi for the fate of the wicked, it uses the same word the LXX uses for the OT's primary destruction verb.
 
-1. Neither side can claim Scripture explicitly states that the destruction vocabulary means ongoing conscious torment — no text defines apollumi, apoleia, olethros, phthora, abad, shamad, kalah, or karat as referring to ongoing conscious suffering.
-2. Neither side can claim Scripture explicitly states that the torment vocabulary (basanizo, basanismos) applies universally to all the wicked — both Rev 14:10-11 and Rev 20:10 specify particular subjects.
-3. Neither side can claim Scripture explicitly states that the destruction vocabulary means absolute non-existence in a philosophical sense (as opposed to the perishing of the current form of existence with some other outcome).
-4. Neither side can claim Scripture explicitly resolves whether "everlasting destruction" (olethron aionion, 2 Th 1:9) means the wicked cease to exist or exist forever in a condition of ruin/separation.
-5. Neither side can claim Scripture explicitly states that Matthew 25:46's "everlasting punishment" (kolasin aionion) refers to ongoing conscious torment rather than permanent destructive punishment.
+3. The "perish vs. life" contrast appears across multiple authors: John 3:16 (perish vs. everlasting life), Matt 7:13-14 (destruction vs. life), Rom 6:23 (death vs. eternal life), Phil 3:19 (destruction vs. glorified body), Psa 145:20 (destroy vs. preserve). The two outcomes are presented as antithetical in each case.
+
+4. All biblical destruction similes depict substances that cease to exist: chaff burned (Psa 1:4; Matt 3:12), wax melting (Psa 68:2), smoke dissipating (Psa 37:20; Hos 13:3), fat consumed (Psa 37:20), stubble burned up (Mal 4:1; Nah 1:10), ashes (Mal 4:3), morning clouds/early dew passing away (Hos 13:3), moth-eaten garments (Isa 50:9), thorns burned (Isa 33:12). Not one simile depicts a substance that endures indefinitely.
+
+5. Three passages explicitly state the result of destruction as non-existence: "the wicked shall not be" (Psa 37:10), "consume them, that they may not be" (Psa 59:13), "let the wicked be no more" (Psa 104:35), "as though they had not been" (Oba 1:16).
+
+6. "Everlasting destruction" (olethros aionios, 2 Thess 1:9) combines "everlasting" with a word meaning "ruin, death." The OT parallels "destroyed for ever" (Psa 92:7) and "perish for ever" (Job 20:7) use the same pattern. Jude 1:7 demonstrates that "eternal fire" applied to Sodom describes a completed destruction whose result is permanent, not an ongoing process.
+
+7. The destruction vocabulary and the torment vocabulary (basanizo, basanismos, kolasis) are distinct word families with different semantic ranges. The Bible uses destruction vocabulary far more frequently than torment vocabulary when describing the fate of the wicked (approximately 30:1 ratio).
+
+8. The destruction vocabulary is used by virtually every biblical author who addresses the fate of the wicked: Moses, David, Asaph, other psalmists, Solomon, Isaiah, Jeremiah, Hosea, Malachi, Nahum, Obadiah, Jesus, Paul, Peter, James, Jude, and the Hebrews author.
+
+## What CANNOT Be Said (Not Explicitly Stated or Necessarily Implied by Scripture)
+
+1. **It cannot be said that destruction vocabulary means "ongoing conscious torment."** No lexicon defines abad, shamad, kalah, shachath, apollymi, apoleia, or olethros as "torment" or "ongoing suffering." The ECT reading of these words as "spiritual ruin" (continued existence in a ruined state) requires adding a meaning the text does not contain.
+
+2. **It cannot be said that the destruction similes depict ongoing existence.** Chaff, wax, smoke, stubble, ashes, morning clouds, and dew are all substances that cease to exist through natural processes. Reading these similes as depicting ongoing existence requires them to mean the opposite of what the natural processes illustrate.
+
+3. **It cannot be said that "everlasting destruction" means an ongoing process of being destroyed.** Olethros means "ruin/death" (a result, not a process). The biblical example of "eternal fire" applied to Sodom (Jude 1:7) demonstrates the result-oriented reading: the destruction is completed; its effect is permanent.
+
+4. **It cannot be said that torment vocabulary defines what destruction vocabulary means.** Basanizo (torment) and apollymi (destroy) are different words with different meanings. Using Rev 14:10-11 (basanizo, in apocalyptic genre) to define the meaning of apollymi (used in didactic passages across both testaments) requires an unverified cross-reference (#4b) between different word families.
+
+5. **It cannot be said that "wailing and gnashing of teeth" in a furnace proves eternal conscious torment.** The furnace passages are parabolic (Matt 13:42,50), and the same author (Matthew) uses destruction vocabulary (apollymi, apoleia) in didactic teaching about the same topic (Matt 10:28; 7:13). Didactic teaching governs parabolic imagery in the clarity hierarchy.
+
+6. **It cannot be said that the destruction vocabulary is insignificant or merely metaphorical.** Approximately 743 occurrences of destruction vocabulary across both testaments from virtually every biblical author constitute the Bible's dominant vocabulary for describing what happens to the wicked. This is not a marginal vocabulary set that can be overridden by a few passages from a single genre (apocalyptic).
 
 ---
 
 ## Conclusion
 
-The biblical vocabulary for the fate of the wicked across both testaments is dominated by the destruction word-group: apollumi (destroy/perish), apoleia (destruction/perdition), olethros (ruin/destruction), phthora (corruption/decay), abad (perish/be destroyed), shamad (desolate/bring to nought), kalah (consume/come to an end), karat (cut off), tamam (be consumed). These terms are defined by their lexicons as destruction, ruin, cessation, and loss — not as torment or ongoing conscious experience. The LXX bridge (H6 abad → G622 apollumi, 141 occurrences, PMI 6.14) establishes cross-testament semantic continuity: the NT destruction vocabulary inherits and continues the OT's destruction vocabulary for the same eschatological subject.
+This study examined 66 explicit statements, 4 necessary implications, and 4 inferences regarding the Bible's destruction vocabulary for the fate of the wicked.
 
-The OT's testimony adds non-existence expressions as the terminal statement following destruction-vocabulary: Psalm 37 uses ain (not be / he is not) twice after the abad/karat/shamad/kalah cluster; Psalm 104:35 pairs tamam (consumed) with einam (be no more); Obadiah 1:16 states the nations will be "as though they had not been"; Ezekiel 28:19 states "never shalt thou be any more."
+37 explicit statements are classified Conditionalist: each uses destruction/cessation vocabulary (abad, shamad, kalah, apollymi, apoleia, olethros, or non-existence language) applied to the wicked, with all four Tree 3 gates passed. 0 explicit statements are classified ECT. 29 explicit statements are classified Neutral (lexical definitions, LXX translation data, vocabulary observations, and passages whose positional direction both sides accept as textual fact).
 
-The torment vocabulary (basanizo, basanismos) appears in eschatological contexts almost exclusively in Revelation, applied to specific subjects: a tribulation-era class (beast-worshippers) in Revelation 14:10-11, and three named entities (devil, beast, false prophet) in Revelation 20:10. The LXX confirms the separation: the Hebrew destruction terms are never translated as basanizo/basanismos; the two vocabulary sets are lexically distinct across both testaments.
+4 necessary implications are classified Neutral: the abad-apollymi lexical chain, the perish-vs-life contrast pattern, the destruction similes' natural properties, and the distinction between destruction and torment word families. These are observable patterns that both sides acknowledge.
 
-The destruction vocabulary stands as the antithesis of life (zoe) in John 3:16, Matthew 7:13-14, Galatians 6:8, Romans 6:23, Hebrews 10:39, and 1 John 5:11-12. The structural antithesis is perishing vs. having life, not torment vs. having life.
-
-The difficult passages (2 Th 1:9 olethron aionion; Mat 25:46 kolasin aionion; Rev 14:10-11; Rev 20:10) are addressed in the I-B resolutions above. In each case, the weight of evidence is documented according to the 5-step SIS protocol.
-
-Across the entire biblical vocabulary examined in this study: 34 new E items classify as Conditionalist (destruction vocabulary), 0 classify as ECT, and 8 classify as Neutral (lexical/statistical observations both sides must acknowledge). The existing ECT items (E149, E150) are confirmed and cited. The net evidence accumulation in this study is substantially in the destruction/conditionalist direction at the E tier, with the I-B items (IB009, IB010) representing the genuine textual tensions that require resolution.
+1 inference (I-A) systematizes the destruction vocabulary into a comprehensive claim of cessation. 3 inferences (I-B) present ECT-direction claims: that destruction vocabulary is metaphorical, that "everlasting destruction" is an ongoing process, and that "wailing and gnashing" depicts eternal torment. All three were resolved Strong toward the Conditionalist reading: lexical definitions, biblical examples (Jude 1:7), and same-author didactic teaching govern the readings of metaphorical, processual, and parabolic interpretations.
 
 ---
 
-*Evidence items tracked in etc5-master-evidence.md*
-*Study completed: 2026-02-19*
-*Files: 01-topics.md, 02-verses.md, 03-analysis.md, 04-word-studies.md, raw-data/parallels.md, raw-data/greek-parsing.md, raw-data/hebrew-parsing.md, raw-data/lxx-mapping.md, raw-data/strongs-lookups.md*
+*Study completed: 2026-02-20*
+*Files: 01-topics.md, 02-verses.md, 03-analysis.md, 04-word-studies.md, CONCLUSION.md*
+*Evidence items tracked in etc-master-evidence.md*

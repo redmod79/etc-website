@@ -1,207 +1,189 @@
 # Raw Hebrew Parsing Data
-## Study: etc5-01-what-is-man
-## Retrieved: 2026-02-19
 
----
-
-## Genesis 1:26 — Hebrew Parsing
-
-וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ
-
-| Hebrew     | Lemma  | Parsing                    | Gloss              |
-|------------|--------|----------------------------|--------------------|
-| וַ         | ו      | Conj.+NAN                  | and                |
-| יֹּ֣אמֶר  | אמר    | Verb.Qal.Wayq.3ms           | say                |
-| אֱלֹהִ֔ים | אלהים  | Noun.mp.Abs                 | god(s)             |
-| נַֽעֲשֶׂ֥ה | עשׂה   | Verb.Qal.Impf.1p            | make               |
-| אָדָ֛ם    | אדם    | Noun.ms.Abs                 | human, mankind     |
-| בְּ        | ב      | Prep                        | in                 |
-| צַלְמֵ֖נוּ | צלם   | Noun.ms.Abs.+1up            | image              |
-| כִּ        | כ      | Prep                        | as                 |
-| דְמוּתֵ֑נוּ | דמות  | Noun.fs.Abs.+1up            | likeness           |
-
-**Key grammatical note:** בְּצַלְמֵ֖נוּ (b'tsalmenu) — "in our image" uses the preposition ב (in/with) + tselem (image) + 1st person plural suffix (-nu, "our"). Grammatically parallel to כִּדְמוּתֵנוּ (kidmuthenu) — "according to our likeness."
-
----
-
-## Genesis 2:7 — Hebrew Parsing (MOST CRITICAL)
-
+## Genesis 2:7
+```
 וַיִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת־הָֽאָדָ֗ם עָפָר֙ מִן־הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה׃
 
-| Hebrew       | Lemma    | Parsing                    | Gloss                 |
-|--------------|----------|----------------------------|-----------------------|
-| וַ           | ו        | Conj.+NAN                  | and                   |
-| יִּיצֶר֩     | יצר      | Verb.Qal.Wayq.3ms           | shape                 |
-| יְהוָ֨ה      | יהוה     | PropN.ms.Abs.+NAN           | YHWH                  |
-| אֱלֹהִ֜ים   | אלהים    | Noun.mp.Abs                 | god(s)                |
-| אֶת          | את       | Prep                        | object marker         |
-| הָֽ          | ה        | Art.+NAN                    | the                   |
-| אָדָ֗ם       | אדם      | Noun.ms.Abs                 | human, mankind        |
-| עָפָר֙       | עפר      | Noun.ms.Abs                 | dust                  |
-| מִן          | מן       | Prep                        | from                  |
-| הָ֣          | ה        | Art.+NAN                    | the                   |
-| אֲדָמָ֔ה     | אדמה     | Noun.fs.Abs                 | soil                  |
-| וַ           | ו        | Conj.+NAN                   | and                   |
-| יִּפַּ֥ח     | נפח      | Verb.Qal.Wayq.3ms           | blow                  |
-| בְּ          | ב        | Prep                        | in                    |
-| אַפָּ֖יו     | אף       | Noun.md.Abs.+3ms            | nose                  |
-| נִשְׁמַ֣ת    | נשׁמה    | Noun.fs.Cst                 | breath (of)           |
-| חַיִּ֑ים     | חיים     | Noun.mp.Abs                 | life                  |
-| וַֽ          | ו        | Conj.+NAN                   | and                   |
-| יְהִ֥י       | היה      | Verb.Qal.Wayq.3ms           | be                    |
-| הָֽ          | ה        | Art.+NAN                    | the                   |
-| אָדָ֖ם       | אדם      | Noun.ms.Abs                 | human, mankind        |
-| לְ           | ל        | Prep                        | to/became             |
-| נֶ֥פֶשׁ      | נפשׁ     | Noun.fs.Abs                 | soul                  |
-| חַיָּֽה      | חי       | Adj.fs.Abs                  | alive                 |
+Hebrew          Lemma        Parsing                   Gloss
+וַ              ו            Conj.+NAN                 and
+יִּיצֶר֩        יצר          Verb.Qal.Wayq.3ms         shape
+יְהוָ֨ה         יהוה         PropN.ms.Abs.+NAN         YHWH
+אֱלֹהִ֜ים       אלהים        Noun.mp.Abs               god(s)
+אֶת             את           Prep                      <object marker>
+הָֽ             ה            Art.+NAN                  the
+אָדָ֗ם          אדם          Noun.ms.Abs               human, mankind
+עָפָר֙          עפר          Noun.ms.Abs               dust
+מִן             מן           Prep                      from
+הָ֣             ה            Art.+NAN                  the
+אֲדָמָ֔ה        אדמה         Noun.fs.Abs               soil
+וַ              ו            Conj.+NAN                 and
+יִּפַּ֥ח        נפח          Verb.Qal.Wayq.3ms         blow
+בְּ             ב            Prep                      in
+אַפָּ֖יו        אף           Noun.md.Abs.+3ms          nose
+נִשְׁמַ֣ת       נשׁמה        Noun.fs.Cst               breath
+חַיִּ֑ים        חיים         Noun.mp.Abs               life
+וַֽ             ו            Conj.+NAN                 and
+יְהִ֥י          היה          Verb.Qal.Wayq.3ms         be
+הָֽ             ה            Art.+NAN                  the
+אָדָ֖ם          אדם          Noun.ms.Abs               human, mankind
+לְ              ל            Prep                      to
+נֶ֥פֶשׁ         נפשׁ         Noun.fs.Abs               soul
+חַיָּֽה         חי           Adj.fs.Abs                alive
+```
 
-**Key grammatical notes:**
-1. The verb וַיִּיצֶר (wayyitser) — "formed/shaped" — is a Qal wayyiqtol (narrative past), from יצר (yatsar, to form/shape, as a potter).
-2. וַיִּפַּח (wayyippach) — "and He blew" — from נפח (naphach, to blow). The action is God breathing INTO the nostrils.
-3. לְנֶפֶשׁ חַיָּה (l'nephesh chayyah) — "became a living soul." The preposition לְ (le-) indicates the result: "became." The human DID NOT receive a nephesh; the human BECAME a nephesh. The same construction נֶפֶשׁ חַיָּה (nephesh chayyah) is also applied to animals (Gen 1:20,21,24; 2:19).
+Key observations:
+- יצר (yatsar) = "shape/form" -- Qal Wayyiqtol 3ms (narrative sequence)
+- עפר (aphar) = "dust" -- accusative of material
+- נפח (naphach) = "blow/breathe" -- Qal Wayyiqtol 3ms
+- נשׁמה (neshamah) = "breath" -- feminine construct state with חיים (life)
+- היה (hayah) = "be/become" -- Qal Wayyiqtol 3ms -- man BECAME (not received)
+- נפשׁ (nephesh) = "soul" -- what man became
+- חי (chay) = "alive/living" -- adjective modifying nephesh
 
----
+## Genesis 3:19
+```
+בְּזֵעַ֤ת אַפֶּ֨יךָ֙ תֹּ֣אכַל לֶ֔חֶם עַ֤ד שֽׁוּבְךָ֙ אֶל־הָ֣אֲדָמָ֔ה כִּ֥י מִמֶּ֖נָּה לֻקָּ֑חְתָּ כִּֽי־עָפָ֣ר אַ֔תָּה וְאֶל־עָפָ֖ר תָּשֽׁוּב׃
 
-## Ecclesiastes 3:19 — Hebrew Parsing
+Hebrew          Lemma        Parsing                   Gloss
+בְּ             ב            Prep                      in
+זֵעַ֤ת          זעה          Noun.fs.Cst               sweat
+אַפֶּ֨יךָ֙      אף           Noun.md.Abs.+2ms          nose
+תֹּ֣אכַל        אכל          Verb.Qal.Impf.2ms         eat
+לֶ֔חֶם          לחם          Noun.s.Abs                bread
+עַ֤ד            עד           Prep                      unto
+שֽׁוּבְךָ֙      שׁוב         Verb.Qal.InfCon.+2ms      return
+אֶל             אל           Prep                      to
+הָ֣             ה            Art.+NAN                  the
+אֲדָמָ֔ה        אדמה         Noun.fs.Abs               soil
+כִּ֥י           כי           Conj.+NAN                 that
+מִמֶּ֖נָּה      מן           Prep.+3fs                 from
+לֻקָּ֑חְתָּ     לקח          Verb.Pual.Perf.2ms        take
+כִּֽי           כי           Conj.+NAN                 that
+עָפָ֣ר          עפר          Noun.ms.Abs               dust
+אַ֔תָּה         אתה          PersPron.2ms.+NAN         you
+וְ              ו            Conj.+NAN                 and
+אֶל             אל           Prep                      to
+עָפָ֖ר          עפר          Noun.ms.Abs               dust
+תָּשֽׁוּב       שׁוב         Verb.Qal.Impf.2ms         return
+```
 
-כִּי֩ מִקְרֶ֨ה בְֽנֵי־הָאָדָ֜ם וּמִקְרֶ֣ה הַבְּהֵמָ֗ה... וְר֥וּחַ אֶחָ֖ד לַכֹּ֑ל
+Key observations:
+- שׁוב (shub) = "return" -- appears twice: infinitive construct (your returning) and imperfect (you shall return)
+- עפר (aphar) = "dust" -- same word as Gen 2:7; man came from dust, returns to dust
+- לקח (laqach) = "take" -- Pual (passive): "you were taken" from the ground
+- Direct reversal of creation formula
 
-| Hebrew     | Lemma   | Parsing                | Gloss              |
-|------------|---------|------------------------|--------------------|
-| כִּי֩      | כי      | Conj.+NAN              | that               |
-| מִקְרֶ֨ה   | מקרה    | Noun.ms.Abs            | accident           |
-| בְֽנֵי     | בן      | Noun.mp.Cst            | son                |
-| הָאָדָ֜ם   | אדם     | Noun.ms.Abs            | human, mankind     |
-| הַבְּהֵמָ֗ה | בהמה   | Noun.fs.Abs            | cattle             |
-| מִקְרֶ֤ה   | מקרה    | Noun.ms.Abs            | accident           |
-| אֶחָד֙     | אחד     | Noun.s.Abs             | one                |
-| ר֥וּחַ     | רוח     | Noun.s.Abs             | wind/ruach         |
-| אֶחָ֖ד     | אחד     | Noun.s.Abs             | one                |
-| לַכֹּ֑ל    | כל      | Noun.ms.Abs            | whole/all          |
-
-**Key note:** וְרוּחַ אֶחָד לַכֹּל — "and one ruach to all." The ruach is shared — man has the same ruach as animals. The parallelism is explicit: "as the one dies, so the other dies."
-
----
-
-## Ecclesiastes 12:7 — Hebrew Parsing
-
+## Ecclesiastes 12:7
+```
 וְיָשֹׁ֧ב הֶעָפָ֛ר עַל־הָאָ֖רֶץ כְּשֶׁהָיָ֑ה וְהָר֣וּחַ תָּשׁ֔וּב אֶל־הָאֱלֹהִ֖ים אֲשֶׁ֥ר נְתָנָֽהּ׃
 
-| Hebrew      | Lemma   | Parsing              | Gloss              |
-|-------------|---------|----------------------|--------------------|
-| וְ          | ו       | Conj.+NAN            | and                |
-| יָשֹׁ֧ב     | שׁוב    | Verb.Qal.Impf.3ms    | return             |
-| הֶעָפָ֛ר   | עפר     | Noun.ms.Abs          | dust               |
-| עַל         | על      | Prep                 | upon               |
-| הָאָ֖רֶץ   | ארץ     | Noun.s.Abs           | earth              |
-| כְּ         | כ       | Prep                 | as                 |
-| שֶׁ         | שׁ      | Conj.+NAN            | relative           |
-| הָיָ֑ה     | היה     | Verb.Qal.Perf.3ms    | be                 |
-| וְ          | ו       | Conj.+NAN            | and                |
-| הָרוּחַ    | רוח     | Noun.s.Abs           | wind/ruach         |
-| תָּשׁ֔וּב  | שׁוב    | Verb.Qal.Impf.3fs    | return             |
-| אֶל         | אל      | Prep                 | to                 |
-| הָאֱלֹהִ֖ים | אלהים  | Noun.mp.Abs          | God                |
-| אֲשֶׁ֥ר     | אשׁר   | Conj.+NAN            | relative           |
-| נְתָנָֽהּ  | נתן     | Verb.Qal.Perf.3ms+3fs | give               |
+Hebrew          Lemma        Parsing                   Gloss
+וְ              ו            Conj.+NAN                 and
+יָשֹׁ֧ב         שׁוב         Verb.Qal.Impf.3ms         return
+הֶ              ה            Art.+NAN                  the
+עָפָ֛ר          עפר          Noun.ms.Abs               dust
+עַל             על           Prep                      upon
+הָ              ה            Art.+NAN                  the
+אָ֖רֶץ          ארץ          Noun.s.Abs                earth
+כְּ             כ            Prep                      as
+שֶׁ             שׁ           Conj.+NAN                 <relative>
+הָיָ֑ה          היה          Verb.Qal.Perf.3ms         be
+וְ              ו            Conj.+NAN                 and
+הָ              ה            Art.+NAN                  the
+ר֣וּחַ          רוח          Noun.s.Abs                wind
+תָּשׁ֔וּב       שׁוב         Verb.Qal.Impf.3fs         return
+אֶל             אל           Prep                      to
+הָ              ה            Art.+NAN                  the
+אֱלֹהִ֖ים       אלהים        Noun.mp.Abs               god(s)
+אֲשֶׁ֥ר         אשׁר         Conj.+NAN                 <relative>
+נְתָנָֽהּ       נתן          Verb.Qal.Perf.3ms.+3fs    give
+```
 
-**Key grammatical notes:**
-1. תָּשׁ֔וּב (tashuv) — imperfect, 3fs (the ruach returns) — the ruach is feminine, matching the pronoun -הּ suffix on נְתָנָֽהּ ("which He gave it").
-2. The ruach returns to God who GAVE it — it was always God's, a loan to creation. Parallel to Ps 104:29-30: God withdraws the ruach, the creature dies; God sends the ruach, creatures are created.
-3. אֲשֶׁ֥ר נְתָנָֽהּ — "that He gave" — the ruach was given (from God), now returns to the Giver. This is the same ruach that animals share (Ecc 3:19,21).
+Key observations:
+- Two parallel returns: dust returns to earth; ruach returns to God
+- רוח (ruach) = "wind/breath/spirit" -- what returns to God; note: NOT neshamah, but ruach
+- נתן (natan) = "give" -- Qal perfect 3ms with 3fs suffix: "who gave it" (feminine, referring to ruach)
+- שׁוב (shub) used for both components: complete reversal of creation
 
----
-
-## Ezekiel 18:4 — Hebrew Parsing
-
-הֵ֤ן כָּל־הַנְּפָשֹׁות֙ לִ֣י הֵ֔נָּה... הַנֶּ֥פֶשׁ הַחֹטֵ֖את הִ֥יא תָמֽוּת׃
-
-| Hebrew        | Lemma   | Parsing                    | Gloss              |
-|---------------|---------|----------------------------|--------------------|
-| הֵ֤ן          | הן      | Interj                     | behold             |
-| כָּל          | כל      | Noun.ms.Cst                | whole              |
-| הַנְּפָשֹׁות֙ | נפשׁ    | Noun.fp.Abs                | souls (plural)     |
-| לִ֣י          | ל       | Prep.+1us                  | to/mine            |
-| הֵ֔נָּה       | הנה     | PersPron.3fp.+NAN          | they               |
-| כְּ           | כ       | Prep                       | as                 |
-| נֶ֧פֶשׁ       | נפשׁ    | Noun.fs.Cst                | soul               |
-| הָאָ֛ב        | אב      | Noun.ms.Abs                | father             |
-| כְ            | כ       | Prep                       | as                 |
-| נֶ֥פֶשׁ       | נפשׁ    | Noun.fs.Cst                | soul               |
-| הַבֵּ֖ן       | בן      | Noun.ms.Abs                | son                |
-| הַנֶּ֥פֶשׁ    | נפשׁ    | Noun.fs.Abs                | soul               |
-| הַחֹטֵ֖את    | חטא     | Verb.Qal.Ptcp.unkfs.Abs    | sinning (f-ptcp)   |
-| הִ֥יא         | היא     | PersPron.3fs.+NAN          | she                |
-| תָמֽוּת       | מות     | Verb.Qal.Impf.3fs          | die                |
-
-**Key grammatical notes:**
-1. הַנֶּפֶשׁ הַחֹטֵאת הִיא תָמוּת — "the soul that is sinning, it shall die." The pronoun הִיא (hi', she/it) acts as an emphatic copula — "it itself shall die." No ambiguity; the nephesh is the subject of death.
-2. The participle הַחֹטֵאת (the sinning one) is feminine, agreeing with נֶפֶשׁ (f.).
-3. תָמוּת (tamut) — Qal imperfect, 3fs — this is the same verb for the death of the body; no distinction is made between physical and spiritual death in the word itself.
-
----
-
-## Job 34:14 — Hebrew Parsing
-
-אִם־יָשִׂ֣ים אֵלָ֣יו לִבֹּ֑ו רוּחֹ֥ו וְ֝נִשְׁמָתֹ֗ו אֵלָ֥יו יֶאֱסֹֽף׃
-
-| Hebrew      | Lemma   | Parsing             | Gloss              |
-|-------------|---------|---------------------|--------------------|
-| אִם         | אם      | Conj.+NAN           | if                 |
-| יָשִׂ֣ים    | שׂים    | Verb.Qal.Impf.3ms   | put                |
-| אֵלָ֣יו     | אל      | Prep.+3ms           | to him             |
-| לִבֹּ֑ו     | לב      | Noun.ms.Abs.+3ms    | heart              |
-| רוּחֹ֥ו     | רוח     | Noun.s.Abs.+3ms     | his ruach          |
-| וְ֝         | ו       | Conj.+NAN           | and                |
-| נִשְׁמָתֹ֗ו | נשׁמה   | Noun.fs.Abs.+3ms    | his neshamah       |
-| אֵלָ֥יו     | אל      | Prep.+3ms           | to him             |
-| יֶאֱסֹֽף   | אסף     | Verb.Qal.Impf.3ms   | gather             |
-
-**Note:** The two terms ruach and neshamah are used in parallel here ("his spirit and his breath") as essentially synonymous components that are under God's control. If God "gathers" these to Himself, v.15 follows: "all flesh would perish together."
-
----
-
-## Job 34:15 — Hebrew Parsing
-
-יִגְוַ֣ע כָּל־בָּשָׂ֣ר יָ֑חַד וְ֝אָדָ֗ם עַל־עָפָ֥ר יָשֽׁוּב׃
-
-| Hebrew    | Lemma   | Parsing             | Gloss           |
-|-----------|---------|---------------------|-----------------|
-| יִגְוַ֣ע  | גוע     | Verb.Qal.Impf.3ms   | expire          |
-| כָּל      | כל      | Noun.ms.Cst         | whole           |
-| בָּשָׂ֣ר  | בשׂר    | Noun.ms.Abs         | flesh           |
-| יָ֑חַד    | יחד     | Noun.ms.Abs         | together        |
-| וְ֝       | ו       | Conj.+NAN           | and             |
-| אָדָ֗ם    | אדם     | Noun.ms.Abs         | human, mankind  |
-| עַל       | על      | Prep                | upon            |
-| עָפָ֥ר    | עפר     | Noun.ms.Abs         | dust            |
-| יָשֽׁוּב  | שׁוב    | Verb.Qal.Impf.3ms   | return          |
-
-**Note:** The consequence of God gathering back ruach/neshamah (v.14): all flesh expires (גוע, gava') and humanity returns to dust (עפר). This is the reversal of Gen 2:7.
-
----
-
-## Psalm 146:4 — Hebrew Parsing
-
+## Psalm 146:4
+```
 תֵּצֵ֣א ר֭וּחֹו יָשֻׁ֣ב לְאַדְמָתֹ֑ו בַּיֹּ֥ום הַ֝ה֗וּא אָבְד֥וּ עֶשְׁתֹּנֹתָֽיו׃
 
-| Hebrew          | Lemma   | Parsing              | Gloss              |
-|-----------------|---------|----------------------|--------------------|
-| תֵּצֵ֣א         | יצא     | Verb.Qal.Impf.3fs    | go out             |
-| ר֭וּחֹו         | רוח     | Noun.s.Abs.+3ms      | his ruach          |
-| יָשֻׁ֣ב         | שׁוב    | Verb.Qal.Impf.3ms    | return             |
-| לְ              | ל       | Prep                 | to                 |
-| אַדְמָתֹ֑ו      | אדמה    | Noun.fs.Abs.+3ms     | his soil           |
-| בַּיֹּ֥ום       | יום     | Noun.ms.Abs          | day                |
-| הַ֝ה֗וּא        | הוא     | PersPron.3ms.+NAN    | he                 |
-| אָבְד֥וּ        | אבד     | Verb.Qal.Perf.3p     | perish             |
-| עֶשְׁתֹּנֹתָֽיו | עשׁתנת  | Noun.fp.Abs.+3ms     | his thoughts       |
+Hebrew          Lemma        Parsing                   Gloss
+תֵּצֵ֣א         יצא          Verb.Qal.Impf.3fs         go out
+ר֭וּחֹו         רוח          Noun.s.Abs.+3ms           wind
+יָשֻׁ֣ב         שׁוב         Verb.Qal.Impf.3ms         return
+לְ              ל            Prep                      to
+אַדְמָתֹ֑ו      אדמה         Noun.fs.Abs.+3ms          soil
+בַּ             ב            Prep                      in
+הַ֝             ה            Art.+NAN                  the
+יֹּ֥ום          יום          Noun.ms.Abs               day
+הַ֝             ה            Art.+NAN                  the
+ה֗וּא           הוא          PersPron.3ms.+NAN         he
+אָבְד֥וּ        אבד          Verb.Qal.Perf.3p          perish
+עֶשְׁתֹּנֹתָֽיו עשׁתנת       Noun.fp.Abs.+3ms          thought
+```
 
-**Key grammatical notes:**
-1. תֵּצֵ֣א ר֭וּחֹו — "his ruach goes out" — the ruach departs the person.
-2. יָשֻׁ֣ב לְאַדְמָתֹ֑ו — "he returns to his soil" — the subject switches to the prince/man, not the ruach. He (the person) returns to the earth.
-3. בַּיֹּ֥ום הַהוּא אָבְד֥וּ עֶשְׁתֹּנֹתָֽיו — "in that very day his thoughts perish." Immediately upon the ruach departing, thoughts cease — no intermediate conscious state is implied.
+Key observations:
+- יצא (yatsa) = "go out" -- ruach (breath/spirit) goes out
+- שׁוב (shub) = "return" -- he returns to his soil (adamah)
+- אבד (abad) = "perish" -- Qal perfect 3p: his thoughts PERISH
+- עשׁתנת (eshtanot) = "thoughts" -- plural with 3ms suffix: "his thoughts"
+- "In that very day" -- emphatic temporal marker; thoughts perish at the moment of death
 
----
+## Ecclesiastes 3:19
+```
+כִּי֩ מִקְרֶ֨ה בְֽנֵי־הָאָדָ֜ם וּמִקְרֶ֣ה הַבְּהֵמָ֗ה וּמִקְרֶ֤ה אֶחָד֙ לָהֶ֔ם כְּמֹ֥ות זֶה֙ כֵּ֣ן מֹ֣ות זֶ֔ה וְר֥וּחַ אֶחָ֖ד לַכֹּ֑ל
 
-*End of raw Hebrew parsing data*
+Hebrew          Lemma        Parsing                   Gloss
+מִקְרֶ֨ה        מקרה         Noun.ms.Abs               accident/fate
+בְֽנֵי          בן           Noun.mp.Cst               son
+הָאָדָ֜ם        אדם          Noun.ms.Abs               human, mankind
+מִקְרֶ֣ה        מקרה         Noun.ms.Abs               accident/fate
+הַבְּהֵמָ֗ה     בהמה         Noun.fs.Abs               cattle/beast
+מִקְרֶ֤ה        מקרה         Noun.ms.Abs               accident/fate
+אֶחָד֙          אחד          Noun.s.Abs                one
+מֹ֥ות           מות          Noun.ms.Cst               death
+וְר֥וּחַ        רוח          Noun.s.Abs                wind/breath/spirit
+אֶחָ֖ד          אחד          Noun.s.Abs                one
+לַכֹּ֑ל         כל           Noun.ms.Abs               whole/all
+מֹותַ֨ר         מותר         Noun.ms.Cst               advantage
+הָאָדָ֤ם        אדם          Noun.ms.Abs               human, mankind
+מִן             מן           Prep                      from
+הַבְּהֵמָה֙     בהמה         Noun.fs.Abs               cattle/beast
+אָ֔יִן          אין          Noun.ms.Abs               <NEG>/nothing
+הָֽבֶל          הבל          Noun.ms.Abs               breath/vanity
+```
+
+Key observations:
+- מקרה (miqreh) = "accident/fate/what happens" -- same fate for man and beast
+- רוח אחד (ruach echad) = "one breath/spirit" -- shared between all
+- מותר (motar) = "advantage/preeminence" -- man has NO preeminence over beast (in death)
+- הבל (hevel) = "vapor/vanity" -- all is vapor
+
+## Ezekiel 18:4
+```
+הֵ֤ן כָּל־הַנְּפָשֹׁות֙ לִ֣י הֵ֔נָּה כְּנֶ֧פֶשׁ הָאָ֛ב וּכְנֶ֥פֶשׁ הַבֵּ֖ן לִי־הֵ֑נָּה הַנֶּ֥פֶשׁ הַחֹטֵ֖את הִ֥יא תָמֽוּת׃
+
+Hebrew          Lemma        Parsing                   Gloss
+הֵ֤ן            הן           Interj                    behold
+כָּל            כל           Noun.ms.Cst               whole
+הַנְּפָשֹׁות֙   נפשׁ         Noun.fp.Abs               soul
+לִ֣י            ל            Prep.+1us                 to me
+הֵ֔נָּה         הנה          PersPron.3fp.+NAN         they
+כְּנֶ֧פֶשׁ      נפשׁ         Noun.fs.Cst               soul
+הָאָ֛ב          אב           Noun.ms.Abs               father
+וּכְנֶ֥פֶשׁ     נפשׁ         Noun.fs.Cst               soul
+הַבֵּ֖ן         בן           Noun.ms.Abs               son
+הַנֶּ֥פֶשׁ      נפשׁ         Noun.fs.Abs               soul
+הַחֹטֵ֖את       חטא          Verb.Qal.Ptcp.fs.Abs      miss/sin (participle: "the sinning")
+הִ֥יא           היא          PersPron.3fs.+NAN         she/it
+תָמֽוּת         מות          Verb.Qal.Impf.3fs         die
+```
+
+Key observations:
+- נפשׁ (nephesh) = "soul" -- used 4x: "all the souls," "the soul of the father," "the soul of the son," "THE soul"
+- חטא (chata) = "sin/miss the mark" -- Qal participle: "the sinning [soul]"
+- מות (mut) = "die" -- Qal imperfect 3fs: "IT SHALL DIE"
+- The nephesh that sins -- it (she, feminine matching nephesh) shall die
+- Nephesh is subject of death, not something that escapes death

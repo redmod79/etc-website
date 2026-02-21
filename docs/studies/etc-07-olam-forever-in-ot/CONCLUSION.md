@@ -1,349 +1,551 @@
-# Olam: What Does "Forever" Mean in the OT?
+# Does Hebrew Olam Always Mean Eternal?
 
 ## Question
-
-What does the Hebrew word olam (H5769) mean in the Old Testament? Does it always mean "eternal/endless" or can it mean "age-long/pertaining to an age"? Examine key uses: in punishment contexts, creation contexts, covenant contexts, and descriptive contexts where the duration is clearly limited. Does the OT use of olam in punishment contexts require endless conscious torment?
-
----
+Does the Hebrew word olam (H5769), typically translated "forever," "everlasting," or "eternal," always denote infinite/endless duration? Or does its meaning vary by context, with duration determined by the nature of the subject it modifies?
 
 ## Summary Answer
-
-H5769 (olam) denotes "time out of mind" — duration that exceeds the observer's visible horizon. The word does not assert ontological endlessness; it asserts duration beyond what is visible from the current vantage point. The actual duration in any given use is contextually determined by the nature of the subject. The same word appears in the same verse (Hab 3:6) for mountains that are shattered and for God's ways that endure — revealing that olam describes a horizon, not an absolute. In punishment contexts, olam consistently describes a permanent, irreversible outcome — the result of judgment is permanent — without asserting ongoing conscious activity as the mechanism. The LXX establishes the bridge: H5769 olam → G166 aionios (100x, PMI 5.67), meaning the NT word "eternal" inherits the semantic range of olam, including the full spectrum from genuinely endless (God's nature) to age-pertaining (permanent result).
-
----
+Olam (H5769) does not inherently mean "eternal/endless." Its root meaning is "concealed/hidden [time]" -- time whose endpoint is not visible from the speaker's perspective. Across its approximately 432 OT occurrences, olam's actual duration is determined by the nature of the subject it modifies. When applied to God (genuinely eternal subject), olam carries its maximal force: truly unending. When applied to covenantal institutions (the Aaronic priesthood, Mosaic ceremonies, Solomon's temple), olam means "for the duration of the age" -- and these institutions have demonstrably ended. When applied to human subjects (a slave's service in Exo 21:6, Jonah's three days in Jon 2:6, Samuel's lifetime in 1 Sam 1:22), olam is limited by the subject's mortal span. When looking backward, olam means "of old" or "ancient" (Gen 6:4; Jer 6:16) -- a finite past period. The LXX translates olam as aion ("an age") 287 times and aionios ("pertaining to an age") 100 times, confirming the "age-long" rather than "strictly eternal" reading. Two olam promises were explicitly revoked by God (1 Sam 2:30; 13:13), demonstrating that olam does not mean "unconditional and irrevocable." The implications for "everlasting punishment" (Matt 25:46, using aionios -- the LXX equivalent of olam) are that the duration of punishment is determined by the nature of the subject (destruction), not by the adjective olam/aionios itself.
 
 ## Key Verses
-
-**Hab 3:6 — Olam mountains shattered and olam God's ways endure (same verse)**
-> "He stood, and measured the earth: he beheld, and drove asunder the nations; and the everlasting mountains [harre-ad] were scattered, the perpetual hills [giv'ot olam] did bow: his ways are everlasting [halichot olam]."
-The "perpetual hills" (giv'ot olam) bow down in the same verse that says God's ways are olam. The mountains and hills — described with the same olam vocabulary — are scattered. This passage shows olam applied to subjects that are not indestructible.
-
-**Dan 12:2 — Identical grammatical construction for both outcomes**
-> "And many of them that sleep in the dust of the earth shall awake, some to everlasting life [le-chayyei olam], and some to shame and everlasting contempt [le-dir'on olam]."
-Both construct chains (Noun.Cst + Noun.ms.Abs) are grammatically identical. The same olam applies to both outcomes. The word dir'on (H1860) occurs only here and in Isa 66:24, where it describes corpses (pigrê). Both sides must acknowledge the identical grammatical construction and the dir'on lexical link to corpse-imagery.
-
-**Exo 21:6 — Le-olam slave serves master "for ever" (bounded by death)**
-> "His master shall bore his ear through with an awl; and he shall serve him for ever [le-olam]."
-Hebrew parsing confirms: וַעֲבָדֹ֖ו לְעֹלָֽם. The servant's le-olam is bounded by mortality. No interpreter takes this as eternal service in an afterlife sense. The olam here = the remainder of the servant's observable existence.
-
-**Isa 34:10 — Edom's smoke ascending le-olam (existing Master E182)**
-> "It shall not be quenched night nor day; the smoke thereof shall go up for ever: from generation to generation it shall lie waste; none shall pass through it for ever and ever."
-The same passage (vv.11-17) immediately shows animals dwelling in Edom's desolation — the land is permanently ruined, not actively burning with conscious inhabitants. Cross-testament parallel tool confirms this as the highest OT parallel for Rev 14:11 (score 0.401). See existing Master IB009.
-
-**Isa 32:14-15 — Desolation "for ever until" the Spirit is poured**
-> "Because the palaces shall be forsaken; the multitude of the city shall be left; the forts and towers shall be for dens for ever, a joy of wild asses... Until the spirit be poured upon us from on high..."
-Olam desolation with an explicit "until" — the same passage bounds its own "for ever" with a future condition.
+- **Psalm 90:2** -- "From everlasting to everlasting, thou art God" (olam applied to God = genuinely eternal)
+- **Exodus 40:15** -- "An everlasting priesthood" (olam applied to Aaronic priesthood = ended, superseded by Melchizedek order)
+- **Exodus 21:6** -- "He shall serve him for ever" (olam applied to slave service = one human lifetime)
+- **Jonah 2:6** -- "The earth with her bars was about me for ever" (olam = three days)
+- **1 Samuel 13:13** -- "Would have established thy kingdom for ever" (olam promise revoked for disobedience)
+- **1 Samuel 2:30** -- "I said thy house should walk before me for ever: but now..." (olam promise explicitly cancelled)
+- **Genesis 6:4** -- "Mighty men which were of old" (olam = ancient past, not eternal)
+- **Isaiah 34:10-11** -- Smoke goes up "for ever" yet animals inhabit the land (olam fire/smoke = completed judgment)
+- **Daniel 12:2** -- "Everlasting life" and "everlasting contempt" (olam modifies both outcomes; deraon/contempt refers to onlookers' reaction to corpses per Isa 66:24)
+- **1 Kings 8:13; 9:3** -- Temple as God's dwelling "for ever" (olam = destroyed 586 BC and AD 70)
 
 ---
 
-## Analysis
+## Evidence Classification
 
-### 1. The Lexical Core of H5769
+*Evidence items tracked in etc-master-evidence.md*
 
-The BDB/Strong's definition of H5769 is: "Properly, concealed, i.e. the vanishing point; generally, time out of mind (past or future)." The root points to the horizon where duration disappears from view — "the far end of the observable horizon of time." This is an experiential/perspectival word, not a mathematical absolute.
-
-The statistical evidence confirms this. The KJV renders H5769 with 40+ distinct English words across 432 occurrences, including "of old" and "ancient" (past-horizon) alongside "for ever" and "everlasting" (future-horizon). Ecclesiastes 3:11 renders it "world" (he set eternity/olam in their heart); Ecclesiastes 12:5 renders it "long" ("man goeth to his long [olam] home" = death). The same Hebrew word translated "everlasting" is also translated "ancient," "of old," "world," and "long" depending on context.
-
-### 2. Category A: Olam with Clearly Limited Duration
-
-Several passages use olam in contexts where the duration is bounded by observable facts:
-
-- **Exo 21:6 (le-olam slave):** The slave serves le-olam — for the remainder of his life. Both sides acknowledge this is not eternal service in a metaphysical sense. Mortality bounds the olam.
-- **1 Sam 1:22 (Samuel abide for ever):** Hannah says Samuel will "abide for ever" — yet he lived and died normally. Olam = the remainder of the period under consideration.
-- **1 Sam 2:30 (Eli's house "for ever" revoked):** God says "I said indeed that thy house... should walk before me for ever: but now the LORD saith, Be it far from me." The same verse grants and then revokes an olam promise. Olam did not prevent revocation.
-- **Jon 2:6 (le-olam in fish belly, 72 hours):** Jonah says the earth "barred me in for ever [le-olam]" — during three days in the fish belly. An explicitly bounded event described as le-olam.
-- **Isa 32:14-15 (desolation for ever until):** "The forts and towers shall be for dens for ever... Until the spirit be poured upon us." The olam desolation has an explicit future-conditional "until." The "for ever" is bounded by the eschatological Spirit-pouring.
-- **1 Kgs 8:13; 2 Chr 7:16 (temple for ever):** Solomon builds a house for God "for ever" — yet the temple was destroyed in 586 BC.
-
-These passages collectively show that olam can describe a duration that is "beyond the visible horizon" without asserting absolute endlessness.
-
-### 3. Category B: Olam in Punishment and Judgment Contexts
-
-The central debate passages are those that use olam in punishment contexts:
-
-**Isa 34:9-10** (smoke le-olam): The smoke of Edom's burning "shall go up for ever." The same passage immediately continues (vv.11-17) with animals taking possession of the desolate land. The land "lies waste" (charvav = dry/desolate — the land is ruined and uninhabited, not actively burning). Animals dwell there, possess it for ever (le-olam, v.17). The olam smoke describes permanent irreversible ruin; the narrative aftermath shows the result is a permanent desolate wasteland. This is already established as Master E182 and IB009.
-
-**Jer 20:11** (everlasting confusion): The enemies of Jeremiah face "everlasting confusion" — the disgrace is permanent, not an ongoing-torment description.
-
-**Jer 51:39, 57** (perpetual sleep): "They shall sleep a perpetual sleep [shnat-olam] and not wake [lo yaqitzu]." Hebrew parsing confirms: שְׁנַת עֹולָ֖ם וְלֹ֣א יָקִ֑יצוּ. The same verbal root (qits, "to wake/awaken") appears in Dan 12:2 — the resurrection waking. In Jer 51, the wicked "shall not wake." In Dan 12:2, the sleepers "shall awake." Same root, opposite polarity. The Babylon judgment (Jer 51) uses olam sleep as the permanent outcome, with "not waking" as the definitive descriptor. See existing Master E132 (Jer 51:39).
-
-**Dan 12:2** (everlasting life and everlasting contempt): Hebrew parsing confirms both construct chains are grammatically identical — לְחַיֵּ֣י עֹולָ֔ם and לְדִרְאֹ֥ון עֹולָֽם (Noun.Cst + Noun.ms.Abs). The same olam applies to both outcomes. The word dir'on (H1860) is a hapax legomenon — it appears only here and in Isa 66:24, where the objects are corpses (pigrê). Both sides must acknowledge: (1) the grammatical symmetry, (2) the dir'on lexical link to corpses. See existing Master E023.
-
-**Isa 66:24** (fire not quenched, worm not dying): The objects of the fire and worm are pigrê (corpses) — the dead bodies of those who have rebelled. The "not quenched" and "worm not dying" describe processes acting on already-dead persons. See existing Master E141.
-
-**Ps 92:7, 9** (destroyed for ever — ad-olam): "They shall be destroyed for ever [ad-olam]" combined with "thine enemies shall perish [abad]." The destruction vocabulary (shamad + abad) accompanies the olam intensifier. See existing Master E162.
-
-**Mal 4:1-3** (burning oven, ashes): "All the proud, yea, and all that do wickedly, shall be stubble... the day that cometh shall burn them up... they shall be ashes [epher] under the soles of your feet." The outcome of the "everlasting" fire is ashes — same pattern as N029 (eternal fire on Sodom = ashes; N029 reclassified to IB009-resolved after Study 5). See existing Master E156, E157.
-
-**Pattern across Category B:** Every olam judgment passage describes the outcome as permanent and irreversible without using ongoing-torment vocabulary. The consistent pattern is: desolation remains permanently (Isa 34), sleep does not end (Jer 51), contempt is permanent (Dan 12:2), enemies perish (Ps 92), ashes remain (Mal 4). The "for ever" quality attaches to the result, not to an ongoing process.
-
-### 4. Category C: Olam for God and His Attributes
-
-When olam describes God (Ps 90:2 "from everlasting to everlasting, thou art God"; Isa 57:15 "the high and lofty One that inhabiteth eternity"), the word genuinely denotes endless duration because the nature of God is genuinely without limit. The Hab 3:6 observation is critical here: in the SAME verse, olam (giv'ot olam, "perpetual hills") describes hills that bow and are scattered, while olam (halichot olam, "everlasting ways") describes God's ways that endure. The word does the same lexical work — horizon-pointing — but the nature of the subject (destructible hills vs. eternal God) determines the actual duration.
-
-### 5. Category D: Compound Phrases
-
-The compound phrase le-olam va-ed ("for ever and ever") appears in both God-contexts and in Isa 34:10 (le-netsach netsachim, a different compound). The "ever and ever" construction intensifies the temporal claim without changing the underlying semantic logic. The Isa 34:10 context demonstrates that even the intensified compound can describe permanent desolation rather than infinite active process.
-
-### 6. Related Temporal Terms
-
-- **H5703 (ad):** "Perpetual, everlasting" — appears in Hab 3:6 (harre-ad = "mountains of ad") alongside giv'ot olam; also in ad-olam compounds. Like olam, denotes extreme duration without necessarily asserting ontological indestructibility.
-- **H5331 (netsach):** "Perpetually, forever" — used in le-netsach netsachim (Isa 34:10 compound). Appears also in Lam 3:18 ("my strength and my hope is perished from the LORD") and Isa 57:16 ("for I will not contend for ever [le-netsach], neither will I be always wroth"). Same semantic range as olam.
-- **H8548 (tamid):** "Continually, perpetually, always" — generally describes ongoing active states (the continual burnt offering, continual showbread). Tamid is the word for genuinely ongoing action; olam is not tamid.
-- **H5957 (alam, Aramaic):** The Aramaic equivalent appears in Daniel's court scenes: "O king, live for ever" (Dan 2:4; 3:9; 5:10; 6:21). This is a standard court formula addressed to mortal kings — obviously not a literal assertion of eternal life. The formula demonstrates that even the Aramaic alam could function as a conventional expression, not a metaphysical absolute.
-
-### 7. The LXX Bridge: H5769 → G165/G166
-
-The Septuagint (LXX) is the primary bridge between Hebrew olam and Greek NT usage:
-- H5769 → G165 (aion): 287 times, PMI score 5.55 (very strong, non-accidental association)
-- H5769 → G166 (aionios): 100 times, PMI score 5.67 (slightly stronger PMI, the adjective form)
-
-PMI (Pointwise Mutual Information) scores this high confirm the G165/G166 translations of H5769 are dominant and systematic, not coincidental. The LXX translators consistently rendered the Hebrew "vanishing point" word with the Greek "age/age-long" words.
-
-This establishes that when NT writers use G166 (aionios = "eternal/everlasting"), readers familiar with the LXX understood that word through the semantic range of H5769 (olam). The LXX lexicon data for G166 explicitly states it is "also used of past time, or past and future as well" — confirming the adjective inherits olam's bidirectionality. G166 is not a word that inherently asserts philosophical infinity; it asserts age-pertaining quality and/or permanence of result, with the actual duration determined by context and subject.
-
-Dan 12:2 LXX uses G166 (aionios) for both outcomes: zoe aionios (everlasting life) and aischyne aionios (everlasting contempt). Both translate H5769 olam. The NT phrase "eternal life" (zoe aionios) and "eternal punishment" (kolasis aionios) in Matt 25:46 carry the same word with the same LXX semantic history.
-
-### 8. Dan 12:2 Symmetry and Lexical Evidence
-
-The grammatical symmetry of Dan 12:2 deserves extended analysis:
-
-- Both outcomes use identical construct chains: noun in construct + olam in absolute
-- "le-chayyei olam" (unto everlasting life) and "le-dir'on olam" (unto everlasting contempt) are parallel
-- The same olam governs both clauses
-
-From this symmetry, two interpretive positions are possible:
-1. **Symmetry governs duration:** If olam means "endless" for the life, it means "endless" for the contempt. If olam means "age-long/permanent-result" for the contempt, it means the same for the life.
-2. **Referent-nature governs duration:** The olam describes the permanent character of the outcome in both cases; the actual duration is determined by what "life" and "contempt" are in their respective natures.
-
-Both readings acknowledge the symmetry as a textual fact (Neutral, E tier). The interpretation of what the symmetry implies is I-B (both sides have textual support). See IB011 below.
-
-The dir'on (H1860) lexical observation is an additional textual fact: this word appears nowhere else in the Hebrew Bible except Isa 66:24 — where the objects of fire and worm are explicitly pigrê (corpses/dead bodies). The word that denotes the punishment outcome in Dan 12:2 is lexically linked to corpse-imagery, not to conscious torment imagery. Both sides must acknowledge this lexical observation.
-
-Additionally, the verb root qits (קיץ) in Dan 12:2 ("shall awake" — yaqitzu) is the same root as in Jer 51:57 ("shall not wake" — lo yaqitzu). The resurrection waking of Dan 12:2 is the positive pole of the same verb the Babylon judgment passage uses as the negative pole (permanent non-waking). This lexical connection is confirmed by Hebrew parsing of both passages.
-
-### 9. The Isa 34:10 → Rev 14:11 Connection
-
-Cross-testament parallel tool data confirms: Isa 34:10 is the highest-scoring OT parallel for Rev 14:11 (hybrid score 0.401, theological flag). Shared vocabulary includes smoke/fire imagery, perpetual language, desolation theme. The Rev 14:11 "smoke of their torment ascendeth up for ever and ever" draws on the Isa 34:10 imagery of permanent desolation. This is established as Master IB009: the literary formula points toward permanent ruin, but the NT text adds basanizo (torment) and the specific "no rest day nor night" language for beast-worshippers.
-
-### 10. What the Evidence Shows
-
-The OT evidence yields these textual observations:
-1. H5769 (olam) has 40+ KJV renderings — it is contextually determined vocabulary, not an absolute.
-2. Multiple passages use olam for durations bounded by death, historical events, or explicit "until" clauses.
-3. Hab 3:6 uses olam in the same verse for destructible mountains (bow down) and God's ways (endure) — the word adapts to its referent.
-4. The punishment passages consistently use olam for permanent irreversible outcomes — but no punishment passage uses ongoing-torment vocabulary alongside olam.
-5. Dan 12:2 links the contempt-outcome (dir'on olam) lexically to corpse-imagery (Isa 66:24) and structurally to the resurrection-sleep framework (Jer 51:57 qits root).
-6. The LXX bridge establishes that NT aionios carries the same semantic range as OT olam — not a philosophical absolute, but "age-pertaining/permanent" with the actual duration contextually determined.
+### INVESTIGATIVE METHODOLOGY
+- This study investigates the semantic range of Hebrew olam (H5769) across all its major usage categories. The role is investigator, not advocate.
+- Evidence is gathered from all usage contexts. Where olam is applied to subjects of different natures (eternal, finite, past), each is documented.
+- Statements below report what the text says and what the lexical/translation data shows. Interpretive inferences are classified separately.
+- No editorial language is used. Passages are quoted and observations stated.
 
 ---
 
-## Evidence Classification Tables
+### 1. Explicit Statements Table
 
-*Evidence items tracked in etc5-master-evidence.md*
+For each E-item classified as Conditionalist or ECT, Tree 3 (E-Item Positional Classification) application is documented below the table.
 
-### Explicit Statements (E)
-
-| # | Explicit Statement | Reference | Classification | Master ID |
-|---|--------------------|-----------|----------------|-----------|
-| E1 | H5769 (olam) defined by BDB/Strong's as "properly, concealed, i.e. the vanishing point; generally, time out of mind (past or future)." | Strong's H5769 / BDB | Neutral | **E185 (new)** |
-| E2 | H5769 is rendered by 40+ distinct KJV English words across 432 occurrences, including "of old," "ancient," "world" (Ecc 3:11), "long" (Ecc 12:5), and "for ever/everlasting." | KJV rendering distribution data | Neutral | **E186 (new)** |
-| E3 | "His master shall bore his ear through with an awl; and he shall serve him for ever [le-olam]." The slave serves to olam — bounded by mortality. | Exo 21:6 | Neutral | **E187 (new)** |
-| E4 | "I said indeed that thy house... should walk before me for ever: but now the LORD saith, Be it far from me." Olam promise granted and revoked in the same verse. | 1 Sam 2:30 | Neutral | **E188 (new)** |
-| E5 | "I went down to the bottoms of the mountains; the earth with her bars was about me for ever [le-olam]." Jonah describes three days in the fish belly as le-olam. | Jon 2:6 | Neutral | **E189 (new)** |
-| E6 | "The forts and towers shall be for dens for ever... Until the spirit be poured upon us from on high." Olam desolation with an explicit future-conditional "until" bounding it. | Isa 32:14-15 | Neutral | **E190 (new)** |
-| E7 | "The everlasting mountains [harre-ad] were scattered, the perpetual hills [giv'ot olam] did bow: his ways are everlasting [halichot olam]." Same verse uses olam for scattered/bowing mountains AND for God's enduring ways. | Hab 3:6 | Neutral | **E191 (new)** |
-| E8 | After the "smoke thereof shall go up for ever" in Isa 34:10, verses 11-17 show animals immediately possessing and dwelling in Edom's desolated territory — the land is uninhabited wasteland, not an actively burning place. Verse 17 states the animals "shall possess it for ever [le-olam]." | Isa 34:11-17 | Neutral | **E192 (new)** |
-| E9 | "Many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt." | Dan 12:2 | Neutral | Existing: **E023** |
-| E10 | The word dir'on (H1860) in Dan 12:2 ("everlasting contempt") occurs only in two locations in all Hebrew Scripture: Dan 12:2 and Isa 66:24. In Isa 66:24, the objects acted upon by fire and worm are pigrê (corpses/dead bodies). | Dan 12:2; Isa 66:24 (lexical survey) | Neutral | **E193 (new)** |
-| E11 | "They shall sleep a perpetual sleep [shnat-olam] and not wake [lo yaqitzu]." The same verbal root (qits) appears in Dan 12:2 as the resurrection "waking" (yaqitzu) — opposite polarity, same root. | Jer 51:57 | Neutral | **E194 (new)** |
-| E12 | "And they that be dead in him... shall sleep a perpetual sleep, and not wake." | Jer 51:39 | Neutral | Existing: **E132** |
-| E13 | LXX translation data: H5769 (olam) → G165 (aion) 287 times (PMI score 5.55, ranked score 31.41); H5769 → G166 (aionios) 100 times (PMI score 5.67, ranked score 26.16). Both PMI scores exceed 5.5 — statistically dominant, non-accidental associations. | LXX mapping data (search_strongs.py --lxx-map H5769) | Neutral | **E195 (new)** |
-| E14 | Aramaic H5957 (alam) "O king, live for ever [le-alam olam]" — court formula addressed to Nebuchadnezzar and Darius in Dan 2:4; 3:9; 5:10; 6:21. Addressed to mortal kings. | Dan 2:4; 3:9; 5:10; 6:21 | Neutral | **E196 (new)** |
-| E15 | "The land thereof shall become burning pitch... the smoke thereof shall go up for ever." Edom's land is the referent of the ascending smoke — the land is desolated, not conscious persons. Cross-testament parallel tool confirms this as the highest OT parallel for Rev 14:11 (score 0.401, theological flag). | Isa 34:9-10 | Neutral | Existing: **E182** |
-| E16 | "They shall be destroyed for ever [yishammedu ad-olam]: for lo, thine enemies shall perish [yobedu — abad]." Two destruction terms (shamad + abad) accompany ad-olam. | Psa 92:7, 9 | Conditionalist | Existing: **E162** |
-| E17 | "And all the proud, yea, and all that do wickedly, shall be stubble... the day that cometh shall burn them up... it shall leave them neither root nor branch." | Mal 4:1 | Conditionalist | Existing: **E156** |
-| E18 | "Ye shall tread down the wicked; for they shall be ashes [epher] under the soles of your feet in the day that I shall do this." | Mal 4:3 | Conditionalist | Existing: **E157** |
-| E19 | The objects of fire and worm in Isa 66:24 are pigrê (corpses/dead bodies), not conscious persons. Mark 9:48 quotes this text directly. | Isa 66:24 | Neutral | Existing: **E141** |
-| E20 | The devil, beast, and false prophet are "tormented day and night for ever and ever" in the lake of fire. | Rev 20:10 | Neutral | Existing: **E149** |
-| E21 | Beast-worshippers "shall be tormented with fire and brimstone... and the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night." | Rev 14:10-11 | Neutral | Existing: **E150** |
-| E22 | "Eternal fire" applied to Sodom (Jude 1:7); the same event described by the same author tradition as "turning the cities of Sodom and Gomorrha into ashes" (2 Pet 2:6). | Jude 1:7; 2 Pet 2:6 | Neutral | Existing: **N029 basis** *(N029 reclassified to IB009-resolved after Study 5)* |
-
-### Necessary Implications (N)
-
-| # | Necessary Implication | Based on | Why it is unavoidable | Classification | Master ID |
-|---|-----------------------|----------|-----------------------|----------------|-----------|
-| N1 | The duration olam denotes in any given use is determined by the nature and context of the subject, not by the word itself. | E7 (Hab 3:6: same olam for scattered mountains and enduring God's ways, same verse); E3 (Exo 21:6: olam = servant's lifetime); E5 (Jon 2:6: olam = 72 hours); E6 (Isa 32:14-15: olam + "until") | The same word in Hab 3:6 applies simultaneously to mountains that are destroyed and to God's ways that endure. Both sides must acknowledge this as a textual fact. The only explanation that accounts for this use is that the word adapts to its referent's nature, not that the word itself asserts absolute endlessness. | Neutral | **N034 (new)** |
-| N2 | NT G166 (aionios, "eternal/everlasting") carries the semantic range of Hebrew H5769 (olam), including age-pertaining quality with actual duration contextually determined. | E13 (LXX bridge: H5769 → G166 100x, PMI 5.67); E195 (statistical dominance of the association) | A PMI score of 5.67 at 100 occurrences is a statistically dominant, non-accidental correspondence. Both sides must acknowledge that NT writers who used G166 had adopted the LXX's vocabulary, and that the LXX's vocabulary was developed to translate H5769 olam. The semantic range NT aionios carries is the semantic range the LXX established for it. | Neutral | **N035 (new)** |
-| N3 | "Eternal fire" in biblical usage denotes a fire whose result is permanent and irrevocable — not a fire that continues burning forever — as established by the Bible's own cross-reference. | Jude 1:7; 2 Pet 2:6 | Same author, same event: one calls it "eternal fire," the other describes the result as ashes. | Neutral | Existing: **N029** *(reclassified to IB009-resolved after Study 5)* |
-
-### Inferences (I)
-
-| # | Claim | Type | What the Bible actually says | Why this is an inference | Criteria | Classification | Master ID |
-|---|-------|------|------------------------------|--------------------------|----------|----------------|-----------|
-| I1 | The OT punishment passages using olam describe permanent, irreversible outcomes whose duration is determined by the subject's nature, not an assertion of endless conscious activity. | I-A | E162 (Ps 92:7: shamad + abad = destroyed for ever); E156/E157 (Mal 4:1,3: stubble + ashes); E132 (Jer 51:39: perpetual sleep); E194 (Jer 51:57: shall not wake, qits root); E182 (Isa 34:10: smoke = desolation); E192 (Isa 34:11-17: animals in desolated land); E193 (Dan 12:2 dir'on = corpse-imagery connection); N034 (duration = nature of subject) | No single verse states "olam in punishment contexts describes permanent result not ongoing process." Systematizes E/N items into a category-wide interpretive claim. All components in E/N tables. | #5 (systematizing) | Conditionalist | **IA021 (new)** |
-| I2 | The identical grammatical construction of Dan 12:2 (same olam, same construct chain for both outcomes) requires that "everlasting contempt" and "everlasting life" have the same type and duration of existence. | I-B | E9 (Dan 12:2: same olam for both outcomes); N034 (duration = subject's nature, established by Hab 3:6); E193 (dir'on = corpse-imagery); E194/E132 (Jer 51 = sleep not waking). | Competing evidence: grammatical symmetry supports same-duration argument; referent-nature evidence (N034) and lexical data (E193, E194) support subject-determines-duration argument. Both sides have textual support. | #2 (choosing between two readings of the symmetry) | Neutral | **IB011 (new)** |
-| I3 | The "smoke of their torment ascendeth up for ever and ever" in Revelation 14:11 is a literary formula for permanent ruin appropriated from Isaiah 34:10 (desolation imagery), rather than a literal description of ongoing conscious suffering in perpetuity. | I-B | FOR (literary formula): E182 (Isa 34:10 = OT source, highest parallel score 0.401); N029 (eternal fire = permanent result per Jude 1:7 + 2 Pet 2:6). AGAINST: E150 (Rev 14:10-11: basanizo/basanismos; "no rest day nor night"). | Both the source-text evidence and the direct torment vocabulary are textual. | #2; #4a (SIS: source text governs imagery) | Neutral | Existing: **IB009** |
+| # | Explicit Statement | Reference | Position | Master ID |
+|---|---|---|---|---|
+| E1 | Olam (H5769) is derived from the root alam meaning "to conceal, hide"; Strong's defines it as "properly, concealed, i.e. the vanishing point; generally, time out of mind (past or future), i.e. (practically) eternity" | H5769 definition | Neutral | E268 *NEW* |
+| E2 | Olam is translated 40+ different ways in the KJV, including "for ever" (198x), "everlasting" (56x), "perpetual" (22x), "of old" (13x), "ancient" (4x), and "long time" | H5769 translation data | Neutral | E269 *NEW* |
+| E3 | The LXX translates olam as aion (G165, "an age") 287 times and aionios (G166, "pertaining to an age") 100 times | LXX translation data | Neutral | E270 *NEW* |
+| E4 | The LXX also translates olam as genea (G1074, "a generation") 51 times | LXX translation data | Neutral | E271 *NEW* |
+| E5 | Olam is applied to God himself: "the everlasting God" (Gen 21:33; Isa 40:28), "from everlasting to everlasting, thou art God" (Ps 90:2), "inhabiteth eternity" (Isa 57:15) | Gen 21:33; Ps 90:2; Isa 40:28; 57:15 | Neutral | E272 *NEW* |
+| E6 | Olam is applied to the Aaronic priesthood: "an everlasting priesthood" (Exo 40:15; Num 25:13); this priesthood was changed per Heb 7:12 | Exo 40:15; Num 25:13; Heb 7:12 | Cond. | E273 *NEW* |
+| E7 | Olam is applied to Mosaic ceremonial statutes (Passover, Day of Atonement, Levitical offerings, showbread, lampstand) as "statute for ever"; these ceremonies have ceased with the temple's destruction | Exo 12:14,17,24; Lev 16:29,34; 24:3,8-9 + 20 additional references | Cond. | E274 *NEW* |
+| E8 | Olam is applied to Solomon's temple: God's name there "for ever" (1 Ki 8:13; 9:3; 2 Ki 21:7); the temple was destroyed in 586 BC and again in AD 70 | 1 Ki 8:13; 9:3 | Cond. | E275 *NEW* |
+| E9 | Olam is applied to slave service: "he shall serve him for ever" (Exo 21:6; Deu 15:17); this means the slave's remaining lifetime, not eternity | Exo 21:6; Deu 15:17 | Cond. | E276 *NEW* |
+| E10 | Olam is applied to Jonah's confinement in the fish: "the earth with her bars was about me for ever" (Jon 2:6); this lasted three days | Jon 2:6; cf. Jon 1:17 | Cond. | E277 *NEW* |
+| E11 | Olam is applied to Samuel's temple service: "there abide for ever" (1 Sam 1:22); Samuel died (1 Sam 25:1) | 1 Sam 1:22; 1 Sam 25:1 | Cond. | E278 *NEW* |
+| E12 | God explicitly revokes an olam promise to Eli's house: "I said thy house should walk before me for ever: but now the LORD saith, Be it far from me" | 1 Sam 2:30 | Cond. | E279 *NEW* |
+| E13 | God states Saul's kingdom would have been established olam but was revoked for disobedience: "now would the LORD have established thy kingdom for ever. But now thy kingdom shall not continue" | 1 Sam 13:13-14 | Cond. | E280 *NEW* |
+| E14 | Olam refers to past time ("of old," "ancient"): "mighty men of old" (Gen 6:4), "days of old" (Deu 32:7; Isa 63:9,11), "ancient paths" (Jer 6:16; 18:15), "ancient nation" (Jer 5:15), "prophets of old" (Jer 28:8) | Gen 6:4; Deu 32:7; Isa 63:9,11; Jer 5:15; 6:16; 28:8 | Cond. | E281 *NEW* |
+| E15 | Edom's smoke goes up "for ever" (olam, Isa 34:10) yet animals inhabit the same territory (Isa 34:11-17) | Isa 34:10-17 | Cond. | E282 *NEW* |
+| E16 | Olam is applied to circumcision as an "everlasting covenant" in the flesh (Gen 17:13); Paul states circumcision is not required in the new covenant (Gal 5:2-6; 6:15) | Gen 17:13; Gal 5:2-6 | Cond. | E283 *NEW* |
+| E17 | "Do they live for ever?" (Zec 1:5) -- rhetorical question expecting "no"; humans do not live olam | Zec 1:5 | Neutral | E284 *NEW* |
+| E18 | "The earth abideth for ever" (Ecc 1:4) but "the heavens shall vanish away like smoke, and the earth shall wax old" (Isa 51:6) and "the first heaven and the first earth were passed away" (Rev 21:1) | Ecc 1:4; Isa 51:6; Rev 21:1 | Cond. | E285 *NEW* |
+| E19 | The "everlasting mountains" (olam) were "scattered" and the "perpetual hills" (ad) "did bow" (Hab 3:6) -- olam mountains are breakable | Hab 3:6 | Cond. | E286 *NEW* |
+| E20 | Man's "long home" (beth olam) is the grave (Ecc 12:5) -- olam applied to the duration of death | Ecc 12:5 | Neutral | E287 *NEW* |
+| E21 | Daniel 12:2 uses olam for both "everlasting life" (chayyei olam) and "everlasting contempt" (deron olam) in the same verse | Dan 12:2 | Neutral | E288 *NEW* |
+| E22 | Deraon (H1860, contempt/abhorrence) occurs only twice in the OT: Dan 12:2 and Isa 66:24; in Isa 66:24 it describes onlookers' reaction to corpses (peger = dead bodies) | Dan 12:2; Isa 66:24 | Neutral | E267 |
+| E23 | Jerusalem's fire "shall burn for ever" (Jer 17:4); Jeremiah 17:27 specifies the fulfillment: fire kindled in gates of Jerusalem; Nebuchadnezzar burned Jerusalem in 586 BC; the fire is not still burning | Jer 17:4,27 | Cond. | E289 *NEW* |
+| E24 | Babylon is to become "perpetual desolations" (olam, Jer 25:9,12) and "desolate for ever" (Jer 51:26,62); the site has been partially inhabited at various historical periods | Jer 25:9,12; 51:26,62 | Cond. | E290 *NEW* |
+| E25 | The combined form le-olam va-ed ("for ever and ever," olam + ad) is used for God's reign (Exo 15:18; Ps 10:16; 45:6), for the destruction of the wicked's name (Ps 9:5), and for stars (Ps 148:6) | Exo 15:18; Ps 9:5; 45:6; 148:6 | Neutral | E291 *NEW* |
+| E26 | Netsach (H5331) is used to explicitly deny that God's wrath is perpetual: "neither will he keep anger for ever" (Ps 103:9), "I will not contend for ever" (Isa 57:16), "Will he reserve anger for ever?" (Jer 3:5) | Ps 103:9; Isa 57:16; Jer 3:5 | Cond. | E292 *NEW* |
+| E27 | Isaiah 34:10 uses the strongest available "forever" language (le-netsach netsachim = "for ever and ever") for a judgment that has demonstrably ended (animals inhabit the territory, vv.11-17) | Isa 34:10-17 | Cond. | E293 *NEW* |
+| E28 | "Perpetual sleep" (olam) of Babylon's rulers means death -- they will not awaken (Jer 51:39,57) | Jer 51:39,57 | Neutral | E294 *NEW* |
+| E29 | Aramaic alam (H5957, equivalent of olam) is used in court formulas "O king, live for ever" (Dan 2:4; 3:9; 5:10; 6:6,21) where the greeting is not understood literally -- the king will die | Dan 2:4; 3:9; 5:10; 6:6,21 | Cond. | E295 *NEW* |
+| E30 | God prevented man from living le-olam by barring access to the tree of life (Gen 3:22) | Gen 3:22 | Neutral | E006 |
+| E31 | The wicked shall be destroyed (shamad) for ever (le-ad olam -- combining H5703 and H5769) | Psa 92:7 | Cond. | E221 |
 
 ---
 
-## I-B Resolution Subsections
+#### Tree 3 Applications for Positional E-Items
 
-### I-B Resolution: IB011 — Dan 12:2 Grammatical Symmetry vs. Referent-Nature
+All items classified as Conditionalist or ECT must pass all four gates of Tree 3.
 
-**Step 1 — Tension:**
-- FOR (symmetry argument — same duration for both): E9 (Dan 12:2: both construct chains grammatically identical; same olam governs both outcomes). If the same word must mean the same thing applied to the same verse, both "everlasting life" and "everlasting contempt" share the same duration.
-- AGAINST (referent-nature argument — duration adapts to subject): N034 (duration of olam = nature of subject, established by Hab 3:6 same-verse observation); E193 (dir'on = hapax linked to corpse-imagery, not ongoing-torment imagery); E194/E132 (the Jer 51 context: olam sleep = not waking, which is non-ongoing); E3/E5 (Category A: olam adapts to its referent throughout the Hebrew Bible).
+**Items already classified in prior studies with full Tree 3 documentation:**
+- E31/E221 (Psa 92:7): Classified Conditionalist in etc-06. All four gates passed.
 
-**Step 2 — Clarity Assessment:**
+**New positional E-items requiring Tree 3 documentation:**
+
+**E6/E273 (Exo 40:15; Num 25:13; Heb 7:12) -- "Olam applied to Aaronic priesthood, which was changed" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- The olam priesthood ended/was changed. An institution described as olam demonstrably did not last forever. This is evidence that olam does not inherently mean "endless," which undermines the claim that "everlasting punishment" must be endless. Destruction/cessation vocabulary is not directly present, but the evidence that olam can denote limited duration supports the conditionalist reading of olam-modified punishment passages. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): The Aaronic priesthood -- a literal human institution. PASS.
+  - Gate 2 (Grammar): No ambiguity. The text says olam priesthood; the NT says it was changed. PASS.
+  - Gate 3 (Genre): Torah legislation (Exo 40:15; Num 25:13) and didactic epistle (Heb 7:12). PASS.
+  - Gate 4 (Harmony): Consistent with the pattern across Category B (all olam institutions that ended). No conflict with other E-items. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E7/E274 (Exo 12:14 + 20 additional refs) -- "Mosaic ceremonies described as olam have ceased" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- Olam-described ceremonial statutes have ceased. Same logic as E6. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): Mosaic ceremonies -- literal institutions practiced by literal humans. PASS.
+  - Gate 2 (Grammar): No ambiguity. The text says olam statutes; the statutes are no longer performed. PASS.
+  - Gate 3 (Genre): Torah legislation. Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with E6/E273. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E8/E275 (1 Ki 8:13; 9:3) -- "Temple described as olam dwelling, destroyed twice" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- The olam dwelling was destroyed. An olam-described structure no longer exists. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): Solomon's temple -- a literal physical structure. PASS.
+  - Gate 2 (Grammar): No ambiguity. PASS.
+  - Gate 3 (Genre): Historical narrative with direct speech. Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with E6, E7. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E9/E276 (Exo 21:6; Deu 15:17) -- "Slave serves olam = one human lifetime" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- Olam means a human lifetime, not eternity. Evidence that olam denotes limited duration. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): A slave -- a literal human being. PASS.
+  - Gate 2 (Grammar): No ambiguity. The slave serves le-olam, universally understood as "for life." PASS.
+  - Gate 3 (Genre): Torah legislation. Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with all Category B and C items. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E10/E277 (Jon 2:6) -- "Olam = three days in the fish" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- Olam describes a three-day period. The word can denote extremely short duration. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): Jonah -- a literal human being in a literal situation. PASS.
+  - Gate 2 (Grammar): No ambiguity. The "forever" was three days. PASS.
+  - Gate 3 (Genre): Prophetic narrative with embedded prayer/poetry. PASS.
+  - Gate 4 (Harmony): Consistent with E9 (slave service = lifetime). No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E11/E278 (1 Sam 1:22) -- "Samuel to abide olam = his lifetime" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- Olam = one human lifetime. Samuel died (1 Sam 25:1). Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): Samuel -- a literal human being. PASS.
+  - Gate 2 (Grammar): No ambiguity. PASS.
+  - Gate 3 (Genre): Historical narrative. Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with E9 (slave = lifetime). No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E12/E279 (1 Sam 2:30) -- "God revokes an olam promise" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- An olam promise was cancelled. Olam is not unconditional or irrevocable. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): Eli's priestly house -- literal humans. PASS.
+  - Gate 2 (Grammar): No ambiguity. God says "I said ... for ever: but now the LORD saith, Be it far from me." The revocation is explicit. PASS.
+  - Gate 3 (Genre): Direct prophetic speech. Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with E13 (Saul's revoked olam). No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E13/E280 (1 Sam 13:13-14) -- "Saul's olam kingdom revoked" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- An olam kingdom was immediately revoked. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): Saul's kingdom -- a literal human institution. PASS.
+  - Gate 2 (Grammar): No ambiguity. "Would have established ... for ever. But now thy kingdom shall not continue." PASS.
+  - Gate 3 (Genre): Prophetic speech in narrative. Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with E12 (Eli's revoked olam). No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E14/E281 (Gen 6:4; Deu 32:7; Isa 63:9,11; Jer 5:15; 6:16; 28:8) -- "Olam refers to past time (of old/ancient)" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- Olam means "of old" or "ancient" (finite past). A word meaning "eternal" would not be translated "of old." This demonstrates olam's core meaning is "indefinite duration," not "infinite duration." Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): Historical time periods, ancient people/nations -- literal subjects. PASS.
+  - Gate 2 (Grammar): No ambiguity. KJV translates as "of old," "ancient," "old time." PASS.
+  - Gate 3 (Genre): Mixed (narrative, prophecy, law). All didactic. PASS.
+  - Gate 4 (Harmony): Consistent with all Category B and C items. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E15/E282 (Isa 34:10-17) -- "Olam smoke of Edom; animals inhabit the territory" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- An olam fire/smoke judgment has demonstrably ended. The same language pattern used for eschatological fire is shown to describe completed, irreversible judgment, not literally endless burning. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): Edom -- a literal nation/territory. PASS.
+  - Gate 2 (Grammar): No ambiguity. The text says smoke goes up le-olam and none pass through le-netsach netsachim. The text also says animals dwell there. Both are stated. PASS.
+  - Gate 3 (Genre): Prophetic oracle. Didactic prophecy. PASS.
+  - Gate 4 (Harmony): Consistent with E202/Jude 1:7 (Sodom's "eternal fire" not still burning). No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E16/E283 (Gen 17:13; Gal 5:2-6) -- "Olam covenant of circumcision, superseded" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- An olam covenant has been superseded. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): Circumcision -- a literal physical practice. PASS.
+  - Gate 2 (Grammar): No ambiguity. PASS.
+  - Gate 3 (Genre): Torah legislation (Gen 17:13) and Pauline epistle (Gal 5). Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with E6 (priesthood), E7 (ceremonies), E8 (temple). No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E18/E285 (Ecc 1:4; Isa 51:6; Rev 21:1) -- "Earth abides olam but will pass away" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- The olam earth will pass away. Olam applied to the earth does not mean literally eternal. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): The earth -- a literal physical entity. PASS.
+  - Gate 2 (Grammar): No ambiguity. One text says olam, others say it will pass. PASS.
+  - Gate 3 (Genre): Wisdom literature (Ecc 1:4) and prophecy (Isa 51:6; Rev 21:1). PASS.
+  - Gate 4 (Harmony): Consistent with E19 (olam mountains scattered). No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E19/E286 (Hab 3:6) -- "Olam mountains scattered" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- Olam mountains are broken by God. Olam does not mean indestructible. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): Mountains -- literal geological features. PASS.
+  - Gate 2 (Grammar): No ambiguity. "Everlasting mountains were scattered." PASS.
+  - Gate 3 (Genre): Prophetic hymn. PASS.
+  - Gate 4 (Harmony): Consistent with E18 (earth passes away). No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E23/E289 (Jer 17:4,27) -- "Fire burns olam; fulfilled historically" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- An olam fire was historically fulfilled (Jerusalem burned 586 BC) and is no longer burning. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): Jerusalem -- a literal city. PASS.
+  - Gate 2 (Grammar): No ambiguity. PASS.
+  - Gate 3 (Genre): Prophetic oracle. Didactic prophecy. PASS.
+  - Gate 4 (Harmony): Consistent with E15/E282 (Edom's olam smoke). No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E24/E290 (Jer 25:9,12; 51:26,62) -- "Babylon olam desolation; site reoccupied" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- Olam desolation was not literally perpetual. The site has been inhabited. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): Babylon -- a literal city/nation. PASS.
+  - Gate 2 (Grammar): No ambiguity. PASS.
+  - Gate 3 (Genre): Prophetic oracle. Didactic prophecy. PASS.
+  - Gate 4 (Harmony): Consistent with E15, E23. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E26/E292 (Ps 103:9; Isa 57:16; Jer 3:5) -- "God's wrath is explicitly NOT netsach/olam" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- The "forever" words are used to explicitly deny that God's wrath is perpetual. The same vocabulary used for "everlasting punishment" is used to deny the permanence of divine anger. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): God's wrath -- addressed to literal humans. PASS.
+  - Gate 2 (Grammar): No ambiguity. The texts explicitly state God does NOT keep anger la-netsach. PASS.
+  - Gate 3 (Genre): Psalm (103:9), prophecy (Isa 57:16, Jer 3:5). Didactic. PASS.
+  - Gate 4 (Harmony): Consistent with the pattern that olam/netsach describes indefinite duration, not absolute infinity. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E27/E293 (Isa 34:10-17) -- "Strongest forever form (netsach netsachim) applied to ended judgment" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- Even the most intensified "forever" expression is applied to a judgment that has ended. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): Edom -- a literal nation. PASS.
+  - Gate 2 (Grammar): No ambiguity. The strongest durational expression co-occurs with evidence of its completion. PASS.
+  - Gate 3 (Genre): Prophetic oracle. Didactic prophecy. PASS.
+  - Gate 4 (Harmony): Consistent with E15, E23. No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+**E29/E295 (Dan 2:4; 3:9; 5:10; 6:6,21) -- "O king, live alam (forever) -- not meant literally" -- Classified: Conditionalist**
+- Step 1 Vocabulary Scan: V1 -- The Aramaic equivalent of olam is used in a formula universally acknowledged as non-literal. Candidate: Conditionalist.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): Human kings -- literal mortals. PASS.
+  - Gate 2 (Grammar): No ambiguity. Court formula; the kings died. PASS.
+  - Gate 3 (Genre): Historical narrative. PASS.
+  - Gate 4 (Harmony): Consistent with E9 (slave = lifetime), E11 (Samuel = lifetime). No conflict. PASS.
+- All four gates passed. Classification: **Conditionalist.**
+
+---
+
+### 2. Necessary Implications Table
+
+| # | Necessary Implication | Based on | Position | Why Unavoidable | Master ID |
+|---|---|---|---|---|---|
+| N1 | Olam does not inherently mean "endless/eternal"; its duration is determined by context and the nature of the subject it modifies | E6-E13, E15-E16, E18-E19, E23-E24, E27, E29 (olam-described institutions that have ended, olam promises that were revoked, olam durations that are clearly finite) | Cond. | Over 50 instances of olam describe subjects that have demonstrably ended (Aaronic priesthood, Mosaic ceremonies, Solomon's temple, slave service = lifetime, Jonah = three days, Edom's fire, Jerusalem's fire, circumcision covenant). If olam inherently meant "endless," these would be false statements. Both sides acknowledge these uses exist. The only conclusion that accounts for all data is that olam's duration is context-dependent. | N031 *NEW* |
+| N2 | The backward-looking uses of olam ("of old," "ancient") prove the word means "indefinite duration" rather than "infinite duration" | E14/E281 (olam = "of old" in ~30 occurrences), E2/E269 (40+ different KJV translations) | Neutral | A word meaning "infinite" could not be used for "long ago." The fact that the same word means "ancient past" AND "everlasting future" demonstrates it denotes "indefinite duration in either direction." Both sides accept this as a lexical observation. | N032 *NEW* |
+| N3 | Olam promises can be conditional and revocable; olam does not mean "unconditional" or "irrevocable" | E12/E279 (Eli's olam revoked), E13/E280 (Saul's olam revoked) | Cond. | God explicitly states "I said ... for ever: but now ..." (1 Sam 2:30). God states Saul's kingdom would have been olam but was revoked (1 Sam 13:13-14). Two explicit cases of divine revocation of olam promises. | N033 *NEW* |
+| N4 | The LXX translators (pre-Christian Jewish scholars) understood olam as "age-related" (aion/aionios) rather than "strictly eternal" | E3/E270 (olam -> aion 287x), E4/E271 (olam -> genea 51x) | Neutral | The LXX translation is a historical fact. The translators' choice of aion (age) and genea (generation) over other Greek words that more precisely denote "eternity" reflects their understanding of olam's semantic range. Both sides accept the translation data. | N034 *NEW* |
+| N5 | The "forever" fire/smoke language in the OT describes completed, irreversible judgments, not literally endless burning | E15/E282 (Edom's olam smoke + animals inhabiting), E23/E289 (Jerusalem's olam fire historically fulfilled), E27/E293 (strongest "forever" form applied to ended judgment) | Cond. | Multiple OT judgments use olam/netsach fire/smoke language. In every verifiable case, the fire has gone out and the destruction was completed. This pattern is observable and both sides must acknowledge it as historical fact, though they disagree about its implications for eschatological passages. | N035 *NEW* |
+
+**N-tier verification (3-question test applied to each):**
+
+- **N1/N031:** (1) Both sides acknowledge that the Aaronic priesthood (olam) has ended, slave service (olam) means a lifetime, and Jonah's olam was three days. The conclusion that olam's duration varies by context follows unavoidably. ECT scholars acknowledge contextual variation but argue it does not apply to eschatological uses. However, the question is whether olam *inherently* means endless -- and these cases prove it does not. YES. (2) One meaning: the data allows only one reading of the factual pattern. YES. (3) Zero added concepts. YES. PASSES.
+
+- **N2/N032:** (1) Both sides accept that olam means "of old" in ~30 occurrences. YES. (2) One meaning. YES. (3) Zero added. YES. PASSES.
+
+- **N3/N033:** (1) Both sides must acknowledge God's explicit statements in 1 Sam 2:30 and 13:13-14. YES. (2) One meaning: God said olam, then revoked it. YES. (3) Zero added. YES. PASSES.
+
+- **N4/N034:** (1) Both sides accept the LXX translation data. YES. (2) One meaning. YES. (3) Zero added. YES. PASSES.
+
+- **N5/N035:** (1) Both sides must acknowledge that Edom is not still burning and animals inhabit the territory. The pattern is observable. ECT scholars may argue eschatological uses differ, but the pattern itself is undeniable. YES. (2) One meaning for the historical observation. YES. (3) Zero added. YES. PASSES.
+
+---
+
+### 3. Inferences Table
+
+| # | Claim | Type | Position | What the Bible Actually Says | Why This Is an Inference | Criteria |
+|---|-------|------|----------|------------------------------|--------------------------|----------|
+| I1 | Olam/aionios functions as "age-lasting" throughout Scripture, and "everlasting punishment" (Matt 25:46, aionios kolasis) means punishment lasting for the age -- i.e., permanent in result (the destruction is irreversible) but not necessarily endless in process | I-A | Cond. | E6-E13/E273-E280 (olam-described institutions that ended: priesthood, ceremonies, temple, slave service, Jonah's 3 days, revoked promises); E14/E281 (olam = "of old" in ~30 past-time uses); E15/E282, E23/E289, E27/E293 (olam fire/smoke judgments that have ended); E3/E270 (LXX: olam -> aion 287x); N1/N031 (olam's duration is context-dependent); N5/N035 (olam fire/smoke = completed judgment). All components from E/N tables. | This systematizes the evidence across all six usage categories into a comprehensive claim about how olam/aionios functions in eschatological punishment passages. Every component is text-derived. It is an inference only because it extends the pattern to Matt 25:46 via the LXX vocabulary connection. | #5 (systematizing), #4a (SIS via LXX-verified vocabulary chain: olam -> aionios) |
+| I2 | Olam inherently means "eternal/endless" when applied to eschatological subjects, regardless of how it functions in non-eschatological contexts; the limited uses are accommodative language, and the eschatological uses reflect the word's "true" meaning | I-B | ECT-direction | FOR: E5/E272 (olam applied to God = genuinely eternal), E21/E288 (Dan 12:2 uses olam for both life and contempt -- symmetry argument), E25/E291 (combined forms used for God's reign -- intensified eternity). AGAINST: E6-E13/E273-E280 (olam institutions ended), E14/E281 (olam = "of old"), E15/E282 & E23/E289 & E27/E293 (olam fire/smoke ended), E1/E268 (root meaning = "concealed," not "endless"), N1/N031 (olam's duration is context-dependent). | The claim requires distinguishing "eschatological olam" from "non-eschatological olam" as fundamentally different in meaning. The text does not draw this distinction -- the same word is used in all categories. The FOR evidence shows olam CAN carry eternal meaning (when applied to God), but the AGAINST evidence shows it does NOT inherently carry eternal meaning. The claim requires adding the concept that eschatological context activates a different semantic register for the same word. | #1 (adding "eschatological context changes the word's meaning" -- not stated in text), #2 (choosing between contextual and inherent readings of olam), #5 (systematizing) |
+| I3 | The symmetry of Dan 12:2 ("everlasting life" and "everlasting contempt") requires both to have identical duration; since "everlasting life" is genuinely endless, "everlasting contempt" must also be genuinely endless | I-B | ECT-direction | FOR: E21/E288 (same word olam modifies both outcomes in one verse). AGAINST: N1/N031 (olam's duration is context-dependent; it takes its duration from the subject), E22/E267 (deraon occurs only in Dan 12:2 and Isa 66:24 where it describes reaction to corpses), E9/E276 (olam for slave service = lifetime -- olam duration varies by subject even within the same legal code). | The claim requires the assumption that a single adjective must carry identical duration for every noun it modifies. But olam demonstrably varies in duration even within the same book: Exodus uses olam for God's reign (genuinely eternal, 15:18) and for slave service (one lifetime, 21:6). Same word, same book, different durations. The symmetry argument requires the adjective to override the noun, but the evidence shows the noun governs the adjective. | #2 (choosing between "adjective determines duration" and "subject determines duration"), #4b (importing the "same adjective = same duration" principle from outside the text) |
+
+---
+
+### I-B Resolution: I2 -- Olam Inherently Means Eternal in Eschatological Contexts
+
+**Step 1 -- Tension:**
+- FOR: E272 (olam applied to God = genuinely eternal), E288 (Dan 12:2 symmetry), E291 (combined forms used for God's reign)
+- AGAINST: E273-E280 (olam institutions ended: priesthood, ceremonies, temple, slave service, Jonah, revoked promises), E281 (olam = "of old"), E282, E289, E293 (olam fire/smoke judgments ended), E268 (root = "concealed"), N031 (olam duration is context-dependent)
+
+**Step 2 -- Clarity Assessment:**
 
 | Item | Level | Rationale |
 |------|-------|-----------|
-| E9 (Dan 12:2 identical construction) | Plain | Both sides must accept: the same olam is used for both outcomes. The grammatical fact is observable. |
-| N034 (duration = subject's nature) | Plain | Hab 3:6 is in the same verse — the "mountains" olam and the "God's ways" olam are simultaneously in the same text with demonstrably different durations. This is not ambiguous. |
-| E193 (dir'on = corpse-imagery) | Plain | The lexical fact is that H1860 appears only twice; in both locations the context is examined and confirmed. Both sides must acknowledge the lexical link. |
-| E194 (Jer 51:57 shall not wake, qits root) | Contextually Clear | The connection between Jer 51 and Dan 12:2 is through the qits root. The link is lexical (same verb root) but requires recognizing the connection across two different books. |
-| E3/E5 (Category A olam examples) | Plain | Both sides must acknowledge: the KJV translators rendered olam as "of old," "ancient," "long," "world." The semantic range is an observable fact. |
+| E272 (olam for God) | Contextually Clear | olam applied to God is genuinely eternal, but this is because God is eternal, not because olam inherently means eternal. Both sides agree God is eternal. |
+| E288 (Dan 12:2 symmetry) | Ambiguous | The symmetry is observable, but whether it requires identical duration depends on whether the adjective or the subject determines duration. Both readings are grammatically possible. |
+| E291 (combined forms) | Contextually Clear | The combined forms are used for God's reign; their existence suggests olam alone is insufficient for maximal duration. |
+| E273 (priesthood ended) | Plain | The olam priesthood was explicitly changed (Heb 7:12). Observable fact. |
+| E274 (ceremonies ended) | Plain | The olam ceremonies have ceased. Observable fact. |
+| E275 (temple destroyed) | Plain | The olam temple has been destroyed. Observable fact. |
+| E276 (slave = lifetime) | Plain | Universally acknowledged: olam = one lifetime. |
+| E277 (Jonah = 3 days) | Plain | Textually verifiable: olam = three days. |
+| E279 (Eli's olam revoked) | Plain | God explicitly says "I said forever; but now, be it far from me." |
+| E280 (Saul's olam revoked) | Plain | "Would have established ... for ever. But now thy kingdom shall not continue." |
+| E281 (olam = "of old") | Plain | KJV translates olam as "of old," "ancient" ~30 times. |
+| E282 (Edom's smoke ended) | Plain | Animals inhabit the territory (Isa 34:11-17). |
+| E289 (Jerusalem's fire ended) | Plain | Jerusalem burned 586 BC; fire no longer burning. |
+| E268 (root = "concealed") | Plain | Lexical fact. Root alam = conceal/hide. |
+| N031 (duration context-dependent) | Plain | Follows unavoidably from the multiple ended-olam cases. |
 
-**Step 3 — Weight:**
-The symmetry argument (FOR side) has one textual observation: the same word is used for both outcomes. This is a genuine textual fact (E tier).
+**Step 3 -- Weight:**
+FOR: 1 Contextually Clear item (olam for God -- both sides agree; does not prove olam inherently means eternal), 1 Ambiguous item (Dan 12:2 symmetry), 1 Contextually Clear item (combined forms -- which actually supports the AGAINST side, since they suggest olam alone is insufficient).
+AGAINST: 10+ Plain items documenting ended olam institutions, revoked olam promises, clearly finite olam durations, and the root meaning "concealed."
 
-The referent-nature argument (AGAINST side) has: N034 (a necessary implication from Hab 3:6 — same verse, same word, demonstrably different durations), E193 (lexical link from dir'on to corpse-imagery in its only other occurrence), E194 (Jer 51 shows olam sleep = not waking = cessation), and E185-E186 (the broad semantic range documented across 432 occurrences).
+**Step 4 -- SIS Application:**
+The Plain statements (priesthood ended, temple destroyed, slave = lifetime, Jonah = three days, promises revoked, root = concealed, olam = "of old") constitute the clear passages. The Ambiguous passage (Dan 12:2 symmetry) is the unclear passage. The clear governs the unclear: olam's duration is determined by context and subject, not inherently "endless." When Dan 12:2 uses olam for both life and contempt, the duration of each is determined by the nature of the subject: life from God = genuinely endless; contempt toward destroyed corpses = permanently lasting.
 
-The FOR side has one plain observation. The AGAINST side has a necessary implication (N034) plus corroborating lexical data (E193, E194) plus the full Category A evidential base.
-
-**Step 4 — SIS Application:**
-N034 (Hab 3:6: same word, same verse, different referents with demonstrably different durations) directly governs how to read the Dan 12:2 symmetry. If the SAME verse can use olam for both "things that are shattered" and "God's ways that endure," then identical grammatical construction does not require identical duration. The clear passage (Hab 3:6, where the different durations are evident in the text itself) interprets the ambiguous one (Dan 12:2, where the duration of the contempt outcome is not specified). This is a #4a SIS connection: shared vocabulary (olam), and the Hab 3:6 passage is self-interpreting (the mountains do bow/shatter — the text demonstrates the olam duration adapts).
-
-**Step 5 — Resolution: Moderate — weight toward referent-nature interpretation.**
-The grammatical symmetry is a genuine textual observation (E tier, Neutral). However, N034 (from Hab 3:6) establishes as a necessary implication that olam's duration adapts to the subject's nature — not from cross-referencing but from the same-verse observation. The dir'on lexical link (E193) and the qits-root connection (E194) corroborate the referent-nature reading for the contempt outcome. The resolution does not establish the symmetry argument as wrong — both "everlasting" and "age-pertaining" are consistent with the word's semantic range — but the weight of the N-tier evidence (N034) and corroborating E-tier data tips toward the referent-nature interpretation. Moderate (not Strong) because the symmetry argument remains a legitimate textual observation that cannot be dismissed.
-
-### I-B Resolution: IB009 — Isa 34:10 Literary Formula vs. Rev 14:11 Torment Language
-
-*(Existing resolution maintained — see Master IB009)*
-
-The Isa 34:10 → Rev 14:11 connection is the highest-scoring OT parallel (0.401). The source text (desolation of Edom's land) points toward literary formula; Rev 14:11's direct use of basanizo and "no rest day nor night" adds a torment dimension not present in the source. Resolution: **Moderate — weight toward literary formula / permanent-desolation imagery** (per Master IB009). The Rev 14:11 language is specific to the beast-worshipping class (same subject limitation as IB008), and the source imagery is wasteland, not conscious ongoing suffering.
-
----
-
-## Master Evidence Update Summary
-
-### New Items Added This Study
-
-| Master ID | Type | Statement/Claim | Classification |
-|-----------|------|-----------------|----------------|
-| E185 | E | H5769 lexical definition: "vanishing point; time out of mind" | Neutral |
-| E186 | E | H5769 KJV rendering distribution: 40+ English words across 432 occurrences | Neutral |
-| E187 | E | Exo 21:6 le-olam slave bounded by mortality | Neutral |
-| E188 | E | 1 Sam 2:30 olam promise revoked in same verse | Neutral |
-| E189 | E | Jon 2:6 le-olam in fish belly (72 hours) | Neutral |
-| E190 | E | Isa 32:14-15 olam desolation + "until" bounding | Neutral |
-| E191 | E | Hab 3:6 same verse: olam mountains scattered AND olam God's ways endure | Neutral |
-| E192 | E | Isa 34:11-17 animals dwelling in Edom's desolation immediately after smoke-for-ever | Neutral |
-| E193 | E | Dir'on (H1860) occurs only in Dan 12:2 and Isa 66:24; Isa 66:24 context = corpses | Neutral |
-| E194 | E | Jer 51:57 shnat-olam + lo yaqitzu; same qits root as Dan 12:2 yaqitzu (awakening) | Neutral |
-| E195 | E | LXX bridge: H5769 → G165 287x PMI 5.55; H5769 → G166 100x PMI 5.67 | Neutral |
-| E196 | E | Aramaic H5957 alam: "O king, live for ever" court formula — mortal kings | Neutral |
-| N034 | N | Duration olam denotes is contextually determined by the nature of the subject | Neutral |
-| N035 | N | NT aionios carries the semantic range of Hebrew olam (established by LXX bridge) | Neutral |
-| IA021 | I-A | OT punishment passages using olam describe permanent results, not ongoing conscious activity | Conditionalist |
-| IB011 | I-B | Dan 12:2 grammatical symmetry vs. referent-nature; Moderate → referent-nature | Neutral |
-
-### Existing Items Updated ("Also In" — add etc5-07)
-
-| Master ID | Statement | Update |
-|-----------|-----------|--------|
-| E023 | Dan 12:2 text | Add: etc5-07 |
-| E132 | Jer 51:39 perpetual sleep | Add: etc5-07 |
-| E141 | Isa 66:24 corpses (pigrê) | Add: etc5-07 |
-| E182 | Isa 34:10 = OT source for Rev 14:11 (score 0.401) | Add: etc5-07 |
-| E162 | Psa 92:7,9 shamad + abad + ad-olam | Add: etc5-07 |
-| N029 *(reclassified to IB009-resolved)* | Eternal fire = permanent result per Jude 1:7 + 2 Pet 2:6 | Add: etc5-07 |
-| IB009 | Isa 34:10 literary formula vs. Rev 14:11 torment language | Add: etc5-07 |
+**Step 5 -- Resolution: Strong**
+10+ Plain items on the AGAINST side (ended priesthood, ended ceremonies, destroyed temple, lifetime slavery, three-day confinement, revoked promises, root meaning, past-time uses, ended fire/smoke judgments) versus 1 Ambiguous item and 2 Contextually Clear items on the FOR side (one of which -- combined forms -- actually supports the AGAINST position). The evidence that olam's duration is context-dependent is overwhelming. The claim that olam inherently means "eternal" in eschatological contexts requires adding a distinction the text does not make. Master I041 *NEW*.
 
 ---
 
-## Positional Tally
+### I-B Resolution: I3 -- Dan 12:2 Symmetry Requires Identical Duration
 
-### New Items This Study (etc5-07)
+**Step 1 -- Tension:**
+- FOR: E288 (same word modifies both outcomes in one verse)
+- AGAINST: N031 (olam's duration is context-dependent), E267 (deraon links to Isa 66:24 corpses), E276 (olam for slave = lifetime -- same word, different duration in same legal code)
 
-| Category | Conditionalist | ECT | Neutral | Total |
-|----------|----------------|-----|---------|-------|
-| E (new) | 0 | 0 | 12 | 12 |
-| N (new) | 0 | 0 | 2 | 2 |
-| I-A (new) | 1 | 0 | 0 | 1 |
-| I-B (new) | 0 | 0 | 1 | 1 |
-| **Totals** | **1** | **0** | **15** | **16** |
+**Step 2 -- Clarity Assessment:**
 
-*Note: All 12 new E items are Neutral — they are lexical/statistical observations that both sides must acknowledge as textual facts. The conditionalist inference (IA021) systematizes these Neutral E/N observations into a category-wide interpretive claim.*
+| Item | Level | Rationale |
+|------|-------|-----------|
+| E288 (same word in one verse) | Ambiguous | The grammatical observation is clear, but the interpretive conclusion (same duration) is not compelled by the grammar. An adjective can carry different durations for different nouns. |
+| N031 (duration context-dependent) | Plain | Demonstrated by 50+ cases across the OT. |
+| E267 (deraon = reaction to corpses) | Plain | Lexical fact. Deraon occurs only in Dan 12:2 and Isa 66:24. In Isa 66:24 the objects are corpses. |
+| E276 (slave = lifetime) | Plain | Same word (olam), same book (Exodus), different duration (God's reign in 15:18 vs. slave service in 21:6). |
 
-### Running Master Totals After etc5-07
+**Step 3 -- Weight:**
+FOR: 1 Ambiguous item.
+AGAINST: 3 Plain items.
 
-| Category | Conditionalist | ECT | Neutral | Total |
-|----------|----------------|-----|---------|-------|
-| E | 110 | 8 | 78 | **196** |
-| N | 24 | 0 | 11 | **35** |
-| I-A | 19 | 0 | 2 | **21** |
-| I-B | — | — | — | **11** (8 Moderate resolved, 2 Unresolved, 1 new Moderate) |
-| I-C | 2 | 0 | 0 | **2** |
-| I-D | 0 | 3 | 0 | **3** |
-| **Totals** | **155** | **11** | **91** | **268** |
+**Step 4 -- SIS Application:**
+Exodus 15:18 uses olam for God's reign (genuinely eternal). Exodus 21:6 uses olam for slave service (one lifetime). Same word, same book, vastly different durations. This provides a same-author, same-book precedent for olam carrying different durations for different subjects within the same literary context. The Exodus parallel governs the reading of Daniel 12:2: the same adjective (olam) can carry different actual durations depending on its subject. "Everlasting life" is genuinely endless (life from God). "Everlasting contempt" is permanent (the destroyed remain destroyed, eliciting permanent abhorrence).
 
-*Breakdown of I-B (11 items): IB001-IB010 from prior studies + IB011 (new this study). Resolved Moderate: IB001, IB002, IB003, IB005, IB007, IB008, IB009, IB010, IB011 = 9. Unresolved: IB004, IB006 = 2.*
-
-*Verification: 196 + 35 + 21 + 11 + 2 + 3 = 268 total. New from etc5-07: 16 items (E185-E196, N034-N035, IA021, IB011).*
+**Step 5 -- Resolution: Strong**
+3 Plain items on the AGAINST side (including a same-book precedent in Exodus) vs. 1 Ambiguous item on the FOR side. The "same adjective = same duration" assumption is falsified by olam's usage throughout Scripture. Master I042 *NEW*.
 
 ---
 
-## Tally Summary
+### Verification Phase
 
-- Explicit statements: 22 (in this study's table; 12 new, 10 existing)
-- Necessary implications: 3 (in this study's table; 2 new, 1 existing)
-- Inferences: 3 (in this study's table; 1 new I-A, 1 new I-B, 1 existing I-B)
-  - I-A (Evidence-Extending): 1 new (IA021)
-  - I-B (Competing-Evidence): 2 (IB011 new — Moderate resolved; IB009 existing — Moderate resolved)
-  - I-C (Compatible External): 0 new
-  - I-D (Counter-Evidence External): 0 new
+**Step A: Verify explicit statements.**
+- Each E-item directly quotes or closely paraphrases Scripture, or states an observable linguistic/textual/historical fact. Checked.
+- Each uses plain lexical meaning without adding concepts. Checked.
+- E-items state what the text says, not what a position infers. Checked.
+
+**Step A2: Verify positional classifications of E-items.**
+- All items classified Conditionalist have full Tree 3 documentation (17 new items documented above, 1 prior study item referenced).
+- No E-items classified as ECT.
+- All Neutral E-items are textual observations both sides accept.
+
+**Step B: Verify necessary implications.**
+- Each N-item follows unavoidably from cited E-items. Checked.
+- Three N-tier tests applied to each. All pass (documented above).
+- N031 and N033 are Conditionalist because they establish that olam does not inherently mean "endless," which supports the conditionalist reading of "everlasting punishment."
+- N032 and N034 are Neutral because they are lexical/translation observations both sides accept.
+- N035 is Conditionalist because the pattern of ended olam fire/smoke judgments supports the conditionalist reading of eschatological fire/smoke passages.
+
+**Step C: Verify inference classifications (source test).**
+- I1/I040 (olam = age-lasting in eschatological contexts): All components in E/N tables -> text-derived -> systematizing only -> I-A. Checked.
+- I2/I041 (olam inherently eternal in eschatological contexts): E/N items on both sides -> text-derived -> I-B. Checked.
+- I3/I042 (Dan 12:2 symmetry): E/N items on both sides -> text-derived -> I-B. Checked.
+
+**Step D: Verify inference classifications (direction test).**
+- I1/I040: Uses only E/N vocabulary and concepts -> aligns -> I-A. Checked.
+- I2/I041: Requires olam to have a different meaning in eschatological contexts (other than its demonstrated range) -> conflicts -> I-B. Checked.
+- I3/I042: Requires olam to carry identical duration regardless of subject (contrary to demonstrated usage) -> conflicts -> I-B. Checked.
+
+**Step E: Consistency checks.**
+- I-A (I1): Only requires criterion #5 (systematizing) and #4a (SIS via LXX chain). Confirmed.
+- I-B (I2, I3): Both have E/N items on BOTH sides. Confirmed.
+
+**Step F: Verify SIS connections.**
+- olam -> aion/aionios (LXX 287x/100x): verified textual connection (#4a). Checked.
+- Isa 66:24 deraon -> Dan 12:2 deraon: only two occurrences of the word, shared vocabulary (#4a). Checked.
+- Isa 34:10 olam fire/smoke -> eschatological olam fire/smoke: same vocabulary and same subject matter (#4a). Checked.
+- "Same adjective = same duration" applied to Dan 12:2: no verified textual connection establishing this rule (#4b, inference trigger). Checked.
 
 ---
 
-## What CAN Be Said / What CANNOT Be Said
+### Master Evidence Update
 
-**What CAN be said (Scripture explicitly states or necessarily implies):**
-- H5769 (olam) is rendered by 40+ distinct English words in the KJV — it is not a fixed English equivalent. (E186)
-- The same olam applies in Hab 3:6 to both mountains that are shattered and to God's ways that endure — in the same verse. (E191)
-- The slave serves le-olam in Exo 21:6 — this duration is bounded by mortality. (E187)
-- The "for ever" desolation of Isa 32:14-15 is bounded by an explicit "until" clause. (E190)
-- Dan 12:2 uses the same construct chain (olam) for both outcomes: everlasting life and everlasting contempt. (E9 = E023)
-- The word dir'on (contempt, Dan 12:2) occurs only in Dan 12:2 and Isa 66:24; in Isa 66:24 the context is corpses. (E193)
-- Jer 51:57 uses the same qits root as Dan 12:2 — negative polarity (not wake) vs. positive polarity (shall awaken). (E194)
-- The LXX translates H5769 → G166 (aionios) 100 times (PMI 5.67) — the NT "eternal" vocabulary derives from the LXX's translation of olam. (E195, N035)
-- Duration of olam is contextually determined by the nature of the subject. (N034)
-- The OT punishment passages using olam describe permanent outcomes alongside destruction vocabulary (abad, shamad, kalah) — never alongside ongoing-torment vocabulary. (IA021 as summary; E162, E156, E157, E132 as base)
-- Isa 34:10 is the highest-scoring OT parallel for Rev 14:11 (score 0.401); the Isa 34:10 context is permanent desolation of Edom's land. (E182, IB009)
+New items added to D:/Bible/bible-studies/etc-master-evidence.md:
 
-**What CANNOT be said (not explicitly stated or necessarily implied by Scripture):**
-- "Olam always means absolutely endless/infinite duration." — The 40+ KJV renderings, Category A passages, and Hab 3:6's same-verse usage show the duration adapts to the referent. Neither side can claim the word is a philosophical absolute.
-- "Olam in punishment contexts requires ongoing conscious torment as the mechanism." — No OT punishment passage pairs olam with ongoing-torment vocabulary; the consistent partners are abad/shamad/kalah (destruction) or sleep (Jer 51). This cannot be stated from the OT olam passages alone.
-- "The grammatical symmetry of Dan 12:2 proves that the contempt lasts as long as the life, and vice versa." — The symmetry is a textual fact; what it implies about duration is I-B territory, not E or N.
-- "The LXX bridge proves NT aionios means either finite or infinite duration." — The bridge establishes the semantic range is contextually determined; it does not resolve the specific duration of any given NT aionios use.
-- "Isa 34:10 proves Rev 14:11 is only a literary formula with no torment content." — The literary formula connection is moderate evidence; Rev 14:11 adds basanizo and "no rest day nor night" language not present in Isa 34:10. IB009 remains Moderate, not Strong.
+| New ID | Statement | Reference | Position | First Appeared |
+|--------|-----------|-----------|----------|----------------|
+| E268 | Olam (H5769) root alam means "to conceal/hide"; Strong's: "concealed, i.e. the vanishing point" | H5769 definition | Neutral | etc-07 |
+| E269 | Olam translated 40+ ways in KJV: "for ever" (198x), "everlasting" (56x), "perpetual" (22x), "of old" (13x), "ancient" (4x) | H5769 translation data | Neutral | etc-07 |
+| E270 | LXX translates olam as aion (G165) 287 times and aionios (G166) 100 times | LXX translation data | Neutral | etc-07 |
+| E271 | LXX translates olam as genea (G1074, "a generation") 51 times | LXX translation data | Neutral | etc-07 |
+| E272 | Olam is applied to God: "everlasting God" (Gen 21:33; Isa 40:28), "from everlasting to everlasting" (Ps 90:2), "inhabiteth eternity" (Isa 57:15) | Gen 21:33; Ps 90:2; Isa 40:28; 57:15 | Neutral | etc-07 |
+| E273 | Olam applied to Aaronic priesthood ("everlasting priesthood"), which was changed per Heb 7:12 | Exo 40:15; Num 25:13; Heb 7:12 | Cond. | etc-07 |
+| E274 | Olam applied to 20+ Mosaic ceremonial statutes ("statute for ever") that have ceased with temple destruction | Exo 12:14,17,24; Lev 16:29,34; 24:3,8 | Cond. | etc-07 |
+| E275 | Olam applied to Solomon's temple ("for ever"); temple destroyed 586 BC and AD 70 | 1 Ki 8:13; 9:3 | Cond. | etc-07 |
+| E276 | Olam applied to slave service ("serve him for ever" = one lifetime) | Exo 21:6; Deu 15:17 | Cond. | etc-07 |
+| E277 | Olam applied to Jonah's confinement ("for ever" = three days) | Jon 2:6 | Cond. | etc-07 |
+| E278 | Olam applied to Samuel's temple service ("abide for ever" = his lifetime; he died) | 1 Sam 1:22; 1 Sam 25:1 | Cond. | etc-07 |
+| E279 | God explicitly revokes an olam promise: "I said for ever: but now, Be it far from me" | 1 Sam 2:30 | Cond. | etc-07 |
+| E280 | Saul's olam kingdom revoked: "would have established for ever. But now thy kingdom shall not continue" | 1 Sam 13:13-14 | Cond. | etc-07 |
+| E281 | Olam refers to past time ("of old," "ancient") in ~30 occurrences | Gen 6:4; Deu 32:7; Isa 63:9,11; Jer 5:15; 6:16; 28:8 | Cond. | etc-07 |
+| E282 | Edom's smoke goes up olam (Isa 34:10) yet animals inhabit the territory (Isa 34:11-17) | Isa 34:10-17 | Cond. | etc-07 |
+| E283 | Olam applied to circumcision ("everlasting covenant"); superseded per Gal 5:2-6 | Gen 17:13; Gal 5:2-6 | Cond. | etc-07 |
+| E284 | "Do prophets live for ever?" (Zec 1:5) -- rhetorical "no"; humans do not live olam | Zec 1:5 | Neutral | etc-07 |
+| E285 | Earth abides olam (Ecc 1:4) but will pass away (Isa 51:6; Rev 21:1) | Ecc 1:4; Isa 51:6; Rev 21:1 | Cond. | etc-07 |
+| E286 | "Everlasting mountains" (olam) "were scattered" (Hab 3:6) | Hab 3:6 | Cond. | etc-07 |
+| E287 | Man's "long home" (beth olam) is the grave (Ecc 12:5) | Ecc 12:5 | Neutral | etc-07 |
+| E288 | Dan 12:2 uses olam for both "everlasting life" and "everlasting contempt" in the same verse | Dan 12:2 | Neutral | etc-07 |
+| E289 | Fire "burns olam" (Jer 17:4) fulfilled when Nebuchadnezzar burned Jerusalem 586 BC; fire not still burning | Jer 17:4,27 | Cond. | etc-07 |
+| E290 | Babylon described as olam desolation (Jer 25:9,12; 51:26,62); site has been inhabited at various periods | Jer 25:9,12; 51:26,62 | Cond. | etc-07 |
+| E291 | Combined form le-olam va-ed used for God's reign (Exo 15:18), wicked's destruction (Ps 9:5), stars (Ps 148:6) | Exo 15:18; Ps 9:5; 148:6 | Neutral | etc-07 |
+| E292 | Netsach used to explicitly deny God's wrath is perpetual: Ps 103:9; Isa 57:16; Jer 3:5 | Ps 103:9; Isa 57:16; Jer 3:5 | Cond. | etc-07 |
+| E293 | Strongest "forever" form (netsach netsachim) applied to Edom's judgment (Isa 34:10), which has ended | Isa 34:10-17 | Cond. | etc-07 |
+| E294 | "Perpetual sleep" (olam) of Babylon's rulers = death (Jer 51:39,57) | Jer 51:39,57 | Neutral | etc-07 |
+| E295 | Aramaic alam used in "O king, live for ever" -- acknowledged as non-literal (king will die) | Dan 2:4; 3:9; 5:10; 6:6,21 | Cond. | etc-07 |
+
+New N-items:
+| New ID | Implication | Based On | Position | First Appeared |
+|--------|-------------|----------|----------|----------------|
+| N031 | Olam does not inherently mean "endless"; its duration is determined by context and subject | E273-E280, E282, E289, E293 | Cond. | etc-07 |
+| N032 | Backward-looking uses of olam ("of old") prove the word means indefinite rather than infinite duration | E281, E269 | Neutral | etc-07 |
+| N033 | Olam promises can be conditional and revocable | E279, E280 | Cond. | etc-07 |
+| N034 | LXX translators understood olam as age-related (aion/aionios), not strictly eternal | E270, E271 | Neutral | etc-07 |
+| N035 | OT "forever" fire/smoke language describes completed, irreversible judgments | E282, E289, E293 | Cond. | etc-07 |
+
+New I-items:
+| New ID | Claim | Type | Position | First Appeared |
+|--------|-------|------|----------|----------------|
+| I040 | Olam/aionios functions as "age-lasting" with duration determined by subject; "everlasting punishment" = permanent result, not necessarily endless process | I-A | Cond. | etc-07 |
+| I041 | Olam inherently means "eternal" in eschatological contexts | I-B | ECT-direction | etc-07 |
+| I042 | Dan 12:2 symmetry requires identical duration for both outcomes | I-B | ECT-direction | etc-07 |
+
+Existing items with "Also In" updated to include etc-07:
+- E006 (Gen 3:22: barred from tree of life to prevent living forever)
+- E221 (Psa 92:7: destroyed for ever)
+- E266 (Isa 34:10: smoke ascending forever for Edom)
+- E267 (deraon only twice: Dan 12:2 and Isa 66:24)
+
+---
+
+### Positional Tally (This Study)
+
+| Tier | Conditionalist | ECT | Neutral | Total |
+|------|----------------|-----|---------|-------|
+| Explicit (E) | 17 | 0 | 14 | 31 |
+| Necessary Implication (N) | 3 | 0 | 2 | 5 |
+| I-A (Evidence-Extending) | 1 | 0 | 0 | 1 |
+| I-B (Competing-Evidence) | 0 | 2 | 0 | 2 |
+| I-C (Compatible External) | 0 | 0 | 0 | 0 |
+| I-D (Counter-Evidence External) | 0 | 0 | 0 | 0 |
+| **TOTAL** | **21** | **2** | **16** | **39** |
+
+Note: I-B items (I2/I041, I3/I042) classified by the direction they argue (ECT-direction). Both were resolved Strong toward the Conditionalist reading via SIS: (I2/I041) 10+ Plain items documenting ended olam institutions govern the reading of ambiguous eschatological uses; (I3/I042) same-book precedent in Exodus (olam for God's reign and for slave service in same book) falsifies the "same adjective = same duration" assumption.
+
+---
+
+### Positional Tally (Cumulative: etc-01 through etc-07)
+
+| Tier | Conditionalist | ECT | Neutral | Total |
+|------|----------------|-----|---------|-------|
+| E    | 87             | 0   | 221     | 308   |
+| N    | 9              | 0   | 26      | 35    |
+| I-A  | 8              | 0   | 0       | 8     |
+| I-B  | 0              | 12  | 0       | 12    |
+| I-C  | 0              | 17  | 2       | 19    |
+| I-D  | 0              | 3   | 0       | 3     |
+| **TOTAL** | **104**   | **32** | **249** | **385** |
+
+
+---
+
+### Change Log
+
+| Date | Study | Items Added | Notes |
+|------|-------|-------------|-------|
+| 2026-02-20 | etc-07 | E268-E295, N031-N035, I040-I042 | Olam word study (39 new items: 28 new E, 5 new N, 3 new I; plus 4 existing E-items with "Also In" updates). I040 (I-A): olam/aionios = age-lasting, duration by subject. I041 (I-B): olam =/= inherently eternal in eschatological contexts (resolved Strong). I042 (I-B): Dan 12:2 symmetry does not require identical duration (resolved Strong). Updated "Also In" for E006, E221, E266, E267. |
+
+---
+
+### Tally Summary
+
+```
+- Explicit statements: 31
+- Necessary implications: 5
+- Inferences: 3
+  - I-A (Evidence-Extending): 1 (I040)
+  - I-B (Competing-Evidence): 2 (I041, I042 -- both resolved Strong toward Conditionalist reading)
+  - I-C (Compatible External): 0
+  - I-D (Counter-Evidence External): 0
+- Total new items: 39 (28 E + 5 N + 3 I + 4 existing items with "Also In" updates)
+```
+
+---
+
+## What CAN Be Said (Scripture Explicitly States or Necessarily Implies)
+
+1. Olam (H5769) occurs approximately 432 times in the OT and is translated 40+ different ways in the KJV. Its root meaning is "concealed, hidden" -- the vanishing point of time, where the endpoint is not visible. Strong's definition is "properly, concealed, i.e. the vanishing point; generally, time out of mind."
+
+2. Olam is applied to subjects that have demonstrably ended: the Aaronic priesthood ("everlasting priesthood," Exo 40:15; Num 25:13 -- changed per Heb 7:12), over 20 Mosaic ceremonial statutes ("statute for ever" -- ceased with temple destruction), Solomon's temple ("for ever," 1 Ki 8:13; 9:3 -- destroyed), circumcision ("everlasting covenant," Gen 17:13 -- superseded per Gal 5:2-6), slave service ("for ever," Exo 21:6 -- one lifetime), Jonah's confinement ("for ever," Jon 2:6 -- three days), and Samuel's service ("for ever," 1 Sam 1:22 -- his lifetime).
+
+3. Two olam promises were explicitly revoked by God: Eli's house ("I said for ever: but now, Be it far from me," 1 Sam 2:30) and Saul's kingdom ("would have established for ever. But now thy kingdom shall not continue," 1 Sam 13:13-14).
+
+4. Olam refers to past time ("of old," "ancient") in approximately 30 occurrences. The KJV translates olam as "of old," "ancient," "old time," etc. A word meaning "infinite" could not mean "long ago."
+
+5. Multiple OT judgments use olam fire/smoke language for events that have demonstrably ended: Edom's smoke "for ever" (Isa 34:10) while animals inhabit the territory (34:11-17); Jerusalem's fire "burns for ever" (Jer 17:4) fulfilled when Nebuchadnezzar burned the city in 586 BC; even the strongest available "forever" form (netsach netsachim, Isa 34:10) is applied to a completed judgment.
+
+6. The LXX translates olam as aion ("an age") 287 times and aionios ("pertaining to an age") 100 times. The LXX also translates olam as genea ("a generation") 51 times. Pre-Christian Jewish translators understood olam as age-related, not as absolute infinity.
+
+7. When applied to God (Gen 21:33; Ps 90:2; Isa 40:28; 57:15), olam carries its maximal force: genuinely unending. This is because God is genuinely eternal, not because olam inherently means "eternal."
+
+8. "Forever" vocabulary (netsach) is used to explicitly deny that God's wrath is perpetual: "neither will he keep anger for ever" (Ps 103:9); "I will not contend for ever" (Isa 57:16); "Will he reserve anger for ever?" (Jer 3:5). The same durational vocabulary used in "everlasting punishment" is used to state that divine wrath has a terminus.
+
+9. Daniel 12:2 uses olam for both "everlasting life" and "everlasting contempt." The word deraon (contempt/abhorrence) occurs only twice in the OT: here and in Isaiah 66:24, where it describes onlookers' reaction to corpses (peger = dead bodies).
+
+## What CANNOT Be Said (Not Explicitly Stated or Necessarily Implied by Scripture)
+
+1. **It cannot be said that olam inherently means "eternal/endless."** The word's root meaning is "concealed" (hidden time), and its documented usage includes a three-day period (Jonah), a human lifetime (slave service), ended institutions (priesthood, ceremonies, temple), revoked promises (Saul, Eli), past time ("of old"), and ended fire/smoke judgments (Edom, Jerusalem). A word used for three days, one lifetime, and "long ago" does not inherently mean "infinite."
+
+2. **It cannot be said that olam always means the same thing regardless of context.** The same word means "for ever" (Ps 90:2 -- God), "for life" (Exo 21:6 -- slave), "three days" (Jon 2:6), and "of old" (Gen 6:4 -- past time). Even within the same book (Exodus), olam means "genuinely eternal" (15:18, God's reign) and "one lifetime" (21:6, slave service).
+
+3. **It cannot be said that the Dan 12:2 symmetry requires identical duration for both outcomes.** Olam demonstrably carries different durations for different subjects in the same legal code (Exo 15:18 vs. 21:6), the same book (Daniel uses alam for non-literal court greetings and for God's eternal kingdom), and across Scripture. The noun governs the adjective, not the reverse.
+
+4. **It cannot be said that "everlasting fire/smoke" in the OT means literally endless burning.** Every verifiable OT instance of olam fire/smoke language describes a judgment that has ended: Edom (Isa 34:10 -- animals inhabit), Jerusalem (Jer 17:4 -- burned 586 BC). Even the strongest available "forever" expression (netsach netsachim) is applied to a completed judgment.
+
+5. **It cannot be said that eschatological olam operates differently from non-eschatological olam.** The text does not draw this distinction. The same word (olam) is used in all categories without any grammatical or lexical marker indicating that eschatological contexts activate a different meaning. The claim that eschatological olam is "different" requires adding a concept the text does not contain.
+
+6. **It cannot be said that the LXX translation is irrelevant.** Pre-Christian Jewish scholars translated olam as aion (age) 287 times and aionios (pertaining to an age) 100 times. Since aionios is the NT word used in "everlasting punishment" (Matt 25:46) and "everlasting life" (John 3:16), and since aionios is the LXX equivalent of olam, the semantic range of olam directly informs the meaning of aionios. *(This connection is examined further in etc-08.)*
 
 ---
 
 ## Conclusion
 
-H5769 (olam) is an evidentially rich Hebrew word whose semantic core — "the vanishing point/time out of mind" — describes duration at the far horizon of the observer's view, not an absolute metaphysical infinite. The distribution of 40+ KJV renderings across 432 occurrences, the Category A bounded uses, and the definitive Hab 3:6 same-verse observation (same word applied simultaneously to scattered mountains and enduring God's ways) collectively establish that olam adapts to its referent's nature.
+This study examined 31 explicit statements, 5 necessary implications, and 3 inferences regarding the semantic range of Hebrew olam (H5769) and its implications for the "everlasting punishment" debate.
 
-In punishment contexts, the consistent OT pattern is: olam qualifies a permanent, irreversible outcome — desolation (Isa 34:10), sleep not interrupted (Jer 51:39, 57), contempt (Dan 12:2), ashes (Mal 4:3), perishing (Ps 92:7, 9). The punishment passages use olam alongside destruction vocabulary, not alongside torment vocabulary. The dir'on lexical link (Dan 12:2 → Isa 66:24 → corpses) and the qits-root connection (Jer 51 "not wake" ↔ Dan 12:2 "shall awaken") situate the Dan 12:2 contempt outcome within a semantic field of death and permanent non-activity.
+17 explicit statements are classified Conditionalist: each documents an olam-described subject that has demonstrably ended (priesthood, ceremonies, temple, circumcision, slave service, Jonah's three days, Samuel's lifetime), an olam promise that was revoked (Eli's house, Saul's kingdom), an olam fire/smoke judgment that has ended (Edom, Jerusalem), olam past-time uses ("of old/ancient"), or "forever" vocabulary used to deny the perpetuity of divine wrath. All pass four Tree 3 gates. 0 explicit statements are classified ECT. 14 explicit statements are classified Neutral (lexical definitions, translation data, God-applied olam, combined forms, Dan 12:2 symmetry observation).
 
-The LXX bridge (H5769 → G166 aionios, 100x, PMI 5.67) is the critical connection to NT usage. NT aionios carries the semantic range of olam — age-pertaining, permanent, with actual duration contextually determined by the subject. The word is not a philosophical absolute in either testament.
+3 necessary implications are classified Conditionalist: olam's duration is context-dependent (N031), olam can be revoked (N033), and olam fire/smoke language describes completed judgments (N035). 2 necessary implications are classified Neutral: backward-looking olam proves indefinite rather than infinite meaning (N032), and the LXX translation confirms age-semantics (N034).
 
-None of this settles the full eschatological debate. The NT adds its own evidence (E149, E150 — Rev 14:11 and Rev 20:10 with torment vocabulary for specific subjects). But the OT olam evidence does not establish endless conscious torment as the punishment pattern; it establishes permanent, irreversible outcome as the punishment pattern. The specific mechanism (whether that permanence is ongoing conscious suffering or permanent cessation) is not determined by olam itself.
-
-*Evidence items tracked in etc5-master-evidence.md*
+1 inference (I-A) systematizes olam's contextual range into a comprehensive claim about "everlasting punishment." 2 inferences (I-B) present ECT-direction claims: that olam inherently means "eternal" in eschatological contexts and that Dan 12:2's symmetry requires identical duration. Both were resolved Strong toward the Conditionalist reading: 10+ Plain items documenting ended olam uses govern the reading of ambiguous eschatological passages, and the same-book precedent in Exodus (God's reign vs. slave service) falsifies the "same adjective = same duration" assumption.
 
 ---
-*Study completed: 2026-02-19*
-*Files: 01-topics.md, 02-verses.md, 03-analysis.md, 04-word-studies.md*
-*Series: ETC5 — The Final Fate of the Wicked, Study 07 of 18*
+
+*Study completed: 2026-02-20*
+*Files: 01-topics.md, 02-verses.md, 03-analysis.md, 04-word-studies.md, CONCLUSION.md*
+*Evidence items tracked in etc-master-evidence.md*

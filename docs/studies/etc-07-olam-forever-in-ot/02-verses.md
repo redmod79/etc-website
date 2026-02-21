@@ -1,742 +1,565 @@
-# Verses
+# etc-07: Olam/Forever in OT — Verse Collection
 
-## Question
+All texts KJV from D:/bible/tools/data/kjv.txt. Organized by usage category.
 
-What does H5769 (olam) mean in the OT? Does it always denote endless duration, or does context determine the actual duration implied?
-
----
-
-## Category A — Olam with Clearly Limited Duration
-
-These passages demonstrate that olam can describe finite duration bounded by context, death, or an explicit "until" clause. They establish the lower bound of the semantic range.
-
----
-
-### Genesis 6:3 — Spirit NOT striving olam (negated)
-
-> And the LORD said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years.
-
-**Note:** "always" = le-olam, here *negated*. The duration is immediately limited to 120 years by the following clause. Olam is bounded in the same sentence.
-
----
-
-### Genesis 9:12,16 — Everlasting Covenant (Noahic)
-
-> (v.12) And God said, This is the token of the covenant which I make between me and you and every living creature that is with you, for **perpetual** generations:
-
-> (v.16) And the bow shall be in the cloud; and I will look upon it, that I may remember the **everlasting** covenant between God and every living creature of all flesh that is upon the earth.
-
-**Note:** H5769 in "perpetual generations" and "everlasting covenant." Context: the rainbow covenant, which by its nature is ongoing as long as the created order exists.
-
----
-
-### Genesis 17:7-8,13,19 — Everlasting Covenant, Everlasting Possession
-
-> (v.7) And I will establish my covenant between me and thee and thy seed after thee in their generations for an **everlasting** covenant, to be a God unto thee, and to thy seed after thee.
-
-> (v.8) And I will give unto thee, and to thy seed after thee, the land wherein thou art a stranger, all the land of Canaan, for an **everlasting** possession; and I will be their God.
-
-> (v.13) He that is born in thy house, and he that is bought with thy money, must needs be circumcised: and my covenant shall be in your flesh for an **everlasting** covenant.
-
-> (v.19) And God said, Sarah thy wife shall bear thee a son indeed; and thou shalt call his name Isaac: and I will establish my covenant with him for an **everlasting** covenant, and with his seed after him.
-
-**Note:** "Everlasting possession" for Canaan — the land was later lost in exile (605-586 BC, exiles continue); Israel was displaced for centuries. This is a foundational example of olam applied to something that has demonstrably ended or been suspended. The "everlasting covenant" in this context means the covenant is of the olam-type (no expiration date specified), not that every element is literally without end.
-
----
-
-### Genesis 21:33 — El Olam (Everlasting God)
-
-> And Abraham planted a grove in Beersheba, and called there on the name of the LORD, the **everlasting** God.
-
-**Note:** El Olam — God's own attribute. This is genuinely infinite (Category C), but included here as the first occurrence of "El Olam" in Scripture. God's olam is not the same as a servant's olam (Exo 21:6).
-
----
-
-### Exodus 12:14,17 — Passover Ordinance "For Ever"
-
-> (v.14) And this day shall be unto you for a memorial; and ye shall keep it a feast to the LORD throughout your generations; ye shall keep it a feast by an ordinance **for ever**.
-
-> (v.17) And ye shall observe the feast of unleavened bread; for in this selfsame day have I brought your armies out of the land of Egypt: therefore shall ye observe this day in your generations by an ordinance **for ever**.
-
-**Note:** Olam applied to the Passover observance "throughout your generations" (le-doroteychem). The Passover/unleavened bread feast was a national Mosaic institution that ended with the supersession of the Mosaic covenant. The "for ever" is qualified by "throughout your generations" — olam bounded by generational scope.
-
----
-
-### Exodus 15:18 — LORD Reigns For Ever and Ever
-
-> The LORD shall reign **for ever and ever**.
-
-**Note:** Le-olam wa-ed compound. Applied to God — genuinely infinite (Category C, but included here as the first le-olam wa-ed compound). For comparison with Isa 34:10's netsach netsachim (for ever and ever) applied to Edom's desolation.
-
----
-
-### Exodus 21:6 — Servant Serves Master "For Ever"
-
-> Then his master shall bring him unto the judges; he shall also bring him to the door, or unto the door post; and his master shall bore his ear through with an aul; and he shall serve him **for ever**.
-
-**Note:** Le-olam. A slave who voluntarily stays with his master serves "for ever" — clearly bounded by the servant's death. Deuteronomy 15:17 restates this: "he shall be thy servant for ever." The duration is a human lifetime, terminated at death. This is the paradigmatic example of olam with a clearly finite duration.
-
-**Hebrew (from parsing):** וַעֲבָדֹ֖ו לְעֹלָֽם — the word עֹלָֽם (olam) here means "to the olam" = for the remainder of the subject's existence.
-
----
-
-### Leviticus 25:44-46 — Bondservants "For Ever"
-
-> (v.44) Both thy bondmen, and thy bondmaids, which thou shalt have, shall be of the heathen that are round about you; of them shall ye buy bondmen and bondmaids.
-
-> (v.46) And ye shall take them as an inheritance for your children after you, to inherit them for a possession; they shall be your bondmen **for ever**: but over your brethren the children of Israel, ye shall not rule one over another with rigour.
-
-**Note:** Olam applied to the bondservants from foreign nations — "bondmen for ever." This stands in contrast to the Israelite servant who goes free at Jubilee (v.40-41). The non-Israelite bondmen serve "for ever" but this is still bounded by mortal existence. The Jubilee law (vv.39-42) applies specifically to Israelites, not foreigners — the "for ever" for foreigners means lifetime bondage.
-
----
-
-### Deuteronomy 23:3 — Ammonite/Moabite Excluded "For Ever"
-
-> An Ammonite or Moabite shall not enter into the congregation of the LORD; even to their tenth generation shall they not enter into the congregation of the LORD **for ever**:
-
-**Note:** Olam — "for ever." This is qualified within the same verse: "even to their tenth generation." The "for ever" is further defined as "to their tenth generation." Nehemiah 13:1-3 applies this exclusion, showing it was an operative, not infinite, temporal designation.
-
 ---
 
-### Joshua 4:7 — Memorial "For Ever"
+## Category A: God and His Attributes (Olam = Truly Unending)
 
-> (Context: stones set up as memorial for Israel's crossing of Jordan)
+These passages use olam to describe God Himself or His essential, unchanging attributes. Since God is genuinely eternal, olam here carries its maximal semantic force.
 
-> Then ye shall answer them, That the waters of Jordan were cut off before the ark of the covenant of the LORD; when it passed over Jordan, the waters of Jordan were cut off: and these stones shall be for a memorial unto the children of Israel **for ever**.
+### A1. God's Eternal Being
 
-**Note:** Olam — the memorial stones, now buried under centuries of history. The stones' existence as a visible memorial eventually ended.
+> **Genesis 21:33** — And [Abraham] planted a grove in Beer-sheba, and called there on the name of the LORD, the **everlasting** God.
 
----
-
-### 1 Samuel 1:22 — Samuel to Abide "For Ever"
-
-> But Hannah went not up; for she said unto her husband, I will not go up until the child be weaned, and then I will bring him, that he may appear before the LORD, and there abide **for ever**.
+> **Deuteronomy 33:27** — The **eternal** God [is thy] refuge, and underneath [are] the **everlasting** arms: and he shall thrust out the enemy from before thee; and shall say, Destroy [them].
 
-**Note:** Le-olam — "abide for ever." Samuel died (1 Sam 25:1). The "for ever" here means "permanently" in the sense of "for his entire life devoted to the LORD's service." Duration: his lifetime.
+> **Psalm 90:2** — Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even **from everlasting to everlasting**, thou [art] God.
 
-**Hebrew (from parsing):** וְיָ֥שַׁב שָׁ֖ם עַד־עֹולָֽם — literally "and dwell there unto olam." Note: the preposition here is עַד (ad, up to) + עֹולָם (olam), which is "ad-olam" — "unto the vanishing point."
+> **Psalm 93:2** — Thy throne [is] established **of old**: thou [art] **from everlasting**.
 
----
+> **Isaiah 9:6** — For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counseller, The mighty God, **The everlasting Father**, The Prince of Peace.
 
-### 1 Samuel 2:30 — Eli's House "For Ever" — Revoked
+> **Isaiah 26:4** — Trust ye in the LORD **for ever**: for in the LORD JEHOVAH [is] **everlasting** strength:
 
-> Wherefore the LORD God of Israel saith, I said indeed that thy house, and the house of thy father, should walk before me **for ever**: but now the LORD saith, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed.
+> **Isaiah 40:28** — Hast thou not known? hast thou not heard, [that] **the everlasting God**, the LORD, the Creator of the ends of the earth, fainteth not, neither is weary? [there is] no searching of his understanding.
 
-> (v.31) Behold, the days come, that I will cut off thine arm, and the arm of thy father's house, that there shall not be an old man in thine house.
+> **Isaiah 57:15** — For thus saith the high and lofty One that **inhabiteth eternity**, whose name [is] Holy; I dwell in the high and holy [place], with him also [that is] of a contrite and humble spirit, to revive the spirit of the humble, and to revive the heart of the contrite ones.
 
-**Note:** Olam — God said Eli's house would serve "for ever," then explicitly revoked it in the same verse. This is a definitive example of olam describing a conditional promise, not an unconditional infinite duration. The "for ever" was contingent on faithfulness; when faithfulness failed, the olam promise was cancelled.
+> **Isaiah 63:16** — Doubtless thou [art] our father, though Abraham be ignorant of us, and Israel acknowledge us not: thou, O LORD, [art] our father, our redeemer; thy name [is] **from everlasting**.
 
----
+> **Jeremiah 10:10** — But the LORD [is] the true God, he [is] the living God, and an **everlasting** king: at his wrath the earth shall tremble, and the nations shall not be able to abide his indignation.
 
-### 1 Kings 2:33 — Guilt "For Ever" / Peace "For Ever"
+> **Micah 5:2** — But thou, Bethlehem Ephratah, [though] thou be little among the thousands of Judah, [yet] out of thee shall he come forth unto me [that is] to be ruler in Israel; whose goings forth [have been] from of old, **from everlasting**.
 
-> Their blood shall therefore return upon the head of Joab, and upon the head of his seed **for ever**: but upon David, and upon his seed, and upon his house, and upon his throne, shall there be peace **for ever** from the LORD.
+> **Habakkuk 3:6** — He stood, and measured the earth: he beheld, and drove asunder the nations; and the **everlasting** mountains were scattered, the perpetual hills did bow: **his ways [are] everlasting**.
 
-**Note:** Olam twice in the same verse — guilt upon Joab's descendants (negative) and peace on David's throne (positive). Both are olam. Joab's descendants do not carry guilt to the resurrection; David's throne is ultimately fulfilled in Christ (Luke 1:32-33). The olam in both cases means "lasting/permanent within the appropriate frame."
+> **Lamentations 5:19** — Thou, O LORD, remainest **for ever**; thy throne from generation to generation.
 
----
+### A2. God's Reign and Kingdom
 
-### 2 Kings 5:27 — Leprosy Cleave "For Ever"
+> **Exodus 15:18** — The LORD shall reign **for ever and ever**.
 
-> The leprosy therefore of Naaman shall cleave unto thee, and unto thy seed **for ever**. And he went out from his presence a leper as white as snow.
+> **Psalm 10:16** — The LORD [is] King **for ever and ever**: the heathen are perished out of his land.
 
-**Note:** Olam — leprosy cleaving to Gehazi and his seed "for ever." Historically, Gehazi's descendants are not known to be leprous to this day. The "for ever" means a permanent, irrevocable judgment within the framework of mortal succession.
+> **Psalm 29:10** — The LORD sitteth upon the flood; yea, the LORD sitteth King **for ever**.
 
----
+> **Psalm 145:13** — Thy kingdom [is] an **everlasting** kingdom, and thy dominion [endureth] throughout all generations.
 
-### 2 Chronicles 7:16 — Temple Consecrated "For Ever" — Later Destroyed
+> **Psalm 146:10** — The LORD shall reign **for ever**, [even] thy God, O Zion, unto all generations. Praise ye the LORD.
 
-> For now have I chosen and sanctified this house, that my name may be there **for ever**: and mine eyes and mine heart shall be there perpetually.
+### A3. God's Mercy, Love, Faithfulness
 
-**Note:** Olam and tamid (perpetually) both applied to the Jerusalem temple. The temple was destroyed by Nebuchadnezzar in 586 BC. The "for ever" was fulfilled within the covenant framework; when the covenant was violated, the temple's dedication was cancelled (2 Chr 7:19-22 gives the conditional clause).
+> **Psalm 100:5** — For the LORD [is] good; his mercy [is] **everlasting**; and his truth [endureth] to all generations.
 
----
+> **Psalm 103:17** — But the mercy of the LORD [is] **from everlasting to everlasting** upon them that fear him, and his righteousness unto children's children;
 
-### Jonah 2:6 — "For Ever" in Fish Belly (Three Days)
+> **Psalm 106:48** — Blessed [be] the LORD God of Israel **from everlasting to everlasting**: and let all the people say, Amen. Praise ye the LORD.
 
-> I went down to the bottoms of the mountains; the earth with her bars was about me **for ever**: yet hast thou brought up my life from corruption, O LORD my God.
+> **Psalm 107:1** — O give thanks unto the LORD, for [he is] good: for his mercy [endureth] **for ever**.
 
-**Note:** Le-olam. Jonah describes being "for ever" under the earth/in the fish — the actual duration was three days (Jonah 1:17). This is perhaps the most striking example: olam applied to an experience that lasted 72 hours. The word describes Jonah's subjective sense of permanent entrapment, immediately followed by rescue. "For ever" cannot mean "infinite" here — it was three days.
+> **Psalm 136:1-4** — O give thanks unto the LORD; for [he is] good: for his mercy [endureth] **for ever**. O give thanks unto the God of gods: for his mercy [endureth] **for ever**. O give thanks to the Lord of lords: for his mercy [endureth] **for ever**. To him who alone doeth great wonders: for his mercy [endureth] **for ever**.
 
-**Hebrew (from parsing):** Note that Jonah 2:6 in the BHSA Hebrew text presents differently — the olam in the KJV "for ever" corresponds to verse 6 in the LXX but the parsing above showed verse 6 without olam. The KJV verse structure is slightly different from BHSA verse division. The "for ever" in the KJV of Jonah 2:6 comes from "the earth with her bars was about me le-olam." See cross-reference with context.
+> **Jeremiah 31:3** — The LORD hath appeared of old unto me, [saying], Yea, I have loved thee with an **everlasting** love: therefore with lovingkindness have I drawn thee.
 
----
+### A4. God's Word, Righteousness, Name
 
-### Isaiah 32:14-15 — Forsaken "For Ever" — "Until" Spirit Poured
+> **Psalm 119:89** — For ever, O LORD, thy word is settled in heaven.
 
-> (v.14) Because the palaces shall be forsaken; the multitude of the city shall be left; the forts and towers shall be for dens **for ever**, a joy of wild asses, a pasture of flocks;
+> **Psalm 119:142** — Thy righteousness [is] an **everlasting** righteousness, and thy law [is] the truth.
 
-> (v.15) **Until** the spirit be poured upon us from on high, and the wilderness be a fruitful field, and the fruitful field be counted for a forest.
+> **Psalm 119:144** — The righteousness of thy testimonies [is] **everlasting**: give me understanding, and I shall live.
 
-**Note:** Olam — "dens for ever" — immediately qualified by "until the spirit be poured upon us." This is a classic "olam until" construction. The desolation is olam in character (indefinitely long), but explicitly bounded by the "until" clause. Olam here = "until the Spirit comes" — a definite future event.
+> **Psalm 119:160** — Thy word [is] true [from] the beginning: and every one of thy righteous judgments [endureth] **for ever**.
 
----
+> **Psalm 135:13** — Thy name, O LORD, [endureth] **for ever**; [and] thy memorial, O LORD, throughout all generations.
 
-### Psalm 77:7-9 — "Will the LORD Cast Off For Ever?" (Rhetorical)
+> **Psalm 111:3** — His work [is] honourable and glorious: and his righteousness endureth **for ever**.
 
-> (v.7) Will the Lord cast off **for ever**? and will he be favourable no more?
+> **Psalm 112:3** — Wealth and riches [shall be] in his house: and his righteousness endureth **for ever**.
 
-> (v.8) Is his mercy clean gone **for ever**? doth his promise fail for evermore?
+> **Psalm 112:9** — He hath dispersed, he hath given to the poor; his righteousness endureth **for ever**; his horn shall be exalted with honour.
 
-> (v.9) Hath God forgotten to be gracious? hath he in anger shut up his tender mercies? Selah.
+### A5. God's Throne
 
-> (v.10) And I said, This is my infirmity: but I will remember the years of the right hand of the most High.
+> **Psalm 45:6** — Thy throne, O God, [is] **for ever and ever**: the sceptre of thy kingdom [is] a right sceptre.
 
-**Note:** Olam (v.7), netsach (v.8). The Psalmist asks whether God's rejection is "for ever" — a rhetorical question answered negatively by the rest of the psalm (vv.11-20: God's past works are recalled). The questions use olam and netsach as terms of indefinite duration, not literally infinite duration. Compare Lamentations 3:31: "the Lord will not cast off for ever" — directly contradicting a literal reading of "cast off le-olam."
+> **Psalm 93:2** — Thy throne [is] established of old: thou [art] **from everlasting**.
 
 ---
 
-### Lamentations 5:19-20 — "Forget Us For Ever?"
+## Category B: Covenants, Institutions, and Laws (Olam = Age-lasting, Eventually Ended)
 
-> (v.19) Thou, O LORD, remainest **for ever**; thy throne from generation to generation.
+These passages use olam for institutions that have demonstrably ended or been superseded, proving olam need not mean "endless."
 
-> (v.20) Wherefore dost thou forget us **for ever**, and forsake us so long time?
+### B1. Abrahamic Covenant and Land
 
-**Note:** Two uses of olam in the same passage — God's own permanence (v.19, genuinely infinite) and Israel's abandonment (v.20, clearly temporary/rhetorical). Lamentations 3:31 provides the answer: "the Lord will not cast off for ever."
+> **Genesis 9:16** — And the bow shall be in the cloud; and I will look upon it, that I may remember the **everlasting** covenant between God and every living creature of all flesh that [is] upon the earth.
 
----
-
-### Obadiah 1:10 — Edom Cut Off "For Ever"
+> **Genesis 13:15** — For all the land which thou seest, to thee will I give it, and to thy seed **for ever**.
 
-> For thy violence against thy brother Jacob shame shall cover thee, and thou shalt be cut off **for ever**.
+> **Genesis 17:7** — And I will establish my covenant between me and thee and thy seed after thee in their generations for an **everlasting** covenant, to be a God unto thee, and to thy seed after thee.
 
-**Note:** Olam — Edom cut off for ever. Obadiah 1:16 completes the picture: "they shall be as though they had not been" — total annihilation, not endless conscious existence. The "for ever" describes the permanence of the cutting off, not ongoing experience.
+> **Genesis 17:8** — And I will give unto thee, and to thy seed after thee, the land wherein thou art a stranger, all the land of Canaan, for an **everlasting** possession; and I will be their God.
 
----
+> **Genesis 17:13** — He that is born in thy house, and he that is bought with thy money, must needs be circumcised: and my covenant shall be in your flesh for an **everlasting** covenant.
 
-## Category B — Olam in Punishment/Judgment Contexts
+> **Genesis 17:19** — And God said, Sarah thy wife shall bear thee a son indeed; and thou shalt call his name Isaac: and I will establish my covenant with him for an **everlasting** covenant, [and] with his seed after him.
 
-These are the central debate passages. The question is whether olam in judgment contexts necessarily implies endless conscious experience.
+> **Genesis 48:4** — And said unto me, Behold, I will make thee fruitful, and multiply thee, and I will make of thee a multitude of people; and will give this land to thy seed after thee [for] an **everlasting** possession.
 
----
+> **Exodus 32:13** — Remember Abraham, Isaac, and Israel, thy servants, to whom thou swarest by thine own self, and saidst unto them, I will multiply your seed as the stars of heaven, and all this land that I have spoken of will I give unto your seed, and they shall inherit [it] **for ever**.
 
-### Isaiah 33:14 — "Everlasting Burnings"
+### B2. Aaronic/Levitical Priesthood
 
-> (v.13) Hear, ye that are far off, what I have done; and, ye that are near, acknowledge my might.
+> **Exodus 29:9** — And thou shalt gird them with girdles, Aaron and his sons, and put the bonnets on them: and the priest's office shall be theirs for a **perpetual** statute: and thou shalt consecrate Aaron and his sons.
 
-> (v.14) The sinners in Zion are afraid; fearfulness hath surprised the hypocrites. Who among us shall dwell with the devouring fire? who among us shall dwell with **everlasting burnings**?
+> **Exodus 40:15** — And thou shalt anoint them, as thou didst anoint their father, that they may minister unto me in the priest's office: for their anointing shall surely be an **everlasting** priesthood throughout their generations.
 
-> (v.15) He that walketh righteously, and speaketh uprightly; he that despiseth the gain of oppressions, that shaketh his hands from holding of bribes, that stoppeth his ears from hearing of blood, and shutteth his eyes from seeing evil;
+> **Numbers 25:13** — And he shall have it, and his seed after him, [even] the covenant of an **everlasting** priesthood; because he was zealous for his God, and made an atonement for the children of Israel.
 
-> (v.16) He shall dwell on high: his place of defence shall be the munitions of rocks: bread shall be given him; his waters shall be sure.
+*NOTE: Hebrews 7:11-24 explicitly states this "everlasting" priesthood was changed/superseded.*
 
-**Note:** "Everlasting burnings" is a description of God's holy fire, not a punishment. The rhetorical question "who shall dwell with everlasting burnings?" is answered positively: the righteous person (v.15) CAN dwell with them. The "everlasting burnings" = God's holy presence, which righteous people can endure. This is NOT a punishment text — it is a description of divine holiness. Nave's FIRE entry lists it as "EVERLASTING FIRE" (ISA 33:14) but the context makes clear this is figurative for God's holiness.
+### B3. Mosaic Ceremonial Statutes
 
----
+> **Exodus 12:14** — And this day shall be unto you for a memorial; and ye shall keep it a feast to the LORD throughout your generations; ye shall keep it a feast by an ordinance **for ever**.
 
-### Isaiah 34:5-17 — Edom: Smoke Ascendeth "For Ever" / "For Ever and Ever"
+> **Exodus 12:17** — And ye shall observe [the feast of] unleavened bread; for in this selfsame day have I brought your armies out of the land of Egypt: therefore shall ye observe this day in your generations by an ordinance **for ever**.
 
-**Verses 5-10 (judgment section):**
+> **Exodus 12:24** — And ye shall observe this thing for an ordinance to thee and to thy sons **for ever**.
 
-> (v.5) For my sword shall be bathed in heaven: behold, it shall come down upon Idumea, and upon the people of my curse, to judgment.
+> **Exodus 27:21** — In the tabernacle of the congregation without the vail, which [is] before the testimony, Aaron and his sons shall order it from evening to morning before the LORD: [it shall be] a statute **for ever** unto their generations on the behalf of the children of Israel.
 
-> (v.6) The sword of the LORD is filled with blood, it is made fat with fatness, and with the blood of lambs and goats, with the fat of the kidneys of rams: for the LORD hath a sacrifice in Bozrah, and a great slaughter in the land of Idumea.
+> **Exodus 28:43** — And they shall be upon Aaron, and upon his sons, when they come in unto the tabernacle of the congregation, or when they come near unto the altar to minister in the holy [place]; that they bear not iniquity, and die: [it shall be] a statute **for ever** unto him and his seed after him.
 
-> (v.7) And the unicorns shall come down with them, and the bullocks with the bulls; and their land shall be soaked with blood, and their dust made fat with fatness.
+> **Exodus 29:28** — And it shall be Aaron's and his sons' by a statute **for ever** from the children of Israel: for it [is] an heave offering.
 
-> (v.8) For it is the day of the LORD'S vengeance, and the year of recompences for the controversy of Zion.
+> **Exodus 30:21** — So they shall wash their hands and their feet, that they die not: and it shall be a statute **for ever** to them, [even] to him and to his seed throughout their generations.
 
-> (v.9) And the streams thereof shall be turned into pitch, and the dust thereof into brimstone, and the land thereof shall become burning pitch.
+> **Leviticus 3:17** — [It shall be] a **perpetual** statute for your generations throughout all your dwellings, that ye eat neither fat nor blood.
 
-> (v.10) It shall not be quenched night nor day; the smoke thereof shall go up **for ever**: from generation to generation it shall lie waste; none shall pass through it **for ever and ever**.
+> **Leviticus 6:18** — All the males among the children of Aaron shall eat of it. [It shall be] a statute **for ever** in your generations concerning the offerings of the LORD made by fire.
 
-**Verses 11-17 (aftermath: animals dwelling there):**
+> **Leviticus 7:34** — For the wave breast and the heave shoulder have I taken of the children of Israel from off the sacrifices of their peace offerings, and have given them unto Aaron the priest and unto his sons by a statute **for ever** from among the children of Israel.
 
-> (v.11) But the cormorant and the bittern shall possess it; the owl also and the raven shall dwell in it: and he shall stretch out upon it the line of confusion, and the stones of emptiness.
+> **Leviticus 10:9** — Do not drink wine nor strong drink, thou, nor thy sons with thee, when ye go into the tabernacle of the congregation, lest ye die: [it shall be] a statute **for ever** throughout your generations:
 
-> (v.12) They shall call the nobles thereof to the kingdom, but none shall be there, and all her princes shall be nothing.
+> **Leviticus 16:29** — And [this] shall be a statute **for ever** unto you: [that] in the seventh month, on the tenth [day] of the month, ye shall afflict your souls.
 
-> (v.13) And thorns shall come up in her palaces, nettles and brambles in the fortresses thereof: and it shall be an habitation of dragons, and a court for owls.
+> **Leviticus 16:34** — And this shall be an **everlasting** statute unto you, to make an atonement for the children of Israel for all their sins once a year.
 
-> (v.14) The wild beasts of the desert shall also meet with the wild beasts of the island, and the satyr shall cry to his fellow; the screech owl also shall rest there, and find for herself a place of rest.
+> **Leviticus 23:14** — And ye shall eat neither bread, nor parched corn, nor green ears, until the selfsame day that ye have brought an offering unto your God: [it shall be] a statute **for ever** throughout your generations in all your dwellings.
 
-> (v.15) There shall the great owl make her nest, and lay, and hatch, and gather under her shadow: there shall the vultures also be gathered, every one with her mate.
+> **Leviticus 23:21** — And ye shall proclaim on the selfsame day, [that] it may be an holy convocation unto you: ye shall do no servile work [therein: it shall be] a statute **for ever** in all your dwellings throughout your generations.
 
-> (v.16) Seek ye out of the book of the LORD, and read: no one of these shall fail, none shall want her mate: for my mouth it hath commanded, and his spirit it hath gathered them.
+> **Leviticus 23:31** — Ye shall do no manner of work: [it shall be] a statute **for ever** throughout your generations in all your dwellings.
 
-> (v.17) And he hath cast the lot for them, and his hand hath divided it unto them by line: they shall possess it **for ever**, from generation to generation shall they dwell therein.
+> **Leviticus 23:41** — And ye shall keep it a feast unto the LORD seven days in the year. [It shall be] a statute **for ever** in your generations.
 
-**Note:** Critical observations:
-1. v.10: "smoke... go up for ever" — le-olam (H5769)
-2. v.10: "none shall pass through it for ever and ever" — le-netsach netsachim (H5331 intensified)
-3. v.11-17: Animals dwell there. This is not a scene of ongoing fire/burning — it is desolation where wild animals make nests and breed.
-4. v.17: The animals "possess it for ever" — olam applied to the animals' habitation of the desolated land.
-5. Modern geography: Edom (modern Jordan/Petra region) is uninhabited wilderness with ruins, but NOT actively burning with smoke ascending.
-6. The cross-testament parallel tool scores REV 14:11 at 0.401 for this passage — Revelation reuses the language of Isa 34:10 for its own purposes.
-7. The "smoke ascending for ever" = metaphor for permanent, irrevocable destruction, not literal ongoing combustion.
+> **Leviticus 24:3** — Without the vail of the testimony, in the tabernacle of the congregation, shall Aaron order it from the evening unto the morning before the LORD continually: [it shall be] a statute **for ever** in your generations.
 
-**Hebrew parsing highlights (from Isa 34:10):**
-- לְעֹולָ֖ם (le-olam) = "to eternity" — Noun.ms.Abs., preposition ל
-- לְנֵ֣צַח נְצָחִ֔ים (le-netsach netsachim) = "to glory of glories" — netsach (ms.Cst) + netsachim (mp.Abs) — a construct-state intensification
+> **Leviticus 24:8** — Every sabbath he shall set it in order before the LORD continually, [being taken] from the children of Israel by an **everlasting** covenant.
 
----
+> **Leviticus 24:9** — And it shall be Aaron's and his sons'; and they shall eat it in the holy place: for it [is] most holy unto him of the offerings of the LORD made by fire by a **perpetual** statute.
 
-### Jeremiah 17:4 — Fire That Shall Burn "For Ever"
+> **Numbers 10:8** — And the sons of Aaron, the priests, shall blow with the trumpets; and they shall be to you for an ordinance **for ever** throughout your generations.
 
-> And thou, even thyself, shalt discontinue from thine heritage that I gave thee; and I will cause thee to serve thine enemies in the land which thou knowest not: for ye have kindled a fire in mine anger, which shall burn **for ever**.
+> **Numbers 15:15** — One ordinance [shall be both] for you of the congregation, and also for the stranger that sojourneth [with you], an ordinance **for ever** in your generations.
 
-**Note:** Olam — "burn for ever." This is God's anger against Judah. The fire of divine anger burning "for ever" is metaphorical for a severe, permanent-in-effect judgment. Judah was taken into exile, returned after 70 years, and was restored. The "for ever" describes the severity of the judgment, not an unending literal fire.
+> **Numbers 18:8** — And the LORD spake unto Aaron, Behold, I also have given thee the charge of mine heave offerings of all the hallowed things of the children of Israel; unto thee have I given them by reason of the anointing, and to thy sons, by an ordinance **for ever**.
 
----
+> **Numbers 18:11** — And this [is] thine; the heave offering of their gift, with all the wave offerings of the children of Israel: I have given them unto thee, and to thy sons and to thy daughters with thee, by a statute **for ever**.
 
-### Jeremiah 20:11 — Everlasting Confusion
+> **Numbers 18:19** — All the heave offerings of the holy things, which the children of Israel offer unto the LORD, have I given thee, and thy sons and thy daughters with thee, by a statute **for ever**: it [is] a covenant of salt **for ever** before the LORD unto thee and to thy seed with thee.
 
-> But the LORD is with me as a mighty terrible one: therefore my persecutors shall stumble, and they shall not prevail: they shall be greatly ashamed; for they shall not prosper: their **everlasting confusion** shall never be forgotten.
+> **Numbers 18:23** — But the Levites shall do the service of the tabernacle of the congregation, and they shall bear their iniquity: [it shall be] a statute **for ever** throughout your generations.
 
-**Note:** Olam — "everlasting confusion." The persecutors of Jeremiah will experience a confusion/shame that is olam in character. The phrase "shall never be forgotten" (lo tishakach) indicates the shame is permanently on the record — not necessarily that the individuals exist forever experiencing it.
+> **Numbers 19:10** — And he that gathereth the ashes of the heifer shall wash his clothes, and be unclean until the even: and it shall be unto the children of Israel, and unto the stranger that sojourneth among them, for a statute **for ever**.
 
----
+> **Numbers 19:21** — And it shall be a **perpetual** statute unto them, that he that sprinkleth the water of separation shall wash his clothes.
 
-### Jeremiah 23:39-40 — Perpetual Shame for False Prophets
+### B4. Sabbath
 
-> (v.39) Therefore, behold, I, even I, will utterly forget you, and I will forsake you, and the city that I gave you and your fathers, and cast you out of my presence:
+> **Exodus 31:16-17** — Wherefore the children of Israel shall keep the sabbath, to observe the sabbath throughout their generations, [for] a **perpetual** covenant. It [is] a sign between me and the children of Israel **for ever**: for [in] six days the LORD made heaven and earth, and on the seventh day he rested, and was refreshed.
 
-> (v.40) And I will bring an everlasting reproach upon you, and a **perpetual shame**, which shall not be forgotten.
+### B5. Temple
 
-**Note:** Olam — "everlasting reproach" (cherpat olam) and "perpetual shame" (bosheth olam). For the false prophets. The shame is permanent on the historical record. Cross-testament parallel tool finds Daniel 12:2's "reproach" (cherpot) as a key OT parallel — the same word.
+> **1 Kings 8:13** — I have surely built thee an house to dwell in, a settled place for thee to abide in **for ever**.
 
----
+> **1 Kings 9:3** — And the LORD said unto him, I have heard thy prayer and thy supplication, that thou hast made before me: I have hallowed this house, which thou hast built, to put my name there **for ever**; and mine eyes and mine heart shall be there **perpetually**.
 
-### Jeremiah 25:9,12 — Perpetual Desolations
+> **2 Kings 21:7** — And he set a graved image of the grove that he had made in the house, of which the LORD said to David, and to Solomon his son, In this house, and in Jerusalem, which I have chosen out of all tribes of Israel, will I put my name **for ever**.
 
-> (v.9) Behold, I will send and take all the families of the north, saith the LORD, and Nebuchadrezzar the king of Babylon, my servant, and will bring them against this land... and will utterly destroy them, and make them an astonishment, and an hissing, and **perpetual desolations**.
+*NOTE: Solomon's temple destroyed 586 BC; second temple destroyed AD 70. The "forever" dwelling place has not stood for ~2,000 years.*
 
-> (v.12) And it shall come to pass, when seventy years are accomplished, that I will punish the king of Babylon, and that nation, saith the LORD, for their iniquity, and the land of the Chaldeans, and will make it **perpetual desolations**.
+### B6. Davidic Dynasty
 
-**Note:** Olam in "perpetual desolations." Note v.11: the nations were to serve Babylon for "seventy years" — a finite period explicitly given. Then v.12: the Chaldean land itself becomes "perpetual desolations." The finite 70 years for service is contrasted with the olam desolation of Babylon after judgment. Modern Babylon/Iraq exists and has a population — the "perpetual desolation" describes permanent ruin, not ongoing burning.
+> **2 Samuel 7:13** — He shall build an house for my name, and I will stablish the throne of his kingdom **for ever**.
 
----
+> **2 Samuel 7:16** — And thine house and thy kingdom shall be established **for ever** before thee: thy throne shall be established **for ever**.
 
-### Jeremiah 49:13,33 — Bozrah and Hazor Perpetual Wastes
+> **2 Samuel 7:24-26** — For thou hast confirmed to thyself thy people Israel [to be] a people unto thee **for ever**: and thou, LORD, art become their God. And now, O LORD God, the word that thou hast spoken concerning thy servant, and concerning his house, establish [it] **for ever**, and do as thou hast said. And let thy name be magnified **for ever**.
 
-> (v.13) For I have sworn by myself, saith the LORD, that Bozrah shall become a desolation, a reproach, a waste, and a curse; and all the cities thereof shall be **perpetual wastes**.
+> **2 Samuel 7:29** — Therefore now let it please thee to bless the house of thy servant, that it may continue **for ever** before thee: for thou, O Lord GOD, hast spoken [it]: and with thy blessing let the house of thy servant be blessed **for ever**.
 
-> (v.33) And Hazor shall be a dwelling for dragons, and a desolation **for ever**: there shall no man abide there, nor any son of man dwell in it.
+> **1 Samuel 13:13** — And Samuel said to Saul, Thou hast done foolishly: thou hast not kept the commandment of the LORD thy God, which he commanded thee: for now would the LORD have established thy kingdom upon Israel **for ever**.
 
-**Note:** Olam — both Bozrah and Hazor (near ancient Edom/Ammon) described as perpetual/for ever waste. These are historical cities whose ruins exist — desolated, not burning endlessly.
+*NOTE: Saul's kingdom "forever" was conditional and immediately revoked. This proves olam + human institution = conditional/limited.*
 
----
+### B7. Covenant Promises
 
-### Jeremiah 51:39,57 — Babylon Sleeps "Perpetual Sleep"
+> **Isaiah 55:3** — Incline your ear, and come unto me: hear, and your soul shall live; and I will make an **everlasting** covenant with you, [even] the sure mercies of David.
 
-> (v.39) In their heat I will make their feasts, and I will make them drunken, that they may rejoice, and sleep a **perpetual sleep**, and not wake, saith the LORD.
+> **Ezekiel 16:60** — Nevertheless I will remember my covenant with thee in the days of thy youth, and I will establish unto thee an **everlasting** covenant.
 
-> (v.57) And I will make drunk her princes, and her wise men, her captains, and her rulers, and her mighty men: and they shall sleep a **perpetual sleep**, and not wake, saith the King, whose name is the LORD of hosts.
+> **Ezekiel 37:26** — Moreover I will make a covenant of peace with them; it shall be an **everlasting** covenant with them: and I will place them, and multiply them, and will set my sanctuary in the midst of them for evermore.
 
-**Note:** Shnat-olam — "sleep of eternity" (construct chain: שְׁנַת + עֹולָם). "Sleep a perpetual sleep, and not wake." This is death described as olam sleep. The same verb "not wake" (lo yaqitsu) appears in Dan 12:2's resurrection: "many that sleep... shall awake." The "perpetual sleep" of Jer 51 is the state from which Dan 12:2 describes a resurrection — meaning the olam sleep is interrupted by resurrection. The olam duration of the sleep ends at the resurrection.
+> **Jeremiah 32:40** — And I will make an **everlasting** covenant with them, that I will not turn away from them, to do them good; but I will put my fear in their hearts, that they shall not depart from me.
 
-**Hebrew parsing (Jer 51:57):** וְיָשְׁנ֥וּ שְׁנַת־עֹולָ֖ם וְלֹ֣א יָקִ֑יצוּ — "and they shall sleep sleep-of-olam and not awaken."
+> **Jeremiah 50:5** — They shall ask the way to Zion with their faces thitherward, [saying], Come, and let us join ourselves to the LORD in a **perpetual** covenant [that] shall not be forgotten.
 
 ---
 
-### Ezekiel 26:20-21 — Tyre: "Thou Shalt Be No More"
+## Category C: Human/Finite Subjects (Olam = Limited Duration)
 
-> (v.20) When I shall bring thee down with them that descend into the pit, with the people of old time, and shall set thee in the low parts of the earth, in places desolate of old, with them that go down to the pit, that thou be not inhabited; and I shall set glory in the land of the living;
+### C1. Slave Service (The Clearest Finite Use)
 
-> (v.21) I will make thee a terror, and thou shalt be no more: though thou be sought for, yet shalt thou never be found again, saith the Lord GOD.
+> **Exodus 21:6** — Then his master shall bring him unto the judges; he shall also bring him to the door, or unto the door post; and his master shall bore his ear through with an aul; and he shall serve him **for ever**.
 
-**Note:** No olam here, but a direct statement: "thou shalt be no more" and "never be found again." The vocabulary of permanent annihilation, not ongoing torment. Compare Obadiah 1:16 (etc5-06): "as though they had not been."
+> **Deuteronomy 15:17** — Then thou shalt take an aul, and thrust [it] through his ear unto the door, and he shall be thy servant **for ever**. And also unto thy maidservant thou shalt do likewise.
 
----
-
-### Ezekiel 35:5,9 — Perpetual Hatred / Perpetual Desolations (Edom)
+*NOTE: "Forever" = the slave's remaining lifetime. Death terminates the service. This is universally acknowledged as a limited olam.*
 
-> (v.5) Because thou hast had a **perpetual hatred**, and hast shed the blood of the children of Israel by the force of the sword in the time of their calamity, in the time that their iniquity had an end:
+### C2. Jonah's Three Days
 
-> (v.9) I will make thee **perpetual desolations**, and thy cities shall not return: and ye shall know that I am the LORD.
+> **Jonah 2:6** — I went down to the bottoms of the mountains; the earth with her bars [was] about me **for ever**: yet hast thou brought up my life from corruption, O LORD my God.
 
-**Note:** Olam — both Edom's characteristic and its judgment are olam. Edom's "perpetual hatred" = ongoing hatred during its existence. The "perpetual desolations" = permanent ruin after judgment. Both limited to the historical-moral frame of Edom's existence.
-
----
+*NOTE: Jonah's "forever" lasted approximately three days. The word here conveys the subjective experience of interminable duration, not objective endlessness.*
 
-### Daniel 12:1-3 — Everlasting Life / Everlasting Contempt
+### C3. Prevented Immortality
 
-> (v.1) And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation even to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book.
+> **Genesis 3:22** — And the LORD God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and **live for ever**:
 
-> (v.2) And many of them that sleep in the dust of the earth shall awake, some to **everlasting life**, and some to shame and **everlasting contempt**.
+*NOTE: God prevented humans from living olam. This passage uses olam for a potential human duration that God specifically blocked.*
 
-> (v.3) And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars **for ever and ever**.
+### C4. Human Mortality
 
-**Note:** This is the critical OT text. Key observations:
-1. **Identical grammatical construction** for both outcomes: לְחַיֵּ֣י עֹולָ֔ם (le-chayyei olam = to everlasting life) and לְדִרְאֹ֥ון עֹולָֽם (le-dir'on olam = to everlasting contempt). The SAME word olam, the SAME prepositional/construct pattern, for BOTH destinies.
-2. **Dir'on** (contempt/abhorrence) = H1860 דִּרְאוֹן — occurs only here and Isa 66:24, where it describes CORPSES (peger = dead bodies, not living beings). In Isa 66:24, the objects that are "an abhorring" are carcasses.
-3. **Resurrection context**: "sleep in the dust of the earth shall awake" — the subject is dead people being raised. The resurrection text presupposes prior death/unconsciousness (sleep).
-4. v.3: olam wa-ad for the righteous shining "for ever and ever."
+> **Zechariah 1:5** — Your fathers, where [are] they? and the prophets, do they live **for ever**?
 
-**Hebrew parsing (Dan 12:2):**
-- לְחַיֵּ֣י עֹולָ֔ם — "to life of eternity" (le + chayyei [mp.Cst] + olam [ms.Abs])
-- לְדִרְאֹ֥ון עֹולָֽם — "to abhorrence of eternity" (le + dir'on [ms.Cst] + olam [ms.Abs])
-- Both are construct chains with identical structure.
-- יָקִ֑יצוּ (yaqitzu) — Hiphil.Impf.3mp of קיץ — "they shall awaken/pass summer" — same root as Jer 51:39,57 "not wake"
+*NOTE: Rhetorical question expecting "no." Humans do not live olam — even prophets die.*
 
----
+> **Ecclesiastes 1:4** — [One] generation passeth away, and [another] generation cometh: but the earth abideth **for ever**.
 
-### Psalm 9:5 — Name Blotted Out "For Ever and Ever"
+> **Ecclesiastes 2:16** — For [there is] no remembrance of the wise more than of the fool **for ever**; seeing that which now [is] in the days to come shall all be forgotten.
 
-> Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name **for ever and ever**.
+> **Ecclesiastes 3:11** — He hath made every [thing] beautiful in his time: also he hath set **the world** [olam] in their heart, so that no man can find out the work that God maketh from the beginning to the end.
 
-**Note:** Le-olam va-ed — the compound "for ever and ever" applied to the blotting out of the wicked's name. The wicked are "destroyed" (ibad, H6) and their name extinguished — the language is of annihilation, not ongoing torment. The "for ever and ever" intensifies the permanence of the destruction.
+> **Ecclesiastes 3:14** — I know that, whatsoever God doeth, it shall be **for ever**: nothing can be put to it, nor any thing taken from it.
 
-**Hebrew parsing (Ps 9:6 Hebrew = Ps 9:5 KJV):**
-- גָּעַ֣רְתָּ גֹ֭ויִם אִבַּ֣דְתָּ רָשָׁ֑ע שְׁמָ֥ם מָ֝חִ֗יתָ לְעֹולָ֥ם וָעֶֽד
-- מָ֝חִ֗יתָ (machita) — "thou hast wiped/blotted out"
-- לְעֹולָ֥ם וָעֶֽד — le-olam va-ed (eternity and future) — the compound intensifier
-- Note: עֶֽד here is H5703 (ad), confirming the le-olam wa-ed compound.
+> **Ecclesiastes 9:6** — Also their love, and their hatred, and their envy, is now perished; neither have they any more a portion **for ever** in any [thing] that is done under the sun.
 
----
+> **Ecclesiastes 12:5** — Also [when] they shall be afraid of [that which is] high, and fears [shall be] in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because man goeth to his **long home**, and the mourners go about the streets:
 
-### Psalm 77:7-8 — Rhetorical "For Ever" Questions
+### C5. Hannah's Dedication
 
-(See Category A above)
+> **1 Samuel 1:22** — But Hannah went not up; for she said unto her husband, [I will not go up] until the child be weaned, and [then] I will bring him, that he may appear before the LORD, and there abide **for ever**.
 
----
+*NOTE: Samuel served at Shiloh for his lifetime — not literally "forever."*
 
-### Psalm 92:7 — Wicked Destroyed "For Ever"
+### C6. Conditional Royal Promises
 
-> When the wicked spring as the grass, and when all the workers of iniquity do flourish; it is that they shall be destroyed **for ever**:
+> **1 Samuel 2:30** — Wherefore the LORD God of Israel saith, I said indeed [that] thy house, and the house of thy father, should walk before me **for ever**: but now the LORD saith, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed.
 
-> (v.8) But thou, LORD, art most high for evermore.
+*NOTE: God explicitly revokes an "olam" promise due to unfaithfulness. The "forever" was conditional all along.*
 
-> (v.9) For, lo, thine enemies, O LORD, for, lo, thine enemies shall perish; all the workers of iniquity shall be scattered.
+> **1 Samuel 13:13-14** — And Samuel said to Saul, Thou hast done foolishly: thou hast not kept the commandment of the LORD thy God, which he commanded thee: for now would the LORD have established thy kingdom upon Israel **for ever**. But now thy kingdom shall not continue.
 
-**Note:** Olam — "destroyed for ever." The verb is shamad (H8045 = to destroy, annihilate). Destruction (shamad) that is "for ever" = permanent destruction. v.9 uses abad (H6) = "shall perish." The direction is toward annihilation, with olam describing its permanence.
+> **1 Samuel 27:12** — And Achish believed David, saying, He hath made his people Israel utterly to abhor him; therefore he shall be my servant **for ever**.
 
----
+### C7. Leprosy and Curses
 
-### Malachi 4:1-3 — The Burning Day
+> **2 Kings 5:27** — The leprosy therefore of Naaman shall cleave unto thee, and unto thy seed **for ever**. And he went out from his presence a leper [as white] as snow.
 
-> (v.1) For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch.
+### C8. Physical Features
 
-> (v.2) But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall.
+> **Genesis 49:26** — The blessings of thy father have prevailed above the blessings of my progenitors unto the utmost bound of the **everlasting** hills.
 
-> (v.3) And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do this, saith the LORD of hosts.
+> **Habakkuk 3:6** — He stood, and measured the earth: he beheld, and drove asunder the nations; and the **everlasting** mountains were scattered, the perpetual hills did bow: his ways [are] everlasting.
 
-**Note:** No olam in this passage — "for ever" is not used. Included here because of its connection to Isa 34:9 (burning context) and the judgment vocabulary. Key: "shall burn them up... leave them neither root nor branch... they shall be ashes." The outcome is described as complete consumption, not endless burning. Compare: Isa 34:9-10 uses burning imagery but the aftermath is desolation with animals dwelling (not ongoing fire). Mal 4 uses burning imagery but the result is ashes. Both point to completed, permanent destruction.
+> **Psalm 104:5** — [Who] laid the foundations of the earth, [that] it should not be removed **for ever**.
 
----
+*NOTE: The "everlasting" mountains were "scattered" by God. "Everlasting" describes perceived permanence, not absolute indestructibility.*
 
-### Malachi 1:4 — Edom: Indignation "For Ever"
+### C9. Levitical Property
 
-> Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the LORD of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the LORD hath indignation **for ever**.
+> **Leviticus 25:34** — But the field of the suburbs of their cities may not be sold; for it [is] their **perpetual** possession.
 
-**Note:** Olam — "indignation for ever." The historical Edomites were dispersed and absorbed by surrounding nations. "For ever" here describes a permanent state of divine displeasure/judgment, not endless conscious torment for individual Edomites.
+> **Leviticus 25:46** — And ye shall take them as an inheritance for your children after you, to inherit [them for] a possession; they shall be your bondmen **for ever**.
 
 ---
 
-### Isaiah 66:24 — Corpses, Undying Worm, Unquenching Fire
+## Category D: Past Time ("Of Old")
 
-> And they shall go forth, and look upon the **carcases** of the men that have transgressed against me: for their **worm** shall not die, neither shall their **fire** be quenched; and they shall be an **abhorring** unto all flesh.
+When olam looks backward, it means "ancient time" or "long ago."
 
-**Note:** Critical observations:
-1. The subject is **peger** (carcases/dead bodies) — not living, conscious beings.
-2. "Abhorring" = dir'on (H1860) — the SAME word used in Dan 12:2 for "everlasting contempt." In Isa 66:24, this abhorring is applied to corpses.
-3. The "not quenched" (lo tikbeh) is NOT olam — it uses the "not quenched" (unquenching) construction, not the "for ever" construction.
-4. The "worm shall not die" = the worms continuously consuming the corpses — not the corpses themselves being eternally conscious.
-5. This passage is cited in Mark 9:44,46,48 by Jesus as a description of Gehenna. The language is from Isa 66:24, where the objects are dead bodies.
+> **Genesis 6:4** — There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare [children] to them, the same [became] mighty men which [were] **of old**, men of renown.
 
----
+> **Deuteronomy 32:7** — Remember the days **of old**, consider the years of many generations.
 
-### Jeremiah 50:39 (Category E — netsach example)
+> **Isaiah 51:9** — Awake, awake, put on strength, O arm of the LORD; awake, as in the **ancient** days, in the generations **of old**.
 
-> (Context: Babylon destroyed, never inhabited again)
-> Therefore the wild beasts of the desert with the wild beasts of the islands shall dwell there, and the owls shall dwell therein: and it shall be no more inhabited **for ever**; neither shall it be dwelt in from generation to generation.
+> **Isaiah 63:9** — In all their affliction he was afflicted, and the angel of his presence saved them: in his love and in his pity he redeemed them; and he bare them, and carried them all the **days of old**.
 
-**Note:** Netsach (H5331) — "for ever." Here netsach describes the permanent desolation of Babylon, with animals dwelling in it — same pattern as Isa 34:11-17 for Edom. "No more inhabited for ever" = permanent, not ongoing burning.
+> **Isaiah 63:11** — Then he remembered **the days of old**, Moses, [and] his people.
 
----
+> **Isaiah 64:4** — For **since the beginning of the world** [men] have not heard, nor perceived by the ear, neither hath the eye seen, O God, beside thee.
 
-## Category C — Olam for God's Eternity (Clearly Endless)
+> **Jeremiah 2:20** — For **of old time** I have broken thy yoke, [and] burst thy bands.
 
-These passages establish the upper bound of olam's semantic range — genuinely infinite duration applied to God and His attributes.
+> **Jeremiah 5:15** — Lo, I will bring a nation upon you from far, O house of Israel, saith the LORD: it [is] a mighty nation, it [is] an **ancient** nation.
 
----
+> **Jeremiah 6:16** — Thus saith the LORD, Stand ye in the ways, and see, and ask for the **old** paths, where [is] the good way, and walk therein.
 
-### Psalm 90:1-2 — From Everlasting to Everlasting
+> **Jeremiah 18:15** — Because my people hath forgotten me, they have burned incense to vanity, and they have caused them to stumble in their ways [from] the **ancient** paths.
 
-> (v.1) Lord, thou hast been our dwelling place in all generations.
+> **Jeremiah 28:8** — The prophets that have been before me and before thee **of old** prophesied both against many countries.
 
-> (v.2) Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even **from everlasting to everlasting**, thou art God.
+> **Lamentations 3:6** — He hath set me in dark places, as [they that be] dead **of old**.
 
-**Note:** Me-olam ad-olam — "from olam to olam." Applied to God: He pre-existed mountains and creation itself. Here olam extends backward beyond creation and forward without end. This is the paradigmatic infinite use. The double preposition "from... to" sets olam as the boundary in both temporal directions.
+> **Ezekiel 26:20** — When I shall bring thee down with them that descend into the pit, with the people **of old time**, and shall set thee in the low parts of the earth, in places desolate **of old**.
 
----
+> **Ezekiel 36:2** — Thus saith the Lord GOD; Because the enemy hath said against you, Aha, even the **ancient** high places are ours in possession:
 
-### Psalm 93:1-2 — Throne Established "Of Old" / "From Everlasting"
+> **Micah 7:14** — Feed thy people with thy rod, the flock of thine heritage, which dwell solitarily [in] the wood, in the midst of Carmel: let them feed [in] Bashan and Gilead, as in **the days of old**.
 
-> (v.1) The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved.
+> **Malachi 3:4** — Then shall the offering of Judah and Jerusalem be pleasant unto the LORD, as in **the days of old**, and as in former years.
 
-> (v.2) Thy throne is established **of old**: thou art **from everlasting**.
+> **Ecclesiastes 1:10** — Is there [any] thing whereof it may be said, See, this [is] new? it hath been already **of old time**, which was before us.
 
-**Note:** Olam (throne "of old") and olam (God "from everlasting"). God's throne and existence are both described as olam — backward in time without known beginning. Applied to God: genuinely boundless.
+*NOTE: Olam looking backward is never rendered "eternally past" but rather "ancient times" or "long ago" — a finite, indefinite past period.*
 
 ---
 
-### Isaiah 40:28 — The Everlasting God
+## Category E: Eschatological / Judgment Usage (Contested Passages)
 
-> Hast thou not known? hast thou not heard, that the **everlasting** God, the LORD, the Creator of the ends of the earth, fainteth not, neither is weary? there is no searching of his understanding.
+### E1. Everlasting Life and Contempt
 
-**Note:** Elohei olam — "the God of eternity/everlasting." Olam as God's fundamental attribute. Genuinely infinite.
+> **Daniel 12:2** — And many of them that sleep in the dust of the earth shall awake, some to **everlasting** life, and some to shame [and] **everlasting** contempt.
 
----
+> **Daniel 12:3** — And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars **for ever and ever**.
 
-### Isaiah 57:15 — God Inhabits Eternity
+> **Daniel 9:24** — Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in **everlasting** righteousness.
 
-> For thus saith the high and lofty One that inhabiteth **eternity**, whose name is Holy; I dwell in the high and holy place, with him also that is of a contrite and humble spirit, to revive the spirit of the humble, and to revive the heart of the contrite ones.
+### E2. Edom's "Eternal" Destruction
 
-**Note:** Ad (H5703) — "inhabiteth eternity." This uses H5703 (ad) rather than H5769 (olam), though both words can translate "eternity/for ever." Ad as God's dwelling place = genuinely infinite.
+> **Isaiah 34:9-10** — And the streams thereof shall be turned into pitch, and the dust thereof into brimstone, and the land thereof shall become burning pitch. It shall not be quenched night nor day; the smoke thereof shall go up **for ever**: from generation to generation it shall lie waste; none shall pass through it **for ever and ever**.
 
----
+> **Isaiah 34:11** — But the cormorant and the bittern shall possess it; the owl also and the raven shall dwell in it.
 
-### Deuteronomy 33:27 — The Eternal God
+> **Isaiah 34:17** — And he hath cast the lot for them, and his hand hath divided it unto them by line: they shall possess it **for ever**, from generation to generation shall they dwell therein.
 
-> The **eternal** God is thy refuge, and underneath are the **everlasting** arms: and he shall thrust out the enemy from before thee; and shall say, Destroy them.
+*NOTE: v. 10 says the smoke goes up "forever" and none pass through "forever." But v. 11-17 describe animals living there. The "forever" is not literal — it describes complete, irreversible judgment.*
 
-**Note:** Elohei qedem ("God of antiquity/ancient" — H6924) + zero'ot olam ("arms of eternity" — H5769). God's arms are olam — genuinely eternal.
+> **Malachi 1:4** — Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the LORD of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the LORD hath indignation **for ever**.
 
----
+> **Obadiah 1:10** — For [thy] violence against thy brother Jacob shame shall cover thee, and thou shalt be cut off **for ever**.
 
-### Genesis 21:33 — El Olam
+> **Ezekiel 25:15** — Thus saith the Lord GOD; Because the Philistines have dealt by revenge, and have taken vengeance with a despiteful heart, to destroy [it] for the **old** hatred;
 
-> And Abraham planted a grove in Beersheba, and called there on the name of the LORD, the **everlasting** God.
+> **Ezekiel 35:5** — Because thou hast had a **perpetual** hatred, and hast shed [the blood of] the children of Israel.
 
-**Note:** El Olam — first explicit "Everlasting God" title. Genuinely infinite.
+> **Ezekiel 35:9** — I will make thee **perpetual** desolations, and thy cities shall not return.
 
----
+### E3. Fire/Wrath "Burns Forever"
 
-### Habakkuk 3:6 — Everlasting Mountains Scattered; God's Ways Everlasting
+> **Jeremiah 17:4** — And thou, even thyself, shalt discontinue from thine heritage that I gave thee; and I will cause thee to serve thine enemies in the land which thou knowest not: for ye have kindled a fire in mine anger, [which] shall burn **for ever**.
 
-> He stood, and measured the earth: he beheld, and drove asunder the nations; and the **everlasting** mountains were scattered, the **perpetual** hills did bow: his ways are **everlasting**.
+> **Isaiah 33:14** — The sinners in Zion are afraid; fearfulness hath surprised the hypocrites. Who among us shall dwell with the **everlasting** burnings?
 
-**Note:** THREE uses of eternal vocabulary in one verse:
-1. "Everlasting mountains" — harrei-ad (H5703) — the mountains described as olam-type are SCATTERED
-2. "Perpetual hills" — giv'ot olam (H5769) — hills described as olam did BOW DOWN
-3. "His ways are everlasting" — halichot olam lo (H5769) — God's ways are olam
+### E4. Perpetual Desolation of Nations
 
-This single verse demonstrates within itself that olam (and ad) do NOT guarantee the continuation of the thing described. The "everlasting mountains" are destroyed; God's ways endure. The duration is determined by the nature of the subject. Mountains: mortal (scattered when God moves). God's ways: genuinely eternal.
+> **Jeremiah 25:9** — Behold, I will send and take all the families of the north, saith the LORD, and Nebuchadrezzar the king of Babylon, my servant, and will bring them against this land... and will make them an astonishment, and an hissing, and **perpetual** desolations.
 
-**Hebrew parsing (Hab 3:6):**
-- הַרְרֵי־עַ֔ד (harrei-ad) — "mountains of perpetuity" — ad (H5703) in construct chain
-- גִּבְעֹ֣ות עֹולָ֑ם (giv'ot olam) — "hills of eternity" — olam in construct chain
-- הֲלִיכֹ֥ות עֹולָ֖ם לֹֽו (halichot olam lo) — "ways of eternity to him" — olam in construct chain
+> **Jeremiah 25:12** — And it shall come to pass, when seventy years are accomplished, [that] I will punish the king of Babylon, and that nation, saith the LORD, for their iniquity, and the land of the Chaldeans, and will make it **perpetual** desolations.
 
----
+> **Jeremiah 49:13** — For I have sworn by myself, saith the LORD, that Bozrah shall become a desolation, a reproach, a waste, and a curse; and all the cities thereof shall be **perpetual** wastes.
 
-### Psalm 145:13 — Everlasting Kingdom
+> **Jeremiah 49:33** — And Hazor shall be a dwelling for dragons, [and] a desolation **for ever**: there shall no man abide there, nor [any] son of man dwell in it.
 
-> Thy kingdom is an **everlasting** kingdom, and thy dominion endureth throughout all generations.
+> **Jeremiah 51:26** — And they shall not take of thee a stone for a corner, nor a stone for foundations; but thou shalt be desolate **for ever**, saith the LORD.
 
-**Note:** Olam applied to God's kingdom — genuinely infinite.
+> **Jeremiah 51:39** — In their heat I will make their feasts, and I will make them drunken, that they may rejoice, and sleep a **perpetual** sleep, and not wake, saith the LORD.
 
----
+> **Jeremiah 51:57** — And I will make drunk her princes, and her wise [men], her captains, and her rulers, and her mighty men: and they shall sleep a **perpetual** sleep, and not wake.
 
-### Isaiah 9:6-7 — Everlasting Father; No End to Government
+> **Jeremiah 51:62** — Then shalt thou say, O LORD, thou hast spoken against this place, to cut it off, that none shall remain in it, neither man nor beast, but that it shall be desolate **for ever**.
 
-> (v.6) For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counseller, The mighty God, The **everlasting** Father, The Prince of Peace.
+> **Zephaniah 2:9** — Therefore [as] I live, saith the LORD of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, [even] the breeding of nettles, and saltpits, and a **perpetual** desolation.
 
-> (v.7) Of the increase of his government and peace there shall be no end, upon the throne of David...
+### E5. Everlasting Shame/Reproach
 
-**Note:** Avi-ad — "Father of eternity" = Everlasting Father, using H5703 (ad). "No end" to his government — genuinely infinite.
+> **Jeremiah 20:11** — But the LORD [is] with me as a mighty terrible one: therefore my persecutors shall stumble, and they shall not prevail: they shall be greatly ashamed; for they shall not prosper: [their] **everlasting** confusion shall never be forgotten.
 
----
+> **Jeremiah 23:40** — And I will bring an **everlasting** reproach upon you, and a **perpetual** shame, which shall not be forgotten.
 
-## Category D — Compound Forever Phrases
+### E6. Eschatological Promises
 
-Analysis of le-olam wa-ed and related intensification constructions.
+> **Isaiah 35:10** — And the ransomed of the LORD shall return, and come to Zion with songs and **everlasting** joy upon their heads: they shall obtain joy and gladness, and sorrow and sighing shall flee away.
 
----
+> **Isaiah 45:17** — [But] Israel shall be saved in the LORD with an **everlasting** salvation: ye shall not be ashamed nor confounded **world without end**.
 
-### Exodus 15:18 — Le-olam Wa-ed for God's Reign
+> **Isaiah 51:6** — Lift up your eyes to the heavens, and look upon the earth beneath: for the heavens shall vanish away like smoke, and the earth shall wax old like a garment, and they that dwell therein shall die in like manner: but my salvation shall be **for ever**, and my righteousness shall not be abolished.
 
-> The LORD shall reign **for ever and ever**.
+> **Isaiah 51:8** — For the moth shall eat them up like a garment, and the worm shall eat them like wool: but my righteousness shall be **for ever**, and my salvation from generation to generation.
 
-**Note:** Le-olam wa-ed — compound applied to God's reign. Genuinely infinite.
+> **Isaiah 51:11** — Therefore the redeemed of the LORD shall return, and come with singing unto Zion; and **everlasting** joy [shall be] upon their head.
 
----
+> **Isaiah 54:8** — In a little wrath I hid my face from thee for a moment; but with **everlasting** kindness will I have mercy on thee, saith the LORD thy Redeemer.
 
-### Psalm 10:16 — Lord King For Ever and Ever
+> **Isaiah 55:13** — Instead of the thorn shall come up the fir tree, and instead of the brier shall come up the myrtle tree: and it shall be to the LORD for a name, for an **everlasting** sign [that] shall not be cut off.
 
-> The LORD is King **for ever and ever**: the heathen are perished out of his land.
+> **Isaiah 56:5** — Even unto them will I give in mine house and within my walls a place and a name better than of sons and of daughters: I will give them an **everlasting** name, that shall not be cut off.
 
-**Note:** Le-olam va-ed. God as king. Infinite. Note: immediately following, "the heathen are perished" — uses abad (H6, perish/destroy) for the wicked, while God's reign continues for ever and ever.
+> **Isaiah 60:15** — Whereas thou hast been forsaken and hated, so that no man went through [thee], I will make thee an **eternal** excellency, a joy of many generations.
 
----
+> **Isaiah 60:19-20** — The sun shall be no more thy light by day; neither for brightness shall the moon give light unto thee: but the LORD shall be unto thee an **everlasting** light, and thy God thy glory. Thy sun shall no more go down; neither shall thy moon withdraw itself: for the LORD shall be thine **everlasting** light.
 
-### Psalm 21:4 — Length of Days For Ever and Ever
+> **Isaiah 60:21** — Thy people also [shall be] all righteous: they shall inherit the land **for ever**, the branch of my planting.
 
-> He asked life of thee, and thou gavest it him, even length of days **for ever and ever**.
+> **Isaiah 61:7** — For your shame [ye shall have] double; and [for] confusion they shall rejoice in their portion: therefore in their land they shall possess the double: **everlasting** joy shall be unto them.
 
-**Note:** Le-olam va-ed applied to the king's long life. In Messianic fulfillment = genuinely infinite; in immediate historical context = long reign.
+> **Isaiah 61:8** — For I the LORD love judgment, I hate robbery for burnt offering; and I will direct their work in truth, and I will make an **everlasting** covenant with them.
 
----
+> **Joel 3:20** — But Judah shall dwell **for ever**, and Jerusalem from generation to generation.
 
-### Psalm 45:6 — Throne For Ever and Ever
+> **Ezekiel 37:25** — And they shall dwell in the land that I have given unto Jacob my servant, wherein your fathers have dwelt; and they shall dwell therein, [even] they, and their children, and their children's children **for ever**: and my servant David [shall be] their prince **for ever**.
 
-> Thy throne, O God, is **for ever and ever**: the sceptre of thy kingdom is a right sceptre.
+> **Ezekiel 37:28** — And the heathen shall know that I the LORD do sanctify Israel, when my sanctuary shall be in the midst of them **for evermore**.
 
-**Note:** Le-olam va-ed for God's throne. Infinite.
+> **Ezekiel 43:7** — And he said unto me, Son of man, the place of my throne, and the place of the soles of my feet, where I will dwell in the midst of the children of Israel **for ever**.
 
 ---
-
-### Psalm 48:14 — God Our God For Ever and Ever
 
-> For this God is our God **for ever and ever**: he will be our guide even unto death.
+## Category F: Combined Forms (Le-olam Va-ed)
 
-**Note:** Le-olam va-ed. Infinite for God.
+The intensified construction using both H5769 (olam) and H5703 (ad).
 
----
+> **Exodus 15:18** — The LORD shall reign **for ever and ever** (le-olam va-ed).
 
-### Psalm 52:8 — Trust in God For Ever and Ever
+> **Psalm 9:5** — Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name **for ever and ever**.
 
-> But I am like a green olive tree in the house of God: I trust in the mercy of God **for ever and ever**.
+> **Psalm 10:16** — The LORD [is] King **for ever and ever**: the heathen are perished out of his land.
 
-**Note:** Le-olam va-ed for the Psalmist's trust in God. Contextually: a lifetime of trust with eschatological hope.
+> **Psalm 21:4** — He asked life of thee, [and] thou gavest [it] him, [even] length of days **for ever and ever**.
 
----
+> **Psalm 41:13** — Blessed [be] the LORD God of Israel **from everlasting, and to everlasting**. Amen, and Amen.
 
-### Psalm 119:44 — Keep Thy Law Continually For Ever and Ever
+> **Psalm 45:6** — Thy throne, O God, [is] **for ever and ever**: the sceptre of thy kingdom [is] a right sceptre.
 
-> So shall I keep thy law continually **for ever and ever**.
+> **Psalm 48:14** — For this God [is] our God **for ever and ever**: he will be our guide [even] unto death.
 
-**Note:** Le-olam va-ed for law-keeping. The speaker's commitment is "for ever and ever" — bounded by their mortal existence, but expressed in olam-level terms.
+> **Psalm 52:8** — But I [am] like a green olive tree in the house of God: I trust in the mercy of God **for ever and ever**.
 
----
+> **Psalm 92:8** — But thou, LORD, [art most] high **for evermore**.
 
-### Psalm 145:1-2,21 — Bless Thy Name For Ever and Ever
+> **Psalm 111:8** — They stand fast **for ever and ever**, [and are] done in truth and uprightness.
 
-> (v.1) I will extol thee, my God, O king; and I will bless thy name **for ever and ever**.
-> (v.2) Every day will I bless thee; and I will praise thy name **for ever and ever**.
-> (v.21) My mouth shall speak the praise of the LORD: and let all flesh bless his holy name **for ever and ever**.
+> **Psalm 119:44** — So shall I keep thy law continually **for ever and ever**.
 
-**Note:** Le-olam va-ed for worship — expressed as ongoing and infinite.
+> **Psalm 145:1-2** — I will extol thee, my God, O king; and I will bless thy name **for ever and ever**. Every day will I bless thee; and I will praise thy name **for ever and ever**.
 
----
+> **Psalm 145:21** — My mouth shall speak the praise of the LORD: and let all flesh bless his holy name **for ever and ever**.
 
-### Isaiah 34:10 — Edom: "For Ever and Ever" Desolate (netsach netsachim)
+> **Psalm 148:6** — He hath also stablished them **for ever and ever**: he hath made a decree which shall not pass.
 
-> ...none shall pass through it **for ever and ever**.
+> **Isaiah 34:10** — It shall not be quenched night nor day; the smoke thereof shall go up for ever: from generation to generation it shall lie waste; none shall pass through it **for ever and ever** (netsach + olam).
 
-**Note:** Le-netsach netsachim — a construct chain intensification using H5331 (netsach) rather than the standard le-olam wa-ed. This is the compound form of netsach rather than olam, but serves the same intensifying function. Applied to Edom's desolation — yet vv.11-17 describe animals dwelling there (not ongoing burning), and v.17 applies olam to the animals' permanent habitation.
+> **Daniel 12:3** — And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars **for ever and ever**.
 
-**Hebrew parsing (Isa 34:10):**
-- לְנֵ֣צַח נְצָחִ֔ים — le-netsach netsachim = "to glory-of-glories" or "to perpetuity of perpetuities"
-- The construct chain: netsach (ms.Cst) + netsachim (mp.Abs) = intensified form
+> **Micah 4:5** — For all people will walk every one in the name of his god, and we will walk in the name of the LORD our God **for ever and ever**.
 
 ---
 
-### Isaiah 45:17 — Everlasting Salvation: World Without End
+## Comparison Word Verses
 
-> But Israel shall be saved in the LORD with an **everlasting** salvation: ye shall not be ashamed nor confounded **world without end**.
+### H5331 (netsach) — Selected Key Verses
 
-**Note:** Olam + ad-olam — two olam-related terms in one verse for Israel's salvation. "World without end" = literally "from olam and unto olam" — bookending both directions of time.
+> **1 Samuel 15:29** — And also **the Strength** of Israel will not lie nor repent: for he [is] not a man, that he should repent.
 
----
-
-### Daniel 12:3 — The Wise Shine For Ever and Ever
+> **2 Samuel 2:26** — Then Abner called to Joab, and said, Shall the sword devour **for ever**?
 
-> And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars **for ever and ever**.
+> **Job 4:20** — They are destroyed from morning to evening: they perish **for ever** without any regarding [it].
 
-**Note:** Le-olam va-ed for the righteous — genuinely infinite glory for the raised righteous.
+> **Job 14:20** — Thou prevailest **for ever** against him, and he passeth: thou changest his countenance, and sendest him away.
 
----
+> **Job 20:7** — [Yet] he shall perish **for ever** like his own dung.
 
-### Micah 4:5 — Walk in the Name of LORD For Ever and Ever
+> **Psalm 13:1** — How long wilt thou forget me, O LORD? **for ever**?
 
-> For all people will walk every one in the name of his god, and we will walk in the name of the LORD our God **for ever and ever**.
+> **Psalm 49:9** — That he should still live **for ever**, [and] not see corruption.
 
-**Note:** Olam va-ed compound.
+> **Psalm 52:5** — God shall likewise destroy thee **for ever**.
 
----
+> **Psalm 74:1** — O God, why hast thou cast [us] off **for ever**?
 
-## Category E — Related Temporal Terms for Comparison
+> **Psalm 77:8** — Is his mercy clean gone **for ever**?
 
-### H5703 (ad) Examples
+> **Psalm 79:5** — How long, LORD? wilt thou be angry **for ever**?
 
-**1 Samuel 15:29 — The Strength of Israel**
-> And also the Strength of Israel will not lie nor repent: for he is not a man, that he should repent.
-**Note:** "Strength of Israel" = Netsach Yisrael. H5331 used as a divine title here. Shows netsach can be a noun for "glory/strength" (1 Chr 29:11).
+> **Psalm 89:46** — How long, LORD? wilt thou hide thyself **for ever**?
 
-**Isaiah 9:6 — Everlasting Father (Avi-ad)**
-> his name shall be called... The **everlasting** Father...
-**Note:** Avi-ad — "Father of ad (perpetuity)." H5703.
+> **Psalm 103:9** — He will not always chide: neither will he keep [his anger] **for ever**.
 
-**Isaiah 57:15 — Inhabiteth Eternity**
-> the high and lofty One that inhabiteth **eternity**...
-**Note:** Ad as God's domain — infinite.
+> **Isaiah 13:20** — It shall **never** be inhabited, neither shall it be dwelt in from generation to generation.
 
-**Habakkuk 3:6 — Mountains of Ad (Scattered)**
-> the everlasting mountains were scattered...
-**Note:** Harrei-ad — H5703 applied to mountains that are then scattered. Ad does not guarantee continuity.
+> **Isaiah 25:8** — He will swallow up death **in victory**.
 
-**Psalm 9:18 — The Needy Shall Not Perish For Ever**
-> For the needy shall not alway be forgotten: the expectation of the poor shall not perish **for ever**.
-**Note:** La-netsach — "to netsach" (H5331). The needy's expectation shall not "perish for ever" = temporary abandonment, not permanent loss.
+> **Isaiah 34:10** — It shall not be quenched night nor day; the smoke thereof shall go up for ever: from generation to generation it shall lie waste; none shall pass through it **for ever and ever**.
 
----
+> **Isaiah 57:16** — For I will not contend **for ever**, neither will I be always wroth.
 
-### H5331 (netsach) Examples
+> **Lamentations 5:20** — Wherefore dost thou forget us **for ever**, [and] forsake us so long time?
 
-**Isaiah 25:8 — Death Swallowed Up in Victory**
-> He will swallow up death **in victory** (la-netsach); and the Lord GOD will wipe away tears from off all faces...
-**Note:** La-netsach = "for ever/in victory/permanently." Death is swallowed up permanently — infinite in scope.
+> **Amos 1:11** — Thus saith the LORD; For three transgressions of Edom, and for four, I will not turn away [the punishment] thereof; because he did pursue his brother with the sword, and did cast off all pity, and his anger did tear **perpetually**, and he kept his wrath **for ever**.
 
-**Lamentations 3:18 — My Hope Perished**
-> And I said, My strength and my hope is perished from the LORD:
-**Note:** H5331 netsach (implied in context of despair). Jeremiah perceives total loss — but it is temporary (he is still alive in the chapter).
+> **Habakkuk 1:4** — Therefore the law is slacked, and judgment doth **never** go forth.
 
-**Amos 1:11 — Perpetual Hatred**
-> because he did pursue his brother with the sword, and did cast off all pity, and his anger did tear **perpetually** (la-netsach), and he kept his wrath **for ever** (la-ad):
-**Note:** Both netsach (H5331) and ad (H5703) used together for Edom's anger — both temporal words for Edom's characteristic disposition, not infinite experience.
+### H5703 (ad) — Selected Key Verses
 
-**Amos 8:7 — Will Never Forget**
-> The LORD hath sworn by the excellency of Jacob, Surely I will **never** (netsach) forget any of their works.
-**Note:** Netsach in negative construction = "never." God's memory of Israel's deeds is permanent.
+> **Psalm 19:9** — The fear of the LORD [is] clean, enduring **for ever**.
 
----
+> **Psalm 21:6** — For thou hast made him most blessed **for ever**.
 
-### H8548 (tamid) Examples
+> **Psalm 37:29** — The righteous shall inherit the land, and dwell therein **for ever**.
 
-**Numbers 28:3 — Daily/Continual Sacrifice**
-> This is the offering made by fire which ye shall offer unto the LORD; two lambs of the first year without spot day by day, for a **continual** burnt offering.
-**Note:** Tamid = regularity/daily occurrence. Describes the scheduled, repeated nature of the sacrifice — not infinite duration per se, but continual within the framework.
+> **Psalm 83:17-18** — Let them be confounded and troubled **for ever**; yea, let them be put to shame, and perish: That [men] may know that thou, whose name alone [is] JEHOVAH, [art] the most high over all the earth.
 
-**Daniel 8:11 — Daily (Tamid) Taken Away**
-> Yea, he magnified himself even to the prince of the host, and by him the daily sacrifice was taken away, and the place of his sanctuary was cast down.
-**Note:** The tamid (daily/continual) is "taken away" — it is NOT unending, it is abolished. This confirms tamid describes regularity within a system, not infinite duration.
+> **Psalm 89:29** — His seed also will I make [to endure] **for ever**, and his throne as the days of heaven.
 
-**Daniel 12:11 — Tamid Taken Away Again**
-> And from the time that the daily sacrifice shall be taken away, and the abomination that maketh desolate set up, there shall be a thousand two hundred and ninety days.
-**Note:** Tamid and olam used in close proximity in Daniel. Tamid is measurable (1290 days), olam is qualitative. They are distinct concepts.
+> **Psalm 111:3** — His work [is] honourable and glorious: and his righteousness endureth **for ever**.
 
----
+> **Psalm 112:3** — Wealth and riches [shall be] in his house: and his righteousness endureth **for ever**.
 
-## Category F — Isa 66:24 and the Dir'on Connection
+> **Psalm 112:9** — He hath dispersed, he hath given to the poor; his righteousness endureth **for ever**.
 
-### Daniel 12:2 and Isaiah 66:24 — Dir'on (Abhorrence/Contempt)
+> **Proverbs 12:19** — The lip of truth shall be established **for ever**: but a lying tongue [is] but for a moment.
 
-**Daniel 12:2:**
-> ...some to shame and **everlasting contempt** [le-dir'on olam].
+> **Isaiah 26:4** — Trust ye in the LORD **for ever**: for in the LORD JEHOVAH [is] everlasting strength.
 
-**Isaiah 66:24:**
-> ...they shall be an **abhorring** [le-dir'on] unto all flesh.
+> **Isaiah 45:17** — [But] Israel shall be saved in the LORD with an everlasting salvation: ye shall not be ashamed nor confounded **world without end**.
 
-**Note:** H1860 dir'on appears only in these two verses in the entire Hebrew Bible.
-- In Dan 12:2: "everlasting contempt" is the destiny of those raised from the dead.
-- In Isa 66:24: the dir'on is applied to **carcases** (peger — dead bodies).
-- The linguistic connection: the "abhorring" in Isa 66:24 = the "everlasting contempt" in Dan 12:2. Both describe bodies (dead in Isa 66:24) as the object of abhorrence. This suggests that the "everlasting contempt" in Dan 12:2 is the permanent condition of those whose resurrection results in judgment — their final state is represented by the Isa 66:24 image of repulsive corpses, not by ongoing conscious experience.
-- The "fire not quenched" and "worm not dying" in Isa 66:24 does NOT use olam — it uses the "lo tishba / lo tamut" construction (not quenched / not die), describing thoroughness of judgment, not infinite duration.
+> **Isaiah 57:15** — For thus saith the high and lofty One that inhabiteth **eternity**.
 
----
+> **Isaiah 64:9** — Be not wroth very sore, O LORD, neither remember iniquity **for ever**.
 
-## Edom Case Study — Cross-Reference
+> **Isaiah 65:18** — But be ye glad and rejoice **for ever** [in that] which I create.
 
-**Isa 34:10 ↔ Rev 14:11 (Cross-Testament Connection)**
+> **Daniel 12:3** — And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars **for ever and ever**.
 
-The parallel tool scored REV 14:11 at 0.401 for Jesaia 34:10 (the highest NT match). This confirms the linguistic connection between Edom's "smoke ascending for ever" and the Revelation 14:11 language.
+### H5957 (alam, Aramaic) — Key Daniel Verses
 
-Revelation 14:11 reads: "And the smoke of their torment ascendeth up for ever and ever" — this directly echoes Isa 34:9-10's language.
+> **Daniel 2:44** — And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, [but] it shall break in pieces and consume all these kingdoms, and it shall stand **for ever**.
 
-Key question for analysis: Does Rev 14:11's "for ever and ever" describe:
-(a) Ongoing conscious torment that never ends, OR
-(b) A permanent, irrevocable judgment whose RESULT is permanent (like Edom's permanent desolation)?
+> **Daniel 7:14** — And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion [is] an **everlasting** dominion, which shall not pass away, and his kingdom [that] which shall not be destroyed.
 
-The OT source text (Isa 34:10) describes a RESULT (desolation where animals dwell, no ongoing burning), not an ongoing process. This is the hermeneutical key.
+> **Daniel 7:18** — But the saints of the most High shall take the kingdom, and possess the kingdom **for ever, even for ever and ever**.

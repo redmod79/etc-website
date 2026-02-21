@@ -1,248 +1,253 @@
-# Bible Study: Who Has Immortality? Biblical Terms, Possessors, and the Resurrection
+# PROMPT: Who Has Immortality?
 
-## Question
+## Study Information
+- **Series:** etc -- The Final Fate of the Wicked (study 02 of 18)
+- **Question:** Who possesses immortality? Is the soul inherently immortal or is immortality a divine gift? Examine athanasia (G110), aphtharsia (G861), thnetos (G2349).
+- **Workflow:** answer-question
+- **Output folder:** D:/Bible/bible-studies/etc-02-who-has-immortality/
 
-Who possesses immortality according to Scripture? Is the human soul inherently immortal or is immortality a divine gift? What words does the Bible use for immortality/incorruption? When and how does a human receive immortality? What is the relationship between immortality and the resurrection?
+## Research Agent Instructions
 
----
+Before beginning research, complete these setup steps:
 
-## Discovered Scope
-
-### Topics Found (from naves_semantic.py)
-
-| Topic | Score | Key Verse References |
-|-------|-------|---------------------|
-| RESURRECTION | 0.68 | JOB 14:12-15; 19:25-27; PSA 16:9,10; 17:15; 49:15; ISA 25:8; 26:19; EZK 37:1-14; DAN 12:2,3,13; HOS 13:14; MAT 22:23-32; MRK 12:18-27; LUK 14:14; 20:27-38; JHN 5:21,25,28,29; 11:23-25; ACT 2:26-31; ROM 8:10,11; 1CO 15:12-55; PHP 3:10,11,21; 1TH 4:14,16; 2TI 1:10; HEB 11:19,35; REV 20:4-6,13 |
-| IMMORTALITY | 0.64 | GEN 5:24; 2SA 12:23; 2KI 2:11; NEH 9:5; JOB 4:17-21; 14:13; PSA 16:10,11; 21:4; 22:26; 23:6; 31:5; 36:9; 37:18,27; 49:7-9,14,15; 73:26; 86:12; 102:4,25-28; 121:8; 133:3; PRO 14:32; ECC 3:21; 12:7; ISA 14:9; 25:8; 26:19; 38:18,19; EZK 32:31; DAN 12:2,3; MAT 10:28; 16:26; 25:46; MRK 10:30; 12:26,27; LUK 9:25; 20:36-38; JHN 3:14-16,36; 6:39,40,44,47,50,51,53,54,58; 10:28; 11:25,26; 14:19; ACT 23:8,9; 26:7,8; ROM 2:7; 6:22,23; 1CO 15:12-55; 1TH 4:13-18; 2TI 1:9,10; TIT 1:2; 3:7; HEB 9:15; 1PE 1:3-5; 1JN 2:17,25; REV 1:7; 22:5 |
-| ETERNAL LIFE | 0.56 | (See LIFE EVERLASTING -- Nave's cross-reference) |
-| EVERLASTING LIFE | 0.51 | (See LIFE, EVERLASTING -- Nave's cross-reference) |
-| SOUL | 0.46 | (Nave's: See SPIRIT; See IMMORTALITY; See MAN, A SPIRIT; See RIGHTEOUS, FUTURE STATE OF; See WICKED, PUNISHMENT OF) |
-| ETERNITY | 0.45 | PSA 30:12; 41:13; 72:17; 90:2; 110:4; 119:142; MAT 6:13; 18:8; 2CO 9:9; Jude 1:6 |
-| SECOND DEATH | 0.43 | REV 20:14 |
-
-### Verse References (from Nave's entries)
-
-#### IMMORTALITY (Nave's full entry -- all references)
-
-**General scriptures concerning:**
-- GEN 5:24; 2SA 12:23; 2KI 2:11; NEH 9:5
-- JOB 4:17-21; 14:13
-- PSA 16:10,11; 21:4; 22:26; 23:6; 31:5; 36:9; 37:18,27; 49:7-9,14,15; 73:26; 86:12; 102:4,25-28; 121:8; 133:3
-- PRO 14:32
-- ECC 3:21; 12:7
-- ISA 14:9; 25:8; 26:19; 38:18,19
-- EZK 32:31
-- DAN 12:2,3
-- MAT 10:28; 16:26; 19:16,17; 25:46
-- MRK 10:30; 12:26,27
-- LUK 9:25; 10:25-28; 20:36-38
-- JHN 3:14-16,36; 5:39,40; 6:39,40,44,47,50,51,53,54,58; 10:28; 11:25,26; 14:19; 17:2,3
-- ACT 20:32; 23:8,9; 26:7,8,18
-- ROM 2:7; 6:22,23
-- 1CO 15:12-55
-- GAL 6:8
-- COL 1:5,6
-- 1TH 4:13-18; 5:10
-- 2TH 1:7-9; 2:16
-- 1TI 4:8; 6:12,19
-- 2TI 1:9,10
-- TIT 1:2; 3:7
-- HEB 9:15; 10:34; 11:5,10,13-16
-- 1PE 1:3-5
-- 1JN 2:17,25; 5:13
-- Jude 1:21
-- REV 1:7; 3:4; 22:5
-
-#### RESURRECTION (Nave's full entry -- all references)
-
-**General scriptures concerning:**
-- JOB 14:12-15; 19:25-27
-- PSA 16:9,10; 17:15; 49:15
-- ISA 25:8; 26:19
-- EZK 37:1-14
-- DAN 12:2,3,13
-- HOS 13:14
-- MAT 22:23-32; 24:31; 25:1-13; 27:52,53
-- MRK 12:18-27
-- LUK 14:14; 20:27-38
-- JHN 5:21,25,28,29; 6:39,40,44,54; 11:23-25; 14:19
-- ACT 2:26-31; 4:1,2; 17:18,32; 23:6,8; 24:14,15; 26:6-8
-- ROM 4:16-21; 8:10,11,19,21-23
-- 1CO 6:14; 15:12-32,35-57
-- 2CO 4:14; 5:1-5
-- PHP 3:10,11,21
-- 1TH 4:14,16
-- 2TI 1:10; 2:18
-- HEB 6:2; 11:19,35
-- REV 1:18; 20:4-6,13
-
-**Figurative** (of regeneration): ROM 6:4; EPH 2:1,5,6; COL 2:12; 3:1
-**Typified** (Isaac): GEN 22:13; HEB 11:19
-**Typified** (Jonah): JON 2:10; MAT 12:40
-**Symbolical**: REV 11:11
-
-#### CORRUPTION (Nave's entry -- physical decomposition after death)
-
-**Physical decomposition:**
-- LEV 22:25
-- GEN 3:19; JOB 17:14; 21:26; 34:15; PSA 16:10; 49:9; 104:29; ECC 3:20; 12:7; JON 2:6; ACT 2:27,31; 13:34-37
-- 1CO 15:42,50
-
-**Figurative (of sin):** ISA 38:17; ROM 8:21; GAL 6:8; 2PE 1:4; 2:12,19
-
-#### TREE (Nave's entry -- Tree of Life)
-- GEN 2:9; 3:22,24; REV 22:14
-- (Tree of Knowledge: GEN 2:9,17; 3:3-6,11,12,17)
+1. Read SKILL.md at C:/Users/Michael/.claude/skills/bible-study2/SKILL.md for tools and principles
+2. Read agent instructions at C:/Users/Michael/.claude/skills/bible-study2/agents/research-agent.md
+3. Read and follow the methodology at D:/Bible/bible-studies/etc-series-methodology.md
+4. Read and update D:/Bible/bible-studies/etc-master-evidence.md (register all new E/N/I items; update "Also In" for existing items)
+5. Read CONCLUSION.md from etc-01-what-is-man at D:/Bible/bible-studies/etc-01-what-is-man/CONCLUSION.md for established context
+6. Do NOT reference etc-01-what-is-man (deleted). The anthropology study is etc-01-what-is-man.
+7. Run BOTH --hybrid-ot AND --hybrid-nt for every key verse
+8. The study output folder is D:/Bible/bible-studies/etc-02-who-has-immortality/
 
 ---
 
-### Strong's Numbers Found (from semantic_strongs.py and search_strongs.py)
+## Scope of Investigation
 
-#### Greek NT Terms -- Immortality/Incorruption Word Family
+### Central Question
+Who possesses immortality according to Scripture? Is the human soul inherently immortal, or is immortality a conditional divine gift? This study focuses on the three Greek word families for immortality/mortality and what Scripture says about who has, can receive, or lacks immortality.
 
-| Strong's | Word | POS | KJV Translations | Relevance | Verse Occurrences |
-|----------|------|-----|-----------------|-----------|-------------------|
-| G110 | ἀθανασία (athanasía) | feminine noun | "immortality" (3x) | Core word: immortality itself | 1CO 15:53; 1CO 15:54; 1TI 6:16 |
-| G861 | ἀφθαρσία (aphtharsía) | feminine noun | "incorruption" (4x), "immortality" (2x), "sincerity" (2x) | Incorruptibility/unending existence | ROM 2:7; 1CO 15:42,50,53,54; EPH 6:24; 2TI 1:10; TIT 2:7 |
-| G862 | ἄφθαρτος (áphthartos) | adjective | "incorruptible" (2x), "uncorruptible" (1x), "immortal" (1x) | Undecaying; applied to God and resurrection body | ROM 1:23; 1CO 9:25; 1CO 15:52; 1TI 1:17; 1PE 1:4,23; 1PE 3:4 |
+### Prior Study Context (etc-01)
+The anthropology study established:
+- N002: Man does not inherently possess immortality (based on E024, E025, E026)
+- N005: The nephesh (soul) is mortal -- it can die and be destroyed (based on E016, E028)
+- E024: God only (monos) has immortality (athanasia) -- 1 Tim 6:16
+- E025: Those who seek immortality (aphtharsia) receive eternal life -- Rom 2:7
+- E026: This mortal must put on immortality (athanasia) at resurrection -- 1 Cor 15:53-54
+- E027: Christ brought life and immortality (aphtharsia) to light through the gospel -- 2 Tim 1:10
+- I001 (I-D): The claim that humans possess an inherently immortal soul requires overriding E024, E016, E028, and E011/E019
 
-#### Greek NT Terms -- Mortality/Corruptibility Word Family
-
-| Strong's | Word | POS | KJV Translations | Relevance | Verse Occurrences |
-|----------|------|-----|-----------------|-----------|-------------------|
-| G2349 | θνητός (thnētós) | adjective | "mortal" (5x), "mortality" (1x) | Liable to die; present human condition | ROM 6:12; ROM 8:11; 1CO 15:53,54; 2CO 4:11; 2CO 5:4 |
-| G5349 | φθαρτός (phthartós) | adjective | "corruptible" (3x) | Decayed/perishable; paired with aphthartos | ROM 1:23; 1CO 9:25; 1CO 15:53,54; 1PE 1:18,23 |
-
-#### Key Related Greek Terms
-
-| Strong's | Word | POS | KJV Translations | Relevance |
-|----------|------|-----|-----------------|-----------|
-| G2288 | θάνατος (thánatos) | noun | "death" (55x) | Death as concept; antonym of immortality |
-| G2222 | ζωή (zōḗ) | noun | "life" (54x) | Life; used in "eternal life" |
-| G2227 | ζωοποιέω (zōopoiéō) | verb | "quicken" (6x) | To vivify/make alive; resurrection life |
-
-#### Hebrew OT Terms
-
-| Strong's | Word | POS | KJV Translations | Relevance |
-|----------|------|-----|-----------------|-----------|
-| H5315 | נֶפֶשׁ (nephesh) | noun | "soul" (multiple) | Living being; the subject that can die (Ezk 18:4) |
-| H4191 | מוּת (mûwth) | verb | "die" (70x+) | To die; predicated of the soul (Ezk 18:4) |
-| H4194 | מָוֶת (mâveth) | noun | "death" (22x+) | Death; antonym of eternal life in OT |
-| H5769 | עוֹלָם (ʻôwlâm) | noun | "ever/everlasting" (multiple) | Eternal/everlasting; used in "everlasting life" (Dan 12:2) |
-| H2416 | חַי (chay) | adj/noun | "life/living" (multiple) | Living; used in "tree of life" (Gen 2:9; 3:22,24) |
-
-**Note:** There is no single Hebrew word equivalent to the Greek athanasia. The OT approaches the concept through contrast (death vs. everlasting life), through the tree of life narrative (Gen 2-3), and through promises of future resurrection and everlasting life (Dan 12:2-3).
+This study (etc-02) goes deeper into the word studies for the three key terms and examines all their occurrences, the broader context of passages where they appear, and whether any Scripture attributes immortality to human beings.
 
 ---
 
-### Related Existing Studies
+### Key Greek Terms to Examine (Primary Focus)
 
-| Study | Question | Relevance |
-|-------|----------|-----------|
-| etc5-01-what-is-man | What is man according to the Bible -- body, soul, spirit? Is the soul inherently immortal? | Directly foundational: established that God alone has immortality (1 Tim 6:16); mortals must put on immortality at resurrection (1 Cor 15:53); the soul can die (Ezk 18:4); humans seek immortality (Rom 2:7). Explicit statements E29-E32, E54-E55 and Necessary Implications N5, N6, N12 are all directly relevant. |
+#### 1. athanasia (G110) -- "deathlessness, immortality"
+- **Occurrences:** 3 total, all translated "immortality"
+- **Lexicon:** feminine noun; from alpha-privative + thanatos (death); deathlessness
+- **All verses:**
+  - 1 Cor 15:53 -- "this mortal must put on immortality"
+  - 1 Cor 15:54 -- "this mortal shall have put on immortality"
+  - 1 Tim 6:16 -- "[God] who only hath immortality"
 
-#### Key Findings from etc5-01-what-is-man CONCLUSION.md
+#### 2. aphtharsia (G861) -- "incorruptibility, immortality"
+- **Occurrences:** 8 total in 3 translations
+  - "incorruption" (4x): 1 Cor 15:42, 1 Cor 15:50, 1 Cor 15:53, 1 Cor 15:54
+  - "immortality" (2x): Rom 2:7, 2 Tim 1:10
+  - "sincerity" (2x): Eph 6:24, Tit 2:7
+- **Lexicon:** feminine noun; from aphthartos; incorruptibility, unending existence
 
-The previous study in this series (etc5-01-what-is-man) established the following as explicit statements (E tier) or necessary implications (N tier) that this study builds on directly:
+#### 3. thnetos (G2349) -- "mortal, liable to die"
+- **Occurrences:** 6 total in 2 translations
+  - "mortal" (5x): Rom 6:12, Rom 8:11, 1 Cor 15:53, 1 Cor 15:54, 2 Cor 4:11
+  - "mortality" (1x): 2 Cor 5:4
+- **Lexicon:** adjective; from thnesko; liable to die
 
-- **E29/N5**: God alone (monos) possesses immortality (athanasia) as a present attribute (1 Tim 6:16). No creature currently possesses it as an inherent attribute.
-- **E30/N12**: Humans "seek" immortality (aphtharsia, Rom 2:7), which implies they do not currently possess it.
-- **E31/E32/N6**: "This mortal must put on immortality" (1 Cor 15:53-54) -- a future event at the resurrection, not at death or at birth.
-- **E54**: G110 (athanasia, immortality) appears only 3 times in the NT: 1 Tim 6:16 (God alone has it); 1 Cor 15:53 (mortals must put it on); 1 Cor 15:54 (when mortal puts it on).
-- **E55**: G2349 (thnetos, mortal) describes the present human body in all 6 NT occurrences.
-- **E24/N7**: "The soul that sinneth, it shall die" (Ezk 18:4,20) -- the nephesh can die; it is not indestructible.
-- **N10**: The present natural body is mortal; the resurrection body is raised incorruptible and immortal.
+### Related Greek Terms to Examine (Supporting)
 
-This study (etc5-02) goes deeper on these findings, investigating the full word families, all passages bearing on immortality and corruptibility, and the mechanism of receiving immortality.
+#### 4. aphthartos (G862) -- "incorruptible, immortal"
+- **Occurrences:** 7 total
+  - "immortal" (1x): 1 Tim 1:17
+  - "incorruptible" (2x): 1 Cor 15:52, 1 Pet 1:4
+  - "uncorruptible" (1x): Rom 1:23
+  - Other translations: 1 Cor 9:25, 1 Pet 1:23, 1 Pet 3:4
+- **Lexicon:** adjective; undecaying (in reference to God, raised body, or imperishable things)
 
----
+#### 5. phthora (G5356) -- "corruption, decay, ruin"
+- **Occurrences:** 9 total
+  - "corruption" (4x): 1 Cor 15:42, 1 Cor 15:50, Gal 6:8, 2 Pet 2:12
+  - Also: Rom 8:21, 2 Pet 1:4, 2:12, 2:19, Col 2:22
+- **Lexicon:** feminine noun; decay, ruin (spontaneous or inflicted)
 
-### Focus Areas
-
-The following focus areas are derived from what the tools discovered -- not from prior assumptions:
-
-1. **The complete NT immortality word family**: The three Greek terms (G110 athanasia, G861 aphtharsia, G862 aphthartos) and their paired antonyms (G2349 thnetos, G5349 phthartos) across all 18+ occurrences. Nave's notes zero instances apply to humans as presently immortal.
-
-2. **The tree of life narrative**: Gen 2:9; 3:22,24 -- God barred man from the tree "lest he... live for ever" (wachay le-olam); this is direct textual evidence that man did not inherently possess immortality. The eschatological restoration of the tree in Rev 2:7; 22:2,14.
-
-3. **1 Timothy 6:16**: The central text -- God "only" (monos) has immortality (athanasia). The force of monos (alone/only) in the Greek.
-
-4. **1 Corinthians 15**: The central resurrection chapter -- the sequence from sown in corruption/raised in incorruption (vv.42-44), the Adam/Christ contrast (vv.45-49), and the explicit "mortal must put on immortality" at the last trumpet (vv.50-54).
-
-5. **The soul's mortality**: Ezk 18:4,20 (nephesh dies); Mat 10:28 (God can destroy psyche and body); Rev 16:3 (every living psyche died). Does the Hebrew/Greek text support the claim that the soul is an indestructible entity?
-
-6. **When and mechanism of acquisition**: Rom 2:7 (seeking); 2 Tim 1:10 (Christ brought immortality to light); 1 Cor 15:53-54 (at the resurrection); 1 Th 4:13-18 (resurrection of the dead in Christ). The sequence: death -> sleep -> resurrection -> putting on immortality.
-
-7. **Divine exclusivity of inherent life**: John 5:26 ("life in himself" is a divine attribute given from Father to Son); 1 John 5:11-12 (life is in the Son; no Son = no life).
-
-8. **OT anticipation without the Greek vocabulary**: Dan 12:2-3 (everlasting life vs. everlasting contempt); Psa 49:7-9,14-15 (no man can ransom his brother from the grave -- but God can redeem); Isa 25:8 ("he will swallow up death in victory"); Isa 26:19 ("Thy dead men shall live"); the tree of life.
-
-9. **The inheritance pattern in 1 Peter 1:3-5**: Inheritance described as "incorruptible" (aphthartos), reserved in heaven -- not yet received, but "kept by the power of God through faith unto salvation ready to be revealed in the last time."
-
----
-
-## Research Instructions
-
-You are the Research Agent. Execute this study by:
-
-1. Read the SKILL.md at `C:/Users/Michael/.claude/skills/bible-study2/SKILL.md` for full tool documentation and principles.
-2. Read your agent instructions at `C:/Users/Michael/.claude/skills/bible-study2/agents/research-agent.md`.
-3. Follow the **answer-question** workflow from the skill.
-4. Read the prior study conclusion at `D:/bible/bible-studies/etc5-01-what-is-man/CONCLUSION.md` to understand what has already been established as explicit statements and necessary implications -- do NOT repeat that work; build on it.
-5. Write research files to `D:/bible/bible-studies/etc5-02-who-has-immortality/`:
-   - `01-topics.md` -- Nave's topics IMMORTALITY and RESURRECTION full entries, plus CORRUPTION and TREE (tree of life)
-   - `02-verses.md` -- All verse texts retrieved with context for all key references in this PROMPT
-   - `04-word-studies.md` -- Strong's research for G110, G861, G862, G2349, G5349, plus supporting terms G2288, G2222, G2227; Hebrew terms H5315, H4191, H4194, H5769, H2416; full occurrence tables and verse texts
-   - `raw-data/` -- Raw tool output organized by category
-6. Do NOT write `03-analysis.md` or `CONCLUSION.md` -- those are for the analysis agent.
-
-### Priority verses to retrieve (full KJV text from kjv.txt):
-
-**Core immortality passages:**
-- 1 Tim 6:16 (God alone has immortality)
-- 1 Tim 1:17 (King eternal, immortal, invisible)
-- 1 Cor 15:42,50,52,53,54 (resurrection and incorruption/immortality sequence)
-- Rom 2:7 (seeking immortality)
-- 2 Tim 1:10 (Christ brought life and immortality to light)
-
-**Mortal/corruptible:**
-- Rom 6:12; 8:11 (mortal body)
-- 2 Cor 4:11; 5:4 (mortal flesh/mortality)
-- Rom 1:23 (uncorruptible God vs. corruptible man)
-- 1 Pet 1:18,23 (not redeemed with corruptible things; born of incorruptible seed)
-- 1 Pet 1:3-5 (incorruptible inheritance)
-- 1 Pet 3:4 (the not-corruptible -- character quality)
-
-**Tree of life:**
-- Gen 2:9; 3:22-24 (tree of life in Eden)
-- Rev 2:7; 22:2,14 (tree of life eschatologically restored)
-
-**Soul mortality:**
-- Ezk 18:4,20 (soul that sins shall die)
-- Mat 10:28 (God can destroy soul and body)
-- Rev 16:3 (every living soul died)
-
-**OT anticipation:**
-- Dan 12:2-3 (everlasting life and everlasting contempt)
-- Psa 49:7-9,14-15 (no man can redeem his brother)
-- Isa 25:8 (death swallowed up in victory)
-- Isa 26:19 (thy dead men shall live)
-- Hos 13:14 (I will ransom them from the power of the grave)
-
-**Life in Christ:**
-- John 5:26 (life in himself -- divine attribute)
-- John 3:16,36; 10:28; 11:25-26 (eternal life through Christ)
-- 1 John 5:11-12 (life is in the Son)
-- Rom 6:23 (wages of sin is death; gift of God is eternal life)
-- 1 Cor 15:21-22 (in Adam all die; in Christ all made alive)
+#### 6. diaphthora (G1312) -- "corruption, decay"
+- **Occurrences:** 6 total, all translated "corruption"
+- **Lexicon:** decay (used especially of bodily decomposition in Acts re: Psalm 16)
 
 ---
 
-## Workflow
+### Key Passages to Examine (from tool output)
 
-answer-question
+#### A. The Immortality Word-Study Passages (all occurrences of G110, G861, G2349, G862)
+
+1. **1 Corinthians 15:42-54** -- The resurrection chapter; densest concentration of immortality vocabulary. Contains G110 (athanasia), G861 (aphtharsia), G2349 (thnetos), G862 (aphthartos), G5356 (phthora). Examine the full argument about what "puts on" immortality and when.
+
+2. **1 Timothy 6:14-16** -- God "who only hath immortality" (athanasia, G110). Examine the force of monos ("only") and what it excludes.
+
+3. **Romans 2:7** -- "To them who by patient continuance in well doing seek for glory and honour and immortality [aphtharsia, G861], eternal life." Examine: if immortality is inherent, why must it be sought?
+
+4. **2 Timothy 1:10** -- Christ "brought life and immortality [aphtharsia, G861] to light through the gospel." Examine: what does "brought to light" mean? Was immortality hidden or non-existent before the gospel?
+
+5. **Romans 6:12** -- "Let not sin therefore reign in your mortal [thnetos, G2349] body." The body is called mortal.
+
+6. **Romans 8:11** -- "He that raised up Christ from the dead shall also quicken your mortal [thnetos, G2349] bodies." Future quickening of mortal bodies.
+
+7. **2 Corinthians 4:11** -- "The life also of Jesus might be made manifest in our mortal [thnetos, G2349] flesh."
+
+8. **2 Corinthians 5:4** -- "That mortality [thnetos, G2349] might be swallowed up of life." The only verse translating thnetos as "mortality."
+
+9. **1 Timothy 1:17** -- "Now unto the King eternal, immortal [aphthartos, G862], invisible, the only wise God." God is called aphthartos.
+
+10. **Romans 1:23** -- "Changed the glory of the uncorruptible [aphthartos, G862] God into an image made like to corruptible man." Contrast: God is incorruptible; man is corruptible.
+
+11. **1 Peter 1:4** -- "An inheritance incorruptible [aphthartos, G862], and undefiled."
+
+12. **1 Peter 1:23** -- "Born again, not of corruptible seed, but of incorruptible [aphthartos, G862]."
+
+13. **1 Corinthians 9:25** -- "They do it to obtain a corruptible crown; but we an incorruptible [aphthartos, G862]."
+
+14. **1 Peter 3:4** -- "The hidden man of the heart, in that which is not corruptible [aphthartos, G862]."
+
+#### B. Immortality-Related Passages from Nave's Topical Bible
+
+From the IMMORTALITY topic entry (71+ references), examine those not yet covered in etc-01:
+
+15. **Genesis 3:22-24** -- Tree of life; man barred lest he "live for ever" (already E006 in master)
+16. **Psalm 49:7-9, 14-15** -- Redemption of the soul; no man can redeem his brother
+17. **Psalm 16:10-11** -- "Thou wilt not leave my soul in hell [sheol]"
+18. **Proverbs 14:32** -- "The righteous hath hope in his death"
+19. **Ecclesiastes 3:21** -- "Who knoweth the spirit of man that goeth upward?"
+20. **Isaiah 25:8** -- "He will swallow up death in victory" (quoted in 1 Cor 15:54)
+21. **Isaiah 26:19** -- "Thy dead men shall live, together with my dead body shall they arise"
+22. **Luke 20:36-38** -- "Neither can they die any more... for all live unto him"
+23. **John 3:14-16, 36** -- "Whosoever believeth in him should not perish, but have everlasting life"
+24. **John 5:39-40** -- "Search the scriptures...ye will not come to me, that ye might have life"
+25. **John 6:39-40, 44, 47, 50-51, 53-54, 58** -- Jesus' discourse on bread of life and eternal life
+26. **John 10:28** -- "I give unto them eternal life; and they shall never perish"
+27. **John 11:25-26** -- "I am the resurrection, and the life"
+28. **John 14:19** -- "Because I live, ye shall live also"
+29. **John 17:2-3** -- "This is life eternal, that they might know thee"
+30. **Romans 5:16-18** -- Free gift unto justification of life
+31. **Romans 6:22-23** -- "The wages of sin is death; but the gift of God is eternal life"
+32. **Galatians 6:8** -- "He that soweth to the Spirit shall of the Spirit reap life everlasting" (also uses phthora: sow to flesh reaps corruption)
+33. **Colossians 1:5-6** -- Hope laid up in heaven
+34. **1 Thessalonians 4:13-18** -- Resurrection/rapture passage (already E040)
+35. **2 Thessalonians 1:7-9** -- "Punished with everlasting destruction from the presence of the Lord"
+36. **Titus 1:2** -- "In hope of eternal life, which God, that cannot lie, promised before the world began"
+37. **Hebrews 9:15** -- "The promise of eternal inheritance"
+38. **1 Peter 1:3-5** -- "An inheritance incorruptible...reserved in heaven"
+39. **1 John 2:17, 25** -- "He that doeth the will of God abideth for ever...the promise: eternal life"
+40. **1 John 5:11-13** -- "God hath given to us eternal life, and this life is in his Son"
+41. **Revelation 22:5** -- "They shall reign for ever and ever"
+
+#### C. Mortality of Man (from Nave's MAN > MORTAL entry)
+
+42. **Job 4:17** -- "Shall mortal man be more just than God?" (already E038)
+43. **Ecclesiastes 2:14-15** -- "As it happeneth to the fool, so it happeneth even to me"
+44. **Ecclesiastes 3:20** -- "All go unto one place; all are of the dust, and all turn to dust again"
+45. **1 Corinthians 15:21-22** -- "For since by man came death, by man came also the resurrection of the dead. For as in Adam all die, even so in Christ shall all be made alive."
+46. **Hebrews 9:27** -- "It is appointed unto men once to die" (already E046)
+
+#### D. Corruption/Incorruption Contrast Passages
+
+47. **Romans 8:21** -- "The creature itself also shall be delivered from the bondage of corruption [phthora] into the glorious liberty of the children of God"
+48. **2 Peter 1:4** -- "Having escaped the corruption [phthora] that is in the world through lust"
+49. **2 Peter 2:12, 19** -- "Shall utterly perish in their own corruption [phthora]...of corruption [phthora]"
+
+#### E. Angels and Immortality
+
+50. **Luke 20:36** -- "Neither can they die any more: for they are equal unto the angels" (from Nave's ANGEL entry: "Immortal LUK 20:36")
+
+#### F. Life as a Divine Gift (from Nave's GIFTS FROM GOD and LIFE > FROM GOD)
+
+51. **Genesis 2:7** -- God breathes life into man (already E001-E003)
+52. **Deuteronomy 30:20** -- "He is thy life, and the length of thy days"
+53. **Deuteronomy 8:3** -- "Man doth not live by bread only...by every word of the LORD"
+54. **Job 27:3** -- "All the while my breath is in me, and the spirit of God is in my nostrils"
+55. **Psalm 68:20** -- "Unto GOD the Lord belong the issues from death"
+56. **Acts 17:25-28** -- "He giveth to all life, and breath...in him we live, and move, and have our being" (E036 in master)
+57. **Romans 6:23** -- "The gift of God is eternal life through Jesus Christ our Lord"
 
 ---
 
-*Scoped: 2026-02-19*
-*Folder: bible-studies/etc5-02-who-has-immortality/*
+### Research Questions to Investigate
+
+1. **Who possesses athanasia (G110)?** Examine all 3 occurrences. Does any verse attribute athanasia to humans inherently? Or only to God (1 Tim 6:16) and as a future transformation at resurrection (1 Cor 15:53-54)?
+
+2. **What is the nature of aphtharsia (G861)?** Examine all 8 occurrences. Is it something humans have, or something they must seek (Rom 2:7), that Christ revealed (2 Tim 1:10), and that is received at resurrection (1 Cor 15:42-54)?
+
+3. **What does thnetos (G2349) reveal about human nature?** Examine all 6 occurrences. When Paul calls the human body/flesh "mortal" (thnetos), what does this imply about the current state of human beings?
+
+4. **Is eternal life inherent or gifted?** Examine the "life" passages from John's Gospel and Romans. Is eternal life something humans already possess or something conditionally given by God?
+
+5. **What is the relationship between mortality and the resurrection?** 1 Cor 15 is the key chapter. What happens at resurrection to mortal/corruptible bodies? What does "putting on" immortality mean?
+
+6. **Does any passage attribute immortality to the human soul?** Search for any verse that says the soul (nephesh/psyche) is immortal, undying, or indestructible. Compare with E016 (soul dies) and E028 (soul destroyed).
+
+7. **What is the significance of the tree of life in Gen 3:22-24?** Why was man barred from it? What does this imply about human mortality?
+
+8. **How do the aphthartos (G862) passages contribute?** When God is called "incorruptible" (Rom 1:23; 1 Tim 1:17), what does the contrast with corruptible humanity reveal?
+
+9. **What does "corruption" (phthora, G5356) teach about human nature?** Examine the corruption/incorruption contrast in 1 Cor 15, Rom 8, Gal 6, 2 Pet.
+
+10. **Luke 20:36 -- Does equality with angels entail immortality?** Jesus says resurrected saints "neither can they die any more: for they are equal unto the angels." Does this imply they COULD die before resurrection?
+
+---
+
+### Word Studies Required
+
+| Term | Strong's | Occurrences | Study Focus |
+|------|----------|-------------|-------------|
+| athanasia | G110 | 3 | All 3 verses; who possesses it and when |
+| aphtharsia | G861 | 8 | All 8 verses; inherent vs. gifted; the "sincerity" usage |
+| thnetos | G2349 | 6 | All 6 verses; what is called mortal |
+| aphthartos | G862 | 7 | All 7 verses; who/what is incorruptible |
+| phthora | G5356 | 9 | Key verses; corruption vs. incorruption contrast |
+| diaphthora | G1312 | 6 | Supporting; decay of the body (Acts passages re Ps 16) |
+| zoe aionios | G2222 + G166 | Multiple | "Eternal life" -- inherent or gift? |
+| thanatos | G2288 | ~120 | Key verses only; death as wages of sin |
+
+---
+
+### Investigative Methodology
+
+```
+INVESTIGATIVE METHODOLOGY:
+- You are an investigator, not an advocate. Your job is to report what the evidence says.
+- Gather evidence from ALL sides. If a passage is cited by ECT proponents, examine it honestly. If a passage is cited by conditionalists, examine it honestly.
+- Do NOT assume your conclusion before examining the evidence.
+- Do NOT state opinions. State what the text says. Do not use editorial characterizations like "genuine tension," "strongest argument," "most significant challenge," "honestly acknowledge," or "non-intuitive reading." Simply state what each passage says and what each side infers from it.
+- When presenting findings, state: "The text says X" (explicit). Then state: "From this, Y interpretation infers Z" and "W interpretation infers V" (inferred).
+- Never use language like "irrefutable," "obviously," or "clearly proves." Use "the text states," "this is consistent with."
+- The conclusion should emerge FROM the evidence, not be imposed ON it.
+```
+
+### Output Files
+
+Produce the following files in D:/Bible/bible-studies/etc-02-who-has-immortality/:
+
+1. **01-topics.md** -- Nave's topics and verse lists relevant to immortality
+2. **02-verses.md** -- All key verses with full text and initial observations
+3. **03-analysis.md** -- Detailed passage analysis, contextual examination, cross-references
+4. **04-word-studies.md** -- Complete word studies for G110, G861, G2349, G862, G5356, G1312
+5. **CONCLUSION.md** -- Evidence classification (E/N/I tables), Tree 3/4/5 applications, I-B resolutions, tally, What CAN/CANNOT be said. Follow the methodology in etc-series-methodology.md exactly.
+
+### Critical Reminders
+
+- Run BOTH --hybrid-ot AND --hybrid-nt for every key verse
+- Read and update D:/Bible/bible-studies/etc-master-evidence.md with all new items
+- Use the etc-series-methodology.md classification system (E > N > I-A > I-B > I-C > I-D)
+- Apply Tree 3 for every E-item given a positional classification
+- Apply the stricter N-tier test for every N-item
+- Do NOT reference etc-01-what-is-man (deleted); the prior study is etc-01-what-is-man
+- Cross-reference items already in the master evidence file (E024-E027, N002, N005, etc.)
+- For passages examined in depth in later etc studies, briefly state what the text says and note the cross-reference

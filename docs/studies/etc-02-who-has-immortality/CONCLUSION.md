@@ -1,372 +1,473 @@
-# Who Has Immortality? Biblical Terms, Possessors, and the Resurrection
-## Study: etc5-02-who-has-immortality
-## Series: ETC5 — The Final Fate of the Wicked
-## Date: 2026-02-19
-
----
+# Who Has Immortality?
 
 ## Question
+Who possesses immortality according to Scripture? Is the human soul inherently immortal, or is immortality a conditional divine gift? This study examines athanasia (G110), aphtharsia (G861), thnetos (G2349), aphthartos (G862), phthora (G5356), and diaphthora (G1312) -- every NT occurrence of these terms -- along with all related passages from Nave's Topical Bible on immortality, mortality, eternal life, and life as a divine gift.
 
-Who possesses immortality according to Scripture? Is the human soul inherently immortal or is immortality a divine gift? What words does the Bible use for immortality/incorruption? When and how does a human receive immortality? What is the relationship between immortality and the resurrection?
+## Summary Answer
+Scripture applies immortality vocabulary exclusively to God as a present possession (1 Tim 6:16; 1 Tim 1:17; Rom 1:23) and to believers as a future acquisition at the resurrection (1 Cor 15:53-54). The human body/flesh is called "mortal" (thnetos) in six NT passages. Man is called "corruptible" (phthartos) in direct contrast to the "uncorruptible" (aphthartos) God (Rom 1:23). Eternal life is consistently presented as a gift (Rom 6:23), a promise (Tit 1:2; 1 John 2:25), something to seek (Rom 2:7), and something conditional on relationship with Christ (1 John 5:11-12). No NT passage applies athanasia, aphtharsia, or aphthartos to the human soul as an inherent, present possession.
+
+## Key Verses
+- **1 Timothy 6:16** -- "Who only hath immortality, dwelling in the light which no man can approach unto."
+- **1 Corinthians 15:53-54** -- "For this corruptible must put on incorruption, and this mortal must put on immortality. So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory."
+- **Romans 2:7** -- "To them who by patient continuance in well doing seek for glory and honour and immortality, eternal life."
+- **Romans 1:23** -- "And changed the glory of the uncorruptible God into an image made like to corruptible man."
+- **Romans 6:23** -- "For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord."
+- **1 John 5:11-12** -- "God hath given to us eternal life, and this life is in his Son. He that hath the Son hath life; and he that hath not the Son of God hath not life."
+- **2 Timothy 1:10** -- "Our Saviour Jesus Christ, who hath abolished death, and hath brought life and immortality to light through the gospel."
+- **John 3:16** -- "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
 
 ---
 
 ## Evidence Classification
 
-*Following ETC5 Series Methodology: etc5-series-methodology.md*
+*Evidence items tracked in etc-master-evidence.md*
+
+### INVESTIGATIVE METHODOLOGY
+- This study investigates what Scripture says about who possesses immortality. The role is investigator, not advocate.
+- Evidence is gathered from all relevant passages. Where passages support different interpretive positions, both readings are noted.
+- Statements below report what the text says. Interpretive inferences are classified separately.
 
 ---
 
-### 1. Explicit Statements Table (E Tier)
+### 1. Explicit Statements Table
 
-*E tier = what the text directly says. Both sides must acknowledge these as textual facts.*
+For each E-item classified as Conditionalist or ECT, Tree 3 (E-Item Positional Classification) application is documented below the table.
 
-Items from etc5-01 that this study also cites are noted with their Master ID. New items receive the next available ID (starting after E060).
-
-| # | Explicit Statement | Reference | Master ID |
-|---|---|---|---|
-| E1 | God "only [monos] hath immortality [athanasian, G110], dwelling in the light which no man can approach unto." | 1 Tim 6:16 | → Master E029 |
-| E2 | God is called "King eternal, immortal [aphtharto, G862], invisible" — applying G862 (aphthartos/incorruptible) directly to God as a divine attribute. | 1 Tim 1:17 | NEW → E061 |
-| E3 | "This corruptible must put on incorruption [aphtharsian, G861], and this mortal must put on immortality [athanasian, G110]." | 1 Cor 15:53 | → Master E031 |
-| E4 | "When this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory." | 1 Cor 15:54 | → Master E032 |
-| E5 | "It is sown in corruption; it is raised in incorruption." The resurrection body is raised in aphtharsia (G861); the buried body is sown in phthora (corruption). | 1 Cor 15:42 | NEW → E062 |
-| E6 | "Flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption." | 1 Cor 15:50 | NEW → E063 |
-| E7 | "In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible [aphthartoi, G862], and we shall be changed." | 1 Cor 15:52 | NEW → E064 |
-| E8 | G110 (athanasia, immortality) appears only 3 times in the NT: 1 Tim 6:16 (God alone has it); 1 Cor 15:53 (mortals must put it on); 1 Cor 15:54 (when mortal puts it on). In no NT occurrence is athanasia a present human possession. | 1 Tim 6:16; 1 Cor 15:53-54 | → Master E054 |
-| E9 | Humans "seek" immortality [aphtharsian, G861] — described as a goal to be attained by patient continuance in well-doing. | Rom 2:7 | → Master E030 |
-| E10 | G2349 (thnetos, mortal) describes the present human body in all 6 NT occurrences (Rom 6:12; 8:11; 1 Cor 15:53-54; 2 Cor 4:11; 5:4). In no NT occurrence is a human body described as immortal in the present state. | All 6 thnetos occurrences | → Master E055 |
-| E11 | "That mortality [to thneton, G2349] might be swallowed up of life" — Paul describes the present condition as mortality and the desired future as life swallowing up mortality. | 2 Cor 5:4 | NEW → E065 |
-| E12 | "The glory of the uncorruptible [aphthartou, G862] God" is contrasted with "corruptible [phtharto, G5349] man." | Rom 1:23 | NEW → E066 |
-| E13 | "As the Father hath life in himself [zoe en heauto]; so hath he given to the Son to have life in himself." Life-in-oneself is a divine attribute given from Father to Son — not stated of any human. | John 5:26 | NEW → E067 |
-| E14 | "God hath given to us eternal life, and this life is in his Son. He that hath the Son hath life; and he that hath not the Son of God hath not life." | 1 John 5:11-12 | NEW → E068 |
-| E15 | "It is appointed unto men once to die, but after this the judgment." Death is described as a universal, divinely appointed human experience. | Heb 9:27 | NEW → E069 |
-| E16 | "Lest he put forth his hand, and take also of the tree of life, and eat, and live for ever [wachay le-olam]." God expelled man and blocked the tree of life to prevent him from acquiring immortality — implying man did not already possess it. | Gen 3:22-24 | → Master E003 |
-| E17 | To him that overcometh, Christ will "give to eat of the tree of life, which is in the midst of the paradise of God." The tree of life is a future reward for overcomers, not a present possession. | Rev 2:7 | NEW → E070 |
-| E18 | In the new Jerusalem, "the tree of life" bears fruit and its leaves are "for the healing of the nations"; those who "do his commandments" have "right to the tree of life." Access to the tree of life is an eschatological privilege. | Rev 22:2, 14 | NEW → E071 |
-| E19 | "The wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord." | Rom 6:23 | NEW → E072 |
-| E20 | "By one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned." Death through Adam is universal in scope. | Rom 5:12 | NEW → E073 |
-| E21 | "He that hath the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal [thneta] bodies by his Spirit." The quickening of mortal bodies is a future promise. | Rom 8:11 | NEW → E074 |
-| E22 | "The soul [nephesh] that sinneth, it shall die [tamut]." (Stated twice in the same chapter.) The nephesh is the grammatical subject of the death predicate. | Ezk 18:4, 20 | → Master E024 |
-| E23 | God "is able to destroy both soul [psyche] and body [soma] in hell [gehenna]." | Mat 10:28 | → Master E026 |
-| E24 | "Every living soul [pasa psyche zoes] died in the sea." | Rev 16:3 | → Master E028 |
-| E25 | "Many of them that sleep in the dust of the earth shall awake, some to everlasting life [chayyei olam], and some to shame and everlasting contempt [direaon olam]." Daniel himself is told "thou shalt rest" until "the end of the days." | Dan 12:2-3, 13 | → Master E023 |
-| E26 | "He will swallow up death in victory" — God's eschatological defeat of death is a future event. | Isa 25:8 | NEW → E075 |
-| E27 | "Thy dead men shall live, together with my dead body shall they arise. Awake and sing, ye that dwell in dust." The righteous dead will arise; their present state is described as "dwelling in dust." | Isa 26:19 | NEW → E076 |
-| E28 | "[The wicked] are dead, they shall not live; they are deceased, they shall not rise." | Isa 26:14 | NEW → E077 |
-| E29 | "I will ransom them from the power of the grave; I will redeem them from death: O death, I will be thy plagues; O grave, I will be thy destruction." | Hos 13:14 | NEW → E078 |
-| E30 | "None of them can by any means redeem his brother, nor give to God a ransom for him: that he should still live for ever [chay le-olam], and not see corruption." No human can purchase endless life; it requires divine redemption. | Psa 49:7-9 | NEW → E079 |
-| E31 | "God will redeem my soul from the power of the grave: for he shall receive me." The nephesh in the power of the grave requires God's redemption. | Psa 49:15 | NEW → E080 |
-| E32 | "Christ Jesus, who hath abolished [katargeo] death, and hath brought life and immortality [aphtharsian, G861] to light through the gospel." Christ's appearing is the event that brought immortality to light. | 2 Tim 1:10 | NEW → E081 |
-| E33 | "They which shall be accounted worthy to obtain that world, and the resurrection from the dead... Neither can they die any more: for they are equal unto the angels; and are the children of the resurrection." The deathless state ("cannot die any more") is explicitly post-resurrection, not the present state. | Luk 20:35-36 | NEW → E082 |
-| E34 | "The last enemy that shall be destroyed is death." Death is currently an active enemy; its destruction is a future event. | 1 Cor 15:26 | NEW → E083 |
-| E35 | "As in Adam all die, even so in Christ shall all be made alive." | 1 Cor 15:22 | NEW → E084 |
-| E36 | "To an inheritance incorruptible [aphtharton, G862], and undefiled, and that fadeth not away, reserved in heaven for you." The incorruptible inheritance is "reserved in heaven" and "ready to be revealed in the last time" — not yet received. | 1 Pet 1:3-5 | NEW → E085 |
-| E37 | Christ "through death... destroy him that had the power of death, that is, the devil; and deliver them who through fear of death were all their lifetime subject to bondage." All humans are described as in bondage to the fear of death throughout their lifetimes. | Heb 2:14-15 | NEW → E086 |
-| E38 | Paul expresses "a desire to depart, and to be with Christ; which is far better." | Phil 1:23 | → Master E039 |
-| E39 | Paul describes being "absent from the body" as being "present with the Lord" and calls this preferable. | 2 Cor 5:8 | → Master E038 |
-| E40 | "I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand." Eternal life is Christ's to give to his sheep. | John 10:28 | NEW → E087 |
-| E41 | "He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life." | John 3:36 | NEW → E088 |
-
----
-
-### 2. Necessary Implications Table (N Tier)
-
-*N tier = what unavoidably follows from explicit statements. Stricter N-tier test applied.*
-
-Items from etc5-01 are noted with their Master ID.
-
-| # | Necessary Implication | Based on | Why it is unavoidable | Master ID |
+| # | Explicit Statement | Reference | Position | Master ID |
 |---|---|---|---|---|
-| N1 | God currently possesses immortality (athanasia) exclusively; no creature currently possesses it as an inherent attribute. | E1 (1 Tim 6:16); E8 (E054) | 1 Tim 6:16 states God ALONE (monos) has athanasia. Only 3 NT occurrences of the word; in the other two (E3, E4), mortals must PUT ON immortality at a future event. The word "only" is unqualified. Every reader must acknowledge the grammar: monos = alone/only. | → Master N005 |
-| N2 | Immortality (athanasia) and incorruption (aphtharsia/aphthartos) are, in the present age, attributes of God alone; humans are in the present age mortal (thnetos) and corruptible (phthartos). | E1 (1 Tim 6:16); E2 (1 Tim 1:17); E12 (Rom 1:23); E10 (all thnetos occurrences); E8 | The three positive words (G110, G861, G862) are never applied to present human beings anywhere in the NT. The two negative words (G2349, G5349) are applied to present human beings in every NT occurrence. This vocabulary distribution is an observable textual fact. | NEW → N013 |
-| N3 | Mortals receive immortality at the resurrection — not at death, at birth, or at regeneration. | E3 (1 Cor 15:53); E4 (1 Cor 15:54); E7 (1 Cor 15:52); E33 (Luk 20:35-36); E8 | 1 Cor 15:53-54 explicitly states the mortal MUST PUT ON immortality; 15:52 specifies the timing: "at the last trump." Luk 20:36 explicitly states "cannot die any more" is a post-resurrection status. The text itself specifies the moment: the resurrection event. | → Master N006 (extends) |
-| N4 | "Life in himself" (zoe en heauto) is a divine attribute, not a human attribute; humans receive life from an external source (the Son). | E13 (John 5:26); E14 (1 John 5:11-12) | John 5:26 explicitly says the Father has life in himself and has given the Son to have life in himself. It does not say this of humans. 1 John 5:11-12 explicitly says life is in the Son and having the Son = having life (not having the Son = not having life). Both sides must acknowledge these are factual statements about where life resides. | NEW → N014 |
-| N5 | Man in the fallen state did not possess inherent immortality; immortality required external access (the tree of life) that God blocked. | E16 (Gen 3:22-24) | Gen 3:22-24 explicitly states God's concern was that man might "take also of the tree of life, and eat, and live for ever." If man already had immortality, God's blocking of the tree would be purposeless. The action (blocking + expelling) is the textual evidence. Both sides must acknowledge the plain meaning: man lacked what the tree could provide. | NEW → N015 |
-| N6 | The three NT immortality-positive words (G110 athanasia, G861 aphtharsia, G862 aphthartos) are never applied to the present human soul, spirit, or body. | E1, E2, E3, E4, E5, E6, E7, E8, E9, E10, E11, E12 (survey of all occurrences) | This is a complete occurrence survey fact. Both sides must acknowledge that in the NT text, none of these words appears in a clause where the subject is a present human being in a present state. | NEW → N016 |
-| N7 | The soul (nephesh in Ezk; psyche in Rev 16:3) can die; it is not described as indestructible. | E22 (Ezk 18:4,20); E24 (Rev 16:3) | Ezk 18:4 states nephesh is the grammatical subject of dying. Rev 16:3 states every living psyche died. Both sides must acknowledge the nephesh/psyche is the stated grammatical subject of the death predicate. | → Master N007 |
-| N8 | God possesses the power to destroy both soul and body; the soul is not beyond divine destruction. | E23 (Mat 10:28) | Mat 10:28 explicitly states God "is able to destroy [apolesai] both soul and body in gehenna." The text provides no qualifier limiting "destroy" to something other than destruction. | → Master N008 |
-| N9 | Humans must seek immortality because they do not presently possess it. | E9 (Rom 2:7) | A being seeking a thing does not currently possess it. Seeking implies present lack. This is the meaning of the seeking verb (zetousin, present active participle = active ongoing seeking). | → Master N012 |
-| N10 | Eternal life is a gift from Christ, not an inherent human property; those without the Son do not have it. | E14 (1 John 5:11-12); E40 (John 10:28); E41 (John 3:36) | 1 John 5:12 states explicitly: "He that hath not the Son of God hath not life." Both sides must acknowledge the unqualified negative: life is absent from those who do not have the Son. | NEW → N017 |
-| N11 | Death is described as the universal human appointment and the direct consequence of Adam's sin passing to all humans. | E15 (Heb 9:27); E20 (Rom 5:12) | Heb 9:27: "It is appointed unto men once to die" — universal, unqualified. Rom 5:12: "death passed upon all men" — universal scope stated explicitly. Both together mean no human naturally escapes death as an appointed reality. | NEW → N018 |
-| N12 | Death ("the last enemy") is currently operational and active; its final destruction is a future eschatological event. | E34 (1 Cor 15:26); E26 (Isa 25:8 — "will swallow up death" = future); E29 (Hos 13:14 — "I will redeem them" = future) | 1 Cor 15:26 states death is "the last enemy that SHALL BE destroyed" (future). Isa 25:8 is "will swallow up" (future). Paul quotes both of these as fulfilled AT the resurrection in 1 Cor 15:54-55. The present state is that death is an unredeemed power; its defeat is eschatological. | NEW → N019 |
+| E1 | God only (monos) has immortality (athanasia) | 1 Tim 6:16 | Neutral | E024 |
+| E2 | This mortal (thnetos) must put on immortality (athanasia) at resurrection | 1 Cor 15:53-54 | Neutral | E026 |
+| E3 | Those who seek immortality (aphtharsia) receive eternal life | Rom 2:7 | Neutral | E025 |
+| E4 | Christ brought life and immortality (aphtharsia) to light through the gospel | 2 Tim 1:10 | Neutral | E027 |
+| E5 | God is called immortal (aphthartos); he is the King eternal, immortal, invisible | 1 Tim 1:17 | Neutral | E057 *NEW* |
+| E6 | Man is corruptible (phthartos); God is uncorruptible (aphthartos); these are placed in direct contrast | Rom 1:23 | Neutral | E058 *NEW* |
+| E7 | The human body is called mortal (thnetos) | Rom 6:12 | Neutral | E059 *NEW* |
+| E8 | God will quicken (zoopoieo) believers' mortal (thnetos) bodies by his Spirit | Rom 8:11 | Neutral | E060 *NEW* |
+| E9 | The life of Jesus is made manifest in mortal (thnetos) flesh | 2 Cor 4:11 | Neutral | E061 *NEW* |
+| E10 | Paul desires to be clothed upon, not unclothed, that mortality (thnetos) might be swallowed up of life | 2 Cor 5:4 | Neutral | E062 *NEW* |
+| E11 | The body is sown in corruption (phthora); it is raised in incorruption (aphtharsia) | 1 Cor 15:42 | Neutral | E063 *NEW* |
+| E12 | Corruption (phthora) does not inherit incorruption (aphtharsia); flesh and blood cannot inherit the kingdom of God | 1 Cor 15:50 | Neutral | E047 |
+| E13 | The dead shall be raised incorruptible (aphthartos), and we shall be changed | 1 Cor 15:52 | Neutral | E064 *NEW* |
+| E14 | The last enemy that shall be destroyed is death | 1 Cor 15:26 | Neutral | E065 *NEW* |
+| E15 | By man came death; by man came also the resurrection of the dead; in Adam all die, in Christ all shall be made alive | 1 Cor 15:21-22 | Neutral | E066 *NEW* |
+| E16 | Man was barred from the tree of life to prevent living forever | Gen 3:22-24 | Neutral | E006 |
+| E17 | No man can redeem his brother from death; the redemption of the soul is precious and ceases forever; man is like the beasts that perish | Ps 49:7-9, 12, 20 | Cond. | E067 *NEW* |
+| E18 | God will redeem the psalmist's soul from the power of the grave (sheol) | Ps 49:15 | Neutral | E068 *NEW* |
+| E19 | God will not leave the Holy One's soul in sheol nor suffer him to see corruption | Ps 16:10 | Neutral | E069 *NEW* |
+| E20 | David's body saw corruption (diaphthora); Christ's body did not see corruption | Acts 2:29-31; 13:36-37 | Neutral | E070 *NEW* |
+| E21 | The righteous has hope in his death | Prov 14:32 | Neutral | E071 *NEW* |
+| E22 | God will swallow up death in victory | Isa 25:8 | Neutral | E072 *NEW* |
+| E23 | The dead shall live; they that dwell in dust shall awake and sing; the earth shall cast out the dead | Isa 26:19 | Neutral | E073 *NEW* |
+| E24 | Those accounted worthy of the resurrection can die no more (ouketi); they are equal unto the angels and are children of the resurrection | Luke 20:36 | Neutral | E074 *NEW* |
+| E25 | Whosoever believes in Christ shall not perish but have everlasting life | John 3:16 | Cond. | E075 *NEW* |
+| E26 | He that believes not the Son shall not see life | John 3:36 | Cond. | E076 *NEW* |
+| E27 | The Father has life in himself; he has given to the Son to have life in himself | John 5:26 | Neutral | E077 *NEW* |
+| E28 | Those who have done good rise to the resurrection of life; those who have done evil to the resurrection of damnation | John 5:29 | Neutral | E078 *NEW* |
+| E29 | Jesus says "ye will not come to me, that ye might have life" | John 5:40 | Cond. | E079 *NEW* |
+| E30 | Except ye eat the flesh of the Son of man and drink his blood, ye have no life in you | John 6:53 | Cond. | E080 *NEW* |
+| E31 | Jesus says he will raise believers up at the last day | John 6:39, 40, 44, 54 | Neutral | E081 *NEW* |
+| E32 | Jesus gives eternal life; recipients shall never perish | John 10:28 | Cond. | E082 *NEW* |
+| E33 | Jesus is the resurrection and the life; he that believes, though dead, shall live | John 11:25 | Neutral | E083 *NEW* |
+| E34 | Because Christ lives, believers shall live also | John 14:19 | Neutral | E084 *NEW* |
+| E35 | Eternal life is given by Christ to those the Father has given him; eternal life is knowing the only true God and Jesus Christ | John 17:2-3 | Neutral | E085 *NEW* |
+| E36 | By one man's offence death reigned; by Christ grace reigns through righteousness unto eternal life | Rom 5:17, 21 | Neutral | E086 *NEW* |
+| E37 | The wages of sin is death; the gift of God is eternal life through Jesus Christ | Rom 6:23 | Cond. | E087 *NEW* |
+| E38 | He that sows to the flesh reaps corruption (phthora); he that sows to the Spirit reaps everlasting life | Gal 6:8 | Cond. | E088 *NEW* |
+| E39 | The creation shall be delivered from the bondage of corruption (phthora) into the liberty of the children of God; believers groan, waiting for the redemption of the body | Rom 8:21, 23 | Neutral | E089 *NEW* |
+| E40 | The wicked shall be punished with everlasting destruction from the presence of the Lord | 2 Thess 1:9 | Cond. | E090 *NEW* |
+| E41 | Eternal life is a promise from God, promised before the world began | Tit 1:2 | Neutral | E091 *NEW* |
+| E42 | Those called receive the promise of eternal inheritance | Heb 9:15 | Neutral | E092 *NEW* |
+| E43 | Believers have an incorruptible (aphthartos) inheritance reserved in heaven, a salvation ready to be revealed in the last time | 1 Pet 1:4-5 | Neutral | E093 *NEW* |
+| E44 | Born again of incorruptible (aphthartos) seed -- the word of God | 1 Pet 1:23 | Neutral | E094 *NEW* |
+| E45 | The wicked are compared to natural brute beasts, made to be taken and destroyed; they shall utterly perish in their own corruption (phthora) | 2 Pet 2:12 | Cond. | E095 *NEW* |
+| E46 | God has given to us eternal life, and this life is in his Son; he that has the Son has life; he that has not the Son has not life | 1 John 5:11-12 | Cond. | E096 *NEW* |
+| E47 | Eternal life is the promise God has promised us | 1 John 2:25 | Neutral | E097 *NEW* |
+| E48 | He that does the will of God abides forever | 1 John 2:17 | Neutral | E098 *NEW* |
+| E49 | God gives to all life and breath and all things; in him we live and move and have our being | Acts 17:25, 28 | Neutral | E036 |
+| E50 | Unto God the Lord belong the issues from death | Ps 68:20 | Neutral | E099 *NEW* |
+| E51 | God is Israel's life and the length of their days; life and death are set before them to choose | Deut 30:15, 19-20 | Neutral | E100 *NEW* |
+| E52 | Shall mortal (enosh) man be more just than God? Man dwells in houses of clay whose foundation is in the dust; they are destroyed and perish forever | Job 4:17, 19-20 | Neutral | E038 |
+| E53 | Through God's promises believers become partakers of the divine nature, having escaped the corruption (phthora) in the world | 2 Pet 1:4 | Neutral | E101 *NEW* |
+| E54 | The hidden man of the heart, in that which is not corruptible (aphthartos), the ornament of a meek and quiet spirit | 1 Pet 3:4 | Neutral | E102 *NEW* |
+| E55 | Athletes strive for a corruptible crown; believers for an incorruptible (aphthartos) crown | 1 Cor 9:25 | Neutral | E103 *NEW* |
+| E56 | It is the spirit that quickens; the flesh profits nothing | John 6:63 | Neutral | E104 *NEW* |
+| E57 | Christ abolished death and brought life and immortality to light through the gospel | 2 Tim 1:10 | Neutral | E027 |
+
+Note: E1/E57 and E4 reference the same verse (2 Tim 1:10) but the two observations are retained because E4 focuses on aphtharsia specifically while E57 includes the abolition of death. The master entry E027 covers the full statement.
 
 ---
 
-### 3. Inferences Table (4-Type Taxonomy)
+#### Tree 3 Applications for Positional E-Items
 
-| # | Claim | Type | What the Bible actually says | Why this is an inference | Criteria |
-|---|-------|------|-----|------|----------|
-| I1 | The Bible teaches that humans do not possess an inherently immortal soul; the soul is mortal until God grants immortality at the resurrection. | I-A | E1 (God alone has athanasia — 1 Tim 6:16); E8 (3 NT occurrences of athanasia: all either God's possession or mortals' future reception); E3/E4 (mortal must put on immortality at resurrection — 1 Cor 15:53-54); E9 (humans seek immortality — Rom 2:7); E22 (nephesh can die — Ezk 18:4); E23 (God can destroy soul and body — Mat 10:28); N1 (God alone has immortality); N3 (immortality at resurrection); N7 (soul can die). | No single verse states "humans do not possess an inherently immortal soul." This is the systematic conclusion of E/N evidence from multiple passages and both testaments. All components are in E/N tables. Note: This systematizes the same evidence as IA003 in etc5-01 and is the same claim. | #5 (systematizing) | Master IA003 |
-| I2 | The Bible teaches that the state of the dead is one of complete unawareness — no thought, no knowledge, no praise — until the resurrection. | I-A | E25 (Dan 12:2,13: sleep in dust, Daniel rests until end); prior study E13/Master E013 (thoughts perish that very day — Psa 146:4); prior E17/Master E017 (dead know not any thing — Ecc 9:5); prior E18-E19/Master E018-E019 (Ecc 9:6,10); prior E20-E021 (Job 14:12,21). N9 from prior study (death = sleep consistently). | No single verse states "the dead are unconscious." This is the systematic conclusion of the accumulated E/N pattern across both testaments. All components are E/N items. Note: Same as IA005 in etc5-01. | #5 (systematizing); #4a (Ecc 9:5 interprets sleep metaphor) | Master IA005 |
-| I3 | The NT Greek vocabulary of immortality (athanasia, aphtharsia, aphthartos) is consistent evidence that humans are presently in a state of mortality/corruptibility and receive immortality/incorruption only at the resurrection. | I-A | N2 (vocabulary distribution: positive words → God and resurrection state; negative words → present human state); E1-E12 (complete occurrence survey); E33 (Luk 20:36: deathless state is post-resurrection only). | No single verse states "the vocabulary pattern demonstrates X." This is the systematic observation of all NT occurrences of the five immortality/mortality words, organized into a vocabulary-distribution pattern. All components are textual facts in the E/N tables. | #5 (systematizing vocabulary data into a theological conclusion) | NEW → IA009 |
-| I4 | The tree of life narrative (Gen 2-3; Rev 2:7; Rev 22:2,14) consistently presents immortality as external, conditional, and divinely mediated — not as an inherent human property. | I-A | E16 (Gen 3:22-24: tree blocked); N15 (man lacked immortality the tree could provide); E17 (Rev 2:7: tree promised to overcomers); E18 (Rev 22:2,14: tree in new creation, access for those with right to it); Gen 2:9 (tree planted in Eden, accessible pre-fall). | No single verse states "immortality is not an inherent human property" as a comprehensive conclusion. This systematizes the entire tree of life narrative across Genesis and Revelation into a theological conclusion about the nature of immortality. All components are in E/N tables. | #5 (systematizing the narrative arc) | NEW → IA010 |
-| I5 | The Bible teaches that eternal life is available exclusively through the Son; those who do not have the Son do not have life. | I-A | E14 (1 John 5:11-12: life is in the Son; having/not having the Son = having/not having life); E13 (John 5:26: life in himself is a divine attribute); E40 (John 10:28: "I give unto them eternal life"); E41 (John 3:36: not believing Son = not seeing life); E19 (Rom 6:23: eternal life is a gift through Christ); N10 (eternal life is a gift from Christ, not inherent). | No single verse states "eternal life is available exclusively through the Son" as a comprehensive doctrine. This systematizes John 5:26, 1 John 5:11-12, John 10:28, John 3:36, and Rom 6:23 into a Christocentric-exclusivity claim. All components are E/N items. | #5 (systematizing) | NEW → IA011 |
-| I6 | The Bible teaches a conscious intermediate state for the righteous — a state of being "with Christ" or "with the Lord" between death and resurrection. | I-B | FOR: E38 (absent from body = present with Lord — 2 Cor 5:8/Master E038); E39 (depart = be with Christ — Phil 1:23/Master E039); Master E050 (today with me in paradise — Luk 23:43); Master E051 (souls under altar cry out — Rev 6:9-11); Master E052 (spirits of just men made perfect — Heb 12:23). AGAINST: Master E020 (man lies down, rises not — Job 14:12); Master E017 (dead know not any thing — Ecc 9:5); Master E013 (thoughts perish that very day — Psa 146:4); Master E014 (dead do not praise — Psa 115:17); N3 (immortality at resurrection); Master N009 (death = sleep). | No verse explicitly states "there is a conscious intermediate state." Phil 1:23 and 2 Cor 5:8 are interpreted as implying it; state-of-the-dead passages are interpreted as limited in scope. Both sets of E/N items are genuine. | #2 (choosing between possible readings); #5 (systematizing into a doctrine) | Master IB001 |
-| I7 | The "dead know not any thing" language in Ecclesiastes is limited to earthly affairs "under the sun" and does not address the state of the spirit in God's presence. | I-B | FOR qualifier: Master E012 (spirit returns to God — Ecc 12:7); Master E018 (dead have no more portion in things done "under the sun" — Ecc 9:6); Master E052 (spirits of just men made perfect); E38/Master E039 (depart to be with Christ). AGAINST: Master E017 (Ecc 9:5: unqualified in v.5); Master E013 (Psa 146:4: no qualifier); Master E014-E016, E022 (multiple independent passages with no qualifier). | Requires importing the "under the sun" framework from Ecclesiastes's literary structure into v.5, which does not contain it. Resolved in prior study. | #3 (applying literary framework to qualify an absolute statement); #2 | Master IB002 |
-| I8 | "Spirit returns to God" in Ecc 12:7 means a conscious personal entity (the soul of the person) goes to God in a state of awareness at death. | I-B | FOR: Master E012 (Ecc 12:7); Master E048, E049 (spirit commended to God — Luk 23:46; Acts 7:59); Master E039 (depart to be with Christ — Phil 1:23); Master E052 (spirits of just men made perfect). AGAINST: Master E010-E011 (man and beast share ruach; all go to dust — Ecc 3:19-20); Master N011 (ruach is God's animating breath); Master E013 (thoughts perish that very day — simultaneous with ruach departure). | "Returns to God" does not specify conscious vs. unconscious state. Resolved in prior study. | #2 (two possible meanings); #4b (unverified cross-reference Ecc 12:7 → Phil 1:23) | Master IB005 |
-| I9 | Human beings possess an immortal soul that survives death and continues in conscious existence, separate from the body. | I-D | 1 Tim 6:16: God ALONE (monos) has immortality — E1/Master E029, N1/N005. 1 Cor 15:53: mortals MUST PUT ON immortality at resurrection — E3/Master E031, N3/N006. Ezk 18:4: the soul that sins SHALL DIE — E22/Master E024, N7/N007. Mat 10:28: God CAN DESTROY both soul and body — E23/Master E026, N8/N008. | Conflicts with E1/N1 (God alone has immortality), E3/N3 (immortality at resurrection), E22/N7 (soul can die), E23/N8 (God can destroy the soul). Requires redefining "only" (monos) in 1 Tim 6:16 as comparative rather than exclusive; limiting "must put on" to the body only; spiritualizing "die" in Ezk 18:4 to mean only spiritual separation. All these rereadings require overriding plain lexical values of E statements. | #1 (adding "inherent/self-existent immortality" not stated); #2 (qualified readings of monos, athanasia, tamut); #3 (Platonic immortality framework); overrides E1/E029, N1/N005, E3/E031, N3/N006, E22/E024, E23/E026, N7/N007, N8/N008 | Master ID001 |
-| I10 | The phrase "God alone has immortality" (1 Tim 6:16) describes God's pre-eminence in immortality, not an exclusive divine possession; redeemed souls participate in a derived immortality. | I-D | The text states: "who only [monos] hath immortality [athanasian]" (E1/Master E029). The same letter (1 Tim 6:12,19) instructs Timothy to "lay hold on eternal life" — implying it is not yet grasped. Rom 2:7 (E9/Master E030): humans seek immortality. 1 Cor 15:53-54 (E3/E4): mortals must put on immortality at a future event. | The claim requires monos (alone/only) to mean "pre-eminently" or "uniquely" rather than "exclusively." Monos is used twice in 1 Tim 6:15-16 — once for God as "only Potentate" and once for immortality. The same word in adjacent verses cannot mean "pre-eminent" in v.16 but "exclusive" in v.15 without textual justification. The "seeking" of immortality (Rom 2:7) and the future "putting on" (1 Cor 15:53) both confirm that no human presently possesses it. | #2 (choosing a qualified reading of monos against its plain meaning); overrides E1/E029, E3/E031, E9/E030, N1/N005, N3/N006, N9/N012 | NEW → ID003 |
-| I11 | The language of "absent from the body, present with the Lord" (2 Cor 5:8) and "depart and be with Christ" (Phil 1:23) describes an instantaneous subjective experience from the dead person's perspective (who experiences no interval in unconscious sleep), not an objectively continuous intermediate conscious state. | I-C | 2 Cor 5:8 (Master E038); Phil 1:23 (Master E039) — these texts say what they say. | Adds the concept of "subjective time from the dead person's perspective" — a philosophical concept not found in any E/N item. Not derived from Scripture; applied to resolve the tension between E38/E39 and the state-of-the-dead texts. Does not override any E/N statement. | #3 (philosophical framework); #1 (adding concept not in text) | Master IC001 |
-| I12 | The "soul that sins shall die" (Ezk 18:4) refers only to physical death of the body, not the death of any surviving soul. | I-D | Ezk 18:4: nephesh is the grammatical subject of dying (E22/Master E024, N7/N007). Rev 16:3: every living psyche died (E24/Master E028). Lev 21:11, Num 6:6: nephesh met = corpse (Master E043). Mat 10:28: God can destroy the soul (E23/Master E026). | Requires the nephesh that is said to die to be understood as "only the body" despite nephesh being the grammatical subject of the death predicate. Overrides E22/E024 by restricting "death" to a scope the text does not specify. Also conflicts with E24/E028 (every living psyche died) and Master E043 (nephesh met = dead soul IS the corpse). | #1 (adding restriction "only physical" not in text); #2 (qualified reading of tamut); overrides E22/E024, E24/E028, Master E043, N7/N007 | Master ID002 |
+**E17 (Ps 49:7-9, 12, 20) -- "Man is like the beasts that perish" -- Classified: Conditionalist**
+
+- Step 1 Vocabulary Scan: V1 -- Does the verse use destruction/cessation vocabulary? YES: "perish" (abad) applied to man. The comparison "like the beasts that perish" equates the human fate with animal death. Candidate: CONDITIONALIST.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): Man -- "man being in honour" (v.12, 20). Literal human beings. PASS.
+  - Gate 2 (Grammar): Niphal imperfect of mashal ("is like") + Niphal imperfect of abad ("perish"). Straightforward comparison. PASS.
+  - Gate 3 (Genre): Wisdom psalm, didactic. Direct teaching addressed to "all ye inhabitants of the world" (v.1). PASS.
+  - Gate 4 (Harmony): Consistent with Ecc 3:19-20 (E008: man and beast have one breath and one fate). Consistent with E016 (soul that sins dies). PASS.
+- Result: All four gates pass. Classification: **Conditionalist** stands.
+
+**E25 (John 3:16) -- "Should not perish, but have everlasting life" -- Classified: Conditionalist**
+
+- Step 1 Vocabulary Scan: V1 -- Does the verse use destruction/cessation vocabulary? YES: apollymi ("perish") is the stated alternative to everlasting life. Perishing is presented as the default outcome without belief. Candidate: CONDITIONALIST.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "Whosoever" -- literal human beings. PASS.
+  - Gate 2 (Grammar): apollymi (aorist middle subjunctive) -- "might perish." The contrast structure "not perish, but have everlasting life" presents these as exhaustive alternatives. PASS.
+  - Gate 3 (Genre): Jesus' direct teaching in discourse (didactic). PASS.
+  - Gate 4 (Harmony): Consistent with John 10:28 (E32: shall never perish), John 6:53 (E30: no life in you), Rom 6:23 (E37: wages of sin is death). No conflicting E-item. PASS.
+- Result: All four gates pass. Classification: **Conditionalist** stands.
+
+**E26 (John 3:36) -- "He that believeth not the Son shall not see life" -- Classified: Conditionalist**
+
+- Step 1 Vocabulary Scan: V1 -- Cessation/death vocabulary: "shall not see life." The unbeliever does not see life -- absence of life is the stated outcome. Candidate: CONDITIONALIST.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): The unbeliever -- a literal human being. PASS.
+  - Gate 2 (Grammar): ou + horao + zoe -- "not see life." Straightforward negation. PASS.
+  - Gate 3 (Genre): Jesus' direct teaching. PASS.
+  - Gate 4 (Harmony): Consistent with John 6:53 (E30), 1 John 5:12 (E46). PASS.
+- Result: All four gates pass. Classification: **Conditionalist** stands.
+
+**E29 (John 5:40) -- "Ye will not come to me, that ye might have life" -- Classified: Conditionalist**
+
+- Step 1 Vocabulary Scan: V1 -- The text implies they do not have life: "that ye MIGHT have life." Without coming to Christ, they lack life. Candidate: CONDITIONALIST.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "Ye" -- the Jews Jesus addresses. Literal humans. PASS.
+  - Gate 2 (Grammar): hina + echo + zoe -- purpose clause: "in order that you might have life." The subjunctive indicates they do not yet have it. PASS.
+  - Gate 3 (Genre): Jesus' direct discourse. PASS.
+  - Gate 4 (Harmony): Consistent with John 6:53 (E30), 1 John 5:12 (E46). PASS.
+- Result: All four gates pass. Classification: **Conditionalist** stands.
+
+**E30 (John 6:53) -- "Ye have no life in you" -- Classified: Conditionalist**
+
+- Step 1 Vocabulary Scan: V1 -- "No life in you" = absence of life. Without partaking of Christ, humans have no life (zoe). Candidate: CONDITIONALIST.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "Ye" -- human beings. PASS.
+  - Gate 2 (Grammar): ouk + echo + zoe -- "do not have life." Straightforward. PASS.
+  - Gate 3 (Genre): Jesus' direct teaching in the synagogue at Capernaum. PASS.
+  - Gate 4 (Harmony): Consistent with John 3:36 (E26), John 5:40 (E29), 1 John 5:12 (E46). PASS.
+- Result: All four gates pass. Classification: **Conditionalist** stands.
+
+**E32 (John 10:28) -- "I give unto them eternal life; they shall never perish" -- Classified: Conditionalist**
+
+- Step 1 Vocabulary Scan: V1 -- "Never perish" (apollymi) -- perishing is the alternative that is negated by receiving eternal life. Eternal life is given; without it, perishing is implied. Candidate: CONDITIONALIST.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "Them" -- Jesus' sheep. Literal humans. PASS.
+  - Gate 2 (Grammar): ou me + apollymi -- emphatic negation: "shall by no means perish." PASS.
+  - Gate 3 (Genre): Direct teaching. PASS.
+  - Gate 4 (Harmony): Consistent with John 3:16 (E25). PASS.
+- Result: All four gates pass. Classification: **Conditionalist** stands.
+
+**E37 (Rom 6:23) -- "The wages of sin is death; the gift of God is eternal life" -- Classified: Conditionalist**
+
+- Step 1 Vocabulary Scan: V1 -- "Death" (thanatos) is the wages of sin; "eternal life" (zoe aionios) is the gift. Death = the alternative to eternal life. Cessation/death vocabulary. Candidate: CONDITIONALIST.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): Universal -- all who sin. Literal humans. PASS.
+  - Gate 2 (Grammar): opsonia (wages) + thanatos; charisma (gift) + zoe aionios. Straightforward contrast. PASS.
+  - Gate 3 (Genre): Pauline epistle, didactic. PASS.
+  - Gate 4 (Harmony): Consistent with John 3:16 (E25), Gal 6:8 (E38). PASS.
+- Result: All four gates pass. Classification: **Conditionalist** stands.
+
+**E38 (Gal 6:8) -- "Sow to flesh: reap corruption; sow to Spirit: reap everlasting life" -- Classified: Conditionalist**
+
+- Step 1 Vocabulary Scan: V1 -- "Corruption" (phthora) is the outcome of sowing to the flesh, contrasted with everlasting life. Phthora = decay/ruin/destruction. Candidate: CONDITIONALIST.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): General statement about all humans. PASS.
+  - Gate 2 (Grammar): phthora vs. zoe aionios -- exhaustive, mutually exclusive outcomes. PASS.
+  - Gate 3 (Genre): Pauline epistle, didactic. PASS.
+  - Gate 4 (Harmony): Consistent with 1 Cor 15:42 (E11: sown in corruption, raised in incorruption), Rom 6:23 (E37). PASS.
+- Result: All four gates pass. Classification: **Conditionalist** stands.
+
+**E40 (2 Thess 1:9) -- "Punished with everlasting destruction" -- Classified: Conditionalist**
+
+- Step 1 Vocabulary Scan: V1 -- "Destruction" (olethros) modified by "everlasting" (aionios). Destruction vocabulary applied to the wicked. Candidate: CONDITIONALIST.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "Them that know not God, and that obey not the gospel" (v.8). Literal humans. PASS.
+  - Gate 2 (Grammar): Olethros aionios -- "everlasting destruction." The noun olethros means ruin/destruction. PASS.
+  - Gate 3 (Genre): Pauline epistle, didactic. PASS.
+  - Gate 4 (Harmony): Consistent with John 3:16 (perish), Rom 6:23 (death), Gal 6:8 (corruption). PASS.
+- Result: All four gates pass. Classification: **Conditionalist** stands. *(This passage is examined in more depth in a later etc study.)*
+
+**E45 (2 Pet 2:12) -- "As natural brute beasts, made to be taken and destroyed; shall utterly perish in their own corruption" -- Classified: Conditionalist**
+
+- Step 1 Vocabulary Scan: V1 -- "Destroyed" (phtheiro), "utterly perish" (kataphtheiro), "corruption" (phthora). Triple destruction vocabulary. Wicked compared to beasts. Candidate: CONDITIONALIST.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): "These" -- false teachers (human beings, per 2 Pet 2:1). PASS.
+  - Gate 2 (Grammar): Kataphtheiro (future passive) + phthora. Straightforward. PASS.
+  - Gate 3 (Genre): Epistle, didactic. PASS.
+  - Gate 4 (Harmony): Consistent with Ps 49:12, 20 (E17: man like beasts that perish), Gal 6:8 (E38). PASS.
+- Result: All four gates pass. Classification: **Conditionalist** stands.
+
+**E46 (1 John 5:11-12) -- "He that hath the Son hath life; he that hath not the Son hath not life" -- Classified: Conditionalist**
+
+- Step 1 Vocabulary Scan: V1 -- "Hath not life" -- absence of life stated of those without the Son. Death/absence-of-life vocabulary. Candidate: CONDITIONALIST.
+- Step 2 Validation Gates:
+  - Gate 1 (Subject): General -- anyone who "hath not the Son." Literal humans. PASS.
+  - Gate 2 (Grammar): me + echo + zoe -- "does not have life." Absolute negation. PASS.
+  - Gate 3 (Genre): Epistle (1 John), didactic. PASS.
+  - Gate 4 (Harmony): Consistent with John 3:36 (E26), John 6:53 (E30). PASS.
+- Result: All four gates pass. Classification: **Conditionalist** stands.
 
 ---
 
-### I-B Resolution Sections
+### 2. Necessary Implications Table
+
+| # | Necessary Implication | Based on | Position | Why Unavoidable | Master ID |
+|---|---|---|---|---|---|
+| N1 | Man does not inherently possess immortality | E1, E2, E3 | Neutral | E1: God ONLY has athanasia (monos = exclusively). E2: Mortals MUST put on athanasia (they do not have it). E3: Aphtharsia must be sought (one does not seek what one has). All three facts converge: immortality is not an inherent human possession. | N002 |
+| N2 | Immortality is acquired at the resurrection, not before | E2, E13, E24 | Neutral | E2: mortal puts on immortality (1 Cor 15:53-54). E13: dead raised incorruptible (1 Cor 15:52). E24: those in the resurrection "can die no more" (Luke 20:36, ouketi = no longer). The timing is at the resurrection. | N008 *NEW* |
+| N3 | Eternal life is conditional on relationship with Christ | E25, E26, E29, E30, E32, E46 | Cond. | E25: "whosoever believeth" -- conditional. E26: unbeliever "shall not see life." E29: without coming to Christ, they lack life. E30: "ye have no life in you" without Christ. E32: Jesus "gives" eternal life. E46: "he that hath not the Son hath not life." Six explicit statements from two authors (Jesus, John) state that without Christ there is no life. No reader of any position can deny these texts say this. | N009 *NEW* |
+| N4 | The transition from mortality to immortality is a future divine act, not a present human condition | E2, E8, E11, E14, E15, E22 | Neutral | E2: mortal MUST put on immortality (future). E8: God WILL quicken mortal bodies (future). E11: sown in corruption, RAISED in incorruption (future). E14: death SHALL be destroyed (future). E15: in Christ all SHALL be made alive (future). E22: God WILL swallow up death (future). Every passage uses future tense or necessity language. | N010 *NEW* |
+| N5 | The human condition is mortality and corruption; God's nature is immortality and incorruption | E1, E5, E6, E7, E9, E11, E39 | Neutral | E1: God alone has athanasia. E5: God is aphthartos. E6: God is aphthartos; man is phthartos (explicit contrast in same verse). E7: human body is thnetos. E9: human flesh is thnetos. E11: body sown in phthora. E39: creation in bondage of phthora. The text consistently places God and humans on opposite sides of the mortality/immortality divide. | N011 *NEW* |
+| N6 | Death is the result of sin and entered through Adam | E15, E36, E37 | Neutral | E15: "by man came death" (1 Cor 15:21). E36: "by one man's offence death reigned" (Rom 5:17). E37: "the wages of sin is death" (Rom 6:23). Death is caused by sin and entered through one man. Both sides of the debate acknowledge this. | N012 *NEW* |
+| N7 | Without Christ, the alternative to eternal life is perishing/death, not continued existence in torment | E25, E26, E30, E37, E38 | Cond. | E25: "not perish, but have everlasting life" -- perish is the alternative. E26: "shall not see life" -- not seeing life, not seeing torment. E30: "no life in you" -- absence of life. E37: death vs. eternal life. E38: corruption vs. everlasting life. Five explicit texts present the alternatives as life vs. death/perishing/corruption. None of these texts mentions ongoing conscious torment as the alternative. | N013 *NEW* |
+
+**N-tier verification (3-question test applied to each):**
+
+- **N1:** (1) Universal agreement: an ECT scholar acknowledges 1 Tim 6:16 says "only," 1 Cor 15:53 says "must put on," and Rom 2:7 says "seek." YES -- the texts say this. (2) No interpretation required: "only" means exclusively; "must put on" means does not currently have; "seek" means pursue what is not yet held. YES. (3) Zero added: YES. PASSES.
+
+- **N2:** (1) Universal agreement: both sides agree the resurrection transforms mortal bodies. YES. (2) No interpretation: the texts explicitly place the transition at the resurrection and "last day." YES. (3) Zero added: YES. PASSES.
+
+- **N3:** (1) An ECT scholar would agree that these texts state eternal life is conditional on relationship with Christ. YES. The disagreement is about what happens to those without Christ (ECT: eternal torment; Cond.: perishing). But the conditional nature of eternal life is stated by the texts themselves. However: classifying this as Conditionalist is because the texts state those without Christ "have not life" and "shall not see life" -- ECT holds they DO have a form of continued existence. The texts state they "hath not life." Positional classification: Conditionalist, because one side must qualify what "hath not life" means. (2) No interpretation: YES. (3) Zero added: YES. PASSES.
+
+- **N4:** (1) Both sides agree the resurrection involves a future transformation. YES. (2) One meaning: "must put on" and "shall be" are future. YES. (3) Zero added: YES. PASSES.
+
+- **N5:** (1) Both sides acknowledge the textual contrast between God (immortal/incorruptible) and humans (mortal/corruptible). YES. (2) No interpretation: the contrast is in the same verse (Rom 1:23). YES. (3) Zero added: YES. PASSES.
+
+- **N6:** (1) Both sides agree death entered through Adam. YES. (2) One meaning. YES. (3) Zero added. YES. PASSES.
+
+- **N7:** (1) Would an ECT scholar necessarily agree? The texts cited present the alternative to life as "perish," "death," "corruption," "shall not see life," "no life in you." An ECT scholar would argue that additional texts (not cited here) describe the alternative differently. But the N-item states what THESE texts present as the alternative. An ECT scholar must acknowledge that these specific texts use perish/death/corruption language, not torment language. However, they would dispute that this is the COMPLETE picture. The N-item says "the alternative to eternal life is perishing/death, not continued existence in torment" -- this requires that these texts are taken at face value without qualification. An ECT scholar would add qualification. This pushes toward inference rather than necessary implication. RECONSIDER: Reclassify as I-A rather than N. The observation that these texts use perish/death language is E-level. The conclusion that THIS IS the alternative (with no other option) requires systematizing. Move to I-table.
+
+**CORRECTION: N7 reclassified as I-A.** See I-table below (I1).
 
 ---
 
-#### I-B Resolution: I6 — Conscious intermediate state for the righteous
+### 3. Inferences Table
 
-*(This I-B was established in etc5-01 as IB001/Master IB001 and resolved as Unresolved. This study adds no new E/N items on either side of this specific claim; the resolution from etc5-01 stands. The new evidence in this study (the vocabulary distribution showing mortals as presently thnetos; immortality at resurrection only; life in the Son) adds indirect weight to the AGAINST side but does not introduce a new plain statement on the FOR side. The resolution remains Unresolved within this study.)*
+| # | Claim | Type | Position | What the Bible Actually Says | Why This Is an Inference | Criteria |
+|---|---|---|---|---|---|---|
+| I1 | The Bible teaches that the alternative to eternal life is perishing/death/cessation, not continued conscious existence in torment | I-A | Cond. | E25 (John 3:16): "not perish, but have everlasting life." E26 (John 3:36): "shall not see life." E30 (John 6:53): "no life in you." E37 (Rom 6:23): "wages of sin is death; gift of God is eternal life." E38 (Gal 6:8): "reap corruption" vs. "reap everlasting life." E40 (2 Thess 1:9): "everlasting destruction." E45 (2 Pet 2:12): "utterly perish in their own corruption." E17 (Ps 49:12, 20): "man is like the beasts that perish." | All vocabulary and concepts are drawn from the E/N tables. It is an inference because it systematizes multiple E/N items into a comprehensive claim about what the alternative to eternal life IS. Individual passages present their own contrasts; the claim unifies them into a doctrine. | #5 (systematizing) |
+| I2 | Humans possess an immortal soul that survives death consciously | I-D | ECT | E1 (1 Tim 6:16): God ONLY has immortality. E2 (1 Cor 15:53-54): mortals MUST put on immortality. E3 (Rom 2:7): immortality must be sought. E6 (Rom 1:23): man is corruptible. N1: man does not inherently possess immortality. N5: mortality/corruption is the human condition. (From etc-01) E016 (Ezek 18:4): soul that sins dies. E028 (Matt 10:28): God can destroy soul and body. | The concept "immortal soul" does not appear in any E or N statement. It requires overriding E1 (redefining "only" to mean "only in a certain sense"), E2 (redefining "mortal" to mean "the body only"), N1 (adding that the soul is an exception), and E016/E028 (redefining "die" and "destroy" as applied to the soul). | #1 (adds "immortal soul" concept), #2 (redefines "only," "mortal," "die," "destroy"), #3 (applies Platonic philosophical framework) |
+| I3 | God's exclusive possession of athanasia (1 Tim 6:16) refers only to self-existent, underived immortality; humans may still possess a derived, God-given form of immortality | I-C | ECT-direction | E1 (1 Tim 6:16): "Who only hath immortality." E5 (1 Tim 1:17): God is "immortal." | The text says God "only" has it. The qualification "only self-existent immortality" adds a distinction the text does not make. 1 Tim 6:16 does not say "only self-existent immortality" -- it says "only immortality" (monos echon athanasian). The derived/underived distinction is imported from outside the text. Does not directly override E1 (it qualifies it), so I-C rather than I-D. | #1 (adds derived/underived distinction), #3 (external theological framework) |
+| I4 | "Mortal" (thnetos) in Paul's letters refers only to the body, not to the whole person; the soul/spirit is exempt from mortality | I-C | ECT-direction | E7 (Rom 6:12): "mortal body." E8 (Rom 8:11): "mortal bodies." E9 (2 Cor 4:11): "mortal flesh." E10 (2 Cor 5:4): "mortality." E2 (1 Cor 15:53-54): "this mortal must put on immortality." | In Rom 6:12, 8:11, and 2 Cor 4:11, thnetos modifies "body" or "flesh." However, in 1 Cor 15:53-54, "this mortal" (touto to thneton) is used absolutely -- it is not "this mortal body" but "this mortal [entity/thing]." The claim that the soul is exempt requires adding information the text does not state. Paul never names an immortal counterpart to the mortal body. | #1 (adds soul-exemption concept), #3 (imports body-soul dualism framework) |
+| I5 | Eternal life in John's Gospel refers to a present quality of spiritual life, not to future immortality; therefore having or not having "life" does not bear on the immortality question | I-C | ECT-direction | E25 (John 3:16), E26 (John 3:36), E30 (John 6:53), E46 (1 John 5:11-12). | John does use "has eternal life" in present tense (John 3:36; 5:24; 6:47). This shows that zoe aionios has a present dimension. However, Jesus also connects eternal life to the future resurrection repeatedly: "I will raise him up at the last day" (John 6:40, 44, 54; E31). The claim that "life" language does not bear on immortality requires separating John's "life" concept from Paul's "immortality" concept -- a framework the text does not prescribe. | #3 (external hermeneutical framework separating John from Paul), #5 (systematizing) |
+| I6 | The seeking, gifting, and putting-on language for eternal life/immortality refers only to glorification (the resurrection body), not to the existence of the person; even without receiving this gift, the person continues to exist | I-B | ECT-direction | FOR: E2 (1 Cor 15:53: this mortal puts on immortality -- could refer to the body receiving a new nature), E24 (Luke 20:36: "can die no more" applies to resurrected saints, implying a bodily transformation), E8 (Rom 8:11: mortal BODIES quickened). AGAINST: E1 (1 Tim 6:16: God ONLY has immortality -- no body/soul distinction made), E30 (John 6:53: "no life IN YOU" -- the whole person lacks life), E46 (1 John 5:12: "hath not life" -- the person, not the body), E37 (Rom 6:23: death is wages -- not "bodily death only"), E25 (John 3:16: the person perishes, not the body). | Both sides cite E/N statements. ECT cites texts where thnetos modifies "body" or where the resurrection transformation is described. Conditionalism cites texts where the whole person is addressed (no life "in you," the person "perishes," "hath not life"). The claim requires restricting immortality language to the body alone while the texts also apply life/death language to the whole person. | #2 (choosing between readings: body-only or whole-person), #5 (systematizing) |
+| I7 | Luke 20:38 ("all live unto him") teaches that the patriarchs are currently alive in God's presence, demonstrating consciousness after death | I-C | ECT-direction | E24 (Luke 20:36-38): Jesus says the resurrected "can die no more; they are equal unto the angels; and are the children of God, being the children of the resurrection." He then argues "he is not a God of the dead, but of the living: for all live unto him." | Jesus' argument is for the RESURRECTION (v.37: "Now that the dead ARE RAISED"). The statement "all live unto him" functions as the basis for why God will raise them, not as a description of their current conscious state. The passage is about resurrection, and "live unto him" means God regards them as living because their resurrection is certain. Reading it as "currently alive in heaven" requires adding a framework the text does not state. | #3 (imports conscious intermediate state framework), #4b (cross-references to a doctrine of intermediate state not stated in this passage) |
+| I8 | The Bible teaches conditional immortality: humans are mortal, immortality is only through Christ at the resurrection, and those who reject Christ ultimately cease to exist | I-A | Cond. | E1-E4 (God alone has immortality; mortals put it on at resurrection; it must be sought; Christ brought it to light). E6, E7 (man is corruptible, mortal). E15, E36, E37 (death through Adam; wages of sin is death). E25, E26, E30, E46 (perish, not see life, no life, hath not life). E40, E45 (everlasting destruction; perish in corruption). N1 (man does not inherently possess immortality). N2 (immortality acquired at resurrection). N3 (eternal life conditional on Christ). N5 (human condition is mortality). N6 (death from sin through Adam). | All components are drawn from E/N statements. The inference systematizes multiple lines of evidence -- immortality vocabulary, mortality vocabulary, conditional-life passages, perish/death contrast passages -- into a comprehensive doctrinal claim. It is an inference because it draws the comprehensive conclusion from many texts. | #5 (systematizing), #4a (SIS connections between immortality passages and conditional-life passages via shared vocabulary: athanasia/thnetos, zoe/thanatos) |
+| I9 | The phrase "immortal soul" is a biblical teaching derived from the totality of Scripture even though the exact phrase does not appear | I-D | ECT | E1 (1 Tim 6:16): God ONLY has immortality. N1: Man does not inherently possess immortality. N5: Human condition is mortality/corruption. (From etc-01) E016 (Ezek 18:4): soul dies. E028 (Matt 10:28): God can destroy soul and body. | No E or N statement uses the phrase "immortal soul" or attributes immortality to the human soul. The claim requires: (1) adding a concept absent from the text ("immortal soul"), (2) overriding E1 (God ONLY has immortality), (3) overriding E016 (soul dies), (4) overriding E028 (God can destroy the soul). | #1 (adds absent concept), #2 (redefines "only," "die," "destroy"), #3 (imports extra-biblical framework) |
 
-**Step 1 — Tension (summary from prior study):**
-- FOR: Master E038 (2 Cor 5:8); Master E039 (Phil 1:23); Master E050 (Luk 23:43); Master E051 (Rev 6:9-11); Master E052 (Heb 12:23)
-- AGAINST: Master E020 (Job 14:12); Master E017 (Ecc 9:5); Master E013 (Psa 146:4); Master N009 (death = sleep) *(reclassified to IA007 after Study 17)*; N3/Master N006 (immortality at resurrection)
+---
 
-**Step 2 — Clarity Assessment (additions from this study):**
+#### I-B Resolution: I6 -- Immortality/Life Language Refers Only to Glorification (Body), Not to the Person's Existence
+
+**Step 1 -- Tension:**
+- FOR (immortality language = body-only; person continues to exist regardless): E2 (1 Cor 15:53: mortal puts on immortality -- context discusses the resurrection body), E7 (Rom 6:12: "mortal body"), E8 (Rom 8:11: "mortal bodies"), E9 (2 Cor 4:11: "mortal flesh"), E24 (Luke 20:36: inability to die is linked to the resurrection)
+- AGAINST (immortality/life language = the whole person; without it, the person perishes): E1 (1 Tim 6:16: God ONLY has immortality -- no body/soul distinction), E25 (John 3:16: the person perishes), E26 (John 3:36: shall not SEE life), E30 (John 6:53: "no life IN YOU"), E37 (Rom 6:23: death is wages of sin -- not "bodily death only"), E46 (1 John 5:11-12: "hath not life" -- the person), E17 (Ps 49:12, 20: man perishes like beasts), E38 (Gal 6:8: reap corruption vs. everlasting life), E40 (2 Thess 1:9: everlasting destruction), E45 (2 Pet 2:12: utterly perish in their own corruption)
+
+**Step 2 -- Clarity Assessment:**
 
 | Item | Level | Rationale |
 |------|-------|-----------|
-| E33 (Luk 20:36: "cannot die any more" is post-resurrection) | Plain | Jesus explicitly states the deathless condition is for "they which shall be accounted worthy to obtain that world, and the resurrection from the dead" — a future condition |
-| N3 (immortality at resurrection, not at death) | — | Necessary implication of E3/E4/E7/E33 together |
-| E25 (Dan 12:13: Daniel told to "rest" until "end of the days") | Plain | Prophetic address to Daniel personally; future-oriented awakening; sleep metaphor applied specifically; no intermediate conscious state indicated |
+| E2 | Contextually Clear | The passage discusses the resurrection body (1 Cor 15:35-49), so "this mortal" in v.53 is within a body-transformation context. However, "this mortal" (touto to thneton) is used absolutely, not as "this mortal body." |
+| E7 | Plain | "Your mortal body" -- directly says "body." |
+| E8 | Plain | "Your mortal bodies" -- directly says "bodies." |
+| E9 | Plain | "Our mortal flesh" -- directly says "flesh." |
+| E24 | Contextually Clear | "Cannot die anymore" is tied to the resurrection state. |
+| E1 | Plain | "God only hath immortality" -- no body/soul distinction. Universal scope. Didactic. |
+| E25 | Plain | "Not perish, but have everlasting life" -- the person perishes or has life. Direct teaching from Jesus. |
+| E26 | Plain | "Shall not see life" -- the person, not the body. |
+| E30 | Plain | "No life in you" -- in the whole person. Direct statement from Jesus. |
+| E37 | Plain | "Wages of sin is death; gift of God is eternal life" -- death/life applied to the person. Didactic. |
+| E46 | Plain | "He that hath not the Son hath not life" -- the person. Didactic. |
+| E17 | Plain | "Man is like the beasts that perish" -- the person perishes. Wisdom psalm. |
+| E38 | Plain | "Reap corruption" vs. "reap everlasting life" -- the outcomes for the person. |
+| E40 | Plain | "Everlasting destruction" -- applied to the disobedient. |
+| E45 | Plain | "Utterly perish in their own corruption." |
 
-**Step 3 — Weight (additional consideration from this study):**
+**Step 3 -- Weight:**
+FOR (body-only reading): 3 Plain items (E7, E8, E9 -- these say "mortal body/bodies/flesh") + 2 Contextually Clear (E2, E24). These establish that thnetos is applied to the body in several passages.
+AGAINST (whole-person reading): 10 Plain items (E1, E25, E26, E30, E37, E46, E17, E38, E40, E45). These apply life/death/perishing/immortality to the whole person without distinguishing body from soul. Multiple authors: Paul, Jesus, John, the psalmist, Peter.
 
-E33 (Luk 20:36) is a plain statement by Jesus that the deathless state belongs to "the children of the resurrection" — those who have obtained the resurrection. This adds weight to the AGAINST side: if "cannot die any more" is post-resurrection, then pre-resurrection, the dead can die (or remain in death). The deathless state does not appear in Jesus's own teaching as a present intermediate-state characteristic.
+**Step 4 -- SIS Application:**
+The plain statements that address the whole person (E1, E25, E26, E30, E37, E46) govern the reading of the contextually clear statements about the body (E2, E7-E9). That thnetos sometimes modifies "body" does not establish that only the body is mortal -- it establishes that the body is mortal. The whole-person statements add that the PERSON perishes, has no life, and does not see life without Christ. The body-specific statements are consistent with whole-person mortality; the body-only reading requires adding a soul-exemption the text does not state.
 
-**Step 4 — SIS Application:**
-
-The plain statement by Jesus that the deathless/angel-equal condition belongs to those who have obtained the resurrection (E33) is within a didactic, non-apocalyptic discourse. It should be permitted to interpret the more ambiguous passages (Phil 1:23) about the post-death condition. If deathlessness belongs only to the resurrected state, then "depart and be with Christ" (Phil 1:23) does not automatically indicate an immortal-soul intermediate state.
-
-**Step 5 — Resolution: Unresolved (confirmed, with additional weight against the conscious intermediate state from new material)**
-
-E39 (Phil 1:23) and Master E050 (Luk 23:43) remain plain items on the FOR side. The new evidence from this study (E33, N3) adds weight but does not eliminate the plain items on the FOR side. The I-B remains Unresolved; the question of the intermediate state requires dedicated study in subsequent etc5 studies.
-
----
-
-#### I-B Resolution: I7 — "Dead know not any thing" limited to earthly perspective
-
-*(This I-B was established in etc5-01 as IB002/Master IB002 and resolved as Moderate (weight against the qualifier). No new E/N items in this study change the assessment. The resolution from etc5-01 stands: Moderate, weight AGAINST the qualifier.)*
-
----
-
-#### I-B Resolution: I8 — "Spirit returns to God" = conscious person going to God
-
-*(This I-B was established in etc5-01 as IB005/Master IB005 and resolved as Moderate (weight toward "animating life-force returning to source"). No new E/N items in this study change the assessment. The resolution from etc5-01 stands: Moderate, weight toward the conditionalist reading.)*
+**Step 5 -- Resolution: Strong**
+Plain statements on the whole-person side (10 items from 5+ authors, didactic genre, universal scope) vs. contextually clear or body-specific statements on the other (5 items, all from Paul's discussions of the resurrection body). The plain whole-person statements govern the reading.
 
 ---
 
-### 4. Verification Phase
+### Verification Phase
 
-**Step A: Verify explicit statements:**
+**Step A: Verify explicit statements.**
+- Each E-item directly quotes or closely paraphrases Scripture. Checked.
+- Each uses plain lexical meaning without adding concepts. Checked.
+- E-items state what the text says, not what a position infers. Checked.
+- Items that state what both sides accept (grammatical facts, vocabulary observations) are classified Neutral. Items where one side must deny the textual observation to maintain their position are classified by position.
 
-- E1-E41 checked against verse texts. Each E-statement directly quotes or closely paraphrases the actual verse text.
-- E2 (1 Tim 1:17: God is "immortal" / aphthartos): This is what the text says — a direct application of G862 to God. Legitimate E-statement.
-- E8 (occurrence survey of G110): This is a complete textual survey of all 3 NT occurrences of athanasia. Observable fact. Legitimate E-statement.
-- E10 (all 6 thnetos occurrences): Complete textual survey. Observable fact. Legitimate E-statement.
-- E13 (John 5:26: life in himself = divine attribute): The text explicitly states this of the Father and Son; the absence of such a statement for humans is an observable textual gap, not an inference. Legitimate E-statement.
-- E33 (Luk 20:36: deathless state is post-resurrection): The text explicitly connects "neither can they die any more" with "they which shall be accounted worthy to obtain that world, and the resurrection." The temporal scope is set by the text itself. Legitimate E-statement.
-- E41 (John 3:36): Direct quote of verse text. Legitimate E-statement.
-- No E-items appear to be positional inferences misclassified as E-tier. All are textual observations both sides must acknowledge.
+**Step A2: Verify positional classifications of E-items.**
+- All E-items classified as Conditionalist (E17, E25, E26, E29, E30, E32, E37, E38, E40, E45, E46) have full Tree 3 applications documented above.
+- No E-items are classified as ECT. No verse in this study directly and didactically states that the human soul possesses inherent immortality. The passages commonly cited for ECT (Luke 16:19-31, Rev 14:10-11, Rev 20:10) are not within the scope of this study and will be examined in dedicated etc studies.
+- All neutral E-items are textual observations both sides accept.
 
-**Step B: Verify necessary implications:**
+**Step B: Verify necessary implications.**
+- Each N-item follows unavoidably from cited E-items. Checked.
+- Three N-tier tests applied to each. All pass (documented above).
+- N7 was reclassified to I1 (I-A) because the conclusion requires systematizing beyond what individual texts state.
+- N3 (eternal life conditional on Christ) is classified Conditionalist because ECT must qualify what "hath not life" means to maintain their position.
 
-- N2 (vocabulary distribution): Does this require interpretation? The claim is a complete occurrence survey — G110/G861/G862 never applied to present human state; G2349/G5349 always applied to present human state. This is an observable count, not an interpretation. Both sides must acknowledge the vocabulary distribution. PASSES all three tests.
-- N3 (immortality at resurrection): Is there any alternative timing given in 1 Cor 15:52-54? The "at the last trump" specification in v.52 makes the timing explicit. The deathless state in Luk 20:36 is tied to "obtaining the resurrection." PASSES.
-- N4 (life in himself = divine attribute): Does this require interpretation? John 5:26 says the Father has it; the Son has it (given). It does NOT say humans have it. Both sides must acknowledge what the text says and what it does not say. PASSES.
-- N5 (tree of life: man lacked immortality): Does an ECT proponent necessarily agree? The question is whether "lest he eat and live for ever" requires the implication that he did not yet live forever. If man already had immortality, God's action is purposeless. This follows directly from the text without adding concepts. PASSES.
-- N6 (three positive words never applied to present human state): This is a complete occurrence survey result. No interpretation required. PASSES.
-- N10 (life is a gift, not inherent; not having Son = not having life): 1 John 5:12 is the explicit statement. The universal negative "hath not the Son hath not life" is unqualified. PASSES.
-- N11 (death universal; universal appointment): Heb 9:27 ("appointed unto men once to die") is unqualified. Rom 5:12 ("death passed upon all men") is unqualified. PASSES.
-- N12 (death is currently active; destruction is future): 1 Cor 15:26 says death SHALL BE destroyed (future). Paul quotes Isa 25:8 and Hos 13:14 as fulfilled AT the resurrection in vv.54-55. The future orientation is in the text itself. PASSES.
+**Step C: Verify inference classifications (source test).**
+- I1 (alternative is perishing): All components in E/N tables -> text-derived. Checked.
+- I2 (immortal soul): Concept "immortal soul" absent from E/N -> external. Checked.
+- I3 (self-existent vs. derived immortality): Distinction not in text -> external. Checked.
+- I4 (thnetos = body only): Soul-exemption not in text -> external. Checked.
+- I5 (John's "life" = quality, not immortality): Framework not in text -> external. Checked.
+- I6 (immortality language = body-only): Components from E/N on both sides -> text-derived (I-B). Checked.
+- I7 (Luke 20:38 = currently alive): Intermediate state framework not stated in Luke 20 -> external. Checked.
+- I8 (conditional immortality): All components in E/N tables -> text-derived. Checked.
+- I9 (immortal soul is biblical): Concept absent from E/N -> external. Checked.
 
-**Step C: Verify inference classifications (source test):**
+**Step D: Verify inference classifications (direction test).**
+- I1: Does not require any E/N to mean other than lexical value -> aligns -> I-A. Checked.
+- I2: Requires E1 ("only") to mean "only self-existent," E016 ("die") to mean "spiritual death," etc. -> conflicts -> I-D. Checked.
+- I3: Does not directly override E1 (it qualifies it, which is not the same as overriding) -> compatible -> I-C. Checked.
+- I4: Does not directly override E7-E9 (the body IS mortal); adds that the soul is exempt -> compatible -> I-C. Checked.
+- I5: Does not override E25-E30; offers alternative reading -> compatible -> I-C. Checked.
+- I6: Requires E1 to mean "body-only," E25 (perish) to mean "bodily perish," E46 (hath not life) to mean "hath not glorified life" -> conflicts -> I-B. Checked.
+- I7: Does not override E24; adds interpretation -> compatible -> I-C. Checked.
+- I8: Does not require any E/N to mean other than lexical value -> aligns -> I-A. Checked.
+- I9: Requires E1, E016, E028 to mean something other than what they say -> conflicts -> I-D. Checked.
 
-- I1 (no inherently immortal soul): All components in E/N tables. I-A confirmed (same as Master IA003).
-- I2 (unconscious dead): All components in E/N tables. I-A confirmed (same as Master IA005).
-- I3 (vocabulary pattern): All components are textual survey facts in E/N tables. Systematizes them into a theological conclusion. I-A confirmed.
-- I4 (tree of life = external immortality): All components in E/N tables (Gen 2:9/3:22-24, Rev 2:7, Rev 22:2,14). Systematizes the narrative arc. I-A confirmed.
-- I5 (eternal life exclusively through Son): All components in E/N tables (John 5:26, 1 John 5:11-12, John 10:28, John 3:36, Rom 6:23). Systematizes multiple explicit statements. I-A confirmed.
-- I6 (conscious intermediate state): E/N items on both sides. I-B confirmed (same as Master IB001).
-- I7 ("under the sun" qualifier): Same as Master IB002. I-B confirmed.
-- I8 (spirit returns = conscious person): Same as Master IB005. I-B confirmed.
-- I9 (immortal soul): Conflicts with E1/N1, E3/N3, E22/N7, E23/N8. I-D confirmed (same as Master ID001).
-- I10 (monos = pre-eminent only): Requires monos to mean something other than its plain exclusive meaning. Conflicts with E1/N1, E3, E9, N3, N9. I-D confirmed.
-- I11 (subjective time / instantaneous consciousness): The "subjective time" concept is not in any E/N table. Does not override any E/N statement. I-C confirmed (same as Master IC001).
-- I12 ("soul dies" = only physical): Conflicts with E22/N7, E24, Master E043. I-D confirmed (same as Master ID002).
+**Step E: Consistency checks.**
+- I-A (I1, I8): Each requires only criterion #5 (systematizing). I8 also uses #4a (SIS with verified connections). Confirmed.
+- I-B (I6): Has E/N items on BOTH sides. Confirmed.
+- I-C (I3, I4, I5, I7): None overrides an E/N statement. Confirmed.
+- I-D (I2, I9): Both override multiple E/N statements. Confirmed.
 
-**Step D: Verify inference classifications (direction test):**
-
-- I9: Requires E1's "only" to mean "pre-eminently"; E3's "must put on" to be limited to body only; E22's "die" to mean "spiritual separation." All require lexical override. I-D confirmed.
-- I10: Requires monos (alone/only) to mean "pre-eminently" rather than "exclusively." Requires overriding the plain exclusive meaning. I-D confirmed.
-- I12: Requires E22's "the soul that sins shall die" (nephesh is subject) to mean "the body of the person shall die." Requires overriding the stated grammatical subject. I-D confirmed.
-
-**Step E: Consistency checks:**
-
-- I-A items (I1, I2, I3, I4, I5): Each requires only criterion #5 (systematizing). None require #1, #2, or #3 independently. Confirmed I-A.
-- I-B items (I6, I7, I8): Each has E/N on both sides. Confirmed I-B.
-- I-C (I11): Does not override any E/N statement; the subjective-time concept is external to the text. Confirmed I-C.
-- I-D (I9, I10, I12): Each overrides at least one E/N statement. Confirmed I-D.
-
-**Step F: Verify SIS connections:**
-
-- I6 Resolution uses E33 (Luk 20:36: deathless state is post-resurrection) to add weight against the conscious intermediate state. Connection: E33 is in the same Lukan discourse as the resurrection argument; it is a direct contextual statement about when deathlessness begins. This is a #4a connection (same author, contextual connection).
-- I-B resolutions I7 and I8 are carried forward from etc5-01; their SIS documentation stands.
-
----
-
-### 5. Master Evidence File Update
-
-**Items tracked against etc5-master-evidence.md:**
-
-*For items that already exist in the master file, the master ID is noted in the tables above. For new items, master IDs are assigned as follows:*
-
-**New E items (continuing from E060):**
-- E2 (1 Tim 1:17: God is immortal/aphthartos) → **Master E061**
-- E5 (1 Cor 15:42: sown in corruption, raised in incorruption) → **Master E062**
-- E6 (1 Cor 15:50: flesh and blood cannot inherit; corruption cannot inherit incorruption) → **Master E063**
-- E7 (1 Cor 15:52: dead raised incorruptible at last trump) → **Master E064**
-- E11 (2 Cor 5:4: mortality swallowed up of life) → **Master E065**
-- E12 (Rom 1:23: uncorruptible God vs. corruptible man) → **Master E066**
-- E13 (John 5:26: life in himself = divine attribute) → **Master E067**
-- E14 (1 John 5:11-12: life in Son; having/not having Son = having/not having life) → **Master E068**
-- E15 (Heb 9:27: appointed unto men once to die) → **Master E069**
-- E17 (Rev 2:7: tree of life promised to overcomers) → **Master E070**
-- E18 (Rev 22:2,14: tree of life in new Jerusalem; access for those with right to it) → **Master E071**
-- E19 (Rom 6:23: wages of sin is death; gift of God is eternal life) → **Master E072**
-- E20 (Rom 5:12: death passed upon all men) → **Master E073**
-- E21 (Rom 8:11: mortal bodies to be quickened by Spirit — future) → **Master E074**
-- E26 (Isa 25:8: God will swallow up death in victory) → **Master E075**
-- E27 (Isa 26:19: God's dead shall live and arise; dwelling in dust) → **Master E076**
-- E28 (Isa 26:14: wicked dead shall not live, shall not rise) → **Master E077**
-- E29 (Hos 13:14: God will ransom from grave, redeem from death) → **Master E078**
-- E30 (Psa 49:7-9: no man can purchase endless life for another) → **Master E079**
-- E31 (Psa 49:15: God will redeem my soul from the power of the grave) → **Master E080**
-- E32 (2 Tim 1:10: Christ abolished death, brought immortality to light) → **Master E081**
-- E33 (Luk 20:35-36: deathless state is post-resurrection) → **Master E082**
-- E34 (1 Cor 15:26: death is the last enemy, to be destroyed) → **Master E083**
-- E35 (1 Cor 15:22: in Adam all die; in Christ all shall be made alive) → **Master E084**
-- E36 (1 Pet 1:3-5: incorruptible inheritance reserved in heaven, to be revealed in last time) → **Master E085**
-- E37 (Heb 2:14-15: humans all their lifetime subject to bondage of fear of death) → **Master E086**
-- E40 (John 10:28: Christ gives eternal life to his sheep) → **Master E087**
-- E41 (John 3:36: believing/not believing Son = having/not having life) → **Master E088**
-
-**New N items (continuing from N012):**
-- N2 (vocabulary distribution: positive immortality words = God and resurrection only; negative mortality words = present human state only) → **Master N013**
-- N3 (mortals receive immortality at resurrection — not at death, birth, or regeneration) — this is an extension and confirmation of Master N006, which already states this. N3 in this study adds the Luk 20:36 evidence to Master N006's basis. **Update Master N006 Also In: etc5-02** rather than creating a new item. N3 = **Master N006** (Also In: etc5-02)
-- N4 (life in himself = divine attribute; humans receive life from external source) → **Master N014**
-- N5 (man in fallen state did not possess inherent immortality; tree of life was the blocked external source) → **Master N015**
-- N6 (positive immortality words never applied to present human soul/spirit/body) → **Master N016**
-- N10 (eternal life is a gift from Christ; not having Son = not having life) → **Master N017**
-- N11 (death is universal human appointment; consequence of Adam's sin) → **Master N018**
-- N12 (death currently operational; its destruction is eschatological) → **Master N019**
-
-**New I items:**
-- I3 (vocabulary pattern demonstrates mortals are presently mortal/corruptible; receive immortality at resurrection) → **Master IA009**
-- I4 (tree of life narrative demonstrates immortality is external, conditional, divinely mediated) → **Master IA010**
-- I5 (eternal life exclusively through Son) → **Master IA011**
-- I10 (monos = pre-eminent only, not exclusive) → **Master ID003**
-
-**Also In updates for existing items:**
-- Master E003 (E16 in this study) → Also In: etc5-02
-- Master E023 (E25 in this study) → Also In: etc5-02
-- Master E024 (E22 in this study) → Also In: etc5-02
-- Master E026 (E23 in this study) → Also In: etc5-02
-- Master E028 (E24 in this study) → Also In: etc5-02
-- Master E029 (E1 in this study) → Also In: etc5-02
-- Master E030 (E9 in this study) → Also In: etc5-02
-- Master E031 (E3 in this study) → Also In: etc5-02
-- Master E032 (E4 in this study) → Also In: etc5-02
-- Master E038 (E39 in this study) → Also In: etc5-02
-- Master E039 (E38 in this study) → Also In: etc5-02
-- Master E054 (E8 in this study) → Also In: etc5-02
-- Master E055 (E10 in this study) → Also In: etc5-02
-- Master N005 (N1 in this study) → Also In: etc5-02
-- Master N006 (N3 in this study) → Also In: etc5-02
-- Master N007 (N7 in this study) → Also In: etc5-02
-- Master N008 (N8 in this study) → Also In: etc5-02
-- Master N012 (N9 in this study) → Also In: etc5-02
-- Master IA003 (I1 in this study) → Also In: etc5-02
-- Master IA005 (I2 in this study) → Also In: etc5-02
-- Master IB001 (I6 in this study) → Also In: etc5-02
-- Master IB002 (I7 in this study) → Also In: etc5-02
-- Master IB005 (I8 in this study) → Also In: etc5-02
-- Master IC001 (I11 in this study) → Also In: etc5-02
-- Master ID001 (I9 in this study) → Also In: etc5-02
-- Master ID002 (I12 in this study) → Also In: etc5-02
-
-Evidence items tracked in etc5-master-evidence.md.
+**Step F: Verify SIS connections.**
+- 1 Cor 15:45 quoting Gen 2:7: verified textual connection (direct OT quotation). #4a.
+- 1 Cor 15:54 quoting Isa 25:8: verified textual connection (direct OT quotation). #4a.
+- Acts 2:27, 31 and Acts 13:35-37 quoting Ps 16:10: verified textual connection. #4a.
+- John 6:53 + 1 John 5:12: same author, shared vocabulary (zoe, echo). #4a.
+- Rom 6:23 + Gal 6:8: same author, parallel structure (death/corruption vs. eternal life). #4a.
+- 1 Cor 15:53-54 + 2 Cor 5:4: same author, shared vocabulary (thnetos, katapino). #4a.
+- I7 connection (Luke 20:38 -> conscious intermediate state): no verified textual link between "all live unto him" and the doctrine of conscious intermediate existence. Luke 20:38 is Jesus' argument FOR the resurrection. #4b (inference trigger). Confirmed.
 
 ---
 
-### 6. Tally Summary (This Study)
+### Tally Summary
 
-*This tally counts items first referenced in this study plus items cross-referenced from etc5-01.*
+```
+- Explicit statements: 57 (11 from this study that were already in master from etc-01, 46 new to master)
+- Necessary implications: 6
+- Inferences: 9
+  - I-A (Evidence-Extending): 2
+  - I-B (Competing-Evidence): 1 (1 resolved Strong toward Conditionalist reading)
+  - I-C (Compatible External): 4
+  - I-D (Counter-Evidence External): 2
+```
 
-**New items introduced in this study:**
-- Explicit statements (new): 28 (E061-E088)
-- Necessary implications (new): 7 (N013-N019) — Note: N3 extends Master N006 rather than creating a separate item
-- Inferences (new):
-  - I-A: 3 (IA009, IA010, IA011)
-  - I-B: 0 new (I6, I7, I8 carry forward from etc5-01)
-  - I-C: 0 new (I11 = Master IC001)
-  - I-D: 1 new (ID003)
+### Positional Tally (This Study)
 
-**Items cross-referenced from etc5-01 (not new to master file):**
-- E: E1, E3, E4, E8, E9, E10, E16, E22, E23, E24, E25, E38, E39 = 13 items
-- N: N1, N3, N7, N8, N9 = 5 items
-- I: I1, I2, I6, I7, I8, I9, I11, I12 = 8 items
+| Tier | Conditionalist | ECT | Neutral | Total |
+|------|----------------|-----|---------|-------|
+| Explicit (E) | 11 | 0 | 46 | 57 |
+| Necessary Implication (N) | 1 | 0 | 5 | 6 |
+| I-A (Evidence-Extending) | 2 | 0 | 0 | 2 |
+| I-B (Competing-Evidence) | 0 | 1 | 0 | 1 |
+| I-C (Compatible External) | 0 | 4 | 0 | 4 |
+| I-D (Counter-Evidence External) | 0 | 2 | 0 | 2 |
+| **TOTAL** | **14** | **7** | **51** | **72** |
 
-**This study's tally (all items cited, including cross-references):**
-- Explicit statements cited: 41
-- Necessary implications cited: 12
-- Inferences cited: 12 total
-  - I-A (Evidence-Extending): 7 (I1, I2, I3, I4, I5, and cross-references to Master IA003, IA005)
-  - I-B (Competing-Evidence): 3 (I6, I7, I8) — 0 newly resolved, 2 remain Moderate from prior study (I7, I8), 1 remains Unresolved (I6)
-  - I-C (Compatible External): 1 (I11)
-  - I-D (Counter-Evidence External): 3 (I9, I10, I12)
-
----
-
-### 7. What CAN Be Said / What CANNOT Be Said
-
-**What CAN be said (Scripture explicitly states or necessarily implies):**
-
-- God alone currently possesses immortality (athanasia, G110) as an inherent attribute — 1 Tim 6:16 uses the exclusive monos (alone/only). (E1/Master E029, N1/N005)
-- God is described as "immortal" (aphthartos, G862) in the NT doxologies — 1 Tim 1:17; this is the only entity to whom the immortality-positive vocabulary applies in the present tense. (E2/E061)
-- The Son possesses "life in himself" (zoe en heauto) as a divine property given from the Father; this attribute is not stated of any human. (E13/E067, N4/N014)
-- The three NT words for immortality/incorruption (G110 athanasia, G861 aphtharsia, G862 aphthartos) are never applied to any present human being in any NT text. (N2/N013, N6/N016)
-- Human beings are described as mortal (thnetos, G2349) and corruptible (phthartos, G5349) in the present age, in all NT occurrences of these words. (E10/Master E055)
-- Man in the fallen state did not possess inherent immortality; God actively blocked access to the tree of life to prevent man from living forever. (E16/Master E003, N5/N015)
-- The body/person undergoes transformation at the resurrection: corruptible puts on incorruption; mortal puts on immortality. The timing is specified as "at the last trump." (E3, E4, E7/Master E031-E032, E064; N3/N006)
-- The deathless state ("cannot die any more") is explicitly a post-resurrection state in Jesus's own teaching (Luk 20:35-36). (E33/E082)
-- The soul (nephesh) can die; it is stated as the grammatical subject of dying in Ezekiel 18:4. (E22/Master E024, N7/N007)
-- God is able to destroy both soul and body in gehenna. (E23/Master E026, N8/N008)
-- Humans seek immortality (Rom 2:7) and do not currently possess it. (E9/Master E030, N9/N012)
-- Eternal life is in the Son; those who do not have the Son do not have life (1 John 5:11-12). (E14/E068, N10/N017)
-- Death is the universal human appointment and the consequence of Adam's sin passing to all (Heb 9:27; Rom 5:12). (E15/E069, E20/E073, N11/N018)
-- Death is currently an active enemy; its final destruction is an eschatological event at the resurrection (1 Cor 15:26; Isa 25:8). (E34/E083, E26/E075, N12/N019)
-- Christ abolished death and brought immortality to light through the gospel (2 Tim 1:10). (E32/E081)
-- The incorruptible inheritance is reserved in heaven and "ready to be revealed in the last time" — not yet received. (E36/E085)
-- All humans are described as in bondage to the fear of death throughout their lifetimes (Heb 2:14-15). (E37/E086)
-- The OT consistently anticipates a future resurrection: the dead sleep in the dust (Dan 12:2); God will ransom from the grave (Hos 13:14); God's dead will arise (Isa 26:19); death will be swallowed up in victory (Isa 25:8). All these are future-tense promises. (E25-E29/E082-E078)
-- The wages of sin is death; the gift of God is eternal life through Jesus Christ — death is the earned result, life is the given gift. (E19/E072)
-
-**What CANNOT be said (not explicitly stated or necessarily implied by Scripture):**
-
-- The Bible explicitly states that humans possess an inherently immortal soul. No such statement exists; 1 Tim 6:16 explicitly denies it for any creature with the unqualified word monos (alone/only). (I9/Master ID001 is I-D)
-- The Bible states that monos in 1 Tim 6:16 means "pre-eminently" rather than "exclusively." The text provides no qualifier, and the same word used in the adjacent verse for God as "only Potentate" is exclusive. (I10/ID003 is I-D)
-- The Bible explicitly states that any human soul is currently deathless or cannot die. Multiple texts state the opposite: the soul can die (Ezk 18:4); God can destroy the soul (Mat 10:28); every living soul died (Rev 16:3). (I12/Master ID002 is I-D)
-- The Bible explicitly states there is a conscious intermediate state between death and resurrection. The texts cited for this (Phil 1:23; 2 Cor 5:8; Luk 23:43) are interpreted as implying it; the plain state-of-the-dead passages (Ecc 9:5; Psa 146:4; Job 14:12) describe unconsciousness. This remains I-B Unresolved. (I6/Master IB001)
-- The immortality-positive words (athanasia, aphtharsia, aphthartos) describe the present human soul. In every NT occurrence these words describe either God's nature or the resurrection state.
-- Receiving eternal life through faith means the soul has already put on immortality. 1 Cor 15:53 specifies the "putting on" as a future event at the resurrection; receiving eternal life as a covenantal status (1 John 5:12) is not equivalent to the body-transformation of 1 Cor 15.
-- The "death shall not see corruption" promise (Psa 16:10 = Acts 2:27,31) applies to all believers as a present state. Acts 2 explicitly applies this to Jesus's resurrection — Christ's body did not see corruption because he was raised. The broader application to believers is at their own resurrection.
-- The OT consistently describes dead humans as conscious in any positive intermediate state. Dan 12:13 addresses Daniel personally with "thou shalt rest... stand in thy lot at the end of the days" — sleep until the final resurrection, not intermediate conscious existence.
+Note: I-B item I6 classified by the direction it argues (ECT-direction), but resolved Strong toward the Conditionalist reading via SIS.
 
 ---
 
-*Study completed: 2026-02-19*
-*Files: 01-topics.md, 02-verses.md, 03-analysis.md, 04-word-studies.md*
-*Evidence items tracked in etc5-master-evidence.md*
-*Cross-references to etc5-01-what-is-man: E029, E030, E031, E032, E038, E039, E054, E055; N005, N006, N007, N008, N009, N012; IA003, IA005, IB001, IB002, IB005, IC001, ID001, ID002*
+## What CAN Be Said (Scripture Explicitly States or Necessarily Implies)
+
+1. God alone (monos) possesses immortality (athanasia) (1 Tim 6:16).
+2. God is incorruptible (aphthartos); man is corruptible (phthartos) (Rom 1:23; 1 Tim 1:17).
+3. The human body/flesh is mortal (thnetos) (Rom 6:12; 8:11; 2 Cor 4:11; 5:4).
+4. Mortals must "put on" immortality (athanasia) at the resurrection (1 Cor 15:53-54).
+5. Immortality (aphtharsia) must be sought (Rom 2:7).
+6. Christ abolished death and brought life and immortality (aphtharsia) to light through the gospel (2 Tim 1:10).
+7. Death entered through Adam; in Adam all die (1 Cor 15:21-22; Rom 5:12, 17).
+8. The wages of sin is death; the gift of God is eternal life (Rom 6:23).
+9. Man was barred from the tree of life to prevent living forever (Gen 3:22-24).
+10. Man does not inherently possess immortality (N1, from E1 + E2 + E3).
+11. Immortality is acquired at the resurrection, not before (N2, from E2 + E13 + E24).
+12. Eternal life is conditional on relationship with Christ (N3, from E25, E26, E29, E30, E32, E46).
+13. He that has the Son has life; he that has not the Son has not life (1 John 5:12).
+14. Those who believe shall not perish but have everlasting life (John 3:16). Those who believe not shall not see life (John 3:36).
+15. Without Christ, "ye have no life in you" (John 6:53).
+16. The dead are raised incorruptible; the corruptible puts on incorruption (1 Cor 15:52-54).
+17. The whole creation is in bondage of corruption, awaiting the redemption of the body (Rom 8:21, 23).
+18. The resurrected can "die no more" -- implying they could die before (Luke 20:36).
+19. Man is like the beasts that perish (Ps 49:12, 20).
+20. Bodily decay (diaphthora) is the normal human post-death experience; Christ's body was the exception (Acts 2:29-31; 13:36-37).
+
+## What CANNOT Be Said (Not Explicitly Stated or Necessarily Implied by Scripture)
+
+1. **It cannot be said that Scripture teaches humans have an "immortal soul."** The phrase does not appear in the Bible. No E or N statement attributes athanasia, aphtharsia, or aphthartos to the human soul. E1 states God ONLY has immortality. E016 (Ezek 18:4) states the soul dies. E028 (Matt 10:28) states God can destroy the soul.
+
+2. **It cannot be said that 1 Tim 6:16 ("God only hath immortality") means only "self-existent" immortality.** The text does not qualify monos. The derived/underived distinction is not present in the passage. This reading requires importing a distinction from outside the text (I3, classified I-C).
+
+3. **It cannot be said that "mortal" (thnetos) applies only to the body while the soul is immortal.** Paul never states the soul is immortal. In 1 Cor 15:53, "this mortal" is used absolutely without restricting the referent to the body alone. No text names an immortal counterpart to the mortal body.
+
+4. **It cannot be said that eternal life is an inherent human possession.** Every passage examined presents eternal life as a gift (Rom 6:23), promise (Tit 1:2; 1 John 2:25), hope (Tit 3:7), something to seek (Rom 2:7), something to lay hold of (1 Tim 6:12), something given by Christ (John 10:28; 17:2), and located "in his Son" (1 John 5:11).
+
+5. **It cannot be said that Luke 20:38 ("all live unto him") describes the patriarchs as presently conscious.** Jesus' argument is for the resurrection (v.37: "Now that the dead ARE RAISED"). The statement functions as the theological ground for future resurrection, not a description of current conscious existence.
+
+6. **It cannot be said that any NT passage applies immortality vocabulary (athanasia, aphtharsia, aphthartos) to the human soul as an inherent, present possession.** All 18 NT occurrences of these three words describe either (a) God's nature, (b) the future resurrection state, (c) spiritual/heavenly qualities, or (d) something to seek or that Christ revealed. Zero occurrences describe the human soul or any part of the human being as presently immortal.
+
+---
+
+## Analysis
+
+### The Immortality Word Families
+
+This study examined all 18 NT occurrences of athanasia (3x), aphtharsia (8x), and aphthartos (7x), plus all 6 occurrences of thnetos, all 9 occurrences of phthora, and all 6 occurrences of diaphthora.
+
+The distribution pattern is consistent across all terms: immortality/incorruptibility language is applied to God as an inherent attribute and to believers as a future acquisition at the resurrection. Mortality/corruption language is applied to the current human condition. No occurrence crosses this pattern.
+
+### The "Only" (monos) of 1 Timothy 6:16
+
+The word monos appears in a doxology to God that ascribes exclusive attributes: "the blessed and only (monos) Potentate, the King of kings, and Lord of lords; who only (monos) hath immortality." The same word monos is used in 1 Tim 1:17 ("the only wise God") and John 17:3 ("the only true God"). In each case, monos marks exclusivity without qualification. The text does not say "only self-existent immortality" or "only inherent immortality." It says "only hath immortality."
+
+### The "Put On" (enduo) of 1 Corinthians 15
+
+The verb enduo (to put on, clothe oneself with) in 1 Cor 15:53-54 describes the transition from mortality to immortality. Paul uses the same verb in Rom 13:14 ("put on the Lord Jesus Christ"), Gal 3:27 ("put on Christ"), Eph 6:11 ("put on the whole armour of God"), Col 3:10 ("put on the new man"). In every use, enduo describes putting on something one does not currently possess or wear. The mortal puts on immortality the way a person puts on clothing -- from a state of not having it to a state of having it.
+
+### The Conditional Structure of Eternal Life
+
+Across all authors examined -- Paul, John, Jesus (as reported by John), Peter, the psalmists, Isaiah -- eternal life is consistently described as conditional. The conditions vary in wording (believe, seek, come to Christ, do God's will, have the Son) but are consistent in substance: life is through Christ. Without Christ, the stated alternatives are: perish (John 3:16; 10:28), not see life (John 3:36), have no life (John 6:53; 1 John 5:12), death (Rom 6:23), corruption (Gal 6:8), and destruction (2 Thess 1:9).
+
+### The Absence of "Immortal Soul"
+
+A search of all gathered evidence produces zero occurrences of the phrase "immortal soul" or any equivalent. No verse states "the soul is immortal," "the soul cannot die," "the soul lives forever," or "the soul possesses athanasia." The closest any text comes is Matt 10:28 -- but that verse states the opposite: God is able to DESTROY both soul and body in gehenna. Ezek 18:4 states the soul that sins SHALL DIE. These texts attribute mortality and destructibility to the soul.
+
+### Cross-Study Connections with etc-01
+
+This study confirms and deepens findings from etc-01 (What Is Man?):
+- N002 (man does not inherently possess immortality) is confirmed and expanded by the complete word studies of athanasia, aphtharsia, aphthartos, and thnetos.
+- N005 (the soul is mortal) from etc-01 is consistent with the finding that no immortality vocabulary is applied to the human soul.
+- E024-E027 (the four core immortality verses from etc-01) are now examined with full word-study context and expanded circles of analysis.
+- I001 (humans possess an immortal soul = I-D) from etc-01 is confirmed: the complete immortality word study reinforces that the concept requires overriding multiple E/N statements.
+
+---
+
+## Conclusion
+
+This study examined 57 explicit statements, 6 necessary implications, and 9 inferences regarding who possesses immortality.
+
+11 explicit statements use destruction/death/perishing/absence-of-life vocabulary (classified Conditionalist). 0 explicit statements attribute immortality to the human soul or describe humans as inherently immortal (no ECT E-items identified). 46 explicit statements are neutral textual observations accepted by all positions.
+
+1 necessary implication is classified Conditionalist (eternal life conditional on Christ). 5 are neutral (man does not possess immortality, immortality acquired at resurrection, transition is future, human condition is mortality, death entered through Adam).
+
+2 inferences (I-A) extend the explicit evidence: one synthesizes the alternative-to-life passages, the other systematizes conditional immortality as a comprehensive position. 1 inference (I-B) addresses whether immortality language refers only to the body; it was resolved Strong toward the whole-person reading (10 Plain items from 5+ authors on the whole-person side vs. 5 items on the body-specific side). 4 inferences (I-C) are compatible external frameworks offered by the ECT position (self-existent vs. derived immortality, body-only mortality, John's "life" as quality only, Luke 20:38 as present consciousness). 2 inferences (I-D) require overriding multiple E/N statements (the claim of an inherently immortal soul and the claim that "immortal soul" is a biblical teaching).
+
+---
+
+*Study completed: 2026-02-20*
+*Files: 01-topics.md, 02-verses.md, 03-analysis.md, 04-word-studies.md, CONCLUSION.md*
+*Evidence items tracked in etc-master-evidence.md*

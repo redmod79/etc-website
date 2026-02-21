@@ -1,593 +1,404 @@
-# Verse Analysis: What Is Man?
-## Study: etc5-01-what-is-man
-## Date: 2026-02-19
+# Verse Analysis
+
+## Question
+What does Scripture explicitly say about the nature and composition of human beings (biblical anthropology)? Focus on nephesh (soul), ruach (spirit), neshamah (breath), the creation of man, whether humans ARE souls or HAVE souls, and what happens at death.
 
 ---
 
 ## Verse-by-Verse Analysis
 
----
+### A. The Creation of Man
 
-### Focus Area 1: The Creation Formula (Genesis 2:7)
+#### Genesis 1:20-21, 24, 30 (Nephesh Applied to Animals)
+**Context:** Day 5-6 of creation. God creates sea creatures, birds, land animals.
+**Direct statement:** Animals are called nephesh chayyah ("living creature/living soul"). The waters bring forth abundantly "the moving creature that hath life [nephesh]" (1:20). "Every living creature [nephesh chayyah] that moveth" (1:21). "The earth bring forth the living creature [nephesh chayyah]" (1:24). "Every thing that creepeth upon the earth, wherein there is life [nephesh]" (1:30).
+**Key observations:** The term nephesh chayyah is applied to sea creatures, birds, and land animals before man is created. This is the same term applied to man in Gen 2:7. Hebrew parsing confirms nephesh is used as a noun meaning "soul/creature" in both animal and human contexts with identical grammatical form.
+**Cross-references:** Gen 2:19 uses the same term for animals named by Adam. Gen 9:10,12,15,16 uses nephesh for animals in the Noahic covenant.
 
-#### Genesis 2:7
-
-**Context:** The narrative of man's creation in the garden of Eden. God has formed the world and now creates the human.
-
+#### Genesis 2:7 (The Creation Formula)
+**Context:** The detailed account of man's creation from the ground.
 **Direct statement:** "And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul."
-
 **Key observations:**
-1. **Two components, one result.** The formula has two inputs (dust of the ground + breath of life/neshamah chayyim) and one output (man became a nephesh chayyah = living soul). Man does not *receive* a soul added to a pre-existing body. Man *becomes* a soul — the whole person is the nephesh.
-2. **Verb "became" (wayehi).** Hebrew morphological analysis: Qal Wayyiqtol 3rd person masculine singular of H1961 hayah (to be/become). The preposition ל (le) before nephesh marks RESULT, not source. Man is not handed a soul; he becomes one.
-3. **Neshamah as the breath from God.** H5397 neshamah is the specific term for the divine breath-spark breathed into Adam. This is God's own animating breath, not a self-existent human soul. Job 27:3 calls it "the spirit of God."
-4. **Animals are also nephesh chayyah.** Genesis 2:19 uses the identical Hebrew construction — "nephesh chayyah" — for animals. Genesis 1:20, 1:21, and 1:24 all apply nephesh chayyah to sea creatures and land animals. The creation formula does not make nephesh uniquely human.
+1. Three components: (a) dust (aphar) from the ground (adamah), (b) breath of life (nishmat chayyim), (c) result: living soul (nephesh chayyah).
+2. Hebrew parsing: hayah (Qal Wayyiqtol 3ms) = "became" -- man BECAME a nephesh chayyah. The text does not say man received a soul; it says he became one.
+3. The verb yatsar ("formed/shaped") is the same verb used for forming animals in Gen 2:19.
+4. Naphach ("blow/breathe") is the action verb -- God blew neshamah into the dust-formed body.
+5. The same term nephesh chayyah is used for animals in Gen 1:20-21,24. Man is not distinguished from animals by this term.
+**Cross-references:** 1 Cor 15:45 quotes this verse: "The first man Adam was made [ginomai] a living soul [psyche]." Job 33:4: "The Spirit of God hath made me, and the breath [neshamah] of the Almighty hath given me life." Isa 42:5: God "giveth breath [neshamah] unto the people upon it, and spirit [ruach] to them that walk therein."
 
-**What the text does NOT say:**
-- The text does not say man received an immortal soul.
-- The text does not say man's soul is a separate substance from the body.
-- The text does not say animals have a different life-principle than man.
-- The text does not say the neshamah continues to exist independently after separation from the body.
+#### Genesis 3:19 (Dust to Dust)
+**Context:** God's judgment on Adam after the fall.
+**Direct statement:** "For dust thou art, and unto dust shalt thou return."
+**Key observations:**
+1. Hebrew parsing: shub ("return") appears twice -- infinitive construct and imperfect. Man's origin (dust) is his destiny (dust).
+2. The return is the direct reversal of Gen 2:7. Dust was formed into man; man disintegrates back to dust.
+3. Gen 3:22-24 adds: man was barred from the tree of life "lest he put forth his hand, and take also of the tree of life, and eat, and live for ever." The text states that access to the tree of life was required for living forever. Removal from the tree means man does not live forever by his own nature.
+**Cross-references:** Ps 103:14: "He knoweth our frame; he remembereth that we are dust." Job 10:9: "Wilt thou bring me into dust again?" Ecc 12:7: dust returns to earth.
 
-**Cross-references:** Genesis 3:19 (reversal of the formula: dust returns to dust); Ecclesiastes 12:7 (spirit returns to God who gave it — symmetric reversal); 1 Corinthians 15:45-47 (Paul's NT commentary on this verse, calling Adam a "living soul" and earthy).
+#### Genesis 5:1-2 (Likeness of God)
+**Context:** Genealogy heading for the line of Adam.
+**Direct statement:** "In the day that God created man, in the likeness of God made he him."
+**Key observations:** Man is made in God's likeness -- this is what distinguishes humans, not the term nephesh (which is shared with animals).
+
+#### Genesis 7:22 (Breath of Life in All Creatures)
+**Context:** The flood -- death of all air-breathing creatures.
+**Direct statement:** "All in whose nostrils was the breath of life, of all that was in the dry land, died."
+**Key observations:** "Breath of life" here uses both neshamah and ruach together (nishmat ruach chayyim). This combined phrase applies to ALL creatures that died -- humans and animals alike. The neshamah of the ruach of life is not unique to humans.
+**Cross-references:** Gen 6:17: "the breath [ruach] of life" in all flesh. Gen 7:15: "two of all flesh, wherein is the breath [ruach] of life."
+
+#### Genesis 9:6 (Image of God)
+**Context:** Post-flood commandment regarding murder.
+**Direct statement:** "Whoso sheddeth man's blood, by man shall his blood be shed: for in the image of God made he man."
+**Key observations:** Human life is sacred because of the image of God (imago Dei), not because of possessing nephesh (which animals also have). The distinguishing feature is imago Dei.
 
 ---
 
-#### Genesis 3:19-24
+### B. The Vocabulary of Human Composition
 
-**Context:** God's pronouncement after the fall. Man is expelled from Eden and barred from the tree of life.
+#### Job 32:8 (Spirit and Inspiration in Man)
+**Context:** Elihu speaks about how wisdom comes from God, not age.
+**Direct statement:** "But there is a spirit [ruach] in man: and the inspiration [neshamah] of the Almighty giveth them understanding."
+**Key observations:** Ruach and neshamah appear together. The neshamah of the Almighty gives understanding. The connection is between God's breath and human cognitive capacity.
 
-**Direct statement:** "Dust thou art, and unto dust shalt thou return" (v.19). "Lest he put forth his hand, and take also of the tree of life, and eat, and live for ever" (v.22). God bars the way to the tree.
+#### Job 33:4 (God's Breath Gives Life)
+**Context:** Elihu claims he too was made by God.
+**Direct statement:** "The Spirit [ruach] of God hath made me, and the breath [neshamah] of the Almighty hath given me life."
+**Key observations:** Parallel construction: ruach and neshamah of God as the source of life. This echoes Gen 2:7.
 
-**Key observations:**
-1. **Verse 19 reverses verse 2:7.** Man was formed from dust with breath; he returns to dust when breath is withdrawn. The formula is reversible. Dust-state is the natural terminus without divine sustenance.
-2. **Tree of life as the condition for living forever.** Verse 22 establishes that immortality (living forever) was conditional on access to the tree of life. Without it, man would not "live for ever." This is why access is barred after the fall — to prevent immortality in a fallen state.
-3. **No inherent immortality is stated.** The text implies that immortal existence required ongoing access to the tree of life. This is the first biblical statement about the conditions for eternal life.
+#### Job 27:3 (Breath and Spirit in the Living Person)
+**Context:** Job's oath that he will speak truth while alive.
+**Direct statement:** "All the while my breath [neshamah] is in me, and the spirit [ruach] of God is in my nostrils."
+**Key observations:** Both neshamah and ruach are present in the living person. "Spirit of God in my nostrils" directly echoes Gen 2:7 where God breathed into Adam's nostrils.
 
-**What the text does NOT say:**
-- The text does not say man received an immortal soul that would survive despite the withdrawal of tree-of-life access.
-- The text does not say the dust-to-dust applies only to the body while the soul survives.
+#### Proverbs 20:27 (Spirit as Candle)
+**Context:** A proverb about God's knowledge of the human inner life.
+**Direct statement:** "The spirit [neshamah] of man is the candle of the LORD, searching all the inward parts of the belly."
+**Key observations:** Here neshamah (not ruach) is translated "spirit." The neshamah functions as God's searchlight into human nature -- the God-given capacity for moral awareness.
 
----
+#### Isaiah 42:5 (God Gives Breath and Spirit)
+**Context:** God declares his creative authority.
+**Direct statement:** "He that giveth breath [neshamah] unto the people upon it, and spirit [ruach] to them that walk therein."
+**Key observations:** Both neshamah and ruach are GIVEN by God -- they are not inherent to humans. God is the ongoing source.
+**Cross-references:** Acts 17:25: God "giveth to all life [zoe], and breath [pnoe], and all things." Zec 12:1: God "formeth the spirit [ruach] of man within him."
 
-#### Genesis 1:20-30 — Nephesh chayyah applied to animals
+#### Isaiah 26:9 (Soul and Spirit in Parallel)
+**Context:** A song of trust in God.
+**Direct statement:** "With my soul [nephesh] have I desired thee in the night; yea, with my spirit [ruach] within me will I seek thee early."
+**Key observations:** Nephesh and ruach are used in poetic parallelism -- the same idea expressed two ways. This is consistent with flexible, overlapping usage rather than technical anatomical distinction.
 
-**Context:** Day 5 and Day 6 of creation. God creates sea creatures, birds, and land animals.
+#### Leviticus 17:11,14 (Life/Soul is in the Blood)
+**Context:** Dietary law regarding blood.
+**Direct statement:** "For the life [nephesh] of the flesh is in the blood" (17:11). "The blood of it is for the life [nephesh] thereof" (17:14).
+**Key observations:** The nephesh is identified WITH the blood -- not as a separate immaterial substance. This is a physical, embodied understanding of the soul/life.
 
-**Direct statements:** "Let the waters bring forth abundantly the moving creature that hath life [nephesh chayyah]" (v.20). "Every living creature [nephesh chayyah]" created by God on Day 5 (v.21). "Let the earth bring forth the living creature [nephesh chayyah]" (v.24).
+#### Leviticus 21:11; Numbers 6:6 (Nephesh as Dead Body)
+**Context:** Priestly purity laws (Lev 21:11) and Nazirite vow regulations (Num 6:6).
+**Direct statement:** "Neither shall he go in to any dead body [nephesh meth]" (Lev 21:11). "He shall come at no dead body [nephesh meth]" (Num 6:6).
+**Key observations:** Nephesh means CORPSE here. The "soul" is used for a dead body. This is significant: nephesh does not inherently denote an immortal, immaterial entity. It can refer to a lifeless body.
 
-**Key observations:**
-1. **Identical Hebrew construction for animals and humans.** H5315 nephesh + H2416 chayyah (living) is used for fish, birds, and land animals in Genesis 1, and for the human in Genesis 2:7. The same construction does not differentiate human from animal soul-substance.
-2. **Nephesh is NOT the distinguishing feature of humans.** Since both animals and humans are nephesh chayyah, nephesh cannot be what makes humans uniquely in God's image. The distinctive human feature must be something else — namely, tselem (image of God).
-3. **Nave's SOUL entry cross-references to SPIRIT and MAN A SPIRIT** — not to animals — indicating topical editors understood soul-language primarily from a human perspective without fully noting its animal applications.
-
-**What the text does NOT say:**
-- The text does not say animal souls differ in substance from human souls.
-- The text does not say nephesh is uniquely or exclusively human.
-
----
-
-### Focus Area 2: Image of God (Tselem/Eikon)
-
-#### Genesis 1:26-27; 5:3; 9:6
-
-**Context:** The creation of man (Day 6); Seth's birth; the post-flood prohibition on murder.
-
-**Direct statements:** "Let us make man in our image [tselem], after our likeness [demuth]" (1:26). "God created man in his own image [tselem], in the image of God created he him" (1:27). "Whoso sheddeth man's blood, by man shall his blood be shed: for in the image [tselem] of God made he man" (9:6).
-
-**Key observations:**
-1. **Tselem (H6754) is applied only to humans.** The word studies confirm: tselem appears 17 times in the OT. It is applied to the human creation in Genesis 1:26,27; 5:3; 9:6. It is NEVER applied to any animal anywhere in Scripture. This is the defining distinction between humans and animals.
-2. **Tselem + demuth together.** The pair "image and likeness" emphasizes both representative function (tselem = representative figure) and resemblance (demuth = similitude). Man is God's representative who resembles him.
-3. **Image is tied to dominion.** Genesis 1:26 and 1:28 connect image to dominion over creation. Man as God's image-bearer exercises governance over the created order — a functional role, not merely a soul-substance.
-4. **Image persists after the fall.** Genesis 9:6 (post-flood) still grounds the prohibition on murder in the image of God. The image is not entirely lost at the fall; it remains as the basis for human dignity and accountability.
-5. **NT continuation.** 1 Corinthians 11:7 (man is "the image and glory of God"); Colossians 3:10 (new man "renewed in knowledge after the image of him that created him"); 2 Corinthians 3:18 (being changed "into the same image from glory to glory"). The image is restored and perfected through Christ.
-
-**What the text does NOT say:**
-- The text does not say the image consists specifically of an immortal soul.
-- The text does not say animals have any degree of the divine image.
-- The text does not specify what aspect of man the image consists in.
+#### Ezekiel 18:4,20 (The Soul That Sins Dies)
+**Context:** God corrects a proverb about children bearing parental guilt.
+**Direct statement:** "The soul [nephesh] that sinneth, it shall die" (18:4). "The soul [nephesh] that sinneth, it shall die" (18:20, repeated).
+**Key observations:** Hebrew parsing: nephesh is the subject; mut (die, Qal imperfect 3fs) is the verb. The nephesh itself is what dies. The soul is not presented as inherently immortal or indestructible. This is stated twice, in identical language, for emphasis.
 
 ---
 
-### Focus Area 3: Inherent Immortality vs. Conditional Immortality
-
-#### 1 Timothy 6:16
-
-**Context:** Paul's charge to Timothy; doxology describing God's unique attributes.
-
-**Direct statement:** "[God] who only hath immortality [athanasia], dwelling in the light which no man can approach unto."
-
-**Key observations:**
-1. **"Only" (monos) modifies the subject (God) absolutely.** Greek morphological analysis: μόνος (monos) = alone, uniquely. The present active participle ἔχων (echon) = continuously having. Full force: "the only one who continuously possesses immortality." This is an exclusive statement attributing athanasia (G110) to God alone.
-2. **Athanasia appears only three times in the NT** (1 Tim 6:16; 1 Cor 15:53, 54). Two of those three are in 1 Corinthians 15 where mortals "put on" immortality at the resurrection. In 1 Timothy 6:16, God uniquely has it. The three occurrences together establish: (a) God alone currently possesses it; (b) mortals acquire it at the resurrection as a gift.
-3. **The statement is presented as present tense and ongoing.** It is not limited to the past ("God had immortality before giving some to humans") or conditional. God alone has it now.
-
-**What the text does NOT say:**
-- The text does not say whether humans can ever acquire immortality (that is addressed in 1 Cor 15).
-- The text does not say souls are mortal (it says nothing about souls; it says God alone has immortality).
-
----
-
-#### Romans 2:7
-
-**Context:** Paul's letter to Rome; description of divine judgment applied to all humans according to their works.
-
-**Direct statement:** "To them who by patient continuance in well doing seek for glory and honour and immortality [aphtharsia], eternal life."
-
-**Key observations:**
-1. **Immortality is something humans must "seek."** The verb is ζητοῦσιν (seeking — present active participle). Humans who have immortality do not seek it; only those who lack it and pursue it can seek it. This places immortality (aphtharsia, G861) as a future goal, not a present human attribute.
-2. **Paired with "eternal life."** Immortality and eternal life are presented together as what the righteous person works toward and receives from God. Both are gift/reward, not inherent endowment.
-
----
-
-#### 1 Corinthians 15:51-54
-
-**Context:** Paul's sustained argument for the resurrection of the dead; concluding verses of the resurrection chapter.
-
-**Direct statements:** "This corruptible must put on incorruption, and this mortal must put on immortality [athanasia]" (v.53). "When this mortal shall have put on immortality" (v.54).
-
-**Key observations:**
-1. **Mortals "must put on" immortality (future tense at resurrection).** Greek morphological analysis: ἐνδύσασθαι (endusasthai) = aorist middle infinitive of "to put on like clothing." δεῖ (dei) = it is necessary. The present body (τὸ θνητὸν = the mortal thing) is what must undergo this transformation. Immortality is received, not inherent.
-2. **The sequence is: sown corruptible → raised incorruptible.** The present body is a "psychikos soma" (soul/natural body) that is buried; the resurrection body is a "pneumatikos soma" (spiritual body). The transformation happens at resurrection, not at death.
-3. **Thnetos (G2349, mortal) is the present condition.** All six NT occurrences of thnetos describe the present state of human existence awaiting resurrection. Present humans are mortal; they become immortal only at the resurrection transformation.
-
-**What the text does NOT say:**
-- The text does not say the soul is immortal while the body is mortal.
-- The text does not say death gives the soul immortality.
-- The text does not identify what part of man "puts on" immortality — it addresses the whole person in resurrection.
-
----
-
-### Focus Area 4: The Soul's Mortality
-
-#### Ezekiel 18:4, 20
-
-**Context:** God's response to Israel's proverb that children bear the sins of parents. God establishes individual accountability.
-
-**Direct statements:** "Behold, all souls are mine; as the soul of the father, so also the soul of the son is mine: the soul that sinneth, it shall die" (v.4). "The soul that sinneth, it shall die" (v.20, repeated).
-
-**Key observations:**
-1. **Nephesh is the grammatical subject of dying.** Hebrew morphological analysis: "the nephesh that sins" (H5315) — "it shall die" (tamut, Qal imperfect 3fs of H4191 muth). The soul is not said to be immortal and the body mortal. The soul itself is what dies.
-2. **The double statement (v.4 and v.20) makes this emphatic.** Repetition in Hebrew is an intensifier.
-3. **The verse shows that nephesh belongs to God** ("all souls are mine"). This parallels Psalm 104:29 and Job 34:14-15 where God gives and withdraws breath — life belongs to God, not to the creature inherently.
-4. **Verse 27:** "He shall save his soul alive" — the soul can be saved from dying, which implies it would otherwise die. Both outcomes (dying and being saved) are real possibilities for the nephesh.
-5. **Verse 31-32:** "Why will ye die? I have no pleasure in the death of him that dieth." God addresses the dying of the person — not just physical death but existential death as the penalty for sin.
-
-**What the text does NOT say:**
-- The text does not say soul-death means only physical death of the body.
-- The text does not restrict "die" to some secondary or spiritual meaning.
-
----
-
-#### Matthew 10:28
-
-**Context:** Jesus' charge to the disciples before sending them out; call to fearlessness in the face of persecution.
-
-**Direct statement:** "Fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell [gehenna]."
-
-**Key observations:**
-1. **Men can kill the body but not the soul.** This establishes a distinction: human power reaches only to the body. The soul (G5590 psyche) is beyond human reach.
-2. **God CAN destroy both soul and body.** Greek morphological analysis: ἀπολέσαι (apolesai) = aorist active infinitive of G622 apollumi = to destroy completely, ruin, bring to complete destruction. God's power extends to both soma and psyche. The soul is not indestructible; it is only beyond human destructive capacity.
-3. **The verse does NOT say the soul cannot be destroyed** — it says men cannot destroy it. God can.
-4. **Location: gehenna.** The destruction happens "in hell" (gehenna) — a location of divine judgment. This is relevant to later studies on the fate of the wicked.
-5. **Scope of this passage.** This verse is addressed to disciples facing persecution. Its teaching: do not fear those who can only kill the body; fear God who has total authority over both body and soul. The emphasis is on the asymmetry of human vs. divine power, not on the ontological nature of the soul.
-
-**What the text does NOT say:**
-- The text does not say the soul is immortal.
-- The text does not say the soul survives death in a conscious state.
-- The text does not describe what "destroying" the soul involves in terms of experience.
-
----
-
-#### Genesis 35:18; Leviticus 21:11; Numbers 6:6 — Nephesh = death/corpse
-
-**Context (Gen 35:18):** Rachel's death after giving birth to Benjamin.
-
-**Direct statement:** "And it came to pass, as her soul was in departing, (for she died)."
-
-**Key observations:**
-1. **Soul-departure = death.** The parenthetical "(for she died)" equates the nephesh departing with the event of death. The nephesh is the life-principle; its departure is the cessation of life.
-2. **The nephesh departs but no destination is given in this text.** The text reports departure as death; it does not say where the nephesh went or that it continues in a conscious state elsewhere.
-
-**Leviticus 21:11; Numbers 6:6:** "Dead body" in both texts = H5315 nephesh met = "dead soul/nephesh." A dead body is called a nephesh. This means nephesh can describe a corpse — the whole dead person is the nephesh. This reinforces that nephesh = the whole living (or dead) person, not a separable immaterial substance.
-
----
-
-#### Revelation 16:3
-
-**Direct statement:** "And it became as the blood of a dead man: and every living soul died in the sea."
-
-**Key observations:**
-1. **Sea creatures are called "living souls" (psyche zosa).** Greek morphological analysis: πᾶσα ψυχὴ ζωῆς (every living soul) — ἀπέθανεν (died, aorist active). The souls of sea creatures died.
-2. **The soul is here stated to die explicitly.** "Every living soul died" — the psyche died, not merely the body. This confirms the semantic pattern from Ezekiel 18:4: souls can die.
-3. **Animals have psyche/nephesh, and these souls are mortal.** This NT passage directly parallels the OT animal applications of nephesh.
-
----
-
-### Focus Area 5: State of the Dead
-
-#### Psalm 146:4; Psalm 6:5; Psalm 115:17; Psalm 88:10-12
-
-**Context:** Wisdom psalms on human frailty; laments expressing the speaker's distress over illness and proximity to death.
-
-**Direct statements:**
-- Psalm 146:4: "His breath goeth forth, he returneth to his earth; in that very day his thoughts perish."
-- Psalm 6:5: "For in death there is no remembrance of thee: in the grave who shall give thee thanks?"
-- Psalm 115:17: "The dead praise not the LORD, neither any that go down into silence."
-- Psalm 88:10-12: The grave is "the land of forgetfulness"; the dead cannot praise God or declare his faithfulness.
-
-**Key observations:**
-1. **Psalm 146:4 is the most direct statement on consciousness at death in the OT.** The verse states three things: (a) breath departs; (b) man returns to earth; (c) in that very day his thoughts (eshtonotav) perish. "Perish" = H6 abad (to vanish, be destroyed, perish). "That very day" — no intermediate conscious period is described.
-2. **Hebrew morphological note:** "His thoughts perish" — אָבְדוּ עֶשְׁתֹּנֹתָיו (avdu eshtonotav) — plural noun eshtonoth (thoughts/plans) + verb abad (perish). This is the complete cessation of mental activity at death.
-3. **Psalm 6:5: No remembrance of God in death.** The psalmist uses this as motivation for God to spare his life — if he dies, he cannot praise God. This argument assumes no ongoing worship in death.
-4. **Psalm 115:17: "The dead praise not the LORD."** A flat statement. "Neither any that go down into silence" — "silence" characterizes the state of the dead, not praise or communication.
-5. **Psalm 88 describes the grave as "the land of forgetfulness."** The rhetorical questions (v.10-12) all expect "no" as answers: the dead do not arise, do not praise, lovingkindness is not declared in the grave, faithfulness is not in destruction, wonders are not known in the dark.
-
-**What the text does NOT say:**
-- The Psalms do not say what happens to the ruach after death (that is Ecclesiastes 12:7 and Job).
-- These passages do not address whether a conscious intermediate state exists; they address the absence of the conscious activities of praise, knowledge, and remembrance.
-
----
-
-#### Ecclesiastes 9:5-6, 10; 3:19-21
-
-**Context:** Qohelet's reflections on the limits of human wisdom and the universality of death. The book evaluates life "under the sun" — from the perspective of earthly observation.
-
-**Direct statements:**
-- Ecclesiastes 9:5: "For the living know that they shall die: but the dead know not any thing, neither have they any more a reward; for the memory of them is forgotten."
-- Ecclesiastes 9:6: "Also their love, and their hatred, and their envy, is now perished; neither have they any more a portion for ever in any thing that is done under the sun."
-- Ecclesiastes 9:10: "For there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest."
-- Ecclesiastes 3:19: "As the one dieth, so dieth the other; yea, they have all one breath [ruach echad]; so that a man hath no preeminence above a beast: for all is vanity."
-- Ecclesiastes 3:20: "All go unto one place; all are of the dust, and all turn to dust again."
-- Ecclesiastes 3:21: "Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth?"
-
-**Key observations:**
-1. **Ecclesiastes 9:5 is the clearest direct statement on post-death awareness in the OT:** "The dead know not any thing." The Hebrew אֵינָם יוֹדְעִים מְאוּמָה — "they know not anything at all." This is absolute and unqualified.
-2. **Verse 6 adds:** emotions (love, hatred, envy) have "perished" (abad, H6 — same word as Psa 146:4 "thoughts perish"). No more portion in anything done "under the sun."
-3. **Verse 10:** "No work, nor device, nor knowledge, nor wisdom in the grave." The grave is the realm of complete inactivity and unawareness.
-4. **Ecclesiastes 3:19:** Man and beast "have all one breath" (ruach echad) — the same animating principle. Man has no natural preeminence over the beast in terms of what happens at death.
-5. **Ecclesiastes 3:21:** The text does not assert that man's spirit goes upward and the beast's goes down. It asks "Who knoweth?" — this is a rhetorical question expressing uncertainty or even skepticism about distinguishing the two. In context (v.19-20 just said they share one ruach and all go to dust), verse 21 acknowledges that a distinction (man going up, beast going down) exists as a claim but the text presents it as unknown or unverifiable in the present life "under the sun."
-
-**What the text does NOT say:**
-- Ecclesiastes 9:5-6 does not address whether there is an afterlife; it addresses the experiential knowledge-state of the dead relative to earthly affairs.
-- The "under the sun" qualifier (v.6) restricts the dead's "portion" to earthly activity — this qualifier appears in the text itself and does not need to be imported.
-- Ecclesiastes 3:21 does not confidently assert either destination; it presents the question.
-
----
-
-#### Job 14:10-22
-
-**Context:** Job's lamentation; dialogue between Job and his friends about human mortality.
-
-**Direct statements:**
-- Job 14:12: "So man lieth down, and riseth not: till the heavens be no more, they shall not awake, nor be raised out of their sleep."
-- Job 14:21: "His sons come to honour, and he knoweth it not; and they are brought low, but he perceiveth it not of them."
-- Job 14:13-15: Job desires to wait in sheol until God remembers him and calls him — anticipating resurrection.
-
-**Key observations:**
-1. **Job 14:12:** Death is sleep from which man does not arise until the resurrection. No awakening in the intermediate period. "Till the heavens be no more" emphasizes the duration.
-2. **Job 14:21:** "He knoweth it not" — the dead man has no awareness of what happens to his descendants. This is consistent with Ecclesiastes 9:5 ("the dead know not any thing").
-3. **Job 14:13-15 shows an expectation of resurrection.** Job hopes to be hidden in sheol until God's wrath passes, then to be remembered and called. This is the OT hope: death-as-sleep followed by awakening at God's call.
-
----
-
-#### Isaiah 38:18-19
-
-**Context:** Hezekiah's prayer after recovery from near-death illness.
-
-**Direct statements:** "For the grave cannot praise thee, death can not celebrate thee: they that go down into the pit cannot hope for thy truth. The living, the living, he shall praise thee."
-
-**Key observations:**
-1. **The grave cannot praise God.** Praise is the activity of the living, not the dead. The living praise; the dead do not. This parallels Psalm 115:17.
-2. **"The living, the living, he shall praise thee"** — the emphatic repetition of "living" makes the contrast: life is the condition for conscious praise; death is the absence of it.
-
----
-
-#### Daniel 12:2
-
-**Context:** Angelic revelation about the end times.
-
-**Direct statement:** "And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt."
-
-**Key observations:**
-1. **Death = sleeping in the dust of the earth.** This combines the "dust" motif from Genesis 2:7/3:19 with the "sleep" motif for death. The dead are in the dust, asleep, awaiting awakening.
-2. **Resurrection = awakening from this sleep.** The contrast between sleeping and awaking maps directly onto death and resurrection.
-3. **Everlasting life and everlasting contempt are resurrection outcomes.** Both are post-resurrection states, not intermediate-state experiences.
-
----
-
-#### John 11:11-14
-
-**Context:** Jesus speaking about Lazarus to his disciples before going to raise him.
-
-**Direct statements:** "Our friend Lazarus sleepeth; but I go, that I may awake him out of sleep" (v.11). The disciples thought he meant natural sleep (v.12-13). "Then said Jesus unto them plainly, Lazarus is dead" (v.14).
-
-**Key observations:**
-1. **Jesus equates sleep and death.** When Jesus said "sleepeth" he meant dead (v.13-14). The disciples misunderstood because they took "sleep" literally; Jesus clarified: "he is dead."
-2. **Jesus does not say Lazarus is in paradise or consciously with God.** He says he is sleeping (dead) and will be awakened (raised). The metaphor chosen is sleep, which carries the connotation of unconsciousness.
-3. **This is Jesus' own characterization of death, in the context of Lazarus who was among the dead approximately four days.** Whatever Lazarus' actual state was during those four days, Jesus described it as sleep.
-
----
-
-### Focus Area 6: Spirit Returning to God at Death
-
-#### Ecclesiastes 12:7
-
-**Context:** Closing peroration of Ecclesiastes on the approach of death and old age.
-
+### C. What Happens at Death
+
+#### Psalm 104:29 (Breath Taken, They Die)
+**Context:** A psalm about God's care for all creation -- animals and humans.
+**Direct statement:** "Thou takest away their breath [ruach], they die, and return to their dust."
+**Key observations:** When God removes ruach, creatures die and return to dust. This applies universally to all living things (context: Ps 104:27-30). The process reverses Gen 2:7.
+
+#### Psalm 146:4 (Thoughts Perish at Death)
+**Context:** A psalm warning against trusting in human leaders.
+**Direct statement:** "His breath [ruach] goeth forth, he returneth to his earth; in that very day his thoughts perish."
+**Key observations:** Hebrew parsing: abad (Qal perfect 3p) = "perish" -- the thoughts perish. Eshtanot = "thoughts" (plural). The temporal marker "in that very day" (bayyom hahu) is emphatic -- cognitive activity ceases at the moment of death.
+
+#### Job 34:14-15 (God Gathers Spirit and Breath)
+**Context:** Elihu speaks of God's sovereignty over life.
+**Direct statement:** "If he set his heart upon man, if he gather unto himself his spirit [ruach] and his breath [neshamah]; all flesh shall perish together, and man shall turn again unto dust."
+**Key observations:** Both ruach and neshamah are what God would gather. The result: all flesh perishes, man returns to dust. This parallels Gen 2:7, Ecc 12:7, and Ps 104:29.
+
+#### Ecclesiastes 3:19-21 (One Breath for Man and Beast)
+**Context:** The Preacher's observation about mortality.
+**Direct statement:** "As the one dieth, so dieth the other; yea, they have all one breath [ruach]; so that a man hath no preeminence above a beast" (3:19). "All go unto one place; all are of the dust, and all turn to dust again" (3:20). "Who knoweth the spirit [ruach] of man that goeth upward, and the spirit [ruach] of the beast that goeth downward to the earth?" (3:21).
+**Key observations:** Same ruach for humans and animals. Same death. Same return to dust. Verse 3:21 is a rhetorical question -- the text does not assert that man's ruach goes upward; it questions whether anyone can discern a difference.
+
+#### Ecclesiastes 12:7 (Spirit Returns to God)
+**Context:** The culmination of the Preacher's reflection on aging and death.
 **Direct statement:** "Then shall the dust return to the earth as it was: and the spirit [ruach] shall return unto God who gave it."
+**Key observations:** Two parallel returns: dust to earth, ruach to God. The Hebrew parsing shows shub ("return") used for both components. The text says the ruach returns to God "who gave it" (natan, "give") -- the ruach was God's gift. This verse describes the reversal of Gen 2:7. The text does not state that the returning ruach is conscious or carries personal identity.
 
-**Key observations:**
-1. **Symmetric reversal of Genesis 2:7.** The same Hebrew verb shub (return) is used for both dust-to-earth and spirit-to-God. The structure is: at creation, dust + breath → living soul; at death, dust returns to earth and breath/spirit returns to God. This is the precise inverse of the creation formula.
-2. **Hebrew morphological analysis:** tashuv (she/it returns) — Qal imperfect — same verb for both halves of the verse. The symmetry reinforces that death is the undoing of creation.
-3. **The ruach "returns" because it came FROM God.** The word "return" (shub) implies it is going back to where it came from. This is consistent with Job 27:3 ("the spirit of God is in my nostrils"), Psalm 104:29-30 (God gives/takes breath), and Job 34:14-15 (if God gathers his spirit, flesh perishes).
-4. **The text does not say the spirit goes to a conscious intermediate existence.** It says it returns to God. This could be consistent with either conscious survival (the spirit going as a person to God's presence) or simply the life-force returning to its divine source. The text itself does not specify.
+#### Psalm 6:5 (No Remembrance in Death)
+**Context:** David's prayer in distress.
+**Direct statement:** "For in death there is no remembrance of thee: in the grave who shall give thee thanks?"
+**Key observations:** Death is characterized by absence of remembrance and praise.
 
-**What the text does NOT say:**
-- The text does not say the spirit is a conscious entity that continues to exist separately.
-- The text does not describe any activity or state of the spirit after returning to God.
-- The text does not say when or how the spirit might be given back in resurrection.
+#### Psalm 30:9 (Dust Cannot Praise)
+**Context:** David's prayer for healing.
+**Direct statement:** "What profit is there in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?"
+**Key observations:** Rhetorical questions expecting a negative answer. The dust (dead person) does not praise or declare truth.
 
----
+#### Psalm 88:10-12 (The Dead in Forgetfulness)
+**Context:** A psalm of deep despair.
+**Direct statement:** "Wilt thou shew wonders to the dead? shall the dead arise and praise thee?" (88:10). "Shall thy wonders be known in the dark? and thy righteousness in the land of forgetfulness?" (88:12).
+**Key observations:** The realm of the dead is "the land of forgetfulness." The dead do not arise to praise. The grave is characterized by darkness and ignorance.
 
-#### Psalm 104:29-30; Job 27:3; Job 34:14-15; Zechariah 12:1
+#### Psalm 115:17 (Dead Go into Silence)
+**Context:** A psalm contrasting the living and dead in relation to praising God.
+**Direct statement:** "The dead praise not the LORD, neither any that go down into silence."
+**Key observations:** Death is "silence." The dead do not praise. This parallels Ps 6:5, 30:9, 88:10-12.
 
-**Key observations:**
-1. **Psalm 104:29-30:** God "takest away their breath" → death, "return to dust." God "sendest forth thy spirit" → creation. Life belongs to God; he gives and withdraws it.
-2. **Job 27:3:** "The spirit of God is in my nostrils" — the ruach animating man is identified as God's own spirit. This is the breath-of-life concept of Genesis 2:7 restated: it is not a separate human soul but God's animating presence.
-3. **Job 34:14-15:** "If he gather unto himself his spirit and his breath; all flesh shall perish together, and man shall turn again unto dust." God withdrawing his ruach and neshamah = universal death. The breath/spirit does not maintain itself.
-4. **Zechariah 12:1:** God "formeth the spirit of man within him" — using yatsar (H3335), the same verb as Genesis 2:7 "formed man of dust." The spirit is formed/created by God, not pre-existing or inherently self-sustaining.
+#### Ecclesiastes 9:5-6,10 (Dead Know Nothing)
+**Context:** The Preacher's observations on the universal fate of all humans.
+**Direct statement:** "The dead know not any thing, neither have they any more a reward; for the memory of them is forgotten" (9:5). "Also their love, and their hatred, and their envy, is now perished" (9:6). "There is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest" (9:10).
+**Key observations:** Comprehensive statement of the absence of consciousness in death: no knowledge, no emotions, no work, no wisdom. The text uses absolute language ("not any thing," "no...nor...nor...nor").
 
----
+#### Isaiah 38:18-19 (Only the Living Praise)
+**Context:** Hezekiah's prayer after being told he would die, and his subsequent healing.
+**Direct statement:** "For the grave cannot praise thee, death cannot celebrate thee: they that go down into the pit cannot hope for thy truth. The living, the living, he shall praise thee."
+**Key observations:** A clear contrast: the dead cannot praise, hope, or celebrate. Only the living can.
 
-#### Acts 7:59; Luke 23:46
+#### Job 3:13-19 (Death as Rest/Sleep)
+**Context:** Job's lament -- wishing he had never been born.
+**Direct statement:** "For now should I have lain still and been quiet, I should have slept: then had I been at rest" (3:13). "There the wicked cease from troubling; and there the weary be at rest" (3:17). "The prisoners rest together; they hear not the voice of the oppressor" (3:18).
+**Key observations:** Death is depicted as sleep, rest, silence, cessation of hearing. Both wicked and righteous experience the same restful state.
 
-**Direct statements:**
-- Acts 7:59: "Lord Jesus, receive my spirit."
-- Luke 23:46: "Father, into thy hands I commend my spirit."
+#### Job 14:10-14,21 (Man Does Not Know)
+**Context:** Job's meditation on human mortality.
+**Direct statement:** "But man dieth, and wasteth away: yea, man giveth up the ghost, and where is he?" (14:10). "So man lieth down, and riseth not: till the heavens be no more, they shall not awake, nor be raised out of their sleep" (14:12). "His sons come to honour, and he knoweth it not; and they are brought low, but he perceiveth it not of them" (14:21).
+**Key observations:** Man does not rise until a future event (the end). He does not know what happens to his children -- he lacks awareness. Death is "sleep" from which one does not awake during the current age.
 
-**Key observations:**
-1. **Both Jesus and Stephen commend their spirits to God at death.** This language is consistent with Ecclesiastes 12:7 (spirit returns to God who gave it). The act of commending the spirit is an act of trust — entrusting what belongs to God back to him.
-2. **Conditionalist reading:** Spirit-commendation = the animating life-force returning to God (as in Ecc 12:7). No conscious intermediate state is explicitly stated.
-3. **ECT-compatible reading:** Spirit-commendation reflects the spirit/person going consciously into God's presence at death.
-4. **What the text explicitly says:** The spirit is commended to God/Jesus at the moment of death. What the spirit does after that is not described in these texts.
-
----
-
-### Focus Area 7: Trichotomy vs. Dichotomy vs. Holistic Unity
-
-#### 1 Thessalonians 5:23
-
-**Direct statement:** "And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ."
-
-**Key observations:**
-1. **Three terms: pneuma, psyche, soma.** This is the primary text cited for trichotomy (three-substance anthropology: spirit, soul, body as distinct substances).
-2. **The emphasis is on "wholly" (holoteleis = complete, entire).** Paul is praying for total sanctification — the complete person. The three terms together express totality.
-3. **The grammar does not require three separate substances.** Greek can use multiple terms for rhetorical fullness. The presence of three terms does not by itself establish trichotomy any more than Deuteronomy 6:5 ("heart, soul, mind, strength") establishes quadrichotomy.
-4. **Note:** The three terms do appear together, which at minimum establishes that Paul could distinguish spirit, soul, and body conceptually for purposes of a comprehensive benediction.
+#### Daniel 12:2-3,13 (Resurrection from Dust)
+**Context:** Prophetic vision of the end.
+**Direct statement:** "And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt" (12:2). "But go thou thy way till the end be: for thou shalt rest, and stand in thy lot at the end of the days" (12:13).
+**Key observations:** The dead "sleep in the dust." Future life requires awakening (resurrection). Daniel himself is told he will "rest" (die) and then "stand" (be raised) at "the end of the days."
 
 ---
 
-#### Hebrews 4:12
+### D. Immortality: Inherent or Conditional?
 
-**Direct statement:** "The word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow."
+#### 1 Timothy 6:16 (God Only Has Immortality)
+**Context:** Paul's charge to Timothy about the appearing of Christ.
+**Direct statement:** "Who only hath immortality, dwelling in the light which no man can approach unto."
+**Key observations:** "Only" (monos) + "hath" (echo, present active participle) + "immortality" (athanasia). The word athanasia appears only 3 times in the NT. Here it is attributed exclusively to God. The text says God ONLY possesses deathlessness.
 
+#### Romans 2:7 (Seek for Immortality)
+**Context:** Paul describes God's righteous judgment.
+**Direct statement:** "To them who by patient continuance in well doing seek for glory and honour and immortality, eternal life."
+**Key observations:** Immortality (aphtharsia) must be sought. If humans already possessed immortality, seeking it would be incoherent. The text treats immortality as a future reward, not a present possession.
+
+#### 1 Corinthians 15:42-55 (Resurrection and the Putting On of Immortality)
+**Context:** Paul's extended argument for bodily resurrection.
+**Direct statement:** "It is sown in corruption; it is raised in incorruption" (15:42). "It is sown a natural body; it is raised a spiritual body" (15:44). "The first man Adam was made a living soul [psyche]; the last Adam was made a quickening spirit [pneuma]" (15:45). "This corruptible must put on incorruption, and this mortal must put on immortality" (15:53). "When this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory" (15:54).
 **Key observations:**
-1. **Soul (psyche) and spirit (pneuma) can be distinguished.** The word of God can divide them — this implies they are distinguishable, not identical. However, "dividing" something does not require it to be a separable substance; surgery distinguishes joints from marrow but they are not separate entities.
-2. **The verse also distinguishes "joints and marrow."** No one infers from this that joints and marrow are separate metaphysical substances. The rhetorical structure uses pairs to emphasize total penetration — the word reaches to the deepest level of human constitution, whatever that is.
-3. **This text supports dichotomy or trichotomy equally.** It shows that psyche and pneuma are distinguishable; it does not specify whether they are ontologically separate substances.
+1. Paul quotes Gen 2:7 in v.45 -- the first Adam was made a living psyche.
+2. The contrast is between psychikos (soul-powered, natural) and pneumatikos (spirit-powered, spiritual).
+3. "Must put on" (enduo + dei) -- this is an obligation/necessity. Immortality is something the mortal MUST receive; it is not already possessed.
+4. Death is swallowed up in victory WHEN immortality is put on -- at the resurrection, not before.
+5. "Flesh and blood cannot inherit the kingdom of God" (15:50) -- transformation is required.
+
+#### 2 Timothy 1:10 (Christ Brought Immortality to Light)
+**Context:** Paul's encouragement to Timothy about the gospel.
+**Direct statement:** "Our Saviour Jesus Christ, who hath abolished death, and hath brought life and immortality [aphtharsia] to light through the gospel."
+**Key observations:** Immortality was "brought to light" -- it was not already self-evident or already in human possession. It comes "through the gospel," indicating it is connected to redemption, not to nature.
+
+#### Matthew 10:28 (God Can Destroy Soul and Body)
+**Context:** Jesus instructing the twelve before sending them out.
+**Direct statement:** "Fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell."
+**Key observations:** "Destroy" (apollymi) is applied to the soul (psyche). God is ABLE (dunamai) to destroy the soul. The soul is not presented as indestructible. Luke 12:4-5 gives the parallel: "Fear him, which after he hath killed hath power to cast into hell." Luke's version mentions killing and casting into hell; Matthew's specifies destroying soul and body.
+
+#### Job 4:17 (Mortal Man)
+**Context:** Eliphaz's first speech.
+**Direct statement:** "Shall mortal man be more just than God?"
+**Key observations:** Man is described as mortal (enosh). The term itself denotes frailty and mortality.
+
+#### Hebrews 9:27 (Appointed to Die)
+**Context:** The finality of Christ's sacrifice compared to human death.
+**Direct statement:** "And as it is appointed unto men once to die, but after this the judgment."
+**Key observations:** Death is universal and appointed. What follows death is judgment, not continued consciousness.
 
 ---
 
-#### Luke 1:46-47
+### E. NT Anthropology and the State at Death
 
-**Direct statement:** "My soul doth magnify the Lord. And my spirit hath rejoiced in God my Saviour."
+#### 1 Thessalonians 5:23 (Spirit, Soul, Body)
+**Context:** Paul's closing prayer for the Thessalonians.
+**Direct statement:** "And the very God of peace sanctify you wholly; and I pray God your whole spirit [pneuma] and soul [psyche] and body [soma] be preserved blameless unto the coming of our Lord Jesus Christ."
+**Key observations:** Three terms are listed: pneuma, psyche, soma. The context is preservation unto Christ's COMING -- Paul's concern is wholeness/completeness (holokleros), not anatomical enumeration. Compare Mark 12:30 listing heart, soul, mind, strength -- four terms, not necessarily four distinct parts. Hebrews 4:12 mentions soul and spirit together, but the point is the Word's penetrating power.
 
-**Key observations:**
-1. **Hebrew parallelism.** The structure of Mary's Magnificat follows OT poetry: the second line restates and develops the first in synonymous parallelism. "Soul" (psyche) in v.46 and "spirit" (pneuma) in v.47 are parallel synonyms expressing the same reality.
-2. **This suggests psyche and pneuma can be used interchangeably** as terms for the inner life of the person, not that they are necessarily distinct substances.
+#### 1 Thessalonians 4:13-17 (Dead in Christ Rise)
+**Context:** Paul's teaching on the hope of believers who have died.
+**Direct statement:** "Concerning them which are asleep" (4:13). "Them also which sleep in Jesus will God bring with him" (4:14). "The dead in Christ shall rise first" (4:16). "Then we which are alive and remain shall be caught up together with them" (4:17).
+**Key observations:** The dead are described as "asleep." They RISE at Christ's coming. Being with the Lord requires resurrection and transformation (4:16-17), not disembodied existence.
 
----
+#### Hebrews 4:12 (Dividing Soul and Spirit)
+**Context:** The power of God's word.
+**Direct statement:** "The word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul [psyche] and spirit [pneuma], and of the joints and marrow, and is a discerner of the thoughts and intents of the heart."
+**Key observations:** The parallel structure (soul/spirit :: joints/marrow) shows the point is depth of penetration, not a doctrinal statement about human composition. Joints and marrow are not distinct body parts in different categories; the language conveys thoroughness.
 
-#### 1 Corinthians 15:44-49 — Paul's Adam contrast
+#### Luke 1:46-47 (Soul and Spirit in Parallel)
+**Context:** Mary's Magnificat.
+**Direct statement:** "My soul [psyche] doth magnify the Lord, and my spirit [pneuma] hath rejoiced in God my Saviour."
+**Key observations:** This is Hebrew poetic parallelism -- the same idea expressed with two synonymous terms. Mary is not distinguishing her soul from her spirit; she is using both terms to express total devotion.
 
-**Context:** The resurrection chapter; Paul describes the nature of the resurrection body.
+#### Luke 23:43 (Today in Paradise)
+**Context:** Jesus speaking to the thief on the cross.
+**Direct statement:** "Verily I say unto thee, To day shalt thou be with me in paradise."
+**Key observations:** The original Greek has no punctuation. The comma placement ("I say unto thee, today..." vs. "I say unto thee today,...") is editorial, not textual. John 20:17 records that on resurrection morning Jesus says, "I am not yet ascended to my Father." If Jesus had not yet been to the Father on Sunday, the placement of "today" with "paradise" presents a textual question. The grammar does not resolve this definitively.
 
-**Direct statements:**
-- "It is sown a natural [psychikos] body; it is raised a spiritual [pneumatikos] body" (v.44).
-- "The first man Adam was made a living soul [psyche zosa]; the last Adam was made a quickening spirit [pneuma zoopoioun]" (v.45).
-- "Howbeit that was not first which is spiritual, but that which is natural; and afterward that which is spiritual" (v.46).
-- "The first man is of the earth, earthy [choikos]: the second man is the Lord from heaven" (v.47).
+#### Luke 23:46 (Father, Into Thy Hands)
+**Context:** Jesus' final words on the cross.
+**Direct statement:** "Father, into thy hands I commend my spirit [pneuma]."
+**Key observations:** Jesus commits his pneuma to God -- echoing Ecc 12:7 and Ps 31:5. Stephen does the same in Acts 7:59. This language is consistent with the OT pattern of the ruach returning to God at death.
 
-**Key observations:**
-1. **"Psychikos soma" = the natural/soul-animated body** — the present human body animated by the breath of life from Genesis 2:7. This is what is buried.
-2. **"Pneumatikos soma" = the spiritual body** — the resurrection body animated by the life-giving Spirit. This is what is raised.
-3. **"The first man Adam was made a living soul"** — Paul quotes LXX of Genesis 2:7 exactly (psychen zosan). Adam is the prototype psychikos person: earthy, corruptible, natural.
-4. **Verse 46 explicitly contradicts Platonic sequencing:** "that was not first which is spiritual, but that which is natural; and afterward that which is spiritual." The spiritual comes AFTER the natural. Man is not first a spiritual being who descends into a body; he is first an earthy natural being who is transformed through resurrection.
-5. **"Choikos" (earthy/dusty, v.47)** directly alludes to Genesis 2:7 (aphar, dust). The first Adam is dust-constituted; the last Adam brings the heavenly mode of existence.
+#### Acts 7:59-60 (Stephen's Death)
+**Context:** The stoning of Stephen.
+**Direct statement:** "Lord Jesus, receive my spirit [pneuma]" (7:59). "And when he had said this, he fell asleep" (7:60).
+**Key observations:** Stephen commits his pneuma to Jesus. His death is then described as falling "asleep." The two statements together: spirit committed to God + described as sleeping.
 
----
+#### Acts 17:25 (God Gives Life and Breath)
+**Context:** Paul's address to the Athenians.
+**Direct statement:** "He giveth to all life [zoe], and breath [pnoe], and all things."
+**Key observations:** Pnoe is the NT equivalent of neshamah (confirmed by LXX mappings). God is the giver of both zoe (life) and pnoe (breath) -- echoing Gen 2:7 and Isa 42:5. Life and breath are received from God, not self-generated.
 
-### Focus Area 8: Intermediate State Passages
+#### 2 Corinthians 5:1-9 (Earthly Tabernacle)
+**Context:** Paul's discussion of the hope of resurrection.
+**Direct statement:** "If our earthly house of this tabernacle were dissolved, we have a building of God" (5:1). "Not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life" (5:4). "Willing rather to be absent from the body, and to be present with the Lord" (5:8).
+**Key observations:** Paul's desire is to be "clothed upon" (5:2,4) -- receiving a new body, not existing in a disembodied state. "Unclothed" is NOT the desired state (5:4). "Mortality swallowed up of life" (5:4) echoes 1 Cor 15:53-54. The language of 5:8 ("absent from the body, present with the Lord") is from the perspective of the believer -- there is no conscious intermediate period described. Paul's point is that being with the Lord is better than being in the mortal body.
 
-#### 2 Corinthians 5:1-8
+#### Philippians 1:23 (Depart and Be with Christ)
+**Context:** Paul's reflection on his situation in prison.
+**Direct statement:** "Having a desire to depart, and to be with Christ; which is far better."
+**Key observations:** Paul expresses a desire to depart (die) and to be with Christ. From the perspective of the dead, there is no passage of time -- the next conscious moment after death would be the resurrection. This is consistent with death as "sleep": for the sleeper, the passage of time is not experienced.
 
-**Context:** Paul's encouragement to the Corinthian church about physical suffering; his perspective on mortality and hope.
+#### James 2:26 (Body Without Spirit Is Dead)
+**Context:** James's argument that faith without works is dead.
+**Direct statement:** "For as the body without the spirit [pneuma] is dead, so faith without works is dead also."
+**Key observations:** The analogy is straightforward: body minus pneuma equals death. Pneuma functions as the animating principle. When it is absent, the body is dead. This confirms the creation pattern: body + breath/spirit = life; body minus breath/spirit = death.
 
-**Direct statements:**
-- "For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, a house not made with hands, eternal in the heavens" (v.1).
-- "Not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life" (v.4).
-- "Absent from the body, present with the Lord" (v.8, the desired state).
+#### Ezekiel 37:5-6,9-10,14 (Valley of Dry Bones)
+**Context:** Prophetic vision of Israel's restoration, depicted as resurrection.
+**Direct statement:** "I will cause breath [ruach] to enter into you, and ye shall live" (37:5). "Come from the four winds, O breath [ruach], and breathe upon these slain, that they may live" (37:9). "The breath [ruach] came into them, and they lived, and stood up upon their feet" (37:10). "I shall put my spirit [ruach] in you, and ye shall live" (37:14).
+**Key observations:** Resurrection is portrayed as re-creation: God putting breath/spirit back into dead bodies, and they live. This mirrors Gen 2:7 -- body + breath = life. The dead bones have no life until ruach enters them.
 
-**Key observations:**
-1. **Paul fears being "naked" (v.3).** He does NOT want to be a disembodied soul; he wants to be "clothed upon" with the resurrection body. The fear of nakedness suggests a concern about the intermediate state as a state of incompleteness, not a desired rest.
-2. **The goal is resurrection, not mere soul-survival.** "That mortality might be swallowed up of life" (v.4) — this is the language of 1 Corinthians 15:54 (mortality swallowed up in victory). Paul's desire is the full resurrection clothing, not a bodiless intermediate state.
-3. **"Absent from the body, present with the Lord" (v.8)** — this is the clearest Pauline statement pointing toward a conscious intermediate state. Paul describes being absent from the body as being present with the Lord and calls it preferable to present embodied life.
-4. **Tension in the passage:** The text has an internal tension — Paul fears nakedness (v.3) yet also calls departure to be with the Lord "far better" (Philippians 1:23). ECT readers resolve this by seeing a conscious intermediate state; conditionalist readers note Paul's primary desire is the resurrection body and that the "absent from body, present with Lord" state might be experienced subjectively as instantaneous (from the dead person's perspective, there is no awareness of time in unconscious sleep).
-
----
-
-#### Philippians 1:21-23
-
-**Context:** Paul writing from prison, facing possible death, reflecting on the relative merits of life and death.
-
-**Direct statements:**
-- "For to me to live is Christ, and to die is gain" (v.21).
-- "For I am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better" (v.23).
-
-**Key observations:**
-1. **"To depart and be with Christ" is Paul's description of what death means for him.** The word "depart" (analuō, G360) means to weigh anchor or strike camp. Paul clearly views death as going to be with Christ in some meaningful sense.
-2. **"Far better" than present life.** This comparative indicates that being with Christ after death is qualitatively superior to present embodied existence.
-3. **This is the strongest NT text for conscious existence immediately after death.** Paul does not say "to die is to sleep until the resurrection, at which point I will be with Christ." He says "to depart = to be with Christ."
-4. **The conditionalist response:** Some conditionalists note that from the perspective of someone in unconscious sleep, the next moment of awareness after death would be the resurrection — so Paul could experientially view death as going to be with Christ without implying continuous conscious existence in an intermediate state. The text itself does not specify whether the "being with Christ" is immediate or appears immediate from the subject's experience.
-
----
-
-#### Luke 23:43
-
-**Direct statement:** Jesus to the thief: "Verily I say unto thee, To day shalt thou be with me in paradise."
-
-**Key observations:**
-1. **"Today" is the key word.** Jesus promises that on that very day, the thief would be with him in paradise. This is direct, straightforward language.
-2. **Context:** The thief asked to be remembered "when thou comest into thy kingdom" — expecting a future event. Jesus responded with "today."
-3. **Note:** The Greek text has no punctuation; the comma before "today" was added by translators. A minority reading places the emphasis differently: "Verily I say to thee today, thou shalt be with me in paradise" — emphasizing the present moment of the promise. This is a minority textual interpretation.
-4. **The plain reading** of the standard translation supports conscious presence with Jesus in paradise on that very day.
-
----
-
-#### Luke 16:22-31 — Rich man and Lazarus
-
-**Context:** A parable told by Jesus in a series of teachings on wealth, stewardship, and the Law.
-
-**Direct statements:** Lazarus dies and is carried to Abraham's bosom (v.22). The rich man dies and is in torments in Hades, seeing Lazarus in Abraham's bosom (v.23-24). Abraham describes the conscious contrast between their present states (v.25). A great chasm is fixed between them (v.26). The parable concludes with the importance of heeding Moses and the prophets (v.31).
-
-**Key observations:**
-1. **Genre: parable.** Jesus employs parabolic narrative form ("a certain rich man") to make a moral point. The concluding verse (v.31) reveals the parable's purpose: to warn against ignoring Moses and the prophets. The story serves the didactic point.
-2. **Symbolic language is possible.** Abel's blood "cried" from the ground (Gen 4:10) — yet blood has no literal voice. The personified cry of martyrs' blood and the conscious speech in a parable need not be taken as literal descriptions of the afterlife.
-3. **The parable does depict consciousness after death, dialogue, and memory.** Whatever interpretive weight is given to its genre, the imagery itself shows conscious beings in the post-death state.
-4. **ECT readers** cite this as evidence for conscious experience after death.
-5. **Conditionalist readers** note the parabolic genre, the consistent use of symbolic imagery in this section of Luke, and the absence of such imagery in didactic teaching elsewhere.
-
----
-
-#### Revelation 6:9-11 — Souls under the altar
-
-**Context:** The opening of the fifth seal; apocalyptic imagery.
-
-**Direct statements:** John sees "under the altar the souls of them that were slain for the word of God" crying out "How long, O Lord?" They are given white robes and told to "rest yet for a little season."
-
-**Key observations:**
-1. **Apocalyptic genre.** Revelation is structured apocalyptic literature employing visual symbols. The imagery of souls "under the altar" is symbolic — altars do not literally have space under them for souls.
-2. **They are told to REST.** The injunction to rest (v.11) uses imagery consistent with sleep/rest language for the dead — "rest yet for a little season."
-3. **The blood of Abel cried from the ground (Gen 4:10).** The OT background shows that blood/souls crying out can be figurative.
-4. **ECT readers** see conscious martyrs in an intermediate state awaiting judgment.
-5. **Conditionalist readers** see apocalyptic personification of the martyrs' deaths — a symbolic representation of their testimony that cries for vindication.
-
----
-
-#### Hebrews 12:22-24
-
-**Context:** The author's description of what the new covenant community has "come unto" in contrast to Sinai.
-
-**Direct statement:** "To the spirits of just men made perfect."
-
-**Key observations:**
-1. **"Spirits of just men made perfect" (pneumata dikaion teteleiomenon).** This phrase is in an eschatological catalogue that includes "the heavenly Jerusalem," "an innumerable company of angels," "the church of the firstborn, which are written in heaven," "God the Judge," and "Jesus the mediator."
-2. **"Made perfect" (teleioo, G5048).** Hebrews 11:40 states: "that they without us should not be made perfect." The perfecting of the OT faithful awaited the full redemptive work of Christ and apparently the resurrection. In Hebrews' own usage, "made perfect" can refer to eschatological completion through resurrection, not merely intermediate-state existence.
-3. **The scene may be eschatological (the final state) rather than an intermediate state.** If so, "spirits of just men made perfect" are the redeemed in the completed resurrection state, not disembodied souls in an intermediate condition.
-4. **ECT readers** take this as disembodied spirits in a perfected intermediate state.
-5. **Conditionalist readers** take this as resurrected/eschatological saints in their final state, consistent with Hebrews 11:40.
+#### Deuteronomy 31:16 (Sleep with Fathers)
+**Context:** God tells Moses about his coming death.
+**Direct statement:** "Behold, thou shalt sleep with thy fathers."
+**Key observations:** Death is described as "sleep" -- one of the earliest uses of this description. Moses, a key figure, is told he will "sleep."
 
 ---
 
 ## Patterns Identified
 
-### Pattern 1: The Creation Formula Is Reversible
+### Pattern 1: The Creation Formula and Its Reversal
+- **Creation:** Dust + breath/spirit (from God) = living soul (Gen 2:7)
+- **Death:** Breath/spirit returns to God + body returns to dust = no living soul (Ecc 12:7; Ps 104:29; Job 34:14-15)
+- **Resurrection:** Dead body + breath/spirit (from God again) = living soul again (Ezek 37:5-14)
+- Supported by: Gen 2:7; 3:19; Ecc 12:7; Ps 104:29; Job 34:14-15; Ezek 37:5-14; Jas 2:26
 
-Genesis 2:7 establishes: dust + breath → living soul. At death, the pattern reverses: breath returns to God (Ecc 12:7), dust returns to earth (Gen 3:19; Ecc 12:7; Psa 104:29). The living soul ceases when the two components separate. This is the consistent OT framework for understanding human life and death.
+### Pattern 2: Nephesh Applied to Animals and Humans Identically
+- Gen 1:20-21,24,30 -- animals are nephesh chayyah
+- Gen 2:7 -- man becomes nephesh chayyah
+- Gen 7:22 -- neshamah of ruach of chayyim is in all creatures
+- Ecc 3:19-20 -- same ruach, same death, same dust
+- The term nephesh does not distinguish humans from animals.
 
-### Pattern 2: Nephesh and Ruach Apply to Animals
+### Pattern 3: Nephesh as Mortal, Physical, and Destructible
+- Nephesh = dead body (Lev 21:11; Num 6:6)
+- Nephesh = blood/life of the flesh (Lev 17:11,14)
+- Nephesh can die (Ezek 18:4,20)
+- Nephesh can be destroyed (Matt 10:28)
+- Nephesh is used for appetite, desire, person, self -- not a single technical concept
 
-Both H5315 (nephesh) and H7307 (ruach) are applied to animals throughout the OT (Gen 1:20,21,24; 2:19; 6:17; 7:15,22; Ecc 3:19). The NT counterpart G5590 (psyche) applies to sea creatures (Rev 16:3). The terms that are often glossed as "soul" and "spirit" in English are not uniquely human. What distinguishes humans from animals is tselem (image of God), not nephesh or ruach.
+### Pattern 4: Death as Unconsciousness
+- No remembrance (Ps 6:5)
+- Dust cannot praise (Ps 30:9)
+- Land of forgetfulness (Ps 88:10-12)
+- Silence (Ps 115:17)
+- Know nothing (Ecc 9:5)
+- No work, knowledge, or wisdom (Ecc 9:10)
+- Thoughts perish "in that very day" (Ps 146:4)
+- Cannot hope (Isa 38:18)
+- Supported by at least 8 passages across multiple OT authors (Psalms, Ecclesiastes, Isaiah, Job)
 
-### Pattern 3: Immortality Is Future and Received, Not Present and Inherent
+### Pattern 5: Death as Sleep
+- Used by 7+ biblical authors: Moses (Deut 31:16), Job (Job 14:12), Jeremiah (Jer 51:39), Daniel (Dan 12:2), Jesus (John 11:11), Luke (Acts 7:60; 13:36), Paul (1 Cor 15:6,18,51; 1 Thess 4:14-15)
+- Sleep implies unconsciousness during the period; awakening = resurrection
 
-Three lines of evidence converge:
-- 1 Timothy 6:16: God alone currently possesses immortality (athanasia)
-- Romans 2:7: Humans must seek immortality — they do not have it
-- 1 Corinthians 15:53: Mortals must "put on" immortality at the resurrection
+### Pattern 6: Immortality as Future Gift, Not Present Possession
+- God alone has immortality (1 Tim 6:16)
+- Immortality must be sought (Rom 2:7)
+- Immortality must be "put on" at resurrection (1 Cor 15:53-54)
+- Immortality was "brought to light" through the gospel (2 Tim 1:10)
+- Man was barred from the tree of life (Gen 3:22-24)
+- Humans are called "mortal" (Job 4:17; thnetos in Rom 6:12; 8:11; 1 Cor 15:53; 2 Cor 4:11; 5:4)
 
-The consistent NT trajectory is: present humans are mortal (thnetos); immortality is something they seek, receive, and put on at the resurrection.
-
-### Pattern 4: Death Is Consistently Described as Sleep
-
-Across multiple authors and testaments:
-- OT: Job 14:12; Daniel 12:2; Psalm 13:3; Jeremiah 51:39
-- NT: Matthew 9:24; Mark 5:39; Luke 8:52; John 11:11,13; Acts 7:60; 1 Corinthians 15:6,18,20,51; 1 Thessalonians 4:13-16
-
-The metaphor of sleep implies unconsciousness and anticipates awakening. Jesus applies it to Lazarus (John 11:11,14); Paul applies it to deceased believers. Resurrection is the awakening from this sleep.
-
-### Pattern 5: The Soul Is Not Presented as Immortal; It Can Die
-
-- Ezekiel 18:4, 20: The nephesh that sins shall die
-- Leviticus 21:11; Numbers 6:6: Nephesh met = dead soul/corpse
-- Matthew 10:28: God can apollumi (destroy completely) both soul and body
-- Revelation 16:3: Every living psyche of sea creatures died
-
-No passage in either testament states "the soul is immortal" or "the soul cannot die." The passages that address soul-death consistently present the soul as mortal or destroyable by God.
-
-### Pattern 6: The Image of God (Tselem) Is Unique to Humans
-
-Tselem appears 17 times in the OT. In the creation accounts (Gen 1:26,27; 5:3; 9:6) it describes humans exclusively. It is never applied to any animal. This is the distinguishing feature of human constitution relative to the animal kingdom — not the possession of nephesh or ruach (which animals share), but the unique bearing of God's image.
+### Pattern 7: Ruach and Neshamah as God-Given, Shared Life Principle
+- Both are given by God (Isa 42:5; Acts 17:25; Zec 12:1)
+- Both are in animals as well as humans (Gen 7:22; Ecc 3:19)
+- Both are withdrawn at death (Ecc 12:7; Ps 104:29; Ps 146:4; Job 34:14-15)
+- They are not described as carrying consciousness after departure
 
 ---
 
 ## Connections Between Passages
 
-**Genesis 2:7 ↔ Ecclesiastes 12:7:** Creation formula and its exact reversal. The same verb "return" (shub) for both components.
+### OT-NT Continuity on the Creation Formula
+Gen 2:7 is quoted directly in 1 Cor 15:45, confirming the NT recognizes the same anthropological framework. Paul's contrast between the "living soul" (psyche) and "quickening spirit" (pneuma) does not deny the OT framework but builds on it: the first state is natural/soul-powered; the resurrection state is spiritual/spirit-powered. The transformation happens at resurrection (1 Cor 15:52-54), not at death.
 
-**Genesis 2:7 ↔ 1 Corinthians 15:45-49:** Paul explicitly quotes and interprets Genesis 2:7 as the foundation of his Adam-Christ contrast. The "living soul" of Gen 2:7 = the psychikos (natural) mode of existence. The resurrection body = the pneumatikos mode.
+### The Consistent "Sleep" Metaphor Across Testaments
+From Deuteronomy to 1 Thessalonians, death is called "sleep." This is not a single author's idiosyncratic usage. Jesus himself uses it (John 11:11,14), as does Paul (1 Cor 15:51; 1 Thess 4:13-15). The metaphor implies: (a) unconsciousness during the period, (b) awakening (resurrection) is the next event.
 
-**Genesis 3:22 ↔ 1 Timothy 6:16 ↔ 1 Corinthians 15:53:** Three passages establishing that immortality is not inherent to humans: access to eternal life required the tree (Gen 3); only God has immortality currently (1 Tim 6:16); mortals must receive immortality at resurrection (1 Cor 15:53).
+### God as Source and Sustainer of Life
+Gen 2:7 (God breathes life) -> Isa 42:5 (God gives breath and spirit) -> Acts 17:25 (God gives life and breath) -> Job 34:14-15 (if God withdraws, all perish). Life depends on God's ongoing sustenance, not on an inherent human property.
 
-**Ezekiel 18:4 ↔ Matthew 10:28:** Both state the soul (nephesh/psyche) can die or be destroyed. The OT says the soul that sins "shall die"; Jesus says God can "destroy" both soul and body. The NT intensifies the OT statement.
-
-**Psalm 146:4 ↔ Ecclesiastes 9:5:** Parallel statements on the death of consciousness: "thoughts perish that very day" (Psa 146:4); "the dead know not any thing" (Ecc 9:5). Both use vocabulary of perishing (abad) for mental activity.
-
-**Job 14:12,21 ↔ 1 Thessalonians 4:13-16:** Both describe the dead as asleep and unknowing until resurrection. Job's "he knoweth it not" parallels Paul's consolation that deceased believers will rise at the coming — they are currently asleep, not already with Christ at the right hand.
+### Immortality Passages Form a Unified Picture
+1 Tim 6:16 (God alone has it) + Rom 2:7 (seek it) + 1 Cor 15:53-54 (put it on at resurrection) + 2 Tim 1:10 (brought to light through gospel) + Gen 3:22-24 (barred from tree of life). These five passages, from different authors and contexts, all present immortality as something humans do not inherently possess.
 
 ---
 
 ## Word Study Insights
 
-### The Hayah ("Became") Formula in Genesis 2:7
+### Nephesh (H5315): 780 occurrences, 214 translations
+The extraordinary breadth of translation demolishes the notion that nephesh is a technical term for "immortal soul." It means creature, life, person, self, appetite, dead body, and soul, depending on context. The LXX maps it to psyche (~80%), but also to thanatos ("death") when used for dead bodies (25 occurrences). Animals have nephesh. Dead bodies are nephesh. The blood IS the nephesh. The nephesh dies.
 
-The Hebrew morphological analysis of Genesis 2:7 is critical. Man did not receive a pre-existing soul; he BECAME a nephesh. The verb hayah (became) + the lamed preposition indicating result means the whole living person is the nephesh. This directly undermines substance dualism where the soul is a separable component inserted into a body.
+### Ruach (H7307): 434 occurrences
+Three semantic domains: wind, breath/life-force, spirit/disposition. Applied to animals (Gen 6:17; 7:15,22; Ecc 3:19,21). Returns to God at death (Ecc 12:7). When it departs, thoughts perish (Ps 146:4). The LXX maps it to pneuma (~54%) and anemos ("wind," ~10%).
 
-### Monos ("Only/Alone") in 1 Timothy 6:16
+### Neshamah (H5397): 25 occurrences
+Much rarer and more specialized. Specifically what God breathed into man (Gen 2:7). Applied to all air-breathing creatures (Gen 7:22). The LXX maps it primarily to pnoe (G4157), distinguishing it from ruach/pneuma. The LXX translators appear to have recognized a semantic difference.
 
-The Greek morphological analysis confirms that monos (alone, uniquely) + the present active participle echon (having/possessing continuously) expresses God's exclusive and ongoing possession of immortality. This is not a partial statement or limited to a specific context; it is an absolute attribution.
+### Athanasia (G110): 3 occurrences
+God alone possesses it (1 Tim 6:16). Humans must "put it on" (1 Cor 15:53,54). Every occurrence places immortality outside present human nature.
 
-### Apollumi in Matthew 10:28
+### Aphtharsia (G861): 8 occurrences
+Must be sought (Rom 2:7). Brought to light through the gospel (2 Tim 1:10). Related to resurrection transformation (1 Cor 15:42,50,53,54).
 
-The aorist active infinitive apolesai of apollumi (G622) = to destroy completely, bring to ruin. This is the same word used in Matthew 10:6 ("lost sheep"), John 3:16 ("perish"), Matthew 26:52 ("perish by the sword"). The word carries the semantic range of complete destruction or ruin, not merely incapacitation. God's ability to apollumi the soul means he can bring it to complete destruction.
+### Thnetos (G2349): 6 occurrences
+All applied to humans in their CURRENT state: mortal body (Rom 6:12; 8:11), mortal flesh (2 Cor 4:11), mortality (2 Cor 5:4), mortal (1 Cor 15:53). Humans are described as mortal.
 
 ---
 
 ## Difficult Passages
 
-### Luke 23:43 — "Today in Paradise"
+### 2 Corinthians 5:1-9 ("Absent from the Body, Present with the Lord")
+This passage is sometimes read as teaching a conscious intermediate state between death and resurrection. What the text says: Paul desires to be "clothed upon" (5:2,4) -- to receive a new body -- NOT to be "unclothed" (disembodied). "Not for that we would be unclothed, but clothed upon" (5:4). The phrase "absent from the body, present with the Lord" (5:8) expresses Paul's confidence that the next conscious experience after death will be the Lord's presence. The passage does not describe the mechanics of what happens between death and resurrection; it expresses a preference. Paul's own teaching in 1 Thess 4:16-17 places being with the Lord at the resurrection.
 
-The standard reading ("today shalt thou be with me in paradise") supports conscious presence with Jesus on the day of death. The minority punctuation variant ("I say to thee today: thou shalt be with me in paradise") is not supported by most manuscripts or translations. The standard reading creates tension with the sleep metaphor used throughout for death.
+### Philippians 1:23 ("Depart and Be with Christ")
+Paul has "a desire to depart, and to be with Christ." The text does not describe an intermediate conscious state. From the sleeper's perspective, departure (death) and being with Christ (resurrection) are experienced as immediate -- there is no perceived gap. Paul does not say "depart and immediately be conscious with Christ before the resurrection."
 
-### Philippians 1:23 — "Depart and Be with Christ"
+### Luke 23:43 ("Today Shalt Thou Be with Me in Paradise")
+The Greek has no punctuation. The comma before or after "today" is an editorial decision. If "today" modifies "I say," the verse reads: "I say to you today, you will be with me in paradise" -- a Hebraism for solemn declaration. If "today" modifies "you will be with me," Jesus contradicts John 20:17 where he says he has not yet ascended to the Father on the third day. The grammar permits both readings.
 
-The most direct Pauline text for conscious existence after death. Paul frames death as departure to be with Christ, which is "far better." The text does not describe the mechanism; it describes the relational outcome. The conditionalist response (subjective instantaneity of unconscious death) requires adding a concept the text does not state. The ECT-compatible reading (conscious intermediate presence) is the plain reading of the text.
+### 1 Thessalonians 5:23 (Spirit, Soul, Body)
+The listing of three terms does not necessarily prescribe a tripartite anthropology. Mark 12:30 lists four terms (heart, soul, mind, strength) without teaching quadripartite composition. Paul's point is comprehensive sanctification ("wholly" / holokleros), using language that covers the whole person.
 
-### 2 Corinthians 5:6-8 — "Absent from Body, Present with Lord"
-
-Paul's comparison of "present in body = absent from Lord" and "absent from body = present with Lord" supports a conscious intermediate state. The tension is that in v.3-4, Paul fears being "naked" (bodiless) and desires the resurrection clothing. The passage is navigated differently by conditionalists and ECT proponents; the analysis of this passage belongs to a dedicated intermediate-state study.
+### Hebrews 4:12 (Dividing Soul and Spirit)
+The text compares the penetrating power of God's word to a sword that divides "soul and spirit" and "joints and marrow." The point is thoroughness of penetration, not anatomical teaching. Joints and marrow are not separate organ systems; the word penetrates to the deepest level. Similarly, soul and spirit language conveys depth of divine discernment.
 
 ---
 
-*Analysis completed: 2026-02-19*
-*Compiled from 01-topics.md, 02-verses.md, 04-word-studies.md*
+*Analysis completed: 2026-02-20*
+*Source files: PROMPT.md, 01-topics.md, 02-verses.md, 04-word-studies.md, raw-data/*

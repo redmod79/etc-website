@@ -1,300 +1,210 @@
-# Word Studies
-# Study: etc5-04-state-of-the-dead
-# Question: What does the Bible say about the condition or experience of those who have died?
+# etc-04: State of the Dead -- Word Studies
+
+## Overview
+
+This study examines two categories of vocabulary: (1) the sleep vocabulary used to describe death, and (2) the sheol/hades vocabulary for the abode of the dead. These word studies were completed using search_strongs.py (--lookup, --lexicon) on the Strong's database.
 
 ---
 
-## SECTION 1: SLEEP-OF-DEATH WORDS
+## I. Sleep Vocabulary for Death
 
-### G2837 — κοιμάω (koimao) — "to sleep; used for death of believers"
+### Hebrew Sleep Terms
 
-**Lexicon:**
-- Transliteration: koimao
-- Part of Speech: verb
-- Definition: "to put to sleep, i.e. (passively or reflexively) to sleep; used for death of believers throughout NT"
-- BLB Count: 18 occurrences
+#### H7901 -- shakab (שָׁכַב) -- "to lie down"
+- **Definition:** A primitive root; to lie down (for rest, sexual connection, decease, or any other purpose)
+- **Occurrences:** 254 total (212 in BLB), the most common Hebrew word for "lie down"
+- **Part of Speech:** Verb
+- **KJV translations:** "slept" (36x), "lay" (11x), "lie" (11x), plus 112 other translations
+- **Death usage pattern:** The dominant OT death idiom "slept with his fathers" uses this word. It occurs approximately 36 times in the formulaic death notices of kings (1 Ki 2:10; 11:43; 14:20,31; 15:8,24; 16:6,28; 22:40,50; 2 Ki 8:24; 10:35; 13:9,13; 14:16,22,29; 15:7,22,38; 16:20; 20:21; 21:18; 24:6; etc.)
+- **Key death passages:**
+  - Deut 31:16: "Behold, thou shalt **sleep** [shakab] with thy fathers" -- God speaking to Moses
+  - Job 7:21: "Now shall I **sleep** [shakab] in the dust"
+  - Job 14:12: "So man **lieth down** [shakab] and riseth not: till the heavens be no more, they shall not awake, nor be raised out of their sleep"
+  - Isa 14:8,18: The kings of the nations "**lie** [shakab] in glory" in sheol
+- **Significance:** Shakab is used for both literal sleep and death, establishing the biblical pattern where death = lying down in rest/sleep. The formulaic "slept with his fathers" became the standard death notice for Israelite kings, implying death was understood as a kind of sleep awaiting future awakening.
 
-**Translation Distribution (KJV, 17 occurrences):**
-- sleep / slept / sleeping / asleep variations: ~15 occurrences (88%)
-- "be dead" (1x), "We shall" (1x — contextual rendering of 1 Cor 15:51)
+#### H3462 -- yashen (יָשֵׁן) -- "to sleep"
+- **Definition:** A primitive root; properly, to be slack or languid; by implication, sleep (figuratively, to die); also to grow old, stale, or inveterate
+- **Occurrences:** 20 total (19 in BLB)
+- **Part of Speech:** Verb
+- **KJV translations:** "sleep" (5x), "slept" (2x), plus 14 other translations
+- **Key death passages:**
+  - Jer 51:39: "They shall **sleep** [yashen] a perpetual sleep, and not wake, saith the LORD"
+  - Jer 51:57: "They shall **sleep** [yashen] a perpetual sleep, and not wake"
+  - Job 3:13: "I should have **slept** [yashen]: then had I been at rest"
+  - Dan 12:2 uses the related adjective form: "Many of them that **sleep** in the dust of the earth shall awake"
+- **Significance:** Yashen explicitly ties sleep to death ("figuratively, to die" is in the lexical definition). Jeremiah's "perpetual sleep" is the strongest OT connection between death and permanent unconsciousness until awakening (cf. Dan 12:2).
 
-**Key Death Occurrences:**
-- John 11:11-12: "Lazarus sleepeth" — John 11:13 explicitly glosses it: "he spake of his death"
-- Acts 7:60: "he fell asleep" (ekoimeth — Aor Pass Ind 3sg) — Stephen's death
-- Acts 13:36: "David...fell on sleep, and was laid unto his fathers, and saw corruption"
-- 1 Cor 15:6: "some are fallen asleep" (in context of resurrection argument)
-- 1 Cor 15:18: "they also which are fallen asleep in Christ are perished" (if no resurrection)
-- 1 Cor 15:20: "firstfruits of them that slept"
-- 1 Cor 15:51: "We shall not all sleep" (but all be changed)
-- 1 Thess 4:13: "concerning them which are asleep, that ye sorrow not"
-- 1 Thess 4:14: "them also which sleep in Jesus will God bring with him"
-- 1 Thess 4:15: "shall not prevent them which are asleep"
-- 2 Pet 3:4: "since the fathers fell asleep"
+#### H8639 -- tardemah (תַּרְדֵּמָה) -- "deep sleep"
+- **Definition:** From H7290; a lethargy or (by implication) trance: deep sleep
+- **Occurrences:** 7
+- **Part of Speech:** Feminine noun
+- **All occurrences:**
+  1. Gen 2:21 -- God caused a deep sleep to fall upon Adam (creation sleep)
+  2. Gen 15:12 -- Deep sleep fell upon Abram (covenant vision)
+  3. 1 Sam 26:12 -- Deep sleep from the LORD upon Saul's army
+  4. Job 4:13 -- "When deep sleep falleth on men" (Eliphaz's vision)
+  5. Job 33:15 -- "When deep sleep falleth upon men" (God speaks in dreams)
+  6. Prov 19:15 -- Slothfulness casts into deep sleep
+  7. Isa 29:10 -- "The LORD hath poured out upon you the spirit of deep sleep"
+- **Significance:** This is the supernatural, God-induced deep sleep. The creation tardemah (Gen 2:21) is the archetype: God causes unconsciousness, performs a creative work, then awakens. This pattern maps onto death and resurrection: God allows death-sleep, performs the creative work of resurrection, then awakens the sleeper. All 7 uses involve complete unconsciousness.
 
-**Analytical Notes:**
-G2837 is Paul's preferred word for the death of believers (never used for literal night-sleep by Paul). Its consistent use in resurrection contexts (1 Cor 15; 1 Thess 4) establishes an inseparable link: sleep of death → waking of resurrection. The word does not support a conscious intermediate state, because sleep is by definition an unconscious rest. The disciples' misunderstanding in John 11:12 ("if he sleep, he shall do well") — treating Jesus's koimao literally — shows the word was normally understood as peaceful rest, not as a metaphor for conscious paradise.
+#### H7290 -- radam (רָדַם) -- "to stun, stupefy"
+- **Definition:** A primitive root; to stun, i.e. stupefy (with sleep or death)
+- **Occurrences:** 7
+- **Part of Speech:** Verb
+- **All occurrences:**
+  1. Judg 4:21 -- Sisera "was fast asleep" when killed
+  2. Ps 76:6 -- "The chariot and horse are cast into a dead sleep"
+  3. Prov 10:5 -- "He that sleepeth in harvest"
+  4. Dan 8:18 -- "I was in a deep sleep on my face"
+  5. Dan 10:9 -- "I was in a deep sleep on my face"
+  6. Jonah 1:5 -- Jonah "was fast asleep"
+  7. Jonah 1:6 -- "What meanest thou, O sleeper?"
+- **Significance:** The definition itself says "stupefy (with sleep **or death**)." The phrase "cast into a dead sleep" (Ps 76:6) explicitly links stupefaction to death. This word represents the most complete unconsciousness -- total insensibility to all stimuli.
 
-**Contrast with G2518 (katheudo):** G2837 (koimao) is the specifically euphemistic/technical term Paul uses for death of believers; G2518 (katheudo) is the general word for ordinary sleep. Paul uses koimao for dead believers in all thirteen NT occurrences in that sense; he never uses koimao for literal night-rest.
+### Greek Sleep Terms
 
----
+#### G2837 -- koimao (κοιμάω) -- "to put to sleep / to die"
+- **Definition:** To put to sleep; passively/reflexively: to slumber, to decease
+- **Occurrences:** 18 (17 in search, 18 in BLB)
+- **Part of Speech:** Verb
+- **KJV translations:** "sleep" (3x), "slept" (2x), "sleeping" (2x), "are fallen asleep" (2x), "are asleep" (2x), "he fell asleep" (1x), "fell on sleep" (1x), "be dead" (1x), "that slept" (1x)
+- **All occurrences with classification:**
+  - **Death:** Matt 27:52 (saints who slept); Acts 7:60 (Stephen fell asleep); Acts 13:36 (David fell on sleep); 1 Cor 7:39 (husband be dead); 1 Cor 11:30 (many sleep = many have died); 1 Cor 15:6 (fallen asleep); 1 Cor 15:18 (asleep in Christ); 1 Cor 15:20 (them that slept); 1 Cor 15:51 (we shall not all sleep); 1 Thess 4:13 (them which are asleep); 1 Thess 4:14 (sleep in Jesus); 1 Thess 4:15 (them which are asleep); 2 Pet 3:4 (the fathers fell asleep)
+  - **Literal sleep:** Matt 28:13 (his disciples came while we slept); Luke 22:45 (found them sleeping); John 11:12 (if he sleep); Acts 12:6 (Peter was sleeping)
+  - **Death used by Jesus:** John 11:11 ("Our friend Lazarus sleepeth")
+- **Significance:** This is THE dominant NT term for death-as-sleep. Of 18 uses, at least 13 clearly refer to death. Paul uses it consistently for the Christian dead (1 Cor 15:6,18,20,51; 1 Thess 4:13,14,15). Jesus deliberately chooses this word for Lazarus's death (John 11:11), then clarifies "plainly" that Lazarus is dead (11:14). The euphemism is so standard that the disciples initially take it literally.
 
-### G2518 — καθεύδω (katheudo) — "to sleep; used both for literal sleep and figuratively for death"
+#### G2518 -- katheudo (καθεύδω) -- "to lie down to rest / to sleep"
+- **Definition:** From G2596 and heudo; to lie down to rest, i.e. (by implication) to fall asleep (literally or figuratively)
+- **Occurrences:** 22 (23 in search)
+- **Part of Speech:** Verb
+- **KJV translations:** "asleep" (4x), "sleep" (4x), "sleepeth" (3x), "slept" (2x), "Sleep on" (2x), "sleeping" (2x)
+- **Death passages:**
+  - Matt 9:24: "The maid is not dead, but **sleepeth** [katheudo]"
+  - Mark 5:39: "The damsel is not dead, but **sleepeth** [katheudo]"
+  - Luke 8:52: "She is not dead, but **sleepeth** [katheudo]"
+  - Eph 5:14: "Awake thou that **sleepest** [katheudo], and arise from the dead"
+  - 1 Thess 5:10: "Whether we wake or **sleep** [katheudo], we should live together with him"
+- **Figurative spiritual lethargy:** 1 Thess 5:6,7; Mark 13:36; Matt 25:5
+- **Significance:** Jesus uses katheudo three times (Matt 9:24; Mark 5:39; Luke 8:52) to describe the dead girl, and people "laughed him to scorn, knowing that she was dead" (Luke 8:53). Jesus deliberately called death "sleep" knowing full well the girl was dead. This is the most direct evidence that Jesus himself endorsed the sleep-death metaphor. Eph 5:14 quotes what appears to be an early Christian hymn that equates sleep with death and awakening with resurrection.
 
-**Lexicon:**
-- Transliteration: katheudo
-- Part of Speech: verb
-- Definition: "from kata + heudo (to sleep); to lie down to rest, i.e. (by implication) to be dead (as lifeless); sleep"
-- BLB Count: 22 occurrences
+### Comparative Summary: koimao vs. katheudo
+| Feature | koimao (G2837) | katheudo (G2518) |
+|---------|---------------|-----------------|
+| Primary death usage | Paul's standard term for dead believers | Jesus' term for Jairus' daughter |
+| Total occurrences | 18 | 22 |
+| Death occurrences | ~13 (72%) | ~5 (23%) |
+| Used by Jesus for death | John 11:11 (Lazarus) | Matt 9:24; Mark 5:39; Luke 8:52 |
+| Used by Paul for death | 1 Cor 15:6,18,20,51; 1 Thess 4:13-15 | 1 Thess 5:10 |
+| Literal sleep usage | 4-5 times | ~17 times |
 
-**Translation Distribution (KJV, 23 occurrences):**
-- asleep (4x), sleep (4x), sleepeth (3x), slept (2x), Sleep on (2x), sleeping (2x), others (6x)
-
-**Key Death Usages:**
-- Matt 9:24; Mark 5:39; Luke 8:52: "the maid/damsel is not dead, but sleepeth" — Jesus using katheudo as a synonym for death (raising of Jairus's daughter)
-- 1 Thess 5:10: "whether we wake or sleep, we should live together with him" — contrasting the alert vs. the dead (context of 1 Thess 5:6-10)
-- Eph 5:14: "Awake thou that sleepest, and arise from the dead" — figurative for spiritual death using sleep imagery
-
-**Distinction from G2837:**
-- G2837 (koimao) = specifically for death of believers in NT; aorist passive form preferred
-- G2518 (katheudo) = more general word for sleep; used for Jairus's daughter (katheudei present act ind)
-- Both words reinforce that death = sleep imagery across the NT
-
----
-
-### H3462 — יָשֵׁן (yashen) — "to sleep; figuratively to die"
-
-**Lexicon:**
-- Transliteration: yashen
-- Part of Speech: verb (primitive root)
-- Definition: "properly, to be slack or languid, i.e. (by implication) sleep (figuratively, to die); also to grow old, stale or inveterate"
-- BLB Count: 19 occurrences
-
-**Translation Distribution (KJV, 20 occurrences):**
-- sleep / slept / asleep variants: 16 occurrences; "old (store)" / "remained long" (stale/old usage): 4 occurrences
-
-**Key Death Occurrences:**
-- Job 3:13: "I should have slept" — in the context of death-as-rest
-- Jer 51:39: "that they may sleep a perpetual sleep, and not wake" (yashen + olam shena)
-- Jer 51:57: "they shall sleep a perpetual sleep, and not wake" — same formula; death = permanent non-waking sleep
-- Dan 12:2: "many of them that sleep in the dust of the earth shall awake" (yeshene admat-aphar) — the dead are described as "sleepers of the dust"
-
-**Root Meaning:**
-"To be slack/languid" — the root conveys limpness or inactivity. In death contexts, yashen describes the inert state of the dead awaiting resurrection. Daniel 12:2 is the critical text: the dead are defined as "sleepers in the dust" whose sleep ends only at resurrection (yaqitsu — they awake, Hiphil of qits).
-
-**Grammatical Note on Dan 12:2 (H3462):**
-The construct form mi-yshenei ("from the sleepers of") directly modifies "admat-aphar" (ground of dust). The dead are "sleepers of the dust-ground." The resurrection = the awakening (yaqitsu) from this sleep. No intermediate waking is described between the sleep of death and the waking of resurrection.
-
----
-
-### H7901 — שָׁכַב (shakab) — "to lie down; dominant OT death euphemism"
-
-**Lexicon:**
-- Transliteration: shakab
-- Part of Speech: verb (primitive root)
-- Definition: "to lie down (for rest, sexual connection, decease or any other purpose)"
-- BLB Count: 212 occurrences
-
-**Key Death Occurrences:**
-- Deut 31:16: "thou shalt sleep with thy fathers" (shakab) — God to Moses
-- 2 Sam 7:12: "when thy days be fulfilled, and thou shalt sleep with thy fathers" — God to David
-- 1 Kgs 2:10: "So David slept with his fathers" (standard royal death formula)
-- Job 7:21: "for now shall I sleep in the dust" (shakab)
-- Job 14:12: "So man lieth down (shakab), and riseth not: till the heavens be no more, they shall not awake"
-- Isa 14:8: "Since thou art laid down (shakab), no feller is come up against us"
-- Isa 14:18: "All the kings of the nations, even all of them, lie (shakab) in glory"
-- Ezk 32:19-32: "be thou laid (shakab) with the uncircumcised" — repeated throughout the passage
-
-**Key Formula:**
-"Slept with his fathers" (wayishkab im-avotav) is the death notice formula used for every king of Israel and Judah in the historical books (1 Kgs, 2 Kgs, 1-2 Chr). The word is used hundreds of times for death throughout the OT.
-
-**Critical Verse (Job 14:12):**
-"So man lieth down (shakab), and riseth not: till the heavens be no more, they shall not awake, nor be raised out of their sleep." — The condition of the dead is lying-down/sleep; resurrection requires divine action; the sleep continues "till the heavens be no more" — eschatological.
+**Key observation:** koimao is primarily a death-euphemism (used for death 72% of the time), while katheudo is primarily literal sleep but is used for death by Jesus in all three Synoptic accounts of Jairus' daughter. Both words carry the same metaphorical implication: the dead are in a state analogous to sleep -- unconscious, inactive, awaiting awakening.
 
 ---
 
-## SECTION 2: REALM OF THE DEAD WORDS
+## II. Sheol / Hades Vocabulary
 
-### H7585 — שְׁאוֹל (sheol) — "the realm of the dead"
+### H7585 -- sheol (שְׁאוֹל) -- "the underworld / grave"
+- **Definition:** From H7592; hades or the world of the dead (as if a subterranean retreat), including its accessories and inmates: grave, hell, pit
+- **Occurrences:** 67 (65 in BLB)
+- **Part of Speech:** Feminine noun
+- **KJV translation breakdown:**
+  - Translated "grave": Gen 37:35; 42:38; 44:29,31; 1 Sam 2:6; 1 Ki 2:6,9; Job 7:9; 14:13; 17:13; 21:13; 24:19; Ps 6:5; 30:3; 31:17; 49:14,15; 88:3; 89:48; 141:7; Prov 1:12; 30:16; Ecc 9:10; Song 8:6; Hos 13:14 (~31x)
+  - Translated "hell": Deut 32:22; 2 Sam 22:6; Job 11:8; 26:6; Ps 9:17; 16:10; 18:5; 55:15; 86:13; 116:3; 139:8; Prov 5:5; 7:27; 9:18; 15:11,24; 23:14; 27:20; Isa 5:14; 14:9,15; 28:15,18; 57:9; Ezek 31:16,17; 32:21,27; Amos 9:2; Jonah 2:2; Hab 2:5 (~31x)
+  - Translated "pit": Num 16:30,33; Job 17:16 (~3x)
+- **Characteristics of sheol from Scripture:**
+  1. **Both righteous and wicked go there:** Jacob (Gen 37:35), the wicked (Ps 9:17), David (Ps 16:10), Korah (Num 16:33)
+  2. **A place of unconsciousness:** "No work, device, knowledge, wisdom" (Ecc 9:10); no praise (Ps 6:5; 115:17; Isa 38:18); no remembrance (Ps 6:5)
+  3. **Associated with dust:** Job 17:16; 7:21
+  4. **Associated with darkness:** Job 10:21-22; 17:13
+  5. **Associated with silence:** Ps 115:17; 94:17
+  6. **God's power reaches there:** Ps 139:8; Amos 9:2; 1 Sam 2:6
+  7. **Deliverance from sheol = resurrection:** Ps 16:10; 49:15; Hos 13:14; 1 Sam 2:6
+  8. **Personified poetically:** Isa 5:14 (enlarges herself); 14:9 (moved to meet); Prov 27:20 (never full); Song 8:6 (cruel as the grave)
 
-**Lexicon:**
-- Transliteration: sheol
-- Part of Speech: feminine noun
-- Definition: "hades or the world of the dead (as if a subterranean retreat), including its accessories and inmates: grave, hell, pit"
-- BLB Count: 65 occurrences
-- KJV translations: "grave" (32x), "hell" (31x), "pit" (3x)
+### G86 -- hades (ᾅδης) -- "the unseen world"
+- **Definition:** From G1 (alpha privative) and G1492 (to see); properly, unseen, i.e. "Hades" or the place (state) of departed souls
+- **Occurrences:** 11
+- **Part of Speech:** Proper locative noun
+- **All 11 occurrences:**
+  1. Matt 11:23: Capernaum "brought down to hell (hades)"
+  2. Matt 16:18: "The gates of hell (hades) shall not prevail"
+  3. Luke 10:15: Capernaum "thrust down to hell (hades)"
+  4. Luke 16:23: Rich man "in hell (hades) he lift up his eyes, being in torments"
+  5. Acts 2:27: "Thou wilt not leave my soul in hell (hades)" -- quoting Ps 16:10 (H7585 sheol)
+  6. Acts 2:31: "His soul was not left in hell (hades)" -- explaining Ps 16:10
+  7. 1 Cor 15:55: "O grave (hades), where is thy victory?"
+  8. Rev 1:18: "I have the keys of hell (hades) and of death"
+  9. Rev 6:8: "Death, and Hell (hades) followed with him"
+  10. Rev 20:13: "Death and hell (hades) delivered up the dead"
+  11. Rev 20:14: "Death and hell (hades) were cast into the lake of fire"
+- **LXX equivalence:** The Septuagint consistently translates H7585 (sheol) as G86 (hades), confirming they refer to the same concept. Acts 2:27,31 explicitly demonstrates this: Peter quotes Ps 16:10 (sheol in Hebrew) using hades in Greek.
+- **Key observations:**
+  1. **Hades is temporary:** Rev 20:13-14 shows hades delivering up the dead and then being destroyed (cast into the lake of fire). Hades is not the final destination but a holding state.
+  2. **Hades paired with death:** In 4 of 11 uses (Rev 1:18; 6:8; 20:13; 20:14), hades is paired with "death" as a hendiadys (two words expressing one concept).
+  3. **Hades as the grave of Christ:** Acts 2:27,31 uses hades for where Jesus was between death and resurrection -- in the grave, not conscious.
+  4. **Only Luke 16:23 depicts consciousness in hades** -- and this is within a parable using contemporary Jewish imagery.
 
-**Descriptive Vocabulary for Sheol:**
-- "Land of forgetfulness" (Ps 88:12) — eretz neshiyah: the forgotten place
-- "Darkness" (Job 17:13; Ps 88:6,12; Isa 38:18) — sheol = the dark
-- "Silence" (Ps 115:17 — "go down into silence") — dumah
-- "Pit" (Job 17:16; 33:18; Ps 30:9; Isa 38:18)
-- "No return" (Job 7:9-10; 16:22)
-- Dead are "cut off from thy hand" (Ps 88:5)
-- Sheol cannot praise (Isa 38:18)
-- "Worms under thee, worms cover thee" (Isa 14:11)
-- "No work, device, knowledge, wisdom" (Ecc 9:10)
-- "Prisoners rest together" (Job 3:18)
-
-**Who is in Sheol:**
-- All the dead — both righteous and wicked — go to sheol: Ps 49:14-15 (all laid in the grave, though God redeems the righteous from it); Isa 14:9-11 (all kings of nations); Ecc 9:10 (no work in sheol "whither thou goest")
-- The psalmist: "my soul is full of troubles and my life draweth nigh unto the grave" (Ps 88:3)
-- Jacob: "then will ye bring down my grey hairs with sorrow to the grave/sheol" (Gen 42:38)
-- Job expects sheol as his temporary hiding place until resurrection (Job 14:13)
-
-**Key Observation:**
-Sheol in the OT is consistently described as a place of: (1) silence, (2) darkness, (3) forgetfulness, (4) no praise, (5) no work or knowledge, (6) separation from the living, and (7) confinement with "bars of the pit" (Job 17:16). This comprehensive picture is one of inactivity and unconsciousness, not of blessed conscious existence. The righteous hope is not blessed experience IN sheol, but redemption FROM sheol through resurrection (Ps 49:15; 16:10).
-
----
-
-### G86 — ᾅδης (hades) — "the unseen; place of departed souls"
-
-**Lexicon:**
-- Transliteration: hades
-- Part of Speech: proper locative noun
-- Definition: "from a (negative) + idein (to see); properly, unseen, i.e. 'Hades' or the place (state) of departed souls"
-- BLB Count: 11 NT occurrences
-
-**Translation Distribution (KJV, 11 occurrences):**
-- "hell" (7x), "of hell" (2x), "O grave" (1x), "Hell" (1x)
-
-**LXX Background:**
-The LXX uses hades to translate sheol in the majority of OT occurrences. Hades and sheol are functionally equivalent: both describe the realm of the dead (all the dead), not a specifically pleasant or unpleasant intermediate state for particular categories.
-
-**Key NT Occurrences:**
-- Matt 11:23: "Capernaum...shalt be brought down to hell [hades]"
-- Matt 16:18: "gates of hell [hades] shall not prevail" — hades as a power/domain
-- Luke 16:23: "in hell [hades] he lift up his eyes, being in torments" — Rich Man and Lazarus
-- Acts 2:27: "thou wilt not leave my soul in hell [hades]" — Ps 16:10 applied to Christ's resurrection
-- Acts 2:31: "his soul was not left in hell [hades], neither his flesh did see corruption" — resurrection took Christ out of hades
-- Rev 1:18: "I have the keys of hell [hades] and of death" — Christ has authority over death/hades
-- Rev 6:8: "Death, and Hell [hades] followed with him" — hades follows death as a realm
-- Rev 20:13: "death and hell [hades] delivered up the dead which were in them" — hades = holding state
-- Rev 20:14: "death and hell [hades] were cast into the lake of fire. This is the second death." — hades is TEMPORARY; it is abolished at the final judgment
-
-**Key Observation:**
-Rev 20:13-14 is decisive for the nature of hades: it is a temporary holding state that delivers up the dead at the final resurrection and is then itself destroyed. This confirms that hades ≠ eternal final destination, and that those in hades are "in it" until resurrection brings them out. Acts 2:31 confirms that Christ's resurrection = his soul leaving hades — which is the model for all resurrection.
+### Sheol-Hades Equivalence Table
+| Feature | Sheol (H7585) | Hades (G86) |
+|---------|--------------|-------------|
+| Occurrences | 67 OT | 11 NT |
+| LXX translation | sheol translated as hades | hades translates sheol |
+| Both righteous/wicked | Gen 37:35; Ps 9:17 | Acts 2:27 (Christ); Luke 16:23 (rich man) |
+| Unconsciousness | Ecc 9:10; Ps 6:5; 115:17 | (Inherited from sheol) |
+| Deliverance = resurrection | Ps 16:10; 49:15; Hos 13:14 | Acts 2:27,31; Rev 20:13 |
+| Temporary, not final | Hos 13:14; Ps 49:15 | Rev 20:13-14 (destroyed) |
+| Personified | Isa 5:14; 14:9 | Rev 6:8; 20:13 |
 
 ---
 
-## SECTION 3: ADDITIONAL DEATH VOCABULARY
+## III. Additional Relevant Terms
 
-### G3498 — νεκρός (nekros) — "dead; corpse"
+### G3857 -- paradeisos (παράδεισος) -- "paradise"
+- **Occurrences:** 3 in NT
+  1. Luke 23:43: "Today shalt thou be with me in paradise"
+  2. 2 Cor 12:4: "Caught up into paradise, and heard unspeakable words"
+  3. Rev 2:7: "To eat of the tree of life, which is in the midst of the paradise of God"
+- **Origin:** Persian loanword (pairidaeza = enclosed garden/park). Used in LXX for the Garden of Eden (Gen 2:8).
+- **Significance:** The word occurs only 3 times and in three different contexts (Jesus' promise to the thief, Paul's vision, and the eschatological new earth). Rev 2:7 places the "tree of life" in paradise, echoing Gen 2:9 and Rev 22:2, suggesting paradise is the restored Eden in the new earth, not a current intermediate state.
 
-**Lexicon:**
-- Transliteration: nekros
-- Part of Speech: adjective (used as noun)
-- Definition: "from nekys (a corpse); dead (literally or figuratively); dead, dead body"
-- BLB Count: 132 NT occurrences
-
-**Key Death-State Usages:**
-- 1 Thess 4:16: "the dead (nekroi) in Christ shall rise first" — physical resurrection of the dead
-- 1 Cor 15:29: "baptized for the dead (nekrōn)" — the dead as a category awaiting resurrection
-- Rev 20:5: "the rest of the dead (nekrōn) lived not again until the thousand years were finished" — dead = not-yet-living; the default state is not-alive until resurrection
-- Rev 14:13: "Blessed are the dead (nekroi) which die in the Lord" — dead = resting, not actively praising
-- John 5:28: "all that are in the graves (mnēmeiois) shall hear his voice" — the nekroi are in graves, not in a conscious intermediate location
-- Matt 10:28: "fear him which is able to destroy both soul (psychen) and body (soma)" — even the soul is mortal/destructible
-
-**Figurative Usage:**
-- Eph 2:1,5: "dead in trespasses and sins" — spiritual death as the pre-conversion state
-- Col 2:13: "dead in your sins" — same figurative use
-- Eph 5:14: "Awake thou that sleepest, and arise from the dead" — combining katheudo and nekros in a figurative resurrection call
-
-**Note:**
-The 132 NT occurrences of nekros are predominantly in resurrection contexts (1 Cor 15 alone has 24 occurrences). The word simply means "dead" without specifying the quality of the dead person's current experience. The question this study addresses is whether the nekroi are conscious or not — and nekros itself does not answer that; the answer must come from the descriptive passages.
+### H7496 -- rephaim (רְפָאִים) -- "shades of the dead"
+- **Occurrences:** ~8 (as "shades of the dead," distinct from the ethnic group)
+- **Death passages:** Job 26:5; Ps 88:10; Prov 2:18; 9:18; 21:16; Isa 14:9; 26:14,19
+- **Significance:** The rephaim are the dead inhabitants of sheol. They are described as "weak" (Isa 14:10), unable to rise (Isa 26:14 -- until God raises them, v19), and in the "land of forgetfulness" (Ps 88:12). The rephaim passages never describe the dead as actively conscious; rather, they emphasize weakness, helplessness, and inactivity.
 
 ---
 
-### G5590 — ψυχή (psyche) — "soul; life; the living soul"
+## IV. Vocabulary Patterns and Conclusions
 
-**Lexicon:**
-- Transliteration: psyche
-- Part of Speech: feminine noun
-- Definition: "from psucho (to breathe); breath, i.e. (by implication) spirit, abstractly or concretely (the animal sentient principle only; thus distinguished from pneuma, which is the rational and immortal soul); the soul, life, the living soul"
-- BLB Count: 105 NT occurrences
+### Pattern 1: Sleep = Death across all biblical periods
+| Period | Author | Term | Passage |
+|--------|--------|------|---------|
+| Mosaic | Moses/God | H7901 shakab | Deut 31:16 |
+| Patriarchal | Job | H7901 shakab | Job 7:21; 14:12 |
+| Prophetic | Jeremiah | H3462 yashen | Jer 51:39 |
+| Prophetic | Daniel | H3462 yashen | Dan 12:2 |
+| Gospel | Jesus | G2837 koimao | John 11:11 |
+| Gospel | Jesus | G2518 katheudo | Matt 9:24; Mark 5:39; Luke 8:52 |
+| Apostolic | Luke | G2837 koimao | Acts 7:60 |
+| Apostolic | Paul | G2837 koimao | 1 Cor 15:6,18,20,51; 1 Thess 4:13-15 |
 
-**Translation Distribution (KJV, 87 NT occurrences):**
-- "soul" (32x = 36.8%), "life" (25x = 28.7%), "souls" (18x = 20.7%), "lives" (4x = 4.6%), others (8x)
+### Pattern 2: Sheol/Hades = the unconscious grave
+- Sheol is described as a place of NO work, NO device, NO knowledge, NO wisdom (Ecc 9:10)
+- The dead in sheol do NOT praise God (Ps 6:5; 115:17; Isa 38:18)
+- The dead in sheol have NO remembrance (Ps 6:5)
+- Sheol is darkness (Job 10:21-22; 17:13)
+- Sheol is silence (Ps 115:17; 94:17)
+- Sheol is dust (Job 17:16; 7:21)
+- Sheol is rest (Job 3:17; Isa 57:2)
 
-**Key Death-State Occurrences:**
-- Rev 6:9: "the souls (psychas) of them that were slain" — under the altar (see below)
-- Rev 20:4: "I saw the souls (psychas) of them that were beheaded" — lived and reigned at resurrection
-- Rev 16:3: "every living soul (psyche) died" — souls CAN die (the sea "died")
-- Matt 10:28: "fear him which is able to destroy both soul (psychen) and body" — soul is mortal/destructible
-- John 12:25: "he that loveth his life (psychen) shall lose it" — psyche = life-force
-- Gen 35:18 (LXX basis): "as her soul (psyche) was in departing, (for she died)" — soul departure = death event
-
-**Range of Meaning for Psyche:**
-1. Physical life/breath: Matt 6:25 ("take no thought for your life/psyche what ye shall eat")
-2. The whole person: Acts 2:41 ("about three thousand souls were added")
-3. The inner self/seat of feeling: Matt 26:38 ("my soul is exceeding sorrowful")
-4. The life given in sacrifice: John 10:11 ("the good shepherd giveth his life/psychen for the sheep")
-
-**Critical Note on Rev 6:9 and the "souls under the altar":**
-The OT background is Lev 17:11 ("the life [nephesh/psyche] of the flesh is in the blood; and I have given it to you upon the altar") and Gen 4:10 (Abel's blood "crieth" from the ground). In the OT, when blood was poured out at the altar, the life (nephesh) was understood as in that blood, poured out at the base of the altar. The martyrs' "souls under the altar" in Rev 6:9 most naturally read against this OT background: the martyrs' blood (= their lives poured out) cries for vindication from "under the altar." This is a figurative representation of the martyrs' sacrifice, not necessarily literal conscious disembodied entities. The response in v.11 is "rest yet for a little season" — rest, not ongoing conscious activity.
-
-**Psyche vs. Pneuma distinction:**
-The BLB definition draws a distinction: psyche = "the animal sentient principle only" (the life/breath); pneuma = "the rational and immortal soul." This distinction is important for interpretation: if psyche means simply "life" in Rev 6:9, then the "souls under the altar" = the lives poured out in sacrifice, not necessarily conscious personal entities.
-
----
-
-### H7496 — רָפָא (rephaim) — "the dead; the shades; the limp ones"
-
-**Lexicon:**
-- Transliteration: rapha (singular); rephaim (plural — the word occurs only in plural)
-- Part of Speech: masculine plural noun
-- Definition: "from rapha in the sense of slack; properly, lax, i.e. (figuratively) a ghost (as dead; in plural only): dead, deceased"
-- BLB Count: 8 occurrences
-- KJV translations: "the dead" (5x), "Dead" (1x), "of the dead" (1x), "deceased" (1x)
-
-**All 8 Occurrences:**
-- Job 26:5: "Dead things [rephaim] are formed from under the waters" — rephaim in sheol below the deep
-- Ps 88:10-11: "Wilt thou shew wonders to the dead [rephaim]? shall the dead [rephaim] arise and praise thee? Shall thy lovingkindness be declared in the grave?" — expected answer: No
-- Prov 2:18: "her house inclineth unto death, and her paths unto the dead [rephaim]"
-- Prov 9:18: "he knoweth not that the dead [rephaim] are there; and that her guests are in the depths of hell" — rephaim in sheol
-- Prov 21:16: "The man that wandereth out of the way of understanding shall remain in the congregation of the dead [rephaim]"
-- Isa 14:9: "Hell from beneath is moved for thee...it stirreth up the dead [rephaim] for thee, even all the chief ones of the earth" — the taunt-song passage
-- Isa 26:14: "They are dead [rephaim], they shall not live; they are deceased, they shall not rise"
-- Isa 26:19: "the earth shall cast out the dead [rephaim]" — the RIGHTEOUS rephaim will be raised
-
-**Root Meaning:**
-H7496 derives from rapha = "to be slack, lax, weak, limp." The rephaim are the "limp/flaccid ones" — describing the inert, powerless character of the dead in sheol. This root meaning directly contradicts the idea of vigorous conscious intermediate existence: the dead are "limp" in sheol.
-
-**Critical Isaiah 26:14/19 Contrast:**
-- v.14: rephaim (wicked dead) — "shall not live...shall not rise" — their sleep is permanent unless resurrected
-- v.19: same root — the RIGHTEOUS rephaim will be raised: "the earth shall cast out the dead"
-- The contrast is not between two different experiences in the intermediate state, but between two different resurrection outcomes. Both groups are currently in the same sleeping state; the difference is whether they rise.
-
-**Ps 88:10 Significance:**
-The expected answer to "shall the dead [rephaim] arise and praise thee?" is No — the rephaim do not arise and praise. This is consistent with Ps 115:17, Isa 38:18, and Ecc 9:10. The rephaim are specifically the category of dead that do NOT praise, do NOT arise (in the current pre-resurrection state).
-
----
-
-## SUMMARY TABLE
-
-| Word | Language | Basic Meaning | Death Application | Consciousness Implication |
-|------|----------|---------------|-------------------|--------------------------|
-| G2837 koimao | Greek | sleep (intrans.) | Death of believers (NT) | Sleep = unconsciousness |
-| G2518 katheudo | Greek | sleep (general) | Death (Jairus, 1Thess 5) | Sleep = unconsciousness |
-| H3462 yashen | Hebrew | sleep | Death (Job, Jer, Dan 12) | Sleep = unconsciousness |
-| H7901 shakab | Hebrew | lie down | Death throughout OT | Lying down = inactivity |
-| H7585 sheol | Hebrew | realm of the dead | All dead go here | No work/praise/knowledge |
-| G86 hades | Greek | the unseen | NT equivalent of sheol | Temporary; abolished at resurrection |
-| G3498 nekros | Greek | dead/corpse | The dead category | Neutral; context determines quality |
-| G5590 psyche | Greek | soul/life/person | "Souls under altar" (Rev 6:9) | Can die (Matt 10:28; Rev 16:3) |
-| H7496 rephaim | Hebrew | limp/slack ones | The dead in sheol | Do not praise; do not arise (pre-resurrection) |
-
----
-
-## WORD STUDY CROSS-REFERENCES
-
-**Sleep-of-death unified set (all pointing the same direction):**
-G2837 + G2518 + H3462 + H7901 all describe death as sleep/lying-down. In 100% of their death-related uses, these words describe an inactive, resting, non-conscious state. Not one use of these words in a death context implies ongoing conscious activity.
-
-**Sheol/Hades unified description:**
-H7585 + G86 describe the same realm: dark, silent, no praise, no work, no return, bars of confinement. Hades is explicitly temporary (Rev 20:14), delivering up the dead at resurrection and then being abolished. The consistent character is a holding state of non-activity awaiting resurrection, not a conscious blessed intermediate experience.
-
-**Mortality of the soul:**
-G5590 (psyche) CAN die (Rev 16:3; Matt 10:28). The soul is not inherently immortal in NT vocabulary. Psyche in Rev 6:9 most naturally refers to the poured-out lives of the martyrs (OT blood/altar background), not conscious disembodied entities.
-
-**Rephaim root:**
-H7496 (rephaim = "limp ones") provides the OT's own etymological commentary on the dead: they are the weak, inert, limp ones. This is the opposite of the conscious intermediate state hypothesis.
+### Pattern 3: Resurrection = awakening from sleep
+- Dan 12:2: "Many that **sleep** in the dust shall **awake**"
+- Isa 26:19: "**Awake** and sing, ye that dwell in dust"
+- Job 14:12: "They shall not **awake** nor be raised out of their **sleep**"
+- 1 Cor 15:51: "We shall not all **sleep**, but we shall all be changed"
+- 1 Thess 4:14-16: "Them that **sleep** in Jesus... the dead in Christ shall **rise** first"
+- Ps 17:15: "I shall be satisfied, when I **awake**, with thy likeness"
+- Eph 5:14: "**Awake** thou that **sleepest**, and **arise** from the dead"

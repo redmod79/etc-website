@@ -1,96 +1,28 @@
 # Topics Research
 
 ## Question
-
-What is the literary genre of Luke 16:19-31 — is it a parable or a literal historical account of the afterlife? What does the passage say directly? What do the specific details mean in their first-century Jewish context? Does this passage prove eternal conscious torment in hades, or a conscious intermediate state between death and resurrection, or neither? How should IB006 (Luke 16 as literal hades description) be classified after a full dedicated investigation?
-
----
+Luke 16:19-31 -- parable or literal? Genre, first-century Jewish context. Apply Tree 3 genre gate. Literary structure (five parables in Luke 15-16).
 
 ## Topics
 
-### LAZARUS
-
-**Nave's entry:**
-
-1. Brother of Mary and Martha
-   - Sickness and death of: John 11:1-14
-   - Resurrection of: John 11:38-44; 12:17,18
-   - Had dinner with Jesus: John 12:1,2,9
-   - Plotted against by the chief priests: John 12:10,11
-
-**Research note:** Nave's has only one entry for LAZARUS — the Lazarus of Bethany (brother of Mary and Martha). The Lazarus of Luke 16:19-31 has NO separate Nave's entry, suggesting Nave's does not treat him as a historical individual with a biographical record. This is significant: the only other "Lazarus" in Scripture is a real person Jesus raised from the dead. The name Lazarus (= Eleazar = "God helps") is itself meaningful in a parabolic context — the poor man whom God ultimately helps.
-
----
-
-### PARADISE
-
-**Nave's entry:**
-
-- The place of glorified spirits: Luke 23:43; 2 Cor 12:4; Rev 2:7
-- See EDEN
-
-**Research note:** Nave's lists only 3 NT occurrences. The entry treats paradise as the place of glorified spirits — consistent with ECT/CIS reading. Note that "Abraham's bosom" does NOT appear in this entry; the equation of Abraham's bosom with paradise is NOT confirmed by Nave's — it is an interpretive inference.
-
----
-
-### HADES
-
-**Nave's entry (full):**
-
-1. The unseen world, translated "hell" in A.V., but in the R.V. the word "Hades" is retained:
-   - Matt 10:28; 11:23; 16:18; Luke 10:15; 16:23; Acts 2:27,31; Rev 1:18; 6:8; 20:13,14
-   - See HELL
-
-2. The realm (state) of the dead:
-   - 2 Sam 22:6; Job 26:5; Psa 6:5; 17:15; 30:9; 49:15; 86:13; 88:10-12; 115:17; 116:3; Prov 15:24; 21:16; 27:20; Ecc 9:4-6; Isa 5:14; Jon 2:2; Luke 23:42,43; John 8:22; 2 Cor 12:4
-   - See HELL
-   - See IMMORTALITY
-   - See PARADISE
-   - See RIGHTEOUS, FUTURE STATE OF
-   - See SPIRIT
-   - See WICKED, PUNISHMENT OF
-
-**Research note:** Nave's treats HADES as having two aspects: (1) the Greek word translated "hell" in KJV, covering all NT occurrences including Luke 16:23; (2) the realm of the dead, with extensive OT cross-references. The sub-entry "realm of the dead" includes Ecc 9:4-6 — the same passage used by conditionalists to argue the dead are unconscious. This placement is significant: Nave's does not distinguish conscious vs unconscious hades; it treats the realm-of-the-dead concept as a unified category.
-
----
-
-### TORMENTS
-
-**Nave's entry:**
-
-- Of the wicked: Luke 16:23-28; Rev 14:10,11
-- See WICKED, PUNISHMENT OF
-
-**Research note:** Nave's links the torments of Luke 16:23-28 directly with Rev 14:10,11. This is the standard ECT/traditionalist connection. However, the analysis agent should note:
-- Luke 16:23-28 uses G931 basanos (noun) and G928 basanizo (verb) — both in hades, a TEMPORARY state
-- Rev 14:10,11 uses G928 basanizo (verb) and G929 basanismos (noun) — in the context of God's wrath and eternal fire
-- Rev 20:10 uses G928 basanizo for the devil in the lake of fire "for ever and ever"
-- The torment in Luke 16 is pre-resurrection hades torment; the torment in Rev 14/20 is post-resurrection, final-judgment torment
-- Whether these two are the same kind of experience, or whether Luke 16 is parabolic imagery, is the central question.
-
----
-
 ### PARABLES
-
-**Nave's entry:**
-
-General parables (OT and NT):
-- Of the trees: Judg 9:8-15
+- Of the trees: Jdg 9:8-15
 - Of the lamb: 2 Sam 12:1-6
 - Of the woman of Tekoa: 2 Sam 14:5-12
-- Of the garment: 1 Kgs 11:30-32
-- Of the prisoner of war: 1 Kgs 20:39-41
-- Of the thistle and cedar: 2 Kgs 14:9
+- Of the garment which was torn in pieces: 1 Ki 11:30-32
+- Of the prisoner of war: 1 Ki 20:39-41
+- Of the thistle and cedar: 2 Ki 14:9
 - Of a vine of Egypt: Psa 80:8-16
 - Of the vineyard: Isa 5:1-7; 27:2,3
 - Of the husbandman: Isa 28:23-29
 - Of the skins filled with wine: Jer 13:12-14
 - Of the vine: Ezek 15; 17:5-10; 19:10-14
 - Of the two eagles: Ezek 17
+- Of lions' cubs: Ezek 19:1-9
 - Of Aholah and Aholibah: Ezek 23
 - The boiling pot: Ezek 24:3-5
 - The gourd: Jon 4:10,11
-- The sheet lowered down from the sky: Acts 10:10-16
+- The sheet lowered from the sky (Peter's vision): Acts 10:10-16
 - The two covenants: Gal 4:22-31
 - The mercenary soldier: 2 Tim 2:3,4
 - The farmer: 2 Tim 2:6
@@ -98,67 +30,48 @@ General parables (OT and NT):
 - The athlete: 2 Tim 2:5
 - The mirror: Jas 1:23-25
 - See JESUS, PARABLES OF
-- See SYMBOLS, TYPES
 
-**Research note:** Nave's does NOT include a "JESUS, PARABLES OF" topic under that name (the lookup returned no match). The PARABLES entry above is a general cross-testament list. Note that Nathan's parable of the lamb (2 Sam 12:1-6) is one of the most important genre parallels: a parable specifically designed to confront a powerful person with their sin — exactly the function of Luke 16 vis-a-vis the Pharisees (Luke 16:14-15).
+**Key observation:** Nave's lists the parable as a standard literary form used throughout Scripture by multiple authors. Jesus' parables follow this established biblical tradition.
 
----
+### LAZARUS
+- 1. Brother of Mary and Martha. Sickness and death of: Jhn 11:1-14. Resurrection of: Jhn 11:38-44; 12:17,18. Had dinner with Jesus: Jhn 12:1,2,9. Plotted against by the chief priests: Jhn 12:10,11.
 
-### IMMORTALITY
+**Key observation:** Nave's lists ONLY ONE Lazarus -- the brother of Mary and Martha in John 11-12. The "Lazarus" of Luke 16 does NOT receive a separate historical entry. This is consistent with the parabolic reading where "Lazarus" is a character name (meaning "God helps") chosen for its thematic significance, not a reference to a separate historical individual.
 
-**Nave's entry:**
+### HADES
+- 1. The unseen world, translated "hell" in AV, but in RV the word "Hades" is retained: Mat 10:28; 11:23; 16:18; Luk 10:15; 16:23; Act 2:27,31; Rev 1:18; 6:8; 20:13,14. See HELL.
+- 2. The realm (state) of the dead: 2 Sam 22:6; Job 26:5; Psa 6:5; 17:15; 30:9; 49:15; 86:13; 88:10-12; 115:17; 116:3; Pro 15:24; 21:16; 27:20; Ecc 9:4-6; Isa 5:14; Jon 2:2; Luk 23:42,43; Jhn 8:22; 2 Cor 12:4. See HELL; IMMORTALITY; PARADISE; RIGHTEOUS, FUTURE STATE OF; SPIRIT; WICKED, PUNISHMENT OF.
 
-General scriptures concerning:
-- Gen 5:24; 2 Sam 12:23; 2 Kgs 2:11; Neh 9:5; Job 4:17-21; 14:13; Psa 16:10,11; 21:4; 22:26; 23:6; 31:5; 36:9; 37:18,27; 49:7-9,14,15; 73:26; 86:12; 102:4,25-28; 121:8; 133:3; 145:1,2; Prov 14:32; Ecc 3:21; 12:7; Isa 14:9; 25:8; 26:19; 38:18,19; Ezek 32:31; Dan 12:2,3; Matt 10:28; 16:26; 19:16,17; 25:46; Mark 10:30; 12:26,27; Luke 9:25; 10:25-28; 20:36-38; John 3:14-16,36; 5:39,40; 6:39,40,44,47,50,51,53,54,58; 10:28; 11:25,26; 14:19; 17:2,3; Acts 20:32; 23:8,9; 26:7,8,18; Rom 2:7; 6:22,23; 1 Cor 15:12-55; Gal 6:8; Col 1:5,6; 1 Thess 4:13-18; 5:10; 2 Thess 1:7-9; 2:16; 1 Tim 4:8; 6:12,19; 2 Tim 1:9,10; Titus 1:2; 3:7; Heb 9:15; 10:34; 11:5,10,13-16; 1 Pet 1:3-5; 1 John 2:17,25; 5:13; Jude 21; Rev 1:7; 3:4; 22:5
+**Key observation:** Nave's categorizes hades in two senses: (1) the unseen world, and (2) the realm/state of the dead. The second category includes passages describing the dead as unconscious (Psa 6:5; 88:10-12; 115:17; Ecc 9:4-6). Luke 16:23 appears under sense 1 (the unseen world), not as a doctrinal statement about the nature of the afterlife.
 
-- See RESURRECTION
-- See RIGHTEOUS, PROMISES TO
-- See WICKED, PUNISHMENT OF
+### ABRAHAM
+- Also called Abram. Son of Terah (Gen 11:26,27). Marries Sarah (Gen 11:29). Divine call (Gen 12:1-3; Jos 24:3; Neh 9:7; Isa 51:2; Acts 7:2,3; Heb 11:8). Canaan given to (Gen 12:1,7; 15:7-21). God's covenant with (Gen 15; 17:1-22; Mic 7:20; Luk 1:73; Rom 4:13; 15:8; Heb 6:13,14; Gal 3:6-18,29; 4:22-31). Called "friend of God" (Isa 41:8; 2 Chr 20:7; Jas 2:23). Faith of (Gen 15:6; Rom 4:1-22; Gal 3:6-9; Heb 11:8-10,17-19; Jas 2:21-24). **In Paradise: Mat 8:11; Luk 13:28; 16:22-31.** Father of the faithful (Rom 4:16-18). In the genealogy of Jesus (Mat 1:1-2).
 
-**Research note:** The IMMORTALITY entry includes both conditionalist-friendly verses (Ecc 3:21; 12:7; 1 Cor 15:12-55 which argues resurrection is the hope, not an intermediate state) and ECT-friendly verses (Luke 20:36-38; John 11:25,26; Luke 23:43 implicit). The entry does not resolve the question; it simply gathers all texts where human existence beyond death is discussed.
+**Key observation:** Nave's lists Luke 16:22-31 under Abraham's entry as "In Paradise" alongside Mat 8:11 and Luk 13:28. The entry does NOT list "Abraham's bosom" as a doctrinal concept or a post-mortem location. The phrase "Abraham's bosom" (kolpos Abraam) as a location for the dead appears ONLY in Luke 16:22-23 in the entire Bible.
 
----
+### HELL (Nave's full entry)
+- In the AV this word occurs in OT Scriptures as translation of Hebrew "sheol" (the unseen state).
+- In the RV of OT it appears only in: Isa 5:14; 14:9,15; 28:15,18; 57:9; Ezek 31:16,17; 32:21,27; Amos 9:2; Jonah 2:2; Hab 2:5
+- Sheol is translated "grave" in AV in: Gen 37:35; 42:38; 44:29,31; 1 Sam 2:6; 1 Ki 2:6,9; Job 7:9; 14:13; 17:13; 21:13; 24:19; Psa 6:5; 30:3; 31:17; 49:14,15; 88:3; 89:48; 141:7; Pro 1:12; 30:16; Ecc 9:10; Song 8:6; Hos 13:14
+- In the RV the Greek word "gehenna" is translated "hell" in: Mat 5:22,29,30; 10:28; 18:9; 23:15,33; Mark 9:43,45,47; Luke 12:5; Jas 3:6
+- The RV introduced "Hades" in: Mat 11:23; 16:18; Luke 10:15; 16:23; Acts 2:27,31; Rev 1:18; 6:8; 20:13,14
+- **THE FUTURE HOME OF THE WICKED:** Psa 9:17; Pro 5:5; 9:13,15-18; 15:24; 23:13,14; Isa 30:33; 33:14; Mat 3:12; 5:29,30; 7:13,14; 8:11,12; 10:28; 13:30,38-42,49,50; 16:18; 18:8,9,34,35; 22:13; 25:28-30,41,46; Mark 9:43-48; **Luke 3:17; 16:23-26,28**; Acts 1:25; 2 Thess 1:9; 2 Pet 2:4; Jude 1:6-23; Rev 2:11; 9:1,2; 11:7; 14:10,11; 19:20; 20:10,15; 21:8. See WICKED, PUNISHMENT OF.
 
-### HELL
+**Key observation:** Luke 16:23-26,28 is listed under "THE FUTURE HOME OF THE WICKED" alongside apocalyptic and parabolic passages. Nave's categorization does not distinguish between didactic and parabolic passages in this list.
 
-**Nave's entry (relevant sections):**
+### RICH, THE (Nave's entry)
+- General scriptures: Neh 5:1-13; Job 21:7-15; 27:13-23; 31:24,25,28; Psa 49:16,17; 52:1-7; 73:3-22; Pro 14:20; 18:11,23; 28:11; Ecc 5:13,14,19,20; Jer 5:7-9,27-29; 9:23; 17:11; 22:13-19; Ezek 7:19; 28:5; Amo 6:1-6; Mic 6:12; Zep 1:18; **Mat 19:23,24; Mark 10:17-27; Luke 6:24,25; 12:15-21; 16:13,14,19-26; 18:22-26**; 1 Tim 6:17-19; Jas 1:9-11; 5:1-3.
 
-Definitions/translations:
-- In A.V., occurs in OT as translation of Hebrew "sheol" (unseen state)
-- In R.V., "sheol" appears only in Isa 5:14; 14:9,15; 28:15,18; 57:9; Ezek 31:16,17; 32:21,27; Amos 9:2; Jon 2:2; Hab 2:5
-- In R.V., "sheol" is translated "lowest pit" in Deut 32:22; Psa 86:13
-- In R.V., "sheol" itself occurs in: 2 Sam 22:6; Job 11:8; 26:6; Psa 9:17; 16:10; 18:5; 116:3; 139:8; Prov 5:5; 7:27; 9:18; 15:11,24; 23:14; 27:20
-- Sheol translated "grave" in A.V. in: Gen 37:35; 42:38; 44:29,31; 1 Sam 2:6; 1 Kgs 2:6,9; Job 7:9; 14:13; 17:13; 21:13; 24:19; Psa 6:5; 30:3; 31:17; 49:14,15; 88:3; 89:48; 141:7; Prov 1:12; 30:16; Ecc 9:10; Song 8:6; Hos 13:14
-- In R.V., "gehenna" = hell: Matt 5:22,29,30; 10:28; 18:9; 23:15,33; Mark 9:43,45,47; Luke 12:5; Jas 3:6
-- In R.V., "Hades" retained: Matt 11:23; 16:18; Luke 10:15; 16:23; Acts 2:27,31; Rev 1:18; 6:8; 20:13,14
+**Key observation:** Luke 16:19-26 is listed under "THE RICH" as a general scripture about the dangers of wealth. This categorization treats the passage as a moral teaching about wealth, consistent with the parabolic reading where the rich man represents those who fail to heed Moses and the prophets.
 
-**THE FUTURE HOME OF THE WICKED:**
-Psa 9:17; Prov 5:5; 9:13,15-18; 15:24; 23:13,14; Isa 30:33; 33:14; Matt 3:12; 5:29,30; 7:13,14; 8:11,12; 10:28; 13:30,38-42,49,50; 16:18; 18:8,9,34,35; 22:13; 25:28-30,41,46; Mark 9:43-48; Luke 3:17; 16:23-26,28; Acts 1:25; 2 Thess 1:9; 2 Pet 2:4; Jude 6-23; Rev 2:11; 9:1,2; 11:7; 14:10,11; 19:20; 20:10,15; 21:8
+### DEATH (Nave's excerpts relevant to this study)
+- Called SLEEP: Deut 31:16; Job 7:21; 14:12; Jer 51:39; Dan 12:2; John 11:11; Acts 7:60; 13:36; 1 Cor 15:6,18,51; 1 Thess 4:14,15
+- OF THE RIGHTEOUS: ... Luke 2:29; **16:22**; 23:43; John 11:11; Acts 7:59; ...
+- OF THE WICKED: ... Luke 12:20; **16:22-28**; Acts 5:3-10; 1 Thess 5:3
 
-- See WICKED, PUNISHMENT OF
+**Key observation:** Nave's lists Luke 16:22 under DEATH OF THE RIGHTEOUS (Lazarus being carried to Abraham's bosom) and Luke 16:22-28 under DEATH OF THE WICKED (the rich man in hades). These listings treat both as illustrative of the broader topic of death, without making a distinction about genre.
 
-**Research note:** Nave's "FUTURE HOME OF THE WICKED" sub-entry includes Luke 16:23-26,28 alongside Rev 20:10,15 and Matt 25:41,46. This conflates the intermediate state (hades) with the final state (lake of fire), which the analysis agent must examine carefully. The distinction between hades (Rev 20:13-14, temporary) and the lake of fire (permanent) is critical for evaluating whether Luke 16 is about eternal conscious torment or a temporary intermediate-state experience.
+## Related Topics Discovered
 
----
-
-### SELF-INDULGENCE
-
-**Nave's entry (relevant excerpt):**
-
-Instances of:
-- Solomon: Ecc 2:10
-- The rich fool: Luke 12:16-20
-- **The rich man who feasted every day: Luke 16:19**
-- See GLUTTONY, IDLENESS, SLOTHFULNESS, SELF-DENIAL
-
-**Research note:** Nave's cites Luke 16:19 under SELF-INDULGENCE alongside Luke 12:16-20 (the Rich Fool parable). This is significant: Nave's topically links the rich man of Luke 16 with the rich fool of Luke 12 — and Luke 12:16 is explicitly introduced as a parable ("he spake a parable unto them"). The genre parallel between the two "certain rich men" is noted in Nave's implicit classification.
-
----
-
-## Related Topics Not Found in Nave's
-
-- ABRAHAM'S BOSOM — no entry
-- RICH MAN (as a Nave's topic) — no entry
-- JESUS, PARABLES OF — no entry (lookup failed; general PARABLES entry found instead)
-
-The absence of a specific "Abraham's Bosom" topic entry in Nave's is itself data: it is treated as a location within Luke 16, not as a standalone theological concept with independent biblical support.
+### JESUS, PARABLES OF
+Nave's entry for PARABLES references "See JESUS, PARABLES OF." The search for "parables of jesus" returned entries in MALFEASANCE IN OFFICE (referencing the steward of Luke 16:1-7) and INSTRUCTION. The PARABLES entry itself lists OT and NT parables together. Critically, the unjust steward parable (Luke 16:1-7) is explicitly recognized as a parable of Jesus, and it uses the same "a certain rich man" formula as Luke 16:19.

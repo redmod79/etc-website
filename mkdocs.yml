@@ -77,6 +77,7 @@ nav:
   - "Tier 1 -- Foundations":
 
     - "01 -- What Is a Human Being?":
+      - Plain Language: studies/etc-01-what-is-man/conclusion-simple.md
       - Conclusion: studies/etc-01-what-is-man/CONCLUSION.md
       - Analysis: studies/etc-01-what-is-man/03-analysis.md
       - Verses: studies/etc-01-what-is-man/02-verses.md
@@ -84,13 +85,14 @@ nav:
       - Topics: studies/etc-01-what-is-man/01-topics.md
       - Research Scope: studies/etc-01-what-is-man/PROMPT.md
       - Raw Data:
+        - "Concept Context": studies/etc-01-what-is-man/raw-data/concept-context.md
+        - "Hebrew Parsing": studies/etc-01-what-is-man/raw-data/hebrew-parsing.md
         - "Nave's Topics": studies/etc-01-what-is-man/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/etc-01-what-is-man/raw-data/parallels.md
         - "Strong's Lookups": studies/etc-01-what-is-man/raw-data/strongs-lookups.md
-        - Hebrew Parsing: studies/etc-01-what-is-man/raw-data/hebrew-parsing.md
-        - Greek Parsing: studies/etc-01-what-is-man/raw-data/greek-parsing.md
-        - Cross-Testament Parallels: studies/etc-01-what-is-man/raw-data/cross-testament-parallels.md
 
     - "02 -- Who Has Immortality?":
+      - Plain Language: studies/etc-02-who-has-immortality/conclusion-simple.md
       - Conclusion: studies/etc-02-who-has-immortality/CONCLUSION.md
       - Analysis: studies/etc-02-who-has-immortality/03-analysis.md
       - Verses: studies/etc-02-who-has-immortality/02-verses.md
@@ -98,13 +100,13 @@ nav:
       - Topics: studies/etc-02-who-has-immortality/01-topics.md
       - Research Scope: studies/etc-02-who-has-immortality/PROMPT.md
       - Raw Data:
+        - "Concept Context": studies/etc-02-who-has-immortality/raw-data/concept-context.md
         - "Nave's Topics": studies/etc-02-who-has-immortality/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/etc-02-who-has-immortality/raw-data/parallels.md
         - "Strong's Lookups": studies/etc-02-who-has-immortality/raw-data/strongs-lookups.md
-        - Hebrew Parsing: studies/etc-02-who-has-immortality/raw-data/hebrew-parsing.md
-        - Greek Parsing: studies/etc-02-who-has-immortality/raw-data/greek-parsing.md
-        - Cross-Testament Parallels: studies/etc-02-who-has-immortality/raw-data/cross-testament-parallels.md
 
     - "03 -- How Does the Bible Define Death?":
+      - Plain Language: studies/etc-03-biblical-death/conclusion-simple.md
       - Conclusion: studies/etc-03-biblical-death/CONCLUSION.md
       - Analysis: studies/etc-03-biblical-death/03-analysis.md
       - Verses: studies/etc-03-biblical-death/02-verses.md
@@ -112,13 +114,13 @@ nav:
       - Topics: studies/etc-03-biblical-death/01-topics.md
       - Research Scope: studies/etc-03-biblical-death/PROMPT.md
       - Raw Data:
+        - "Concept Context": studies/etc-03-biblical-death/raw-data/concept-context.md
         - "Nave's Topics": studies/etc-03-biblical-death/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/etc-03-biblical-death/raw-data/parallels.md
         - "Strong's Lookups": studies/etc-03-biblical-death/raw-data/strongs-lookups.md
-        - Hebrew Parsing: studies/etc-03-biblical-death/raw-data/hebrew-parsing.md
-        - Greek Parsing: studies/etc-03-biblical-death/raw-data/greek-parsing.md
-        - Cross-Testament Parallels: studies/etc-03-biblical-death/raw-data/cross-testament-parallels.md
 
     - "04 -- What Is the Condition of the Dead?":
+      - Plain Language: studies/etc-04-state-of-the-dead/conclusion-simple.md
       - Conclusion: studies/etc-04-state-of-the-dead/CONCLUSION.md
       - Analysis: studies/etc-04-state-of-the-dead/03-analysis.md
       - Verses: studies/etc-04-state-of-the-dead/02-verses.md
@@ -126,16 +128,16 @@ nav:
       - Topics: studies/etc-04-state-of-the-dead/01-topics.md
       - Research Scope: studies/etc-04-state-of-the-dead/PROMPT.md
       - Raw Data:
+        - "Concept Context": studies/etc-04-state-of-the-dead/raw-data/concept-context.md
         - "Nave's Topics": studies/etc-04-state-of-the-dead/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/etc-04-state-of-the-dead/raw-data/parallels.md
         - "Strong's Lookups": studies/etc-04-state-of-the-dead/raw-data/strongs-lookups.md
-        - Hebrew Parsing: studies/etc-04-state-of-the-dead/raw-data/hebrew-parsing.md
-        - Greek Parsing: studies/etc-04-state-of-the-dead/raw-data/greek-parsing.md
-        - Cross-Testament Parallels: studies/etc-04-state-of-the-dead/raw-data/cross-testament-parallels.md
 
   # ── Tier 2: Word Studies ──
   - "Tier 2 -- Word Studies":
 
     - "05 -- The Four 'Hell' Words":
+      - Plain Language: studies/etc-05-four-hell-words/conclusion-simple.md
       - Conclusion: studies/etc-05-four-hell-words/CONCLUSION.md
       - Analysis: studies/etc-05-four-hell-words/03-analysis.md
       - Verses: studies/etc-05-four-hell-words/02-verses.md
@@ -143,13 +145,13 @@ nav:
       - Topics: studies/etc-05-four-hell-words/01-topics.md
       - Research Scope: studies/etc-05-four-hell-words/PROMPT.md
       - Raw Data:
+        - "Concept Context": studies/etc-05-four-hell-words/raw-data/concept-context.md
         - "Nave's Topics": studies/etc-05-four-hell-words/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/etc-05-four-hell-words/raw-data/parallels.md
         - "Strong's Lookups": studies/etc-05-four-hell-words/raw-data/strongs-lookups.md
-        - Hebrew Parsing: studies/etc-05-four-hell-words/raw-data/hebrew-parsing.md
-        - Greek Parsing: studies/etc-05-four-hell-words/raw-data/greek-parsing.md
-        - Cross-Testament Parallels: studies/etc-05-four-hell-words/raw-data/cross-testament-parallels.md
 
     - "06 -- Destruction Vocabulary":
+      - Plain Language: studies/etc-06-destruction-vocabulary/conclusion-simple.md
       - Conclusion: studies/etc-06-destruction-vocabulary/CONCLUSION.md
       - Analysis: studies/etc-06-destruction-vocabulary/03-analysis.md
       - Verses: studies/etc-06-destruction-vocabulary/02-verses.md
@@ -157,13 +159,13 @@ nav:
       - Topics: studies/etc-06-destruction-vocabulary/01-topics.md
       - Research Scope: studies/etc-06-destruction-vocabulary/PROMPT.md
       - Raw Data:
+        - "Concept Context": studies/etc-06-destruction-vocabulary/raw-data/concept-context.md
+        - "Nave's Topics": studies/etc-06-destruction-vocabulary/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/etc-06-destruction-vocabulary/raw-data/parallels.md
         - "Strong's Lookups": studies/etc-06-destruction-vocabulary/raw-data/strongs-lookups.md
-        - Hebrew Parsing: studies/etc-06-destruction-vocabulary/raw-data/hebrew-parsing.md
-        - Greek Parsing: studies/etc-06-destruction-vocabulary/raw-data/greek-parsing.md
-        - LXX Mapping: studies/etc-06-destruction-vocabulary/raw-data/lxx-mapping.md
-        - Cross-Testament Parallels: studies/etc-06-destruction-vocabulary/raw-data/parallels.md
 
     - "07 -- Olam: 'Forever' in the Old Testament":
+      - Plain Language: studies/etc-07-olam-forever-in-ot/conclusion-simple.md
       - Conclusion: studies/etc-07-olam-forever-in-ot/CONCLUSION.md
       - Analysis: studies/etc-07-olam-forever-in-ot/03-analysis.md
       - Verses: studies/etc-07-olam-forever-in-ot/02-verses.md
@@ -171,13 +173,13 @@ nav:
       - Topics: studies/etc-07-olam-forever-in-ot/01-topics.md
       - Research Scope: studies/etc-07-olam-forever-in-ot/PROMPT.md
       - Raw Data:
+        - "Concept Context": studies/etc-07-olam-forever-in-ot/raw-data/concept-context.md
+        - "Nave's Topics": studies/etc-07-olam-forever-in-ot/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/etc-07-olam-forever-in-ot/raw-data/parallels.md
         - "Strong's Lookups": studies/etc-07-olam-forever-in-ot/raw-data/strongs-lookups.md
-        - Hebrew Parsing: studies/etc-07-olam-forever-in-ot/raw-data/hebrew-parsing.md
-        - LXX Mapping: studies/etc-07-olam-forever-in-ot/raw-data/lxx-mapping.md
-        - Cross-Testament Parallels: studies/etc-07-olam-forever-in-ot/raw-data/parallels.md
-        - Verse Context: studies/etc-07-olam-forever-in-ot/raw-data/verse-context.md
 
     - "08 -- Aionios: 'Eternal' in the New Testament":
+      - Plain Language: studies/etc-08-aionios-forever-in-nt/conclusion-simple.md
       - Conclusion: studies/etc-08-aionios-forever-in-nt/CONCLUSION.md
       - Analysis: studies/etc-08-aionios-forever-in-nt/03-analysis.md
       - Verses: studies/etc-08-aionios-forever-in-nt/02-verses.md
@@ -185,17 +187,16 @@ nav:
       - Topics: studies/etc-08-aionios-forever-in-nt/01-topics.md
       - Research Scope: studies/etc-08-aionios-forever-in-nt/PROMPT.md
       - Raw Data:
+        - "Concept Context": studies/etc-08-aionios-forever-in-nt/raw-data/concept-context.md
+        - "Nave's Topics": studies/etc-08-aionios-forever-in-nt/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/etc-08-aionios-forever-in-nt/raw-data/parallels.md
         - "Strong's Lookups": studies/etc-08-aionios-forever-in-nt/raw-data/strongs-lookups.md
-        - Greek Parsing: studies/etc-08-aionios-forever-in-nt/raw-data/greek-parsing.md
-        - Concept Context: studies/etc-08-aionios-forever-in-nt/raw-data/concept-context.md
-        - Grammar References: studies/etc-08-aionios-forever-in-nt/raw-data/grammar-references.md
-        - Cross-Testament Parallels: studies/etc-08-aionios-forever-in-nt/raw-data/parallels.md
-        - Verse Context: studies/etc-08-aionios-forever-in-nt/raw-data/verse-context.md
 
   # ── Tier 3: Key Passages ──
   - "Tier 3 -- Key Passages":
 
     - "09 -- The Rich Man and Lazarus":
+      - Plain Language: studies/etc-09-rich-man-lazarus/conclusion-simple.md
       - Conclusion: studies/etc-09-rich-man-lazarus/CONCLUSION.md
       - Analysis: studies/etc-09-rich-man-lazarus/03-analysis.md
       - Verses: studies/etc-09-rich-man-lazarus/02-verses.md
@@ -203,12 +204,13 @@ nav:
       - Topics: studies/etc-09-rich-man-lazarus/01-topics.md
       - Research Scope: studies/etc-09-rich-man-lazarus/PROMPT.md
       - Raw Data:
+        - "Concept Context": studies/etc-09-rich-man-lazarus/raw-data/concept-context.md
+        - "Nave's Topics": studies/etc-09-rich-man-lazarus/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/etc-09-rich-man-lazarus/raw-data/parallels.md
         - "Strong's Lookups": studies/etc-09-rich-man-lazarus/raw-data/strongs-lookups.md
-        - Greek Parsing: studies/etc-09-rich-man-lazarus/raw-data/greek-parsing.md
-        - Cross-Testament Parallels: studies/etc-09-rich-man-lazarus/raw-data/parallels.md
-        - Verse Context: studies/etc-09-rich-man-lazarus/raw-data/verse-context.md
 
     - "10 -- Souls Under the Altar":
+      - Plain Language: studies/etc-10-souls-under-altar/conclusion-simple.md
       - Conclusion: studies/etc-10-souls-under-altar/CONCLUSION.md
       - Analysis: studies/etc-10-souls-under-altar/03-analysis.md
       - Verses: studies/etc-10-souls-under-altar/02-verses.md
@@ -216,12 +218,13 @@ nav:
       - Topics: studies/etc-10-souls-under-altar/01-topics.md
       - Research Scope: studies/etc-10-souls-under-altar/PROMPT.md
       - Raw Data:
+        - "Concept Context": studies/etc-10-souls-under-altar/raw-data/concept-context.md
+        - "Nave's Topics": studies/etc-10-souls-under-altar/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/etc-10-souls-under-altar/raw-data/parallels.md
         - "Strong's Lookups": studies/etc-10-souls-under-altar/raw-data/strongs-lookups.md
-        - Greek Parsing: studies/etc-10-souls-under-altar/raw-data/greek-parsing.md
-        - Cross-Testament Parallels: studies/etc-10-souls-under-altar/raw-data/parallels.md
-        - Verse Context: studies/etc-10-souls-under-altar/raw-data/verse-context.md
 
     - "11 -- Smoke Ascending Forever":
+      - Plain Language: studies/etc-11-smoke-ascending-forever/conclusion-simple.md
       - Conclusion: studies/etc-11-smoke-ascending-forever/CONCLUSION.md
       - Analysis: studies/etc-11-smoke-ascending-forever/03-analysis.md
       - Verses: studies/etc-11-smoke-ascending-forever/02-verses.md
@@ -229,12 +232,13 @@ nav:
       - Topics: studies/etc-11-smoke-ascending-forever/01-topics.md
       - Research Scope: studies/etc-11-smoke-ascending-forever/PROMPT.md
       - Raw Data:
+        - "Concept Context": studies/etc-11-smoke-ascending-forever/raw-data/concept-context.md
+        - "Nave's Topics": studies/etc-11-smoke-ascending-forever/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/etc-11-smoke-ascending-forever/raw-data/parallels.md
         - "Strong's Lookups": studies/etc-11-smoke-ascending-forever/raw-data/strongs-lookups.md
-        - Greek Parsing: studies/etc-11-smoke-ascending-forever/raw-data/greek-parsing.md
-        - Cross-Testament Parallels: studies/etc-11-smoke-ascending-forever/raw-data/parallels.md
-        - Verse Context: studies/etc-11-smoke-ascending-forever/raw-data/verse-context.md
 
     - "12 -- Tormented Day and Night Forever":
+      - Plain Language: studies/etc-12-tormented-forever/conclusion-simple.md
       - Conclusion: studies/etc-12-tormented-forever/CONCLUSION.md
       - Analysis: studies/etc-12-tormented-forever/03-analysis.md
       - Verses: studies/etc-12-tormented-forever/02-verses.md
@@ -242,12 +246,13 @@ nav:
       - Topics: studies/etc-12-tormented-forever/01-topics.md
       - Research Scope: studies/etc-12-tormented-forever/PROMPT.md
       - Raw Data:
+        - "Concept Context": studies/etc-12-tormented-forever/raw-data/concept-context.md
+        - "Nave's Topics": studies/etc-12-tormented-forever/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/etc-12-tormented-forever/raw-data/parallels.md
         - "Strong's Lookups": studies/etc-12-tormented-forever/raw-data/strongs-lookups.md
-        - Greek Parsing: studies/etc-12-tormented-forever/raw-data/greek-parsing.md
-        - Cross-Testament Parallels: studies/etc-12-tormented-forever/raw-data/parallels.md
-        - Verse Context: studies/etc-12-tormented-forever/raw-data/verse-context.md
 
     - "13 -- The Lake of Fire and Second Death":
+      - Plain Language: studies/etc-13-lake-of-fire-second-death/conclusion-simple.md
       - Conclusion: studies/etc-13-lake-of-fire-second-death/CONCLUSION.md
       - Analysis: studies/etc-13-lake-of-fire-second-death/03-analysis.md
       - Verses: studies/etc-13-lake-of-fire-second-death/02-verses.md
@@ -255,11 +260,12 @@ nav:
       - Topics: studies/etc-13-lake-of-fire-second-death/01-topics.md
       - Research Scope: studies/etc-13-lake-of-fire-second-death/PROMPT.md
       - Raw Data:
-        - "Strong's Lookups": studies/etc-13-lake-of-fire-second-death/raw-data/strongs-lookups.md
-        - Greek Parsing: studies/etc-13-lake-of-fire-second-death/raw-data/greek-parsing.md
-        - Cross-Testament Parallels: studies/etc-13-lake-of-fire-second-death/raw-data/parallels.md
+        - "Concept Context": studies/etc-13-lake-of-fire-second-death/raw-data/concept-context.md
+        - "Cross-Testament Parallels": studies/etc-13-lake-of-fire-second-death/raw-data/parallels.md
+        - "Strong's Lookups": studies/etc-13-lake-of-fire-second-death/raw-data/strongs.md
 
-    - "14 -- The Five Judgment Passages":
+    - "14 -- The Major Judgment Passages":
+      - Plain Language: studies/etc-14-judgment-passages/conclusion-simple.md
       - Conclusion: studies/etc-14-judgment-passages/CONCLUSION.md
       - Analysis: studies/etc-14-judgment-passages/03-analysis.md
       - Verses: studies/etc-14-judgment-passages/02-verses.md
@@ -267,14 +273,14 @@ nav:
       - Topics: studies/etc-14-judgment-passages/01-topics.md
       - Research Scope: studies/etc-14-judgment-passages/PROMPT.md
       - Raw Data:
-        - "Strong's Lookups": studies/etc-14-judgment-passages/raw-data/strongs-lookups.md
-        - Greek Parsing: studies/etc-14-judgment-passages/raw-data/greek-parsing.md
-        - Cross-Testament Parallels: studies/etc-14-judgment-passages/raw-data/parallels.md
+        - "Cross-Testament Parallels": studies/etc-14-judgment-passages/raw-data/parallels.md
+        - "Strong's Lookups": studies/etc-14-judgment-passages/raw-data/strongs.md
 
   # ── Tier 4: Evaluation & Synthesis ──
   - "Tier 4 -- Evaluation & Synthesis":
 
     - "15 -- The Strongest Case for ECT":
+      - Plain Language: studies/etc-15-ect-strongest-case/conclusion-simple.md
       - Conclusion: studies/etc-15-ect-strongest-case/CONCLUSION.md
       - Analysis: studies/etc-15-ect-strongest-case/03-analysis.md
       - Verses: studies/etc-15-ect-strongest-case/02-verses.md
@@ -282,11 +288,10 @@ nav:
       - Topics: studies/etc-15-ect-strongest-case/01-topics.md
       - Research Scope: studies/etc-15-ect-strongest-case/PROMPT.md
       - Raw Data:
-        - "Strong's Lookups": studies/etc-15-ect-strongest-case/raw-data/strongs-lookups.md
-        - Greek Parsing: studies/etc-15-ect-strongest-case/raw-data/greek-parsing.md
-        - Cross-Testament Parallels: studies/etc-15-ect-strongest-case/raw-data/parallels.md
+        - "Web Research": studies/etc-15-ect-strongest-case/raw-data/web-research.md
 
     - "16 -- Historical Origins of ECT":
+      - Plain Language: studies/etc-16-origins-of-ect/conclusion-simple.md
       - Conclusion: studies/etc-16-origins-of-ect/CONCLUSION.md
       - Analysis: studies/etc-16-origins-of-ect/03-analysis.md
       - Verses: studies/etc-16-origins-of-ect/02-verses.md
@@ -294,12 +299,14 @@ nav:
       - Topics: studies/etc-16-origins-of-ect/01-topics.md
       - Research Scope: studies/etc-16-origins-of-ect/PROMPT.md
       - Raw Data:
-        - "Strong's Lookups": studies/etc-16-origins-of-ect/raw-data/strongs-lookups.md
+        - "Existing Studies": studies/etc-16-origins-of-ect/raw-data/existing-studies.md
         - "Nave's Topics": studies/etc-16-origins-of-ect/raw-data/naves-topics.md
-        - Existing Studies: studies/etc-16-origins-of-ect/raw-data/existing-studies.md
-        - Cross-Testament Parallels: studies/etc-16-origins-of-ect/raw-data/parallels.md
+        - "Cross-Testament Parallels": studies/etc-16-origins-of-ect/raw-data/parallels.md
+        - "Strong's Lookups": studies/etc-16-origins-of-ect/raw-data/strongs-lookups.md
+        - "Web Research": studies/etc-16-origins-of-ect/raw-data/web-research.md
 
     - "17 -- God's Character and Justice":
+      - Plain Language: studies/etc-17-gods-character-and-justice/conclusion-simple.md
       - Conclusion: studies/etc-17-gods-character-and-justice/CONCLUSION.md
       - Analysis: studies/etc-17-gods-character-and-justice/03-analysis.md
       - Verses: studies/etc-17-gods-character-and-justice/02-verses.md
@@ -307,16 +314,14 @@ nav:
       - Topics: studies/etc-17-gods-character-and-justice/01-topics.md
       - Research Scope: studies/etc-17-gods-character-and-justice/PROMPT.md
       - Raw Data:
-        - "Strong's Lookups": studies/etc-17-gods-character-and-justice/raw-data/strongs-lookups.md
-        - "Nave's Topics": studies/etc-17-gods-character-and-justice/raw-data/naves-topics.md
-        - Concept Context: studies/etc-17-gods-character-and-justice/raw-data/concept-context.md
-        - Existing Studies: studies/etc-17-gods-character-and-justice/raw-data/existing-studies.md
-        - Cross-Testament Parallels: studies/etc-17-gods-character-and-justice/raw-data/parallels.md
+        - "Nave's Entries": studies/etc-17-gods-character-and-justice/raw-data/naves-entries.md
+        - "Cross-Testament Parallels": studies/etc-17-gods-character-and-justice/raw-data/parallels.md
+        - "Strong's Data": studies/etc-17-gods-character-and-justice/raw-data/strongs-data.md
 
     - "18 -- Comprehensive Synthesis":
+      - Plain Language: studies/etc-18-comprehensive-synthesis/conclusion-simple.md
       - Conclusion: studies/etc-18-comprehensive-synthesis/CONCLUSION.md
       - Analysis: studies/etc-18-comprehensive-synthesis/03-analysis.md
       - Verses: studies/etc-18-comprehensive-synthesis/02-verses.md
-      - Word Studies: studies/etc-18-comprehensive-synthesis/04-word-studies.md
       - Topics: studies/etc-18-comprehensive-synthesis/01-topics.md
       - Research Scope: studies/etc-18-comprehensive-synthesis/PROMPT.md

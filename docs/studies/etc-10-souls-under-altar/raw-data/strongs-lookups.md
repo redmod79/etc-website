@@ -1,15 +1,8 @@
-# Raw Data: Strong's Lookups
-# ETC5 Study 10 — Souls Under the Altar (Rev 6:9-11)
-# Date: 2026-02-19
+# Raw Strong's Lookup Data
 
----
-
-## G5590 — psychē
-
-### --lookup output
+## G5590 -- psyche (ψυχή)
 ```
 G5590 - 87 total occurrences, 12 unique translations:
-
     32 ( 36.8%) soul
     25 ( 28.7%) life
     18 ( 20.7%) souls
@@ -22,195 +15,162 @@ G5590 - 87 total occurrences, 12 unique translations:
      1 (  1.1%) of soul
      1 (  1.1%) of the soul
      1 (  1.1%) minds
+
+LEXICON:
+  Transliteration: psychḗ
+  Pronunciation:   psoo-khay
+  Part of Speech:  feminine noun (n-f)
+  BLB Count:       105
+  Definition: from; breath, i.e. (by implication) spirit, abstractly or concretely
+
+  Outline of Biblical Usage includes: Gen 1:20; 2:7; 9:4; 35:18; 46:15-27;
+  Exo 1:5; 12:4; Lev 2:1; 7:17; 11:10; 17:12; Num 19:11,13,18; 31:35,40,46;
+  Deu 6:5; 10:22; 1Ki 17:21; Eze 27:13; Mat 2:20; 6:25; 10:4,28,39; 11:29;
+  12:18; 16:25; 20:28; 22:37; 26:38; [many more NT refs]
+  Rev 6:9; 8:9; 12:11; 16:3; 18:13; 18:14; 20:4
 ```
 
-### --lexicon output
+### G5590 translated as "souls" (18 verses):
+Mat 11:29, Luk 21:19, Act 2:41, Act 7:14, Act 14:22, Act 15:24, Act 27:37,
+1Th 2:8, Heb 13:17, 1Pe 1:9, 1Pe 1:22, 1Pe 2:25, 1Pe 3:20, 1Pe 4:19,
+2Pe 2:14, **Rev 6:9**, Rev 18:13, **Rev 20:4**
+
+---
+
+## G2379 -- thysiastērion (θυσιαστήριον)
 ```
-G5590: ψυχή
-Transliteration: psychē
-Pronunciation: psoo-khay
-Part of Speech: feminine noun (n-f)
-BLB Count: 105
+G2379 - 22 total occurrences, 3 unique translations:
+    20 ( 90.9%) altar
+     1 (  4.5%) altars
+     1 (  4.5%) an altar
 
-Definition:
-  from [psucho]; breath, i.e. (by implication) spirit, abstractly or concretely
-  (the animal sentient principle only; thus distinguished on the one hand from
-  pneuma, which is the rational and immortal soul; and on the other from zoe,
-  which is mere vitality, even of plants)
+LEXICON:
+  Transliteration: thysiastḗrion
+  Pronunciation:   thoo-see-as-tay-ree-on
+  Part of Speech:  neuter noun (n)
+  BLB Count:       23
+  Definition: from a derivative of; a place of sacrifice, i.e. an altar
 
-Outline of Biblical Usage:
-  Genesis 1:20; 2:7; 9:4; 35:18; 46:15; 46:18; 46:22; 46:26; 46:27
-  Exodus 1:5; 12:4; Leviticus 2:1; 7:17; 11:10; 17:12; Numbers 19:11;
-  19:13; 19:18; 31:35; 31:40; 31:46; Deuteronomy 6:5; 10:22; 1 Kings 17:21
-  Ezekiel 27:13; Matthew 2:20; 6:25; 6:25; 10:4; 10:28; 10:39; 11:29; 12:18;
-  16:25; 20:28; 22:37; 26:38; Mark 3:4; 8:35; 8:36; 8:37; 10:45; 12:30;
-  12:33; 14:34; Luke 1:46; 2:35; 6:9; 9:24; 9:56; 10:27; 10:27; 12:18; 12:19;
-  12:20; 12:22; 12:23; 14:26; 17:33; 21:19; John 10:11; 10:15; 10:17; 10:24;
-  12:25; 12:27; 13:37; 15:13; Acts 2:27; 2:31; 2:41; 2:43; 3:23; 4:32; 7:14;
-  14:2; 14:22; 15:24; 15:26; 20:10; 20:24; 27:10; 27:22; 27:37; Romans 2:9;
-  11:3; 13:1; 16:4; 1 Corinthians 15:45; 2 Corinthians 1:23; 12:15; Ephesians
-  6:6; 6:7; Philippians 1:27; 2:30; Colossians 3:23; 1 Thessalonians 2:8; 5:23
-  Hebrews 4:12; 6:19; 10:38; 10:39; 12:3; 13:17; James 1:21; 5:20; 1 Peter
-  1:9; 1:22; 2:11; 2:25; 3:20; 4:19; 2 Peter 2:8; 2:14; 1 John 3:16;
-  3 John 1:2; Revelation 6:9; 8:9; 12:11; 16:3; 16:3; 18:13; 18:14; 20:4
+  Outline includes: Exo 30:1; Mat 5:23; 23:18-20,35; Luk 1:11; 11:51;
+  Rom 11:3; 1Co 9:13; 10:18; Heb 7:13; 13:10; Jas 2:21;
+  Rev 6:9; 8:3; 8:5; 9:13; 11:1; 14:18; 16:7
 ```
 
 ---
 
-## G2379 — thusiasterion
-
-### --lexicon output
+## G4969 -- sphazō (σφάζω)
 ```
-G2379: θυσιαστήριον
-Transliteration: thysiastērion
-Pronunciation: thoo-see-as-tay-ree-on
-Part of Speech: neuter noun (n)
-BLB Count: 23
+G4969 - 8 total occurrences, 7 unique translations:
+     2 ( 25.0%) that were slain
+     1 ( 12.5%) it had been slain
+     1 ( 12.5%) thou wast slain
+     1 ( 12.5%) that was slain
+     1 ( 12.5%) they should kill
+     1 ( 12.5%) wounded
+     1 ( 12.5%) slain
 
-Definition:
-  from a derivative of thysia (sacrifice); a place of sacrifice, i.e. an altar
+LEXICON:
+  Transliteration: spházō
+  Pronunciation:   sfad-zo
+  Part of Speech:  verb (v)
+  BLB Count:       10
+  Definition: a primary verb; to butcher (especially an animal for food or in sacrifice)
 
-Outline of Biblical Usage:
-  Exodus 30:1; Matthew 5:23; 23:18; 23:19; 23:20; 23:35; Luke 1:11; 11:51;
-  Romans 11:3; 1 Corinthians 9:13; 10:18; Hebrews 7:13; 13:10; James 2:21;
-  Revelation 6:9; 8:3; 8:5; 9:13; 11:1; 14:18; 16:7
+  Outline: 1Jn 3:12; Rev 5:6; 5:9; 5:12; 6:4; 6:4; 6:9; 13:3; 13:8; 18:24
+```
+
+### G4969 translated as "slain" (1 verse with this exact translation):
+Rev 13:8
+
+### All sphazō occurrences:
+- 1 Jn 3:12 -- Cain "slew" his brother (Abel)
+- Rev 5:6 -- Lamb "as it had been slain"
+- Rev 5:9 -- "thou wast slain"
+- Rev 5:12 -- "Lamb that was slain"
+- Rev 6:4 -- "they should kill one another"
+- Rev 6:9 -- "them that were slain" (the martyrs)
+- Rev 13:3 -- head "wounded to death"
+- Rev 13:8 -- "Lamb slain from the foundation of the world"
+- Rev 18:24 -- "all that were slain upon the earth"
+
+---
+
+## G2896 -- krazō (κράζω)
+```
+G2896 - 52 total occurrences, 19 unique translations:
+    13 ( 25.0%) cried
+     6 ( 11.5%) they cried out
+     6 ( 11.5%) crying
+     5 (  9.6%) he cried
+     5 (  9.6%) cried out
+     2 (  3.8%) they cried
+     2 (  3.8%) crying out
+     2 (  3.8%) and cried
+     [plus 11 minor variants]
+
+LEXICON:
+  Transliteration: krázō
+  Pronunciation:   krad-zo
+  Part of Speech:  verb (v)
+  BLB Count:       59
+  Definition: a primary verb; properly, to "croak" (as a raven) or scream
+
+  LXX Usage includes: Gen 4:10; 18:20; Psa 3:5; 21:6; 22:6; Isa 6:3; Joel 3:16
+  NT Usage includes: Mat 8:29; 27:50; Mrk 5:7; 15:37; Luk 18:39; 19:40;
+  Jas 5:4; Rev 6:10; 7:2,10; 10:3; 12:2; 14:15; 18:18; 19:17
 ```
 
 ---
 
-## G4969 — sphazo
-
-### --lexicon output
+## G373 -- anapauō (ἀναπαύω)
 ```
-G4969: σφάζω
-Transliteration: sphazo
-Pronunciation: sfad-zo
-Part of Speech: verb (v)
-BLB Count: 10
+G373 - 13 total occurrences, 10 unique translations:
+     4 ( 30.8%) rest
+     1 (  7.7%) will give [rest]
+     1 (  7.7%) take thine ease
+     1 (  7.7%) they have refreshed
+     1 (  7.7%) was refreshed
+     1 (  7.7%) are refreshed
+     1 (  7.7%) refresh
+     1 (  7.7%) resteth
+     1 (  7.7%) they should rest
+     1 (  7.7%) they may rest
 
-Definition:
-  a primary verb; to butcher (especially an animal for food or in sacrifice);
-  figuratively to slaughter, or (specifically) to maim
+LEXICON:
+  Transliteration: anapaúō
+  Pronunciation:   an-ap-ow-o
+  Part of Speech:  verb (v)
+  BLB Count:       12
+  Definition: from ana and pauō; (reflexively) to repose
 
-Outline of Biblical Usage:
-  1 John 3:12; Revelation 5:6; 5:9; 5:12; 6:4; 6:4; 6:9; 13:3; 13:8; 18:24
-```
-
----
-
-## G373 — anapauo
-
-### --lexicon output
-```
-G373: ἀναπαύω
-Transliteration: anapauō
-Pronunciation: an-ap-ow-o
-Part of Speech: verb (v)
-BLB Count: 12
-
-Definition:
-  from ana (again) and pauo (to stop); (reflexively) to repose (literally or
-  figuratively [be exempt], remain); by implication, to refresh
-
-Outline of Biblical Usage:
-  Isaiah 11:2; Matthew 11:28; 26:45; Mark 6:31; 14:41; Luke 12:19;
-  1 Corinthians 16:18; 2 Corinthians 7:13; Philemon 1:7; 1:20; 1 Peter 4:14;
-  Revelation 6:11; 6:11; 14:13; 14:13
+  Outline: Isa 11:2; Mat 11:28; 26:45; Mrk 6:31; 14:41; Luk 12:19;
+  1Co 16:18; 2Co 7:13; Phm 1:7,20; 1Pe 4:14;
+  Rev 6:11; 6:11; 14:13; 14:13
 ```
 
 ---
 
-## G1556 — ekdikeo
-
-### --lexicon output
+## G1556 -- ekdikeō (ἐκδικέω)
 ```
-G1556: ἐκδικέω
-Transliteration: ekdikeō
-Pronunciation: ek-dik-eh-o
-Part of Speech: verb (v)
-BLB Count: 6
+G1556 - 6 total occurrences, 5 unique translations:
+     2 ( 33.3%) avenge
+     1 ( 16.7%) Avenge
+     1 ( 16.7%) I will avenge
+     1 ( 16.7%) to revenge
+     1 ( 16.7%) hath avenged
 
-Definition:
-  from ekdikos (avenger/punisher); to vindicate, retaliate, punish: a(re-)venge
+LEXICON:
+  Transliteration: ekdikéō
+  Pronunciation:   ek-dik-eh-o
+  Part of Speech:  verb (v)
+  BLB Count:       6
+  Definition: from ekdikos; to vindicate, retaliate, punish
 
-Outline of Biblical Usage:
-  Luke 18:3; 18:5; Romans 12:19; 2 Corinthians 10:6; Revelation 6:10; 19:2
+  All occurrences:
+  Luk 18:3 -- "Avenge me of mine adversary"
+  Luk 18:5 -- "I will avenge her"
+  Rom 12:19 -- "Vengeance is mine; I will repay"
+  2Co 10:6 -- "to revenge all disobedience"
+  Rev 6:10 -- "dost thou not judge and avenge our blood"
+  Rev 19:2 -- "hath avenged the blood of his servants"
 ```
-
----
-
-## G5270 — hupokato
-
-### --lookup output
-```
-G5270 - 8 total occurrences, 1 unique translations:
-
-     8 (100.0%) under
-```
-
----
-
-## H5315 — nephesh
-
-### --lexicon output (abridged)
-```
-H5315: נֶפֶשׁ
-Transliteration: nephesh
-Pronunciation: neh-fesh
-Part of Speech: feminine noun (n-f)
-BLB Count: 753
-
-Definition:
-  from naphash (to breathe); properly, a breathing creature, i.e. animal of
-  (abstractly) vitality; used very widely in a literal, accommodated or
-  figurative sense (bodily or mental): any, appetite, beast, body, breath,
-  creature, dead(-ly), desire, (dis-)contented, fish, ghost, greedy, he,
-  heart(-y), (hath, jeopardy of) life (in jeopardy), lust, man, me, mind,
-  mortally, one, own, person, pleasure, (her-, him-, my-, thy-) self, them
-  (your)-selves, slay, soul, tablet, they, thing, (she) will, would have it.
-
-[753 occurrences spanning Gen 1:20 through Zechariah 11:8]
-```
-
----
-
-## H1818 — dam (blood)
-
-### --lookup output
-```
-H1818 - 391 total occurrences, 69 unique translations:
-
-    79 ( 20.2%) the blood
-    75 ( 19.2%) blood
-    20 (  5.1%) of blood
-    18 (  4.6%) his blood
-    17 (  4.3%) of the blood
-    11 (  2.8%) in the blood
-    10 (  2.6%) the blood thereof
-    10 (  2.6%) their blood
-    10 (  2.6%) with blood
-     9 (  2.3%) and [translation not given = part of larger phrase]
-     9 (  2.3%) bloody
-     9 (  2.3%) the [same as above]
-     ... [plus 57 less frequent translations]
-```
-
----
-
-## G4749 — stole (robe)
-
-### --lookup output
-```
-G4749 - 8 total occurrences, 5 unique translations:
-
-     4 ( 50.0%) robes
-     1 ( 12.5%) long clothing
-     1 ( 12.5%) garment
-     1 ( 12.5%) robe
-     1 ( 12.5%) long robes
-```
-
----
-
-*Raw data gathered: 2026-02-19*
-*Tool: python search_strongs.py --lexicon / --lookup*

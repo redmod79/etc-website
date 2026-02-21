@@ -1,95 +1,53 @@
-# Topics Research
-## Study: etc5-13 — The Lake of Fire and the Second Death
-## Series: ETC5 — The Final Fate of the Wicked (Study 13 of 18)
+# Topics — Lake of Fire / Second Death
 
-## Question
-What is the "lake of fire" in Revelation? What is the "second death"? Who are cast into the lake of fire? What does the "second death" language tell us about the nature of the final fate of the wicked? Is the lake of fire a place of ongoing conscious torment, or does the "second death" describe final destruction/annihilation?
+## Nave's Topical Entries
 
----
-
-## Topics
-
-### LAKE (Nave's)
-Nave's entry [Score: 0.56]:
-- Of fire: REV 19:20; 20:10, 14, 15; 21:8
-
-*Notes: Nave's LAKE entry is minimal — entirely defined by its Revelation occurrences. The "lake of fire" is a Revelation-specific term with no direct OT parallel named in Nave's.*
-
----
-
-### SECOND DEATH (Nave's)
-Nave's entry [Score: 0.50]:
-- General scriptures concerning: REV 20:14
+### SECOND DEATH
+- General scriptures concerning REV 20:14
 - See WICKED, PUNISHMENT OF
 
-*Notes: Nave's entry for "Second Death" points to a single verse (Rev 20:14) as the definitive text. The cross-reference to WICKED, PUNISHMENT OF is the broader category.*
+### LAKE
+- Of fire REV 19:20; 20:10,14,15; 21:8
+
+### DEATH — SECOND (subcategory)
+PRO 14:12; EZK 18:4,10,13,21,23,24; 33:8,9,11,14-16; MAT 7:13; 10:28; 25:30,41,46; MRK 9:43,44; ROM 1:32; 6:16,21,23; 8:13; 9:22; 2TH 1:9; JAS 1:15; 4:12; 2PE 2:12; REV 2:11; 19:20; 20:14; 21:8
+
+### DEATH (selected relevant entries)
+- Called SLEEP DEU 31:16; JOB 7:21; 14:12; JER 51:39; DAN 12:2; JHN 11:11; ACT 7:60; 13:36; 1CO 15:6,18,51; 1TH 4:14,15
+- No death in heaven LUK 20:36; REV 21:4
+- Apostrophe to: HOS 13:14; 1CO 15:55
+- Unclassified: includes PSA 6:5; 49:7,9; 115:17; ECC 9:5,6,10; ISA 25:8; HEB 2:14,15; REV 1:18; 20:12-14; 21:4
+
+### FIRE — FIGURATIVE (subcategory)
+- Judgments: DEU 4:24; 32:22; ISA 33:14; JER 23:29; AMO 1:4,7,10,12,14; 2:2; MAL 3:2; LUK 12:49; REV 20:9
+- Of the destruction of the wicked: MAT 13:42,50; 25:41; MRK 9:44; REV 9:2; 21:8
+- EVERLASTING FIRE: ISA 33:14; MAT 18:8; 25:41; MRK 9:44
+
+### HADES
+- The unseen world, translated "hell" in A.V.: MAT 10:28; 11:23; 16:18; LUK 10:15; 16:23; ACT 2:27,31; REV 1:18; 6:8; 20:13,14
+
+### HELL — THE FUTURE HOME OF THE WICKED
+PSA 9:17; PRO 5:5; 9:13,15-18; 15:24; 23:13,14; ISA 30:33; 33:14; MAT 3:12; 5:29,30; 7:13,14; 8:11,12; 10:28; 13:30,38-42,49,50; 16:18; 18:8,9,34,35; 22:13; 25:28-30,41,46; MRK 9:43-48; LUK 3:17; 16:23-26,28; ACT 1:25; 2TH 1:9; 2PE 2:4; Jude 1:6-23; REV 2:11; 9:1,2; 11:7; 14:10,11; 19:20; 20:10,15; 21:8
+
+## Semantic Search Results
+
+### naves_semantic.py: "lake fire second death revelation"
+Top matches: SECOND DEATH (0.54), LAKE (0.53), RESURRECTION (0.45), EVERLASTING FIRE (0.44), FIRE (0.40), HADES (0.40)
+
+### semantic_strongs.py: "lake fire second death"
+Top matches: G2618 katakaio (burn down/consume, 0.313), G2740 kausis (burning, 0.298), G3041 limne (lake, 0.287), G2288 thanatos (death, 0.266)
+
+## Key Observations
+
+1. Nave's classifies "lake of fire" under LAKE with five Revelation references only -- the concept does not appear outside Revelation.
+
+2. Nave's SECOND DEATH entry points only to Rev 20:14 and cross-references WICKED, PUNISHMENT OF.
+
+3. Nave's DEATH - SECOND subcategory lists a wide range of verses using death/destruction vocabulary for the fate of the wicked (Ezek 18:4; Matt 10:28; Rom 6:23; 2 Thess 1:9; etc.), indicating Nave's treats "second death" as connected to the broader death-as-judgment theme.
+
+4. Nave's classifies fire in judgment as "Of the destruction of the wicked" and everlasting fire as FIGURATIVE.
+
+5. G3041 (limne) occurs 10 times in NT: 5 literal uses in Luke (Lake of Gennesaret), 5 uses for "lake of fire" in Revelation. The word simply means "lake/pond" -- a body of water.
 
 ---
-
-### BRIMSTONE (Nave's)
-Nave's entry [Score: 0.67]:
-- Fire and, rained upon Sodom: GEN 19:24; LUK 17:29
-- In Palestine: DEU 29:23
-- FIGURATIVE: JOB 18:15; PSA 11:6; ISA 30:33; EZK 38:22; REV 9:17,18; 14:10; 19:20; 21:8
-
-*Notes: Brimstone in the figurative category is associated with divine judgment and destruction (Sodom, Ezekiel 38, Revelation). The figurative Revelation uses (9:17,18; 14:10; 19:20; 21:8) are all in judgment contexts.*
-
----
-
-### HADES (Nave's)
-Nave's entry [Score: 0.40]:
-1. The unseen world (translated "hell" in AV; "Hades" in RV): MAT 10:28; 11:23; 16:18; LUK 10:15; 16:23; ACT 2:27,31; REV 1:18; 6:8; 20:13,14
-   - See HELL
-2. The realm (state) of the dead: 2SA 22:6; JOB 26:5; PSA 6:5; 17:15; 30:9; 49:15; 86:13; 88:10-12; 115:17; 116:3; PRO 15:24; 21:16; 27:20; ECC 9:4-6; ISA 5:14; JON 2:2; LUK 23:42,43; JHN 8:22; 2CO 12:4
-
-*Notes: Hades appears both as the unseen world (temporary holding state) and as the realm of the dead broadly. The REV 20:13,14 reference is critical — Hades gives up the dead and is then cast into the lake of fire. This is consistent with the "temporary" nature of Hades.*
-
----
-
-### DEATH — SECOND category (from Nave's full-text search)
-From the DEATH entry, subtopic "SECOND":
-- PRO 14:12; EZK 18:4,10,13,21,23,24; 33:8,9,11,14-16; MAT 7:13; 10:28; 25:30,41,46; MRK 9:43,44; ROM 1:32; 6:16,21,23; 8:13; 9:22; 2TH 1:9; JAS 1:15; 4:12; 2PE 2:12; REV 2:11; 19:20; 20:14; 21:8
-- See HELL; See WICKED, PUNISHMENT OF
-
-*Notes: Nave's groups the second death category with destruction/punishment verses from multiple books. This demonstrates that Nave's itself understood the "second death" in connection with the broader theme of what happens to the wicked — linking it to destruction vocabulary (apollymi), everlasting destruction, and the fire passages.*
-
----
-
-### DEATH — Apostrophe To (from Nave's DEATH entry)
-- HOS 13:14; 1CO 15:55
-
-*Notes: Both passages where Death is directly addressed/apostrophized as a power that will be defeated. Hosea 13:14 is the OT source; 1 Cor 15:55 is Paul's application of the same apostrophe.*
-
----
-
-### DEATH — Unclassified Scriptures (from Nave's DEATH entry, select relevant refs)
-Selected from the extensive list relevant to this study:
-- ISA 25:8 — death swallowed up
-- ROM 5:12,14 — death by Adam
-- 1CO 15:21,22,26,55-57 — resurrection and death's defeat
-- 2TI 1:10 — Christ abolished death
-- HEB 2:14,15 — destroy him that had power of death
-- REV 1:18; 20:12-14; 21:4 — Christ holds keys; death cast into lake; no more death
-
----
-
-### EVERLASTING FIRE / FIRE, EVERLASTING (Nave's — referenced)
-The EVERLASTING FIRE entry redirects to "FIRE, EVERLASTING." Key associations noted in Nave's overall fire entries:
-- MAT 18:8; 25:41 — everlasting fire
-- MAT 13:42,50 — furnace of fire (weeping and gnashing)
-- MRK 9:43,44 — fire that never shall be quenched
-- REV 19:20; 20:14 — lake of fire
-
----
-
-## Related Topics Discovered
-
-### RESURRECTION (Nave's, relevant to first/second resurrection in Rev 20)
-- JOB 14:12-15; 19:25-27; PSA 16:9,10; 17:15; 49:15; ISA 25:8; 26:19; EZK 37:1-14; DAN 12:2,3,13; HOS 13:14
-- MAT 22:23-32; 25:1-13; 27:52,53
-- JHN 5:21,25,28,29; 11:11
-- ACT 24:15
-- ROM 6:4; 1CO 6:14; 2CO 4:14; PHP 3:10,11,21; COL 2:12; 1TH 4:14,16
-- 2TI 1:10; HEB 6:2; 11:19; REV 1:18; 9:2; 11:11; 19:20; 20:14
-
-*Notes: The resurrection entry confirms the connection between Hos 13:14, Isa 25:8, 1 Cor 15, and Revelation's death/resurrection language.*
+*Research compiled: 2026-02-20*

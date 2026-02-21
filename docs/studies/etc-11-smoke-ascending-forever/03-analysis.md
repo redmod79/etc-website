@@ -1,378 +1,359 @@
-# Analysis — etc5-11: The Smoke Ascending Forever
+# Verse Analysis
 
-## Series Context
+## Question
 
-This is study 11 of 18 in the ETC5 series "The Final Fate of the Wicked." The central question: what does "the smoke of their torment ascendeth up for ever and ever" (Rev 14:11) mean? Does it describe ongoing conscious torment without end, or does it describe the permanent, irreversible character of the destruction? The same formula appears in Rev 19:3 applied to Babylon.
-
-**Established items bearing on this study:**
-- E149 (Rev 20:10 torment: devil/beast/false prophet — ECT, reclassified Neutral etc5-18)
-- E150 (Rev 14:10-11 torment: beast-worshippers — ECT, reclassified Neutral etc5-18)
-- E182 (Isa 34:10 smoke ascending for ever = desolation of Edom's land — Neutral)
-- E192 (Isa 34:11-17 animals in desolation — Neutral)
-- E211 (Rev 14:11 kapnos is the nominative grammatical subject — Neutral)
-- E212 (Rev 20:10 three named subjects; Rev 20:15 no torment language for human wicked — Neutral)
-- E180 (Rev 20:9 nations devoured; Rev 20:10 three named entities tormented — Neutral)
-- E172 (G929 basanismos all 6 NT uses in Revelation — Neutral)
-- E184 (Rev 14:11 and Rev 20:10 shared vocabulary — Neutral)
-- E147 (Jude 1:7 eternal fire = Sodom; 2 Pet 2:6 same event = ashes — Neutral)
-- N029 (eternal fire = permanent result, not ongoing burning — Neutral; reclassified to IB009-resolved after Study 5)
-- N034 (olam duration = contextually determined — Neutral)
-- N035 (NT aionios inherits olam semantic range — Neutral)
-- IB009 (Isa 34:10 formula in Rev 14:11 — Moderate toward desolation imagery)
+What do Revelation 14:9-11 and 19:3 describe? What is the OT background for the imagery of smoke ascending "for ever and ever," fire and brimstone, and "no rest day nor night"? Does this language describe ongoing conscious torment, or does it describe the permanent and complete nature of destruction?
 
 ---
 
-## Section 1: Revelation's Apocalyptic Genre and the Esemanen Principle
+## Verse-by-Verse Analysis
 
-Revelation opens with a programmatic self-description: "The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and **signified** [esēmainō, G4591, Aorist Active Indicative] it by his angel unto his servant John" (Rev 1:1).
+### Isaiah 34:8-17 (Edom's Judgment -- Primary OT Source)
 
-E231 (established in etc5-10) confirms: the verb esēmainō means "to indicate by sign, to communicate through sign-imagery." Revelation declares its own communicative mode: it conveys truth through signs. This is not an external critical judgment imposed on the book — it is the book's self-identification.
+**Context:** Isaiah 34 is a prophetic oracle against Edom (and, in the broader chapter, against all nations). It describes "the day of the LORD's vengeance, and the year of recompences for the controversy of Zion" (v.8). This is a specific historical/prophetic judgment on the land and people of Edom.
 
-The practical consequence for interpretation is significant. When Revelation deploys imagery drawn from the OT prophetic tradition (fire, smoke, brimstone, the eternal burning of Edom's land), that imagery communicates theological truth through symbolic representation. The question is not whether the imagery is "real" — Revelation's judgments are real — but whether the imagery's surface description is the complete literal description, or whether it is sign-language pointing to realities that the OT source context illuminates.
+**Direct statement:** Edom's land is turned to "burning pitch" (v.9). Its dust becomes brimstone. The fire "shall not be quenched night nor day" (v.10a). "The smoke thereof shall go up for ever" (v.10b). "From generation to generation it shall lie waste; none shall pass through it for ever and ever" (v.10c).
 
-This principle has been consistently applied across the series: E232 (Rev 6:8, Death and Hades as horsemen — personification), E233 (Rev 16:7, altar speaks — non-conscious entity attributed speech), N039 (Revelation's genre depicts non-conscious entities speaking). The IB013 Strong resolution established that the same literary mode governs Rev 6:9-11 (souls crying = blood-testimony convention, not literal consciousness). The same interpretive framework must be applied consistently when examining the smoke imagery of Rev 14:11 and Rev 19:3.
+**Key observations:**
+1. The phrase "not quenched night nor day" (v.10) uses the identical "day and night" formula found in Rev 14:11 and Rev 20:10.
+2. "The smoke thereof shall go up for ever" uses the identical smoke-ascending formula found in Rev 14:11 and Rev 19:3.
+3. After this "smoke ascending for ever" and "not quenched night nor day" language, verses 11-17 describe animals permanently dwelling in the desolate ruins: cormorants, bitterns, owls, ravens, thorns, nettles, brambles, jackals, satyrs, screech owls, great owls, vultures.
+4. Verse 14 states the screech owl "shall rest there" -- the land whose fire is "not quenched night nor day" now has animals resting in it.
+5. Verse 17 states "they shall possess it for ever, from generation to generation shall they dwell therein" -- referring to the animals.
+6. The smoke-formula in its OT source describes permanent uninhabitable desolation, not perpetual combustion. The fire has done its work; the smoke (memorial of destruction) is what persists conceptually.
+7. Edom's territory is not presently burning. The judgment was executed and completed. The result is permanent.
 
----
-
-## Section 2: Revelation 14:6-12 — Full Context of the Third Angel
-
-The third angel's proclamation (Rev 14:9-11) does not stand alone. It is the third in a sequence of three angel messages forming a structural unit:
-
-**First angel (vv.6-7):** Eternal gospel; hour of judgment come; worship the Creator.
-
-**Second angel (v.8):** "Babylon is fallen, is fallen." This proleptic announcement declares Babylon's fall as certain — a present-tense announcement of an event developed in Rev 17-18. The second angel frames what follows as part of the Babylon-judgment complex.
-
-**Third angel (vv.9-11):** Warning against worshipping the beast and receiving the mark.
-
-**Verse 12:** "Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus."
-
-**Verse 13:** "Blessed are the dead which die in the Lord from henceforth: Yea, saith the Spirit, that they may rest [anapausōntai, G373] from their labours; and their works do follow them."
-
-The rhetorical purpose of the third angel's warning is to contrast two fates: (a) beast-worshippers receiving the wine of God's wrath with fire, brimstone, and smoke ascending for ever, and (b) those who die in the Lord receiving rest and having their works follow them.
-
-The subjects of vv.9-11 are specifically defined: "any man" who worships the beast and his image and receives the mark. This is a tribulation-specific group. The same subject-limitation noted in IB008 (the "any man" category) applies here: the torment language specifies a specific class, not all humans in history.
-
-The immediate structural sequel (vv.12-13) establishes the antithesis: the beast-worshippers have "no rest day nor night" (v.11); the saints are commanded to patiently endure (v.12); the dead in the Lord shall "rest" (v.13). This contrast between "no rest" (v.11) and "rest" (v.13) using the same Greek root (anapausis / anapauō) is structurally deliberate (see Section 8 below).
+**Cross-references:** This passage is the highest-scoring OT parallel for Rev 14:11 (tool-verified, score 0.401). The verbal correspondence includes: "smoke" + "ascending" + "for ever" + "not quenched night nor day" + "brimstone." The same passage is the top OT parallel for Rev 19:3 (score 0.330). E266, E282, E293, E315 document these connections.
 
 ---
 
-## Section 3: Revelation 14:9-11 — Verse-by-Verse Greek Analysis
+### Genesis 19:24-28 (Sodom's Destruction -- Foundational Type)
 
-### Verse 9: The Subject of the Judgment
+**Context:** The destruction of Sodom and Gomorrah by fire and brimstone from heaven. This is the first biblical occurrence of fire-and-brimstone as a mode of divine judgment.
 
-"If any man worship the beast and his image, and receive [his] mark in his forehead, or in his hand..."
+**Direct statement:** "The LORD rained upon Sodom and upon Gomorrah brimstone and fire from the LORD out of heaven" (v.24). "He overthrew those cities, and all the plain, and all the inhabitants of the cities" (v.25). Abraham "looked... and beheld... the smoke of the country went up as the smoke of a furnace" (v.28).
 
-The conditional protasis identifies the specific class: those who (a) worship the beast and his image, and (b) receive the mark. These are human beings who make a specific choice during the tribulation period. The judgment announced in vv.10-11 applies to this specific subject class.
+**Key observations:**
+1. The vocabulary is consistently destruction: "overthrew" (v.25), "destroyed" (v.29 -- same root).
+2. Abraham observes the aftermath: ascending smoke from a completed destruction event. The cities are gone. The smoke is the evidence of what the fire did.
+3. This is the foundational type for all subsequent fire-and-brimstone imagery in Scripture. Every later reference to fire and brimstone as divine judgment draws on this paradigm.
+4. Jesus describes this event: "it rained fire and brimstone from heaven, and destroyed them all" (Luke 17:29). The vocabulary is apollymi -- destruction.
+5. Jude 1:7 calls this "the vengeance of eternal fire" and says Sodom is "set forth for an example." Sodom is not still burning. The fire was "eternal" (aionios) in result, not in ongoing combustion.
+6. 2 Peter 2:6 says God turned Sodom "into ashes" and made it "an ensample." The result of the fire-and-brimstone judgment is ashes.
 
-### Verse 10: The Nature of the Torment
-
-"The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and **he shall be tormented** [basanisthēsetai — G928, Future Passive Indicative, 3rd Person Singular] with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb."
-
-Greek morphological observations (from raw-data/greek-parsing.md):
-
-1. **basanisthēsetai** (G928): Future Passive Indicative 3rd Singular. The torment is presented as a *future event* from the perspective of the vision — "he shall be tormented." This is not a description of an ongoing state already in progress; it is a prophetic announcement of what shall occur.
-
-2. **The cup of wrath**: The cup imagery directly parallels Jer 25:15-29, where all nations drink the wine of God's wrath. Edom is among the nations listed (Jer 25:21). This OT connection links the cup-of-wrath imagery with the same Edom/Babylon judgment complex from which Isa 34:10 comes.
-
-3. **"In the presence of the holy angels, and in the presence of the Lamb"**: This phrase locates the torment relative to a specific judicial event — the judgment in the presence of witnesses — rather than specifying duration. The phrase does not say "for ever and ever"; it identifies the occasion of the torment. Both sides must acknowledge this.
-
-4. **Fire and brimstone**: The Nave's BRIMSTONE entry lists ALL Revelation uses of brimstone as FIGURATIVE, with the literal anchor being Sodom (Gen 19:24; Luk 17:29). Fire-and-brimstone in Revelation consistently draws on the Sodom destruction type — which produced ashes (2 Pet 2:6) and smoke that went up as the smoke of a furnace (Gen 19:28).
-
-### Verse 11: The Smoke and the Formula
-
-"And **the smoke** [ho kapnos, N-NSM — nominative subject] of their torment [tou basanismou autōn, N-GSM — genitive attribute] **ascendeth** [anabainei, Present Active Indicative 3rd Singular] **for ever and ever** [eis tous aionas tōn aiōnōn]; and they have no rest [anapausin ouk ekhousin] day nor night [hēmeras kai nyktos], who worship the beast and his image, and whosoever receiveth the mark of his name."
-
-Greek morphological observations (confirmed by greek-parsing.md tool data):
-
-1. **ho kapnos is the nominative subject** (E211, confirmed): The smoke ascends. The torment (basanismou) is genitive — the smoke OF the torment, not the torment itself ascending. The "for ever and ever" modifier attaches to the ascending of the smoke, not to the torment's duration as such.
-
-2. **anabainei is Present Active Indicative** (E211 notes): The present tense in apocalyptic vision narrative typically represents what the seer sees in the vision, not a duration statement about literal continuous ongoing process. The present tense is the tense of prophetic vision — "I see the smoke ascending."
-
-3. **eis tous aionas tōn aiōnōn**: The formula "into the ages of the ages" (G165 twice; see E213). The question of what this formula means when applied to the smoke is precisely the IB009 question — and the Rev 19:3 structural parallel (Section 4 below) is the decisive SIS connection.
-
-4. **anapausin ouk ekhousin hēmeras kai nyktos**: "Rest they have not day and night." This exact Greek construction also appears in Rev 4:8 for the living creatures (Section 8 below). The phrase characterizes the unceasing nature of an activity — but what "unceasing" means depends on the subject and context.
-
-5. **Subject specification**: The verse closes by re-specifying the subject: "who worship the beast and his image, and whosoever receiveth the mark of his name." The "no rest" language applies to this specific tribulation class, not to all the wicked.
+**Cross-references:** Gen 19:28 parallels with Isa 34:10 (fire/brimstone + smoke ascending), Rev 18:9 (smoke of her burning observed), Jude 1:7 and 2 Pet 2:6 (Sodom as example). E202 documents the "eternal fire" applied to Sodom.
 
 ---
 
-## Section 4: Revelation 19:1-5 — The Babylon Structural Argument
+### Malachi 4:1-3 (Eschatological Judgment -- Burning Up)
 
-This is the most significant structural argument in the entire study. Revelation 19:3 uses the identical formula for Babylon's smoke that appears in Rev 14:11 for the beast-worshippers:
+**Context:** The last chapter of the OT prophets. This is an eschatological text: "the day cometh" -- a future judgment day.
 
-**Rev 14:11:** "...the smoke [kapnos] of their torment **ascendeth up** [anabainei] **for ever and ever** [eis tous aionas tōn aiōnōn]..."
+**Direct statement:** "The day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch" (v.1). "Ye shall tread down the wicked; for they shall be ashes under the soles of your feet" (v.3).
 
-**Rev 19:3:** "And her **smoke** [kapnos] **rose up** [anabainei — same present active indicative 3rd singular form] **for ever and ever** [eis tous aionas tōn aiōnōn]."
+**Key observations:**
+1. The wicked are compared to "stubble" -- consumed quickly and completely by fire.
+2. "Burn them up" -- the fire consumes the fuel entirely.
+3. "Leave them neither root nor branch" -- nothing of them remains. Complete destruction.
+4. "Ashes under the soles of your feet" -- the wicked are reduced to ashes. The righteous walk on the ashes of the destroyed wicked.
+5. This is an OT eschatological text using fire imagery for complete consumption. The end product is ashes, not ongoing burning.
+6. Already registered as E245 (Cond.) and E246 (Cond.) in etc-06.
 
-The Greek parsing confirms: the formula is grammatically identical. Same noun (kapnos, G2586). Same verb form (anabainei, Pres Act Ind 3S). Same prepositional formula (eis tous aionas tōn aiōnōn). The pronoun case differs: Rev 14:11 uses tou basanismou autōn (genitive plural — the torment of them), while Rev 19:3 uses autēs (genitive singular feminine — referring to Babylon, a grammatically feminine noun). But the formula is the same.
-
-The context of Rev 19:3 must be understood clearly:
-
-**Rev 18:1-24 precedes Rev 19:3 directly.** Chapter 18 describes Babylon's fall:
-- Rev 18:9: "the kings of the earth...shall bewail her, and lament for her, when they shall see the **smoke of her burning**"
-- Rev 18:17: "For in one hour so great riches is come to nought"
-- Rev 18:18: "cried when they saw the **smoke of her burning**"
-- Rev 18:19: "For in one hour is she made desolate"
-- Rev 18:21: "And a mighty angel took up a stone like a great millstone, and cast it into the sea, saying, Thus with violence shall that great city Babylon be thrown down, and **shall be found no more at all**."
-- Rev 18:23: "And the light of a candle shall shine no more at all in thee"
-
-Then Rev 19:1-4 describes heaven's response to the completed judgment:
-- Rev 19:2: "For true and righteous are his judgments: for **he hath judged** [ekrina, Aorist — completed action] the great whore...and hath avenged the blood of his servants"
-- Rev 19:3: "And again they said, Alleluia. And **her smoke rose up for ever and ever**."
-
-The logical structure is unmistakable:
-1. Babylon has been destroyed — "in one hour" (Rev 18:17,19), "found no more at all" (Rev 18:21)
-2. The judgment is described as complete — "he hath judged" (Aorist, Rev 19:2)
-3. The formula "smoke rose up for ever and ever" is applied to this completed, permanent destruction
-
-Babylon in this passage is not perpetually burning while conscious. Babylon is destroyed, thrown down like a millstone into the sea, and "found no more at all." The smoke-for-ever formula describes the permanent, irreversible character of that completed destruction — not an ongoing burning process.
-
-**The Rev 19:3 parallel constitutes the strongest possible SIS (#4a) evidence for reading Rev 14:11:** the same author, the same book, using the identical Greek formula (verified by parsing tools) for an entity that is demonstrably and permanently destroyed rather than perpetually burning. If the formula means "still burning consciously for ever" when applied to Babylon, it would contradict the book's own narrative in Rev 18. The only coherent reading of both Rev 14:11 and Rev 19:3 within the same book is that the formula denotes the permanent, irreversible character of the destruction — not an ongoing burning process.
+**Cross-references:** The oven/fire/stubble/ashes imagery in Malachi parallels the chaff-burning of Matt 3:12, the tares-burning of Matt 13:40-42, and the destruction vocabulary pattern documented in etc-06.
 
 ---
 
-## Section 5: Revelation 20:7-15 — The Final Judgment Sequence and the Subjects
+### Revelation 14:9-11 (Third Angel's Warning)
 
-### Subjects in Rev 20:10
+**Context:** This is the third of three angelic messages in Rev 14:6-13. The first angel proclaims the everlasting gospel and the hour of judgment (vv.6-7). The second announces Babylon's fall (v.8). The third warns about worshipping the beast (vv.9-11). The passage concludes with the patience of the saints (v.12) and the blessing on the dead in the Lord who "rest from their labours" (v.13).
 
-"And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and **shall be tormented** [basanisthēsontai, Future Passive Indicative 3rd Plural] **day and night for ever and ever**." (Rev 20:10)
+**Direct statement:** "If any man worship the beast and his image, and receive his mark... The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb: And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name" (vv.9-11).
 
-E212 (established in etc5-08) documents:
-- Three named subjects: the devil (diabolos), the beast (to therion), the false prophet (ho pseudoprophētes)
-- These three are the same entities that the lake of fire was "prepared for" (Mat 25:41 names the devil and his angels; E214)
-- The immediately following verse (Rev 20:15) casts the human wicked into the lake without repeating the "tormented day and night for ever and ever" language
-
-E180 (established in etc5-06) documents:
-- In the same chapter (Rev 20:9), the nations surrounding the camp of the saints are "devoured" (katephagen) by fire — consumption vocabulary
-- The adjacent verse (Rev 20:10) applies torment vocabulary to the three named supernatural entities
-- Different vocabulary is used for different subjects in adjacent verses within the same passage
-
-This vocabulary distinction is significant: the three named entities in Rev 20:10 are not identified as human beings. The beast and false prophet, whatever their nature (human, supernatural, or symbolic institutions), are the named targets of the specific torment language. Rev 20:15 ("And whosoever was not found written in the book of life was cast into the lake of fire") applies the lake of fire to the general human wicked without the "tormented day and night for ever and ever" formula.
-
-### Rev 20:11-15 Context
-
-The sequence:
-- Rev 20:11: Great white throne; earth and heaven flee
-- Rev 20:12-13: Dead raised; sea, death, and hades give up their dead; judged by works
-- Rev 20:14: Death and hades cast into the lake of fire — "this is the second death"
-- Rev 20:15: Whoever not in the book of life cast into the lake of fire
-
-The judgment includes all humans. The outcome is the lake of fire (= second death, E148, N021). Torment language ("day and night for ever and ever") is not applied to the general human wicked in Rev 20 — only to the three named entities in v.10.
+**Key observations:**
+1. **Genre:** This occurs within an apocalyptic vision (Revelation classified as VISION by Nave's; Rev 1:1 communicates through signs). Tree 3 Gate 3 applies.
+2. **Subjects:** "Any man" who worships the beast and its image. The subjects are human, but they are described in relation to symbolic entities (the beast, its image, its mark) that are part of Revelation's apocalyptic framework. The "beast" is not a literal animal but a symbolic entity (E205).
+3. **"Tormented with fire and brimstone":** The OT fire-and-brimstone paradigm, from its first occurrence (Gen 19:24 Sodom), describes destruction. Every OT brimstone passage (H1614 gophriyth, 7 occurrences) describes destructive judgment. Luke 17:29, the only non-Revelation NT use of theion (G2303), says the fire and brimstone "destroyed them all."
+4. **"Smoke of their torment ascendeth up for ever and ever":** The verbal correspondence with Isa 34:10 ("the smoke thereof shall go up for ever") is the highest-scoring OT parallel (tool-verified, 0.401). In the OT source, this describes permanent desolation with animals inhabiting the ruins, not ongoing combustion.
+5. **"No rest day nor night":** The phrase uses anapausis (G372). The same word appears in Rev 4:8, where the living creatures "rest not day and night" in ceaseless praise. The Rev 4:8 usage demonstrates that "rest not day and night" characterizes the continuous nature of an activity during its duration, not necessarily an eternal conscious state.
+6. **basanismos (G929) in same-book context:** The noun "torment" (basanismos) occurs 6 times -- all in Revelation. Three describe Babylon's "torment" (Rev 18:7,10,15). But Babylon's "torment" IS her destruction: "utterly burned with fire" (18:8), "in one hour" (18:10,17), "thrown down, and shall be found no more at all" (18:21). The same word describes a completed destruction event for Babylon.
+7. **Contrast with v.13:** Two verses later, the faithful dead "rest" (anapauomai, cognate of anapausis) from their labors. Beast-worshippers: no rest. Faithful dead: rest. The contrast functions within the passage's own literary structure.
+8. **"In the presence of the holy angels, and in the presence of the Lamb":** The torment occurs before the Lamb and the angels -- a public judgment event. This language does not describe a hidden ongoing state but a visible execution of judgment.
 
 ---
 
-## Section 6: Isaiah 34:9-10 — The OT Source Text and Its Present State
+### Revelation 19:1-3 (Babylon's Smoke Ascends)
 
-The cross-testament parallel tool identifies Isa 34:10 as the highest-scoring OT parallel for Rev 14:11 (hybrid score 0.401) AND for Rev 19:3 (score 0.330). This is not a subjective judgment — it is a tool-verified quantitative score. Isa 34:10 is the primary OT source text for the smoke-ascending-forever formula in Revelation.
+**Context:** Following the destruction of Babylon described in Rev 17-18, the heavenly host celebrates. This is a doxological/praise passage.
 
-### The Hebrew of Isaiah 34:9-10
+**Direct statement:** "True and righteous are his judgments: for he hath judged the great whore... and hath avenged the blood of his servants at her hand. And again they said, Alleluia. And her smoke rose up for ever and ever" (vv.2-3).
 
-**Isa 34:9:** "And the streams thereof shall be turned into pitch, and the dust thereof into brimstone [H1614, gophrith], and the land thereof shall become burning pitch."
-
-**Isa 34:10:** "It shall not be quenched night nor day [lo tikbeh laylah ve-yomam]; the smoke [H6227, ashan] thereof shall go up for ever [le-olam]; from generation to generation [le-dor va-dor] it shall lie waste [techérav]; none shall pass through it for ever and ever [ad-olam ve-ad]."
-
-Hebrew analysis:
-1. **H1614 gophrith** (brimstone): The same word used for Sodom's destruction (Gen 19:24). This passage explicitly sets up the Sodom parallel before the smoke formula.
-2. **H6227 ashan** (smoke): The primary Hebrew smoke word (25 occurrences). The LXX renders ashan as G2586 kapnos with PMI 9.95, count 20, score 30.28 — the dominant primary mapping. This confirms that Revelation's kapnos in Rev 14:11 and Rev 19:3 directly corresponds to Isa 34:10's ashan.
-3. **le-olam / ad-olam ve-ad**: The same H5769 (olam) terminology established in N034 (duration contextually determined by subject's nature). In this passage, olam describes the permanent desolation of Edom's land.
-4. **techérav** ("it shall lie waste"): The land lies desolate. The smoke ascends from a waste place, not from ongoing burning of conscious persons.
-
-### Isaiah 34:11-17: What Follows the Smoke-for-Ever
-
-Immediately after the smoke-ascending-forever announcement (v.10), the text describes what the land looks like:
-
-- Vv.11-15: Owls, ravens, jackals, ostriches, great owls, vultures, kites, screech owls, and other wild creatures possess the land. The pelican and porcupine possess it.
-- V.15: The great owl makes her nest and lays eggs; the vultures are gathered.
-- V.16-17: "Seek ye out of the book of the LORD, and read: no one of these shall fail, none shall want her mate...the cormorant and the bittern shall possess it."
-- V.17: "He hath cast the lot for them, and his hand hath divided it unto them by line: they shall possess it for ever [le-olam], from generation to generation shall they dwell therein."
-
-E192 (established in etc5-07) documents this: after the smoke-for-ever declaration, the land is inhabited by wild animals permanently. This is not the description of an ongoing burning conscious experience. It is the description of a permanently desolated wasteland that animals possess.
-
-The "smoke ascending for ever" in Isa 34:10 describes the complete and permanent destruction of Edom. The aftermath is not ongoing fire but permanent waste land occupied by wild creatures. This is the OT source context that governs the formula when Revelation uses it.
-
-### The Edom-Babylon Connection in the OT
-
-The desolation prophecies of the OT link Edom, Sodom, and Babylon through the same formula:
-- Isa 13:19-20: Babylon "shall be as when God overthrew Sodom and Gomorrah. It shall never be inhabited...from generation to generation"
-- Jer 49:17-18: Edom "shall be a desolation: every one that goeth by it shall be astonished...As in the overthrow of Sodom and Gomorrah"
-- Jer 50:39-40: Babylon "no more inhabited for ever...As God overthrew Sodom and Gomorrah...it shall be no more inhabited for ever"
-
-The same permanent-desolation pattern appears across all three: Sodom-type overthrow → permanent waste → never inhabited. None of these passages describes ongoing conscious burning; all describe permanent desolation. This is the OT semantic field from which Revelation draws its imagery.
+**Key observations:**
+1. Rev 19:3 uses the identical "smoke... for ever and ever" (eis tous aionas ton aionon) formula as Rev 14:11.
+2. This formula is applied to Babylon -- a symbolic entity ("MYSTERY, BABYLON THE GREAT," Rev 17:5). E316 documents this.
+3. Babylon's destruction is described in detail in Rev 17-18: burned with fire (17:16), utterly burned (18:8), come to nought in one hour (18:17), thrown down, found no more at all (18:21).
+4. Babylon's "torment" (basanismos, 18:7,10,15) IS her destruction. The smoke of her burning is observed by kings, merchants, and shipmasters who stand afar off (18:9,15,18).
+5. The ascending smoke in 19:3 is the memorial/evidence of a completed destruction event -- the same function smoke serves in Gen 19:28 (Abraham observing Sodom's smoke) and Isa 34:10 (Edom's smoke ascending for ever).
+6. This is the strongest same-book, same-author, same-formula evidence for interpreting the "smoke ascending for ever" language: the same formula that some interpret as eternal conscious torment in Rev 14:11 is applied to Babylon's completed destruction in Rev 19:3.
 
 ---
 
-## Section 7: G929 Basanismos Distribution in Revelation
+### Revelation 20:9-10 (Fire Devoured / Devil, Beast, False Prophet)
 
-G929 (basanismos, "torment") has 6 NT occurrences, ALL in Revelation (E172 establishes this). The distribution is highly significant:
+**Context:** After the thousand years, Satan is released. The wicked surround the camp of the saints. Fire comes down. The devil is cast into the lake of fire.
 
-| Reference | Context | Duration |
-|-----------|---------|---------|
-| Rev 9:5 | Scorpion-sting torment of the fifth trumpet | **Explicitly limited: "five months"** (vv.5,10) |
-| Rev 14:11 | Torment of beast-worshippers | Smoke ascending "for ever and ever" |
-| Rev 18:7 | "Give her torment and sorrow" — Babylon | **Completed destruction event** |
-| Rev 18:10 | "Alas, alas...for in one hour is thy judgment come" | **"In one hour"** |
-| Rev 18:15 | "Shall stand afar off for the fear of her torment" | **Completed destruction event** |
+**Direct statement:** "Fire came down from God out of heaven, and devoured them" (v.9). "The devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever" (v.10).
 
-Critical observations:
-1. **Rev 9:5**: The same basanismos noun used in Rev 14:11 is used in Rev 9:5 to describe a *five-month limited* judgment. The noun does not inherently carry the meaning of eternal ongoing duration.
-2. **Rev 18:7, 18:10, 18:15**: All three uses describe Babylon's judicial destruction — a completed event ("in one hour," "is come to nought"). The same noun that describes this five-minute or five-hour event also describes what is characterized as "smoke ascending for ever" in Rev 19:3.
-3. **Distributional conclusion**: The word basanismos in Revelation describes (a) a five-month limited judgment (Rev 9:5), (b) a one-hour completed judgment (Rev 18:7,10,15), and (c) the smoke formula applied both to beast-worshippers (Rev 14:11) and to Babylon (Rev 19:3). The word itself does not determine duration — the formula "for ever and ever" determines the permanence of the *result*, as N029 *(reclassified to IB009-resolved)* establishes.
+**Key observations:**
+1. **Different subjects, different descriptions:** Verse 9 describes the human enemies being "devoured" (katephagen) -- destruction vocabulary. Verse 10 describes the devil, the beast, and the false prophet being "tormented day and night for ever and ever."
+2. The beast and the false prophet are symbolic entities (E205). The devil is a non-human spirit being. None of the three subjects in v.10 is a literal human being.
+3. The human enemies in v.9 are described with destruction vocabulary ("devoured"), not torment vocabulary.
+4. Rev 20:14-15 then describes death, hades, and unsaved humans being cast into the lake of fire. When humans enter, the identifying term is "second death" (E204) -- death vocabulary, not torment vocabulary.
+5. The text does not say "the wicked shall be tormented day and night for ever and ever." It says the devil, beast, and false prophet experience this. The human fate is described as "devoured" (v.9) and "second death" (vv.14-15).
 
 ---
 
-## Section 8: "No Rest Day or Night" — Comparing Rev 4:8 and Rev 14:11
+### Revelation 4:8 (Living Creatures "Rest Not Day and Night")
 
-The phrase in Rev 14:11 is: **anapausin ouk ekhousin hēmeras kai nyktos** — "rest they-have-not day and night."
+**Context:** John's vision of the throne room of God.
 
-The phrase in Rev 4:8 is: **anapausin ouk ekhousin hēmeras kai nyktos** — "rest they-have-not day and night."
+**Direct statement:** "The four beasts... rest not day and night, saying, Holy, holy, holy, Lord God Almighty."
 
-The Greek parsing confirms (raw-data/greek-parsing.md): these are grammatically identical constructions. Same noun (anapausin, G372, Accusative Singular Feminine), same negation (ouk), same verb (ekhousin, Present Active Indicative 3rd Plural), same genitive time expression (hēmeras kai nyktos).
-
-**Rev 4:8 context:** "And the four beasts had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come."
-
-The living creatures' "no rest day and night" describes their *continuous worship activity* before God. There is nothing in this phrase that implies suffering or pain. The phrase describes unceasing, uninterrupted activity — in the Rev 4:8 case, positive worshipful activity.
-
-When the identical phrase appears in Rev 14:11, it describes a different subject (beast-worshippers) in a different context (judgment). But the phrase itself, as demonstrated by Rev 4:8, means "unceasing activity without intermission" — not specifically "ongoing conscious suffering without end."
-
-The two possible readings of "no rest day nor night" in Rev 14:11:
-
-**(a) ECT reading:** Ongoing conscious suffering without any respite, continuing forever. The "no rest" specifies perpetual conscious torment.
-
-**(b) Desolation/judgment-process reading:** The judgment that overtakes them admits of no rest, no reprieve, no escape. The "no rest" characterizes the thoroughness and finality of the judgment (its unceasing pursuit of them until completion), consistent with how Rev 4:8 uses the identical phrase for continuous activity — here the continuous activity is the divine judgment itself.
-
-Reading (b) is consistent with Rev 4:8's use of the identical phrase for unceasing *activity* (not suffering), and consistent with the Rev 19:3 parallel (same formula for Babylon's completed destruction). Reading (a) is consistent with the surface-level implication of "no rest" applied to persons under judgment.
-
-Both readings are grammatically possible. The SIS connections (Rev 4:8 identical phrase = unceasing activity; Rev 19:3 same formula = completed destruction) give weight to reading (b). This is an I-B tension addressed below (IB014, new item).
+**Key observations:**
+1. Uses the same word anapausis (G372) as Rev 14:11.
+2. The living creatures "rest not day and night" in ceaseless divine praise.
+3. This establishes that "rest not day and night" can describe the continuous and uninterrupted nature of an activity during its execution.
+4. The phrase characterizes the quality and completeness of the activity, not necessarily its eternal metaphysical duration.
 
 ---
 
-## Section 9: "For Ever and Ever" Distribution in Revelation
+### Revelation 18:7-10,15,21 (Babylon's Basanismos)
 
-The formula "for ever and ever" (eis tous aionas tōn aiōnōn, using G165 twice — E213) appears a total of 12 times in the KJV Revelation (see PROMPT.md list): Rev 1:6; 4:9; 4:10; 5:13; 7:12; 10:6; 11:15; 14:11; 15:3; 15:7; 19:3; 20:10; 22:5.
+**Context:** The fall of Babylon.
 
-By subject:
-- **God/Christ/saints** (11 uses): Rev 1:6; 4:9; 4:10; 5:13; 7:12; 10:6; 11:15; 15:3; 15:7; 22:5
-- **Judgment subjects** (3 uses): Rev 14:11 (beast-worshippers' smoke); Rev 19:3 (Babylon's smoke); Rev 20:10 (devil/beast/false prophet tormented)
+**Direct statement:** "So much torment and sorrow give her" (v.7). "She shall be utterly burned with fire" (v.8). "Standing afar off for the fear of her torment, saying, Alas, alas... for in one hour is thy judgment come" (v.10). "The merchants... shall stand afar off for the fear of her torment" (v.15). "Thrown down, and shall be found no more at all" (v.21).
 
-The 11 uses applied to God and the saints describe entities whose existence is inherently endless — God lives "for ever and ever" because he is by nature immortal; the redeemed "reign for ever and ever" because they have been given immortality at the resurrection (1 Cor 15:53-54; Rev 22:5).
-
-N034 establishes: the duration olam (and by N035 extension, the Greek eis aionas) denotes is contextually determined by the nature of the subject. The same formula that describes God's endless existence can describe the permanence of a desolated land (Isa 34:10) or the permanent ruin of a destroyed city (Rev 19:3) — because "for ever" adapts to what the subject's nature allows.
-
-For Babylon: permanent destruction is the nature of the outcome. "Smoke rising for ever and ever" describes the permanent, irreversible character of the completed destruction.
-
-For the devil, beast, and false prophet: E149 (Neutral, reclassified from ECT in etc5-18 audit) presents their ongoing torment; IB008 (Moderate toward not extending to all humans) addresses the subject limitation.
-
-For beast-worshippers: this is the contested case. The subject is human beast-worshippers. Whether "smoke of their torment for ever and ever" describes ongoing conscious torment (former ECT reading of E150, reclassified Neutral etc5-18) or permanent, irreversible destruction (desolation reading, grounded in Isa 34:10 source text and Rev 19:3 Babylon parallel) is the IB009 question.
+**Key observations:**
+1. Basanismos (G929) is used three times for Babylon's "torment" (18:7,10,15).
+2. Babylon's "torment" is described as: utterly burned with fire (v.8), come in one hour (v.10,17), thrown down and found no more at all (v.21).
+3. The "torment" IS the destruction. Basanismos describes the judgment event itself, which is a completed and total destruction.
+4. This is the closest same-book, same-word context for interpreting basanismos in Rev 14:11. Three of the six NT occurrences of basanismos describe a completed destruction event.
 
 ---
 
-## Section 10: The Sodom / Eternal Fire / Ashes Chain
+### Psalm 37:20 (Wicked Consume Into Smoke)
 
-N029 *(reclassified to IB009-resolved after Study 5)* (established in etc5-05) is the foundation for this section. The full chain:
+**Context:** A Davidic psalm contrasting the fates of the righteous and the wicked.
 
-**Step 1 — Sodom's destruction:**
-- Gen 19:24: "the LORD rained upon Sodom and upon Gomorrah brimstone and fire from the LORD out of heaven"
-- Gen 19:28: "the smoke [H6227, ashan] of the country went up as the smoke of a furnace" — Abraham sees this the morning AFTER the destruction. The smoke is visible as a residue of the past destruction event, not as evidence of ongoing burning.
+**Direct statement:** "The wicked shall perish, and the enemies of the LORD shall be as the fat of lambs: they shall consume; into smoke shall they consume away."
 
-**Step 2 — NT interpretation of Sodom's fire:**
-- Jude 1:7: Sodom and Gomorrah "are set forth for an example, suffering the vengeance of eternal fire [puros aioniou]." The Sodom cities are called an "example" of eternal fire.
-- 2 Pet 2:6: "turning the cities of Sodom and Gomorrha **into ashes** [tephrosas, G4871 = reduced to ashes] condemned them with an overthrow, making them an ensample unto those that after should live ungodly."
-
-**Step 3 — The necessary implication (N029, reclassified to IB009-resolved):**
-Both passages describe the same event. Jude calls it "eternal fire." Peter calls the result "ashes." The eternal fire of Sodom has not been literally burning since Genesis — the cities are in the Dead Sea region and their fire was extinguished millennia ago. The "eternal" character of the fire refers to the permanent, irreversible result of the destruction (ashes), not to the ongoing duration of the burning process. This is N029 *(reclassified to IB009-resolved)*, a plain textual observation about the same event described by the same author (Jude/2 Peter are likely from the same author tradition).
-
-**Step 4 — The Edom smoke chain:**
-- Isa 34:9 (brimstone — H1614, same word as Sodom): "the dust thereof into brimstone"
-- Isa 34:10 (smoke for ever): the smoke of Edom's judgment ascending for ever
-- Isa 34:11-17 (aftermath = desolation with animals): not ongoing burning, but permanent waste
-
-**Step 5 — Application to Revelation:**
-- The "fire and brimstone" of Rev 14:10 draws directly on the Sodom-type judgment vocabulary (Nave's BRIMSTONE: ALL Revelation uses = FIGURATIVE; literal anchor = Sodom)
-- The smoke-for-ever formula (Rev 14:11) draws directly on Isa 34:10 (tool-confirmed #1 OT parallel, score 0.401)
-- Rev 19:3 (Babylon's smoke for ever) draws on the same formula for a clearly completed destruction
-- The result: N029 *(reclassified to IB009-resolved)* (eternal fire = permanent result) governs the fire-and-brimstone imagery; the OT source (Isa 34:10 = wasteland, not ongoing burning) governs the smoke-formula meaning
-
-The Sodom-Edom-Babylon chain is a continuous literary typology in which the same formula (fire-and-brimstone → smoke for ever → permanent desolation) is applied to each successive judgment in an escalating series. In none of the OT instances does the formula describe ongoing conscious suffering. In each case, the aftermath is desolation without inhabitants.
+**Key observations:**
+1. Smoke is the END PRODUCT of consumption. Fat of lambs on the altar was consumed entirely -- nothing remained but ascending smoke.
+2. "They shall consume; into smoke shall they consume away" describes a process that ends with the wicked gone and only smoke remaining.
+3. The smoke is evidence that consumption is complete, not evidence of ongoing existence.
+4. Already registered as E217 (Cond.).
 
 ---
 
-## Section 11: IB009 SIS Resolution Assessment — Moderate to Strong
+### Hosea 13:3 (Smoke as Transience)
 
-**Current state (entering etc5-11):** IB009 is resolved Moderate toward literary formula / permanent-desolation imagery.
+**Context:** God's judgment on Ephraim.
 
-**New evidence bearing on IB009 from this study:**
+**Direct statement:** "They shall be as the morning cloud, and as the early dew that passeth away, as the chaff that is driven with the whirlwind out of the floor, and as the smoke out of the chimney."
 
-1. **Rev 19:3 structural parallel (new E250 below):** The identical Greek formula (kapnos + anabainei + eis tous aionas tōn aiōnōn) is applied in Rev 19:3 to Babylon — which is described in the immediately preceding chapter (Rev 18) as destroyed "in one hour," "found no more at all" (Rev 18:21), and "never be inhabited" (drawing on the OT desolation prophecies). The judgment is declared complete: "he hath judged" (Aorist, Rev 19:2). Same author. Same book. Same formula. Demonstrably completed destruction.
-
-2. **Basanismos distribution (new E251, E252 below):** The noun basanismos (G929), used in Rev 14:11 for the beast-worshippers' torment, is used three times in Rev 18 for Babylon's completed one-hour judicial destruction. The same noun describes both "five months" (Rev 9:5) and Babylon's completed judicial event. The noun does not determine perpetual duration.
-
-3. **Rev 4:8 / Rev 14:11 anapausis identity (new E253 below):** The "no rest day and night" phrase (grammatically identical) in Rev 4:8 describes the living creatures' unceasing worship — positive continuous activity, not conscious suffering. This demonstrates that the phrase describes unceasing activity without specifying suffering, leaving the "no rest" language in Rev 14:11 ambiguous as to whether it specifies ongoing conscious torment or unceasing judgment process.
-
-**Applying the 5-Step I-B SIS Protocol:**
-
-*Step 1 — State the competing claims:*
-- FOR (literary formula / desolation): The smoke-ascending-forever formula in Rev 14:11 is a literary formula drawn from Isa 34:10's OT desolation imagery, describing the permanent, irreversible result of destruction, not ongoing conscious torment in perpetuity.
-- AGAINST (ongoing torment): The formula, combined with "no rest day nor night" and applied to human beast-worshippers who are "tormented" (basanizo), describes perpetual ongoing conscious suffering.
-
-*Step 2 — Identify the Plain-level items on each side:*
-
-**FOR literary formula/desolation — Plain items:**
-- Rev 19:3 (new E250): Same formula, same author, same book, applied to Babylon which is explicitly "found no more at all" (Rev 18:21). This is a Plain SIS connection: within Revelation itself, the identical formula demonstrates that "smoke ascending for ever and ever" can describe the permanent aftermath of completed destruction.
-- N029: "Eternal fire" = permanent result (Jude 1:7 + 2 Pet 2:6 = same event = ashes). This is a Plain necessary implication that "for ever" fire/smoke language in biblical usage denotes permanent result, not ongoing process.
-- E147: Jude 1:7 + 2 Pet 2:6 (same event: Sodom = eternal fire = ashes). Plain textual fact.
-- E212: Rev 20:15 immediately following the torment description applies the lake of fire to human wicked without repeating the "tormented day and night for ever and ever" language. Both sides must acknowledge this Plain omission.
-
-**AGAINST (ongoing torment) — what is its Plain level?**
-- E150: "The smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night." The text explicitly states these things. E150 was classified ECT because it directly states the torment language (reclassified Neutral in etc5-18 audit).
-- However: E150 was classified ECT because the text explicitly states ongoing torment language for beast-worshippers. The question is not whether the text says "torment" and "for ever and ever" — it does, plainly. The question is whether this statement, on its own, before the OT source context and within-book Babylon parallel are applied, constitutes a Plain statement that the torment is *ongoing and conscious and perpetual*.
-
-The honest assessment: E150 is Plain in stating that (a) there is torment, (b) smoke ascends for ever and ever, (c) there is no rest day or night. But E150 is *Ambiguous* as to whether "for ever and ever" means ongoing conscious perpetual process (ECT) or permanent irrevocable destruction (desolation). The text says the smoke ascends for ever — it does not specify whether the persons are still consciously experiencing torment while the smoke ascends, or whether the smoke ascends as the permanent marker of their destruction.
-
-*Step 3 — Apply SIS priority (#4a):*
-
-The Rev 19:3 parallel is a #4a SIS connection of the highest caliber: same author, same book, same formula, demonstrably completed destruction context. When the same author uses the identical formula in the same book for a completed-destruction context, that usage governs the interpretation of the formula's other occurrence. This is the strongest possible form of #4a SIS.
-
-The Isa 34:10 source text is also a #4a SIS connection: tool-verified highest-scoring OT parallel (0.401). The source text's context (desolation, not ongoing burning) governs the Revelation usage.
-
-*Step 4 — Assess the result:*
-
-The FOR-desolation side has:
-- Plain items: Rev 19:3 (same formula, same book, completed destruction), N029 (eternal fire = ashes), E147 (Sodom eternal fire = ashes)
-- Contextually Clear items: E182 (Isa 34:10 source text = wasteland aftermath), E192 (Isa 34:11-17 animals in desolation)
-
-The AGAINST (ongoing torment) side has:
-- E150 is Plain in stating torment/smoke/no-rest language; but *Ambiguous as to duration mechanism* given the within-book demonstration (Rev 19:3) that the identical formula applies to completed destruction
-
-**Step 5 — Render the verdict:**
-
-Strong resolution applies when: "Plain statements on one side" + "only Ambiguous or Contextually Clear statements on the other, with no Plain counter-items."
-
-The FOR-desolation side has Plain items (Rev 19:3 within-book same-formula demonstration; N029 eternal fire = ashes). The AGAINST side's strongest item (E150) is Plain in stating the language but Ambiguous as to what the language *means* for duration once the Rev 19:3 within-book demonstration is considered.
-
-**Verdict: Upgrade IB009 from Moderate to Strong — weight toward literary formula / permanent-desolation imagery.**
-
-The Rev 19:3 within-book structural parallel is decisive. Within Revelation, the identical formula is used for Babylon's completed destruction. The OT source text (Isa 34:10) describes a desolated wasteland, not ongoing conscious torment. N029 establishes eternal fire = permanent result. The "no rest" phrase (Rev 4:8 parallel, new E253) is demonstrated within the same book to describe unceasing *activity* without implying suffering. Together these constitute Plain + Contextually Clear SIS evidence, with the AGAINST side reduced to Ambiguous statements once the within-book demonstration is applied.
-
-**Important qualification:** This Strong resolution applies specifically to the *formula* "smoke ascending for ever and ever" as a literary construction. The torment language itself (basanizo) in v.10 and basanismos in v.11 does describe a genuine judicial torment — both the ECT and conditionalist readings acknowledge this. The conditionalist reading holds that the torment is real and intense, but that it is not perpetually ongoing — rather, it is the torment of the destruction event itself, whose *smoke* (aftermath marker) ascends permanently as testimony to the permanent irrevocability of the judgment. The IB009 resolution does not eliminate the torment; it addresses the duration mechanism of the "for ever and ever" formula.
+**Key observations:**
+1. Four images of transience: morning cloud, early dew, chaff, chimney smoke. All dissipate and are gone.
+2. Smoke = ephemeral, vanishing, transient.
+3. Already registered as E248 (Cond.).
 
 ---
 
-## Summary of Analysis
+### Isaiah 51:6 (Heavens Vanish Like Smoke)
 
-The convergent evidence from this study points in a consistent direction:
+**Context:** God's word of comfort and salvation contrasted with the passing of the physical creation.
 
-1. **The OT source text (Isa 34:10)** — the tool-verified highest-scoring parallel for Rev 14:11 — depicts a desolated wasteland where animals dwell, not ongoing burning of conscious persons.
+**Direct statement:** "The heavens shall vanish away like smoke, and the earth shall wax old like a garment."
 
-2. **The within-book Babylon parallel (Rev 19:3)** — the identical formula applied by the same author to a city that is explicitly "found no more at all" — demonstrates that the formula describes permanent, irreversible destruction, not ongoing burning.
+**Key observations:**
+1. Smoke = vanishing, ceasing to be visible.
+2. Contrasted with God's salvation which "shall be for ever."
 
-3. **The basanismos distribution (Rev 9:5; 18:7,10,15)** — the same torment noun describes five-month limited judgment and one-hour completed destruction within the same book.
+---
 
-4. **The "no rest day and night" parallel (Rev 4:8)** — the identical Greek phrase describes the living creatures' unceasing worship, demonstrating that the phrase means "unceasing activity" without specifying ongoing suffering.
+### Ezekiel 28:18-19 (Fire from Within / Ashes / Never Be Any More)
 
-5. **N029 (eternal fire = permanent result; reclassified to IB009-resolved after Study 5)** — the Bible's own self-interpretation (Jude 1:7 + 2 Pet 2:6: Sodom = eternal fire = ashes) establishes that "eternal" fire/smoke language in biblical usage denotes permanent result.
+**Context:** Prophetic oracle against the king of Tyre (with possible typological overtones).
 
-6. **The "for ever and ever" distribution** — 11 of 12+ Revelation uses apply to God/Christ/saints whose existence is inherently endless; when applied to judgment subjects, the formula adapts to the nature of the outcome (N034).
+**Direct statement:** "I will bring forth a fire from the midst of thee, it shall devour thee, and I will bring thee to ashes upon the earth" (v.18). "Thou shalt be a terror, and never shalt thou be any more" (v.19).
 
-The former ECT reading of Rev 14:11 (E150, reclassified Neutral etc5-18) has genuine force from the direct text — the torment language, the smoke formula, the "no rest" language are all present. This is not to be dismissed. But these same elements are present when the formula is applied to Babylon (Rev 19:3) in a demonstrably completed-destruction context. The within-book demonstration that the formula can describe completed destruction is decisive for the Strong resolution of IB009.
+**Key observations:**
+1. Fire devours, produces ashes, and the subject is "never... any more."
+2. The fire leads to non-existence -- ashes and ceasing to be.
 
-The result is not that Rev 14:11 means nothing. It means: the beast-worshippers face a genuine judicial torment (basanizo) — a real and intense divine judgment — from which there is no rest and no reprieve, and whose permanent result (the ascending smoke) is an irrevocable, eternal marker of their complete destruction. The formula uses the language of Isa 34:10 and the Sodom typology, which throughout Scripture describe permanent, irrevocable destruction — not ongoing conscious existence in torment.
+---
+
+## Patterns Identified
+
+### Pattern 1: The OT Fire-and-Brimstone Paradigm (Destruction, Not Ongoing Torment)
+
+From its first occurrence (Gen 19:24 -- Sodom) through every subsequent use, the fire-and-brimstone pattern describes destructive judgment with a completed result:
+- **Gen 19:24-28:** Fire and brimstone "overthrew" the cities. Abraham observed ascending smoke afterward.
+- **Deut 29:23:** Aftermath = brimstone, salt, burning -- desolate, barren landscape.
+- **Isa 34:9-10:** Edom's dust turns to brimstone, smoke ascends "for ever" -- but animals dwell in the ruins (vv.11-17).
+- **Isa 30:33:** Tophet with fire and brimstone -- a place of burning/consumption.
+- **Ps 11:6:** Fire and brimstone upon the wicked -- "the portion of their cup" (paralleling Rev 14:10).
+- **Ezek 38:22:** Fire and brimstone in eschatological judgment against Gog.
+- **Luke 17:29:** Jesus says the fire and brimstone "destroyed them all."
+- **Jude 1:7:** "Eternal fire" applied to Sodom -- "example" of judgment. Sodom is not still burning.
+- **2 Pet 2:6:** Sodom turned "into ashes" -- "ensample" of what awaits the ungodly.
+
+In no OT passage does fire and brimstone describe ongoing conscious torment. Every instance describes an act of destruction whose result is permanent.
+
+### Pattern 2: Smoke as End-Product of Consumption / Memorial of Completed Destruction
+
+- **Ps 37:20:** Wicked "consume; into smoke shall they consume away" -- smoke is what remains after consumption.
+- **Ps 68:2:** "As smoke is driven away" -- wicked perish.
+- **Hos 13:3:** Smoke from chimney = transience, vanishing.
+- **Isa 51:6:** Heavens vanish like smoke.
+- **Gen 19:28:** Abraham sees Sodom's smoke ascending -- from a completed destruction.
+- **Isa 34:10:** Edom's smoke ascends "for ever" -- from a completed judgment; animals dwell there.
+- **Rev 18:9,18:** Onlookers see "the smoke of her burning" -- Babylon is already destroyed.
+- **Rev 19:3:** "Her smoke rose up for ever and ever" -- Babylon is "thrown down, found no more."
+
+In the OT, smoke consistently represents the aftermath/evidence of completed destruction or transience and vanishing. It does not represent ongoing conscious existence.
+
+### Pattern 3: Basanismos in Same-Book Context (Babylon's "Torment" = Destruction)
+
+The noun basanismos (G929) occurs 6 times -- all in Revelation:
+1. Rev 9:5 -- scorpion torment, limited to 5 months (temporary)
+2. Rev 14:11 -- smoke of their torment (the passage under study)
+3. Rev 18:7 -- Babylon's torment
+4. Rev 18:10 -- Babylon's torment
+5. Rev 18:15 -- Babylon's torment
+
+Three of six occurrences describe Babylon's "torment," and Babylon's "torment" IS her destruction: utterly burned with fire (18:8), in one hour (18:10,17), thrown down and found no more at all (18:21). One occurrence (Rev 9:5) has an explicit time limit of 5 months. The same-book context demonstrates that basanismos does not require "eternal conscious suffering" as its meaning.
+
+### Pattern 4: "No Rest Day and Night" as Quality of Activity, Not Duration
+
+- **Rev 4:8:** Living creatures "rest not day and night" in praising God.
+- **Rev 14:11:** Beast-worshippers have "no rest day nor night."
+- **Isa 34:10:** Edom's fire "shall not be quenched night nor day."
+
+The Rev 4:8 usage shows that "rest not day and night" characterizes the continuous and uninterrupted nature of an activity. In Isa 34:10, the "not quenched night nor day" describes the irresistibility and completeness of the fire's work, followed by animals dwelling in the desolated ruins. The phrase describes the totality and intensity of the activity during its execution.
+
+### Pattern 5: Different Subjects Receive Different Descriptions in Rev 20
+
+- **Rev 20:9:** Human enemies "devoured" by fire (destruction vocabulary).
+- **Rev 20:10:** Devil, beast, and false prophet "tormented day and night for ever and ever" (the beast and false prophet are symbolic entities; the devil is non-human).
+- **Rev 20:14-15:** Humans cast into the lake of fire -- identified as "the second death" (death vocabulary, not torment vocabulary).
+
+The text itself distinguishes between the fate of symbolic/non-human entities (tormented) and literal humans (devoured/second death).
+
+---
+
+## Connections Between Passages
+
+### The Isa 34:10 --> Rev 14:11 / Rev 19:3 Verbal Chain
+
+The verbal correspondence is exact:
+- Isa 34:10: "smoke... shall go up for ever" + "not quenched night nor day" + "brimstone"
+- Rev 14:11: "smoke... ascendeth up for ever and ever" + "no rest day nor night" + "fire and brimstone"
+- Rev 19:3: "smoke rose up for ever and ever"
+
+The parallels tool confirms this: Isa 34:10 is the highest-scoring OT parallel for Rev 14:11 (0.401) and for Rev 19:3 (0.330). The connection is verified via shared vocabulary and identical idiom (#4a SIS).
+
+In the OT source, this formula describes a completed, irreversible judgment followed by permanent desolation (animals dwell in the ruins). The formula is a memorial of judgment, not a description of ongoing conscious experience.
+
+### The Rev 14:11 <-> Rev 19:3 Same-Formula Connection
+
+The same "smoke... for ever and ever" formula is used for:
+- Beast-worshippers (Rev 14:11)
+- Symbolic Babylon (Rev 19:3)
+
+Babylon is explicitly described as utterly destroyed (Rev 18:8,17,21). The smoke of Babylon "rose up for ever and ever" after she has been "thrown down, and shall be found no more at all." The same formula that some interpret as ongoing conscious torment in 14:11 describes a completed destruction in 19:3. Same author, same book, same formula.
+
+### The Gen 19 --> Isa 34 --> Rev 14/19 Fire-and-Brimstone Arc
+
+1. **Gen 19:24:** First fire-and-brimstone judgment. Result: destruction. Smoke observed afterward.
+2. **Isa 34:9-10:** Edom's brimstone judgment. "Smoke ascending for ever." Animals inhabit the ruins.
+3. **Rev 14:10-11:** "Tormented with fire and brimstone." "Smoke of their torment ascendeth up for ever and ever."
+4. **Rev 19:3:** Babylon's "smoke rose up for ever and ever."
+
+Each later occurrence draws on the earlier: Isa 34 draws on Gen 19's fire-and-brimstone; Revelation draws on Isa 34's smoke-ascending-for-ever. The OT source texts consistently describe destruction with permanent results, not ongoing conscious torment.
+
+### The Basanismos Chain (Rev 9:5 --> Rev 14:11 --> Rev 18:7,10,15)
+
+Basanismos appears to describe: a temporary affliction (9:5, five months), the judgment of beast-worshippers (14:11), and the destruction of Babylon (18:7,10,15). The Babylon usage is the most extensive (3 of 6 occurrences) and the most interpretively informative: Babylon's "torment" is her total, completed destruction.
+
+### The Anapausis Contrast (Rev 4:8, 14:11, 14:13)
+
+Rev 14:11 ("no rest day nor night") is flanked by:
+- Rev 4:8: living creatures praise without rest (no anapausis) day and night
+- Rev 14:13: the faithful dead rest (anapauomai) from their labors
+
+The contrast is: beast-worshippers face judgment admitting no respite; the faithful dead enter rest. The anapausis in Rev 4:8 characterizes uninterrupted activity, not necessarily eternal duration. The anapausis in Rev 14:13 characterizes the rest state of the dead (consistent with the sleep/rest imagery for death throughout Scripture).
+
+---
+
+## Word Study Insights
+
+### Basanismos (G929): Not Exclusively "Eternal Conscious Torment"
+
+Basanismos occurs 6 times, all in Revelation. Three describe a completed destruction event (Babylon). One describes a temporary affliction (Rev 9:5, five months). The word describes the experience of undergoing judgment, not necessarily a permanent conscious state. Its same-book usage for Babylon's destruction is the controlling context for Rev 14:11.
+
+### Basanizo (G928): Wide Semantic Range
+
+The verb basanizo occurs 12 times and covers: physical illness (Matt 8:6), a boat tossed by waves (Matt 14:24), physical effort/toiling (Mark 6:48), emotional distress (2 Pet 2:8), labor pains (Rev 12:2), demonic fear (Matt 8:29), and divine judgment (Rev 14:10; 20:10). The word describes any form of distress or affliction, not exclusively eternal conscious torment.
+
+### Anapausis (G372): Rest/Cessation -- Quality of Activity
+
+All 5 NT occurrences: spiritual rest for souls (Matt 11:29), unclean spirit seeking rest (Matt 12:43; Luke 11:24), living creatures' ceaseless praise (Rev 4:8), beast-worshippers' judgment (Rev 14:11). The Rev 4:8 usage demonstrates that "no anapausis day and night" characterizes the uninterrupted nature of an activity during its execution.
+
+### Kapnos (G2586): Smoke in Same-Book Context
+
+All 13 occurrences are in Acts (1, quoting Joel) or Revelation (12). In Revelation, smoke appears in theophany (8:4; 15:8), judgment (9:2,17,18; 14:11; 18:9,18; 19:3). The Babylon smoke passages (18:9,18; 19:3) describe the smoke of a completed destruction observed by onlookers -- the same function smoke serves in Gen 19:28 and Isa 34:10.
+
+### Theion (G2303): Brimstone -- Agent of Destruction
+
+All 7 NT occurrences. The only non-Revelation use (Luke 17:29) describes Sodom's destruction: "destroyed them all." The OT equivalent (gophriyth, H1614, 7 occurrences) functions as an agent of destruction and desolation in every instance. No occurrence of brimstone in either testament describes ongoing conscious torment.
+
+---
+
+## Difficult Passages
+
+### The Surface Reading of Rev 14:10-11
+
+Read in isolation from its OT source imagery, Rev 14:10-11 appears to describe ongoing conscious torment: "tormented with fire and brimstone... smoke of their torment ascendeth up for ever and ever... no rest day nor night." The ECT reading of this passage carries force from the surface language.
+
+The text under analysis:
+- Rev 14:10 uses basanizo ("tormented"), not a destruction verb.
+- Rev 14:11 describes "smoke of their torment" -- not smoke of their destruction.
+- "No rest day nor night" parallels conscious activity.
+
+Against this surface reading, the analysis identifies:
+1. The OT source (Isa 34:10) uses the identical formula for a demonstrably completed judgment.
+2. Same-book usage: basanismos describes Babylon's completed destruction (Rev 18:7,10,15).
+3. Same-book usage: "rest not day and night" describes continuous activity in Rev 4:8.
+4. The fire-and-brimstone paradigm from Gen 19 through every OT occurrence describes destruction.
+5. The genre is apocalyptic vision (Tree 3 Gate 3).
+6. Rev 19:3 uses the same formula for destroyed Babylon.
+7. Rev 20:9 uses "devoured" for human enemies, while 20:10 uses "tormented" for the devil and symbolic entities.
+
+The passage states what it states. The question is whether the OT background, the same-book context, and the genre govern the interpretation of the surface language.
+
+### Rev 20:10 and the "Day and Night For Ever and Ever" Language
+
+Rev 20:10 is the passage with the strongest surface-level ECT language: "tormented day and night for ever and ever." The subjects are the devil, the beast, and the false prophet.
+
+The beast and false prophet are symbolic entities (E205). The devil is a non-human spirit being. No literal human is a subject of Rev 20:10. The immediately preceding verse (20:9) describes human enemies being "devoured" -- destruction vocabulary. The immediately following passage (20:14-15) describes humans entering the lake of fire under the designation "second death" -- death vocabulary.
+
+The text distinguishes between these subjects. Whether the fate of the devil can be extended to all humans is not stated by the text; it must be inferred.
+
+### The "Ages of Ages" Formula for God vs. for Judgment
+
+The "eis tous aionas ton aionon" formula is used ~19 times for God/Christ (Rev 1:6; 4:9; 5:13; 7:12; 10:6; 11:15; 15:7; 22:5, etc.) and 3 times in judgment contexts (Rev 14:11; 19:3; 20:10). When applied to God, the formula carries its maximal force because God is genuinely eternal. The question is whether the same formula automatically carries identical force when applied to judgment.
+
+The OT evidence from etc-07 and etc-08 demonstrates that "forever" vocabulary carries duration determined by its subject: olam for God's reign (genuinely unending) vs. olam for a slave's service (one lifetime) vs. olam for Edom's smoke (ended). The same word carries different durations for different subjects.
+
+---
+
+*Analysis completed: 2026-02-20*

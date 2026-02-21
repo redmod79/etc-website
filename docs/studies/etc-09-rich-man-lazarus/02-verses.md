@@ -1,361 +1,247 @@
 # Verses
 
-## Question
+## Primary Passage: Luke 16:19-31 (Rich Man and Lazarus)
 
-What is the literary genre of Luke 16:19-31? Does it prove eternal conscious torment in hades, a conscious intermediate state, or is it a parable making a different theological point?
-
----
-
-## 1. Luke 16:14-31 — Primary Passage (Full Context)
-
-### Audience Setup: Covetous Pharisees (Luke 16:14-15)
-
-> **Luke 16:14** — And the Pharisees also, who were covetous, heard all these things: and they derided him.
-> **Luke 16:15** — And he said unto them, Ye are they which justify yourselves before men; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God.
-
-**Note:** The immediate audience is the covetous Pharisees who are mocking Jesus. The passage that follows (16:19-31) is Jesus's direct response.
-
-### Bridge Sayings (Luke 16:16-18)
-
-> **Luke 16:16** — The law and the prophets [were] until John: since that time the kingdom of God is preached, and every man presseth into it.
-> **Luke 16:17** — And it is easier for heaven and earth to pass, than one tittle of the law to fail.
-> **Luke 16:18** — Whosoever putteth away his wife, and marrieth another, committeth adultery: and whosoever marrieth her that is put away from [her] husband committeth adultery.
-
-**Note:** Three independent sayings about the law/prophets bracket the parable. The parable begins in v.19 and ends in v.31 with a direct return to the same theme ("Moses and the prophets"). The Law/Prophets frame is deliberate.
-
-### The Dishonest Steward Parable (Context — Luke 16:1-13)
-
-> **Luke 16:1** — And he said also unto his disciples, There was a certain rich man, which had a steward; and the same was accused unto him that he had wasted his goods.
-
-**Note:** Luke 16:1 opens with the same formula: "There was a certain rich man" (Anthropos tis ēn plousios). This parallels Luke 16:19 exactly. The dishonest steward parable (16:1-13) is addressed to disciples; the rich man/Lazarus narrative (16:19-31) is addressed to the Pharisees (16:14). Both begin with "a certain rich man."
-
-### The Rich Man and Lazarus (Luke 16:19-31) — Full Passage
-
-> **Luke 16:19** — There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day:
-> **Luke 16:20** — And there was a certain beggar named Lazarus, which was laid at his gate, full of sores,
-> **Luke 16:21** — And desiring to be fed with the crumbs which fell from the rich man's table: moreover the dogs came and licked his sores.
-> **Luke 16:22** — And it came to pass, that the beggar died, and was carried by the angels into Abraham's bosom: the rich man also died, and was buried;
-> **Luke 16:23** — And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom.
-> **Luke 16:24** — And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame.
-> **Luke 16:25** — But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented.
-> **Luke 16:26** — And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that [would come] from thence.
-> **Luke 16:27** — Then he said, I pray thee therefore, father, that thou wouldest send him to my father's house:
-> **Luke 16:28** — For I have five brethren; that he may testify unto them, lest they also come into this place of torment.
-> **Luke 16:29** — Abraham saith unto him, They have Moses and the prophets; let them hear them.
-> **Luke 16:30** — And he said, Nay, father Abraham: but if one went unto them from the dead, they will repent.
-> **Luke 16:31** — And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead.
-
-**Key observations from the text:**
-- v.19: Opening formula "There was a certain rich man" (= standard Lukan parabolic opening — see Genre Context section below)
-- v.20: "a certain beggar named Lazarus" — the ONLY named figure in any of Jesus's parables
-- v.22: Lazarus "carried by the angels into Abraham's bosom" — the poor man receives divine attention immediately after death
-- v.23: "in hell [hades]" — the Greek is en tō Haidē, explicitly hades (dative case). NOT gehenna, NOT the lake of fire.
-- v.23: "being in torments [basanois]" — present active participle ὑπάρχων ("being, existing") + dative plural of G931 basanos
-- v.24: "tormented in this flame" — G3600 odunaomai, "I am in pain/anguish" — a different word from v.23
-- v.25: The explicit reversal-of-fortunes statement: good things vs. evil things; now comforted vs. tormented
-- v.26: "a great gulf fixed" — G5490 chasma (hapax legomenon) + ἐστήρικται (perfect passive indicative of stērizō — it has been fixed and remains fixed)
-- v.28: "this place of torment" — torment used a third time (basanos, G931)
-- v.29-31: The theological purpose stated explicitly: Moses and the prophets are sufficient; resurrection from the dead would not persuade those who reject Scripture
-- v.31: "though one rose from the dead" — proleptic reference to Jesus's own resurrection, and also to the historical Lazarus of Bethany (John 11), who was raised and whom the chief priests then plotted to kill (John 12:10)
+> **Luke 16:19** There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day:
+> **Luke 16:20** And there was a certain beggar named Lazarus, which was laid at his gate, full of sores,
+> **Luke 16:21** And desiring to be fed with the crumbs which fell from the rich man's table: moreover the dogs came and licked his sores.
+> **Luke 16:22** And it came to pass, that the beggar died, and was carried by the angels into Abraham's bosom: the rich man also died, and was buried;
+> **Luke 16:23** And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom.
+> **Luke 16:24** And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame.
+> **Luke 16:25** But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented.
+> **Luke 16:26** And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that [would come] from thence.
+> **Luke 16:27** Then he said, I pray thee therefore, father, that thou wouldest send him to my father's house:
+> **Luke 16:28** For I have five brethren; that he may testify unto them, lest they also come into this place of torment.
+> **Luke 16:29** Abraham saith unto him, They have Moses and the prophets; let them hear them.
+> **Luke 16:30** And he said, Nay, father Abraham: but if one went unto them from the dead, they will repent.
+> **Luke 16:31** And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead.
 
 ---
 
-## 2. Genre Context — "A Certain Man/Rich Man" Parables in Luke
+## Literary Context: The Five Parables of Luke 15-16
 
-### Pattern Documentation
+### Luke 15:1-32 (Parables of the Lost -- labeled "parable" in 15:3)
 
-| Reference | Opening Formula | Word parabolē present? | Notes |
-|-----------|----------------|----------------------|-------|
-| Luke 15:3 | "he spake this parable" | YES — v.3 explicitly | Lost sheep (parabole used for whole pericope Luke 15:3-32) |
-| Luke 15:4 | "What man of you, having an hundred sheep..." | Implied by v.3 | Lost sheep — no "a certain man" |
-| Luke 15:8 | "Either what woman having ten pieces of silver..." | Implied by v.3 | Lost coin — no "a certain man" |
-| Luke 15:11 | "A certain man had two sons" | NO (but covered by v.3) | Prodigal Son — unlabeled but parabolic |
-| Luke 16:1 | "There was a certain rich man" | NO | Dishonest Steward — to disciples |
-| Luke 16:19 | "There was a certain rich man" | NO | Rich Man/Lazarus — to Pharisees |
-| Luke 18:1-2 | "There was in a city a judge..." | YES — v.1 intro | Unjust Judge |
-| Luke 18:9-10 | "Two men went up into the temple..." | YES — v.9 intro | Pharisee & Tax Collector |
-| Luke 12:16 | "he spake a parable unto them, saying, The ground of a certain rich man..." | YES | Rich Fool — "a certain rich man" + explicit parabole |
+> **Luke 15:1** Then drew near unto him all the publicans and sinners for to hear him.
+> **Luke 15:2** And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them.
+> **Luke 15:3** And he spake this parable unto them, saying,
 
-### The verses themselves
+#### Parable 1: Lost Sheep (15:4-7)
+> **Luke 15:4** What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?
+> **Luke 15:5** And when he hath found [it], he layeth [it] on his shoulders, rejoicing.
+> **Luke 15:6** And when he cometh home, he calleth together [his] friends and neighbours, saying unto them, Rejoice with me; for I have found my sheep which was lost.
+> **Luke 15:7** I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance.
 
-> **Luke 15:3** — And he spake this parable unto them, saying,
-> **Luke 15:11** — And he said, A certain man had two sons:
-> **Luke 16:1** — There was a certain rich man, which had a steward...
-> **Luke 16:19** — There was a certain rich man, which was clothed in purple and fine linen...
-> **Luke 12:16** — And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully:
-> **Luke 18:1** — And he spake a parable unto them [to this end], that men ought always to pray, and not to faint;
-> **Luke 18:2** — Saying, There was in a city a judge, which feared not God, neither regarded man:
-> **Luke 10:30** — And Jesus answering said, A certain [man] went down from Jerusalem to Jericho, and fell among thieves...
-> **Luke 14:16** — Then said he unto him, A certain man made a great supper, and bade many:
+#### Parable 2: Lost Coin (15:8-10) -- no separate parabole label
+> **Luke 15:8** Either what woman having ten pieces of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek diligently till she find [it]?
+> **Luke 15:9** And when she hath found [it], she calleth [her] friends and [her] neighbours together, saying, Rejoice with me; for I have found the piece which I had lost.
+> **Luke 15:10** Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repenteth.
 
-**Key finding on genre:** The same parabolic opening formula ("There was a certain [rich] man") is used throughout Luke 12, 15, 16, 18 without a consistent pattern of being labeled with parabolē. Luke 15:3 introduces parabolē and then proceeds to tell three consecutive parables (vv.4-7, 8-10, 11-32) — only the first is labeled. The Prodigal Son (15:11-32) is universally recognized as a parable despite having no parabolē label. Luke 16:19 follows the same pattern as Luke 16:1 (also no label), and both follow immediately after the labeled parabolē section.
+#### Parable 3: Prodigal Son (15:11-32) -- no separate parabole label
+> **Luke 15:11** And he said, A certain man had two sons:
+> **Luke 15:12** And the younger of them said to [his] father, Father, give me the portion of goods that falleth [to me]. And he divided unto them [his] living.
+> **Luke 15:13** And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living.
+> **Luke 15:14** And when he had spent all, there arose a mighty famine in that land; and he began to be in want.
+> **Luke 15:15** And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine.
+> **Luke 15:16** And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him.
+> **Luke 15:17** And when he came to himself, he said, How many hired servants of my father's have bread enough and to spare, and I perish with hunger!
+> **Luke 15:18** I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,
+> **Luke 15:19** And am no more worthy to be called thy son: make me as one of thy hired servants.
+> **Luke 15:20** And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.
+> **Luke 15:21** And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son.
+> **Luke 15:22** But the father said to his servants, Bring forth the best robe, and put [it] on him; and put a ring on his hand, and shoes on [his] feet:
+> **Luke 15:23** And bring hither the fatted calf, and kill [it]; and let us eat, and be merry:
+> **Luke 15:24** For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry.
+> **Luke 15:25** Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing.
+> **Luke 15:26** And he called one of the servants, and asked what these things meant.
+> **Luke 15:27** And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound.
+> **Luke 15:28** And he was angry, and would not go in: therefore came his father out, and intreated him.
+> **Luke 15:29** And he answering said to [his] father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends:
+> **Luke 15:30** But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf.
+> **Luke 15:31** And he said unto him, Son, thou art ever with me, and all that I have is thine.
+> **Luke 15:32** It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found.
 
----
+### Luke 16:1-18 (Parable 4: Unjust Steward + Transitional Material)
 
-## 3. The Naming Pattern — Lazarus as Unique Named Character
-
-> **Luke 16:20** — And there was a certain beggar named Lazarus...
-
-The name "Lazarus" (G2976, Lazaros) is the Greek form of the Hebrew Eleazar (אֶלְעָזָר) meaning "God helps" or "God has helped."
-
-**The naming argument (ECT position):** This is the only parable of Jesus in which a character is given a name. All other parable figures are generic types (the prodigal son, the unjust judge, the good Samaritan's victim). The naming of Lazarus suggests he is a real person, making this a historical account rather than a parable.
-
-**The naming counter-argument (Conditionalist/Parabolic position):** The name "Lazarus/Eleazar" = "God helps" is thematically appropriate for the poor man in a reversal-of-fortunes narrative — God ultimately helps him, while the self-sufficient rich man finds himself in need. The name functions symbolically. Furthermore:
-- The rich man has NO name in the text (the name "Dives" = Latin for "rich" comes from the Vulgate, not the Greek)
-- Abraham is named — but Abraham appears in numerous parables and in historical narratives alike
-- Nathan's parable of the ewe lamb (2 Sam 12:1-6) introduces unnamed characters who are stand-ins for real people
-
-**Also relevant — the other Lazarus:** John 11 introduces a historical Lazarus of Bethany who was raised from the dead by Jesus. Luke 16:31 ends with the statement: "neither will they be persuaded, though one rose from the dead" — this reads as a proleptic allusion to the reaction of the chief priests after the historical Lazarus's resurrection (John 12:10-11).
-
----
-
-## 4. Parallel Passages on Paradise
-
-### Luke 23:40-43 — The Thief on the Cross
-
-> **Luke 23:40** — But the other answering rebuked him, saying, Dost not thou fear God, seeing thou art in the same condemnation?
-> **Luke 23:41** — And we indeed justly; for we receive the due reward of our deeds: but this man hath done nothing amiss.
-> **Luke 23:42** — And he said unto Jesus, Lord, remember me when thou comest into thy kingdom.
-> **Luke 23:43** — And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise.
-
-**Key observations:**
-- "To day" (sēmeron, G4594) — same day as the crucifixion. Jesus died that same day. So "today" must include the period after Jesus's death but before his resurrection.
-- "Paradise" (G3857) — the only use of paradeisos in Luke-Acts
-- The ECT/CIS position: this promises the thief immediate conscious fellowship with Christ after death, in paradise
-- The Conditionalist position: the comma placement is debated (Greek has no punctuation); some argue the construction means "I tell you today [with certainty]: you will be with me in paradise" — i.e., "today" modifies "I say" rather than "you will be." But see Greek parsing below: sēmeron follows the verb ἔσῃ (you will be), making the most natural reading "today...you will be."
-- Note: Paradise here is NOT called "Abraham's bosom" — the equation requires an interpretive step
-
-### 2 Corinthians 12:1-4 — Paul Caught Up to Paradise
-
-> **2 Cor 12:1** — It is not expedient for me doubtless to glory. I will come to visions and revelations of the Lord.
-> **2 Cor 12:2** — I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knoweth;) such an one caught up to the third heaven.
-> **2 Cor 12:3** — And I knew such a man, (whether in the body, or out of the body, I cannot tell: God knoweth;)
-> **2 Cor 12:4** — How that he was caught up into paradise, and heard unspeakable words, which it is not lawful for a man to utter.
-
-**Key observations:**
-- Paradise here is equated with "the third heaven" (v.2 = v.4)
-- Paul is uncertain whether this was in the body or out of the body — suggesting the body/spirit distinction is not clear-cut
-- This paradise is a place of revelation ("heard unspeakable words") — a heavenly realm, not a waiting room in hades
-- The equation of 2 Cor 12 paradise with Luke 16:23 Abraham's bosom is doubly inferential: (a) paradise ≠ Abraham's bosom by any explicit text; (b) 2 Cor 12 paradise = the third heaven, which is not naturally equated with hades
-
-### Revelation 2:7 — Tree of Life in Paradise
-
-> **Rev 2:7** — He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God.
-
-**Key observation:** The "paradise of God" here is a future eschatological reward promised to the overcomer. It contains the tree of life, which also appears in Rev 22:2,14 in the New Jerusalem. This is a post-resurrection, final-state paradise — not an intermediate-state paradise. Three uses of paradeisos: (a) Luke 23:43 — immediate post-death; (b) 2 Cor 12:4 — current heavenly realm; (c) Rev 2:7 — eschatological promise.
+> **Luke 16:1** And he said also unto his disciples, There was a certain rich man, which had a steward; and the same was accused unto him that he had wasted his goods.
+> **Luke 16:2** And he called him, and said unto him, How is it that I hear this of thee? give an account of thy stewardship; for thou mayest be no longer steward.
+> **Luke 16:3** Then the steward said within himself, What shall I do? for my lord taketh away from me the stewardship: I cannot dig; to beg I am ashamed.
+> **Luke 16:4** I am resolved what to do, that, when I am put out of the stewardship, they may receive me into their houses.
+> **Luke 16:5** So he called every one of his lord's debtors [unto him], and said unto the first, How much owest thou unto my lord?
+> **Luke 16:6** And he said, An hundred measures of oil. And he said unto him, Take thy bill, and sit down quickly, and write fifty.
+> **Luke 16:7** Then said he to another, And how much owest thou? And he said, An hundred measures of wheat. And he said unto him, Take thy bill, and write fourscore.
+> **Luke 16:8** And the lord commended the unjust steward, because he had done wisely: for the children of this world are in their generation wiser than the children of light.
+> **Luke 16:9** And I say unto you, Make to yourselves friends of the mammon of unrighteousness; that, when ye fail, they may receive you into everlasting habitations.
+> **Luke 16:10** He that is faithful in that which is least is faithful also in much: and he that is unjust in the least is unjust also in much.
+> **Luke 16:11** If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true [riches]?
+> **Luke 16:12** And if ye have not been faithful in that which is another man's, who shall give you that which is your own?
+> **Luke 16:13** No servant can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.
+> **Luke 16:14** And the Pharisees also, who were covetous, heard all these things: and they derided him.
+> **Luke 16:15** And he said unto them, Ye are they which justify yourselves before men; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God.
+> **Luke 16:16** The law and the prophets [were] until John: since that time the kingdom of God is preached, and every man presseth into it.
+> **Luke 16:17** And it is easier for heaven and earth to pass, than one tittle of the law to fail.
+> **Luke 16:18** Whosoever putteth away his wife, and marrieth another, committeth adultery: and whosoever marrieth her that is put away from [her] husband committeth adultery.
 
 ---
 
-## 5. Parallel Passages on Conscious Interim State
+## Luke 12:13-21 (Parable of the Rich Fool -- same "certain rich man" formula WITH parabole label)
 
-### Philippians 1:20-24 — To Depart and Be With Christ
+> **Luke 12:13** And one of the company said unto him, Master, speak to my brother, that he divide the inheritance with me.
+> **Luke 12:14** And he said unto him, Man, who made me a judge or a divider over you?
+> **Luke 12:15** And he said unto them, Take heed, and beware of covetousness: for a man's life consisteth not in the abundance of the things which he possesseth.
+> **Luke 12:16** And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully:
+> **Luke 12:17** And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits?
+> **Luke 12:18** And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods.
+> **Luke 12:19** And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, [and] be merry.
+> **Luke 12:20** But God said unto him, [Thou] fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?
+> **Luke 12:21** So [is] he that layeth up treasure for himself, and is not rich toward God.
 
-> **Phil 1:20** — According to my earnest expectation and [my] hope, that in nothing I shall be ashamed, but [that] with all boldness, as always, [so] now also Christ shall be magnified in my body, whether [it be] by life, or by death.
-> **Phil 1:21** — For to me to live [is] Christ, and to die [is] gain.
-> **Phil 1:22** — But if I live in the flesh, this [is] the fruit of my labour: yet what I shall choose I wot not.
-> **Phil 1:23** — For I am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better:
-> **Phil 1:24** — Nevertheless to abide in the flesh [is] more needful for you.
-
-**Key observations:**
-- "To depart" (analuo, G360 — aorist active infinitive) — refers to death/departure from life
-- "To be with Christ" (sun Christō einai — present active infinitive of eimi) — the state that follows departure
-- The collocation "depart...and be with Christ" suggests that being with Christ follows immediately upon departing (= dying)
-- This is the strongest NT text for a conscious intermediate state (classified E039 in the master evidence file)
-- However, conditionalists note: Paul's perspective is on what happens at resurrection (Phil 3:20-21); the subjective experience of time in death may be instantaneous regardless of objective duration
-
-### 2 Corinthians 5:1-8 — Absent from Body, Present with Lord
-
-> **2 Cor 5:1** — For we know that if our earthly house of [this] tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.
-> **2 Cor 5:2** — For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven:
-> **2 Cor 5:3** — If so be that being clothed we shall not be found naked.
-> **2 Cor 5:4** — For we that are in [this] tabernacle do groan, being burdened: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life.
-> **2 Cor 5:5** — Now he that hath wrought us for the selfsame thing [is] God, who also hath given unto us the earnest of the Spirit.
-> **2 Cor 5:6** — Therefore [we are] always confident, knowing that, whilst we are at home in the body, we are absent from the Lord:
-> **2 Cor 5:7** — (For we walk by faith, not by sight:)
-> **2 Cor 5:8** — We are confident, [I say], and willing rather to be absent from the body, and to be present with the Lord.
-
-**Key observations:**
-- v.8: "absent from the body" / "present with the Lord" — the binary (at home in body = absent from Lord; absent from body = present with Lord) is used as an argument for ECT/CIS
-- v.4: Paul does NOT want to be unclothed (= disembodied?) but to be "clothed upon" — the hope is resurrection, not disembodied existence
-- The tension: v.8 implies present-ness after death, but v.1-4 keeps the focus on the resurrection body
-- Classified E038 in master evidence file
+**Note:** Luke 12:16 uses the phrase "a certain rich man" (anthropos tis plousios) and explicitly labels it as "a parable" (parabole). Luke 16:1 uses "a certain rich man" for the unjust steward. Luke 16:19 uses "a certain rich man" for the Rich Man and Lazarus. The formula is a Lukan parabolic marker.
 
 ---
 
-## 6. Parallel Passages on Death as Sleep
+## Same-Author Hades Passages (Luke-Acts)
 
-### John 11:1-14 — Lazarus of Bethany; Death Called Sleep
+> **Luke 10:15** And thou, Capernaum, which art exalted to heaven, shalt be thrust down to hell.
 
-> **John 11:1** — Now a certain [man] was sick, [named] Lazarus, of Bethany, the town of Mary and her sister Martha.
-> **John 11:2** — (It was [that] Mary which anointed the Lord with ointment, and wiped his feet with her hair, whose brother Lazarus was sick.)
-> **John 11:3** — Therefore his sisters sent unto him, saying, Lord, behold, he whom thou lovest is sick.
-> **John 11:4** — When Jesus heard [that], he said, This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby.
-> **John 11:5** — Now Jesus loved Martha, and her sister, and Lazarus.
-> **John 11:6** — When he had heard therefore that he was sick, he abode two days still in the same place where he was.
-> **John 11:11** — These things said he: and after that he saith unto them, Our friend Lazarus sleepeth; but I go, that I may awake him out of sleep.
-> **John 11:12** — Then said his disciples, Lord, if he sleep, he shall do well.
-> **John 11:13** — Howbeit Jesus spake of his death: but they thought that he had spoken of taking of rest in sleep.
-> **John 11:14** — Then said Jesus unto them plainly, Lazarus is dead.
-> **John 11:21** — Then said Martha unto Jesus, Lord, if thou hadst been here, my brother had not died.
-> **John 11:22** — But I know, that even now, whatsoever thou wilt ask of God, God will give [it] thee.
-> **John 11:23** — Jesus saith unto her, Thy brother shall rise again.
-> **John 11:24** — Martha saith unto him, I know that he shall rise again in the resurrection at the last day.
-> **John 11:25** — Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:
+> **Acts 2:24** Whom God hath raised up, having loosed the pains of death: because it was not possible that he should be holden of it.
+> **Acts 2:27** Because thou wilt not leave my soul in hell, neither wilt thou suffer thine Holy One to see corruption.
+> **Acts 2:29** Men [and] brethren, let me freely speak unto you of the patriarch David, that he is both dead and buried, and his sepulchre is with us unto this day.
+> **Acts 2:31** He seeing this before spake of the resurrection of Christ, that his soul was not left in hell, neither his flesh did see corruption.
+> **Acts 2:34** For David is not ascended into the heavens: but he saith himself, The LORD said unto my Lord, Sit thou on my right hand,
 
-**Key observations:**
-- Jesus calls death "sleep" (koimaomai) — the disciples interpret this as literal sleep; Jesus clarifies he means death
-- Jesus uses this metaphor for a historical Lazarus — the same name as the character in Luke 16
-- The connection between the two "Lazaruses" is thematically deliberate: the historical Lazarus is raised (John 11:44) and then the chief priests plot to kill him again (John 12:10) — Jesus predicted this at Luke 16:31 ("neither will they be persuaded though one rose from the dead")
-- Martha's confession: "I know that he shall rise again in the resurrection at the last day" — the standard Jewish hope (not an immediate conscious intermediate state)
-- Conditionalist point: Jesus consistently uses sleep language for death; the disciples' misunderstanding ("if he sleep, he shall do well") shows they understood sleep to mean rest, not conscious torment
-
-### 1 Thessalonians 4:13-18 — Those Who Sleep in Jesus
-
-> **1 Thess 4:13** — But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope.
-> **1 Thess 4:14** — For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him.
-> **1 Thess 4:15** — For this we say unto you by the word of the Lord, that we which are alive [and] remain unto the coming of the Lord shall not prevent them which are asleep.
-> **1 Thess 4:16** — For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:
-> **1 Thess 4:17** — Then we which are alive [and] remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.
-> **1 Thess 4:18** — Wherefore comfort one another with these words.
-
-**Key observations:**
-- Paul's comfort for bereaved Christians is the resurrection, not the assurance that the dead are already consciously in heaven
-- "Asleep" (koimaomai) used three times for the Christian dead (v.13,14,15)
-- The event that brings the dead to the living presence of the Lord is the resurrection/parousia (v.16-17), not death itself
-- If the dead were already consciously with Christ (as Phil 1:23 might imply), Paul's instruction to "comfort one another with these words" about the future resurrection would be less compelling — you could simply say "they are already with Christ"
-- ECT response: Phil 1:23 and 1 Thess 4 describe different aspects of the same hope — immediate presence after death, and then bodily resurrection
+**Note:** Luke (the same author) records Peter's statement that David is "both dead and buried" and "is not ascended into the heavens" (Acts 2:29,34). This is a same-author, didactic statement about the state of the dead -- David has not gone to heaven despite being righteous.
 
 ---
 
-## 7. Parallel Passages on Hades
+## Other NT Hades Passages
 
-### Acts 2:25-31 — David in Hades Until Resurrection
+> **Matthew 11:23** And thou, Capernaum, which art exalted unto heaven, shalt be brought down to hell: for if the mighty works, which have been done in thee, had been done in Sodom, it would have remained until this day.
 
-> **Acts 2:25** — For David speaketh concerning him, I foresaw the Lord always before my face, for he is on my right hand, that I should not be moved:
-> **Acts 2:26** — Therefore did my heart rejoice, and my tongue was glad; moreover also my flesh shall rest in hope:
-> **Acts 2:27** — Because thou wilt not leave my soul in hell [hades], neither wilt thou suffer thine Holy One to see corruption.
-> **Acts 2:28** — Thou hast made known to me the ways of life; thou shalt make me full of joy with thy countenance.
-> **Acts 2:29** — Men [and] brethren, let me freely speak unto you of the patriarch David, that he is both dead and buried, and his sepulchre is with us unto this day.
-> **Acts 2:30** — Therefore being a prophet, and knowing that God had sworn with an oath to him, that of the fruit of his loins, according to the flesh, he would raise up Christ to sit on his throne;
-> **Acts 2:31** — He seeing this before spake of the resurrection of Christ, that his soul was not left in hell [hades], neither his flesh did see corruption.
+> **Matthew 16:18** And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it.
 
-**Key observations (classified E130/E131 in master evidence):**
-- v.29: David "is both dead and buried" as of Pentecost (30-something years after his death) — he is NOT in conscious paradise
-- v.27,31: The soul was NOT LEFT in hades — the soul WAS in hades until the resurrection
-- Peter's point: Psalm 16:10 applies to Christ, not David, because David's soul DID remain in hades (he was not raised), while Christ's soul was NOT left in hades (he was raised)
-- This establishes: souls of the dead ARE in hades between death and resurrection; hades is where souls wait for the resurrection
-- Conditionalist implication: If David (a man "after God's own heart") is still dead and buried in hades at Pentecost, this contradicts the idea that the righteous are immediately conscious in paradise/Abraham's bosom
-- ECT response: David was pre-cross; after Christ's ascension, the righteous go to paradise/Abraham's bosom, not to the same section of hades; Eph 4:8 may describe a transfer of the OT saints
+> **Revelation 1:18** [I am] he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death.
 
-### Revelation 20:11-15 — Hades Delivers Up the Dead
+> **Revelation 6:8** And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth.
 
-> **Rev 20:11** — And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them.
-> **Rev 20:12** — And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is [the book] of life: and the dead were judged out of those things which were written in the books, according to their works.
-> **Rev 20:13** — And the sea gave up the dead which were in it; and death and hell [hades] delivered up the dead which were in them: and they were judged every man according to their works.
-> **Rev 20:14** — And death and hell [hades] were cast into the lake of fire. This is the second death.
-> **Rev 20:15** — And whosoever was not found written in the book of life was cast into the lake of fire.
+> **Revelation 20:13** And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works.
+> **Revelation 20:14** And death and hell were cast into the lake of fire. This is the second death.
 
-**Key observations (establishes N026 in master evidence):**
-- v.13: Hades delivers up its dead — this implies people are IN hades before the resurrection/judgment
-- v.14: Hades is CAST INTO the lake of fire — hades is abolished, destroyed, made irrelevant once the resurrection occurs
-- The distinction: hades (temporary) ≠ lake of fire (final state). Luke 16 puts the rich man in hades, NOT in the lake of fire.
-- Even if Luke 16 is literal, it describes the pre-resurrection intermediate-hades experience, not the final post-resurrection punishment
-- After Rev 20:14, there is no more hades — only the lake of fire and the new creation
+> **1 Corinthians 15:55** O death, where [is] thy sting? O grave, where [is] thy victory?
 
 ---
 
-## 8. OT Background
+## Death-State Didactic Texts (Plain Teaching on the Condition of the Dead)
 
-### Matthew 22:29-32 — God of the Living (God of Abraham, Isaac, Jacob)
+### Ecclesiastes
+> **Ecclesiastes 9:5** For the living know that they shall die: but the dead know not any thing, neither have they any more a reward; for the memory of them is forgotten.
+> **Ecclesiastes 9:6** Also their love, and their hatred, and their envy, is now perished; neither have they any more a portion for ever in any [thing] that is done under the sun.
+> **Ecclesiastes 9:10** Whatsoever thy hand findeth to do, do [it] with thy might; for [there is] no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.
 
-> **Matt 22:29** — Jesus answered and said unto them, Ye do err, not knowing the scriptures, nor the power of God.
-> **Matt 22:30** — For in the resurrection they neither marry, nor are given in marriage, but are as the angels of God in heaven.
-> **Matt 22:31** — But as touching the resurrection of the dead, have ye not read that which was spoken unto you by God, saying,
-> **Matt 22:32** — I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living.
+### Psalms
+> **Psalm 6:5** For in death [there is] no remembrance of thee: in the grave who shall give thee thanks?
+> **Psalm 115:17** The dead praise not the LORD, neither any that go down into silence.
+> **Psalm 146:4** His breath goeth forth, he returneth to his earth; in that very day his thoughts perish.
+> **Psalm 88:10** Wilt thou shew wonders to the dead? shall the dead arise [and] praise thee? Selah.
+> **Psalm 88:11** Shall thy lovingkindness be declared in the grave? [or] thy faithfulness in destruction?
+> **Psalm 88:12** Shall thy wonders be known in the dark? and thy righteousness in the land of forgetfulness?
 
-**Key observations:**
-- Jesus affirms Abraham, Isaac, and Jacob are "living" in God's reckoning — the basis for resurrection
-- This passage is about resurrection ("as touching the resurrection of the dead") — Jesus does not say Abraham is in conscious paradise; he says God reckons him as living in the context of the resurrection argument
-- Luke 20:37-38 parallels: "he calleth the Lord the God of Abraham...For he is not a God of the dead, but of the living: for all live unto him"
-- The argument supports resurrection, not necessarily a conscious intermediate state
+### Job
+> **Job 3:17** There the wicked cease [from] troubling; and there the weary be at rest.
+> **Job 3:18** [There] the prisoners rest together; they hear not the voice of the oppressor.
+> **Job 3:19** The small and great are there; and the servant [is] free from his master.
+> **Job 10:21** Before I go [whence] I shall not return, [even] to the land of darkness and the shadow of death;
+> **Job 10:22** A land of darkness, as darkness [itself; and] of the shadow of death, without any order, and [where] the light [is] as darkness.
+> **Job 14:12** So man lieth down, and riseth not: till the heavens [be] no more, they shall not awake, nor be raised out of their sleep.
+> **Job 14:21** His sons come to honour, and he knoweth [it] not; and they are brought low, but he perceiveth [it] not of them.
+> **Job 17:13** If I wait, the grave [is] mine house: I have made my bed in the darkness.
+> **Job 17:14** I have said to corruption, Thou [art] my father: to the worm, [Thou art] my mother, and my sister.
+> **Job 17:15** And where [is] now my hope? as for my hope, who shall see it?
+> **Job 17:16** They shall go down to the bars of the pit, when [our] rest together [is] in the dust.
 
-### Luke 13:28-29 — Abraham, Isaac, Jacob in the Kingdom
-
-> **Luke 13:28** — There shall be weeping and gnashing of teeth, when ye shall see Abraham, and Isaac, and Jacob, and all the prophets, in the kingdom of God, and you [yourselves] thrust out.
-> **Luke 13:29** — And they shall come from the east, and [from] the west, and from the north, and [from] the south, and shall sit down in the kingdom of God.
-
-**Note:** Abraham, Isaac, Jacob in "the kingdom of God" — this is future/eschatological, not a current intermediate-state location.
-
-### Matthew 8:11-12 — Abraham's Bosom Equivalent (Kingdom of Heaven)
-
-> **Matt 8:11** — And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.
-> **Matt 8:12** — But the children of the kingdom shall be cast out into outer darkness: there shall be weeping and gnashing of teeth.
-
-**Note:** "Sit down with Abraham, Isaac, and Jacob in the kingdom of heaven" — this parallels the imagery of "Abraham's bosom" as the place of honor at the messianic banquet (being in Abraham's bosom = reclining next to Abraham at the feast). The image is eschatological/kingdom imagery.
-
-### Ecclesiastes 9:4-6 — The Dead Know Nothing (E017/E018)
-
-> **Ecc 9:4** — For to him that is joined to all the living there is hope: for a living dog is better than a dead lion.
-> **Ecc 9:5** — For the living know that they shall die: but the dead know not any thing, neither have they any more a reward; for the memory of them is forgotten.
-> **Ecc 9:6** — Also their love, and their hatred, and their envy, is now perished; neither have they any more a portion for ever in any [thing] that is done under the sun.
-
-**Note:** This is the most direct biblical statement about the state of the dead. The passage affirms: (a) the dead know nothing; (b) their love/hatred/envy is perished; (c) they have no more portion in anything done under the sun. This is a plain-text E item (E017) that stands in tension with a literal reading of Luke 16.
-
-### Psalm 146:3-4 — Thoughts Perish at Death (E013)
-
-> **Psalm 146:3** — Put not your trust in princes, [nor] in the son of man, in whom [there is] no help.
-> **Psalm 146:4** — His breath goeth forth, he returneth to his earth; in that very day his thoughts perish.
-
-**Note:** "In that very day his thoughts perish" — the cessation of mental activity at death is stated as occurring on the same day of death. E013 in master evidence.
-
-### Job 14:12-13, 21 — Sleep Until the Heavens Are No More (E020/E021)
-
-> **Job 14:12** — So man lieth down, and riseth not: till the heavens [be] no more, they shall not awake, nor be raised out of their sleep.
-> **Job 14:13** — O that thou wouldest hide me in the grave, that thou wouldest keep me secret, until thy wrath be past, that thou wouldest appoint me a set time, and remember me!
-> **Job 14:21** — His sons come to honour, and he knoweth [it] not; and they are brought low, but he perceiveth [it] not of them.
-
-**Note:** v.12 = E020; v.21 = E021. The dead do not awake until resurrection. The dead man does not know what happens to his children — contradicting any notion of conscious awareness in the intermediate state.
-
-### Hebrews 11:13-16 — Patriarchs Did Not Receive the Promises
-
-> **Heb 11:13** — These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of [them], and embraced [them], and confessed that they were strangers and pilgrims on the earth.
-> **Heb 11:14** — For they that say such things declare plainly that they seek a country.
-> **Heb 11:15** — And truly, if they had been mindful of that [country] from whence they came out, they might have had opportunity to have returned.
-> **Heb 11:16** — But now they desire a better [country], that is, an heavenly: wherefore God is not ashamed to be called their God: for he hath prepared for them a city.
-
-**Note:** Abraham and the patriarchs died in faith "not having received the promises." If they were in conscious paradise immediately after death, in what sense had they "not received" the promises? The promises include the heavenly country and the city — which Heb 11:40 suggests they will receive WITH the NT believers at the resurrection ("that they without us should not be made perfect").
+### Isaiah
+> **Isaiah 38:18** For the grave cannot praise thee, death can [not] celebrate thee: they that go down into the pit cannot hope for thy truth.
+> **Isaiah 38:19** The living, the living, he shall praise thee, as I [do] this day: the father to the children shall make known thy truth.
 
 ---
 
-## 9. The "Before the Time" Torment Passage
+## Resurrection as the Hope
 
-### Matthew 8:28-29 — Demons: "Before the Time"
+> **1 Thessalonians 4:16** For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:
+> **1 Thessalonians 4:17** Then we which are alive [and] remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.
 
-> **Matt 8:28** — And when he was come to the other side into the country of the Gergesenes, there met him two possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way.
-> **Matt 8:29** — And, behold, they cried out, saying, What have we to do with thee, Jesus, thou Son of God? art thou come hither to torment us before the time?
+> **John 11:24** Martha saith unto him, I know that he shall rise again in the resurrection at the last day.
+> **John 11:25** Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:
 
-**Key observation:** The demons recognize Jesus and say "art thou come to torment us before the time?" This implies:
-- Permanent, complete torment for the wicked is a FUTURE eschatological event, not a present ongoing reality
-- There is an appointed "time" (kairos) for final judgment/torment — it has not yet arrived during the earthly ministry of Jesus
-- The Greek word "torment" here is basanizō (G928) — same root as basanos/basanismos in Luke 16 and Revelation
-- Conditionalist argument: Even demons acknowledge that the full torment of their punishment is eschatological ("before the time") — this fits with the conditionalist reading that full/permanent judgment is post-resurrection, not present in the intermediate state
-- ECT response: The demons' "before the time" refers to the lake of fire (final judgment), not to the absence of any torment in the intermediate period
+> **John 20:17** Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and [to] my God, and your God.
 
 ---
 
-## 10. Luke 20:35-38 — Resurrection and the God of the Living
+## Personification and Mashal Parallels
 
-> **Luke 20:35** — But they which shall be accounted worthy to obtain that world, and the resurrection from the dead, neither marry, nor are given in marriage:
-> **Luke 20:36** — Neither can they die any more: for they are equal unto the angels; and are the children of God, being the children of the resurrection.
-> **Luke 20:37** — Now that the dead are raised, even Moses shewed at the bush, when he calleth the Lord the God of Abraham, and the God of Isaac, and the God of Jacob.
-> **Luke 20:38** — For he is not a God of the dead, but of the living: for all live unto him.
+> **Genesis 4:10** And he said, What hast thou done? the voice of thy brother's blood crieth unto me from the ground.
 
-**Note:** "They which shall be accounted worthy to obtain that world, and the resurrection from the dead" — the deathless, angel-like state is tied to the resurrection, not to the intermediate state. "For all live unto him" — in God's perspective and purpose, all who are his are alive, even before the resurrection.
+**Note:** Abel's blood "cries out" -- a personification. The dead Abel is not literally conscious and speaking. This parallels the literary device of giving voice to the dead in parabolic/figurative contexts.
+
+> **Isaiah 14:4** That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased!
+> **Isaiah 14:9** Hell from beneath is moved for thee to meet [thee] at thy coming: it stirreth up the dead for thee, [even] all the chief ones of the earth; it hath raised up from their thrones all the kings of the nations.
+> **Isaiah 14:10** All they shall speak and say unto thee, Art thou also become weak as we? art thou become like unto us?
+
+**Note:** Isaiah 14 is explicitly labeled a mashal (proverb/taunt) in v.4. The dead kings "speak" in sheol -- a personification in prophetic poetry. The dead are depicted as seated on thrones and conversing. No one takes this literally.
+
+> **Ezekiel 32:21** The strong among the mighty shall speak to him out of the midst of hell with them that help him: they are gone down, they lie uncircumcised, slain by the sword.
+> **Ezekiel 32:27** And they shall not lie with the mighty [that are] fallen of the uncircumcised, which are gone down to hell with their weapons of war: and they have laid their swords under their heads, but their iniquities shall be upon their bones, though [they were] the terror of the mighty in the land of the living.
+
+**Note:** Ezekiel 32 is a prophetic lamentation where dead warriors "speak" and lie with swords under their heads. The dead are depicted as lying down, slain -- yet they also "speak." This illustrates the literary convention of personification in figurative descriptions of sheol/hades.
 
 ---
 
-## 11. Matthew 12:40 — Heart of the Earth
+## Torment Vocabulary Comparison Passages
 
-> **Matt 12:40** — For as Jonas was three days and three nights in the whale's belly; so shall the Son of man be three days and three nights in the heart of the earth.
+### basanizo (G928) -- the standard NT torment verb (NOT used in Luke 16)
+> **Revelation 14:10** The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb:
+> **Revelation 14:11** And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name.
+> **Revelation 20:10** And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet [are], and shall be tormented day and night for ever and ever.
 
-**Note:** Jesus's soul was in hades (Acts 2:27,31) / the heart of the earth during the three days. This is the period of the intermediate state for Christ himself. If paradise/Abraham's bosom = the third heaven (2 Cor 12:2), then Christ was in the third heaven after his death — but Acts 2:27,31 says his soul was in hades (not left there, but IN hades). The resolution of where Christ was between death and resurrection informs the question of what hades is.
+### basanos (G931) -- the noun used in Luke 16:23,28
+> **Matthew 4:24** And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them.
+
+**Note:** The only occurrence of basanos outside Luke 16 is Matthew 4:24, where it refers to physical diseases/ailments -- not eschatological punishment.
+
+### odunao (G3600) -- the verb used in Luke 16:24,25 (translated "tormented" but meaning "grieve/sorrow")
+> **Luke 2:48** And when they saw him, they were amazed: and his mother said unto him, Son, why hast thou thus dealt with us? behold, thy father and I have sought thee sorrowing.
+> **Acts 20:38** Sorrowing most of all for the words which he spake, that they should see his face no more. And they accompanied him unto the ship.
+
+**Note:** odunao is used for Mary's grief at losing the child Jesus (Luke 2:48) and the disciples' grief at Paul's departure (Acts 20:38). Neither involves eschatological punishment.
+
+---
+
+## kolpos (G2859) -- "bosom" Usage in the NT
+
+> **Luke 6:38** Give, and it shall be given unto you; good measure, pressed down, and shaken together, and running over, shall men give into your bosom. For with the same measure that ye mete withal it shall be measured to you again.
+> **John 1:18** No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared [him].
+> **John 13:23** Now there was leaning on Jesus' bosom one of his disciples, whom Jesus loved.
+> **Acts 27:39** And when it was day, they knew not the land: but they discovered a certain creek with a shore, into the which they were minded, if it were possible, to thrust in the ship.
+
+**Note:** kolpos appears in 6 NT occurrences. The usage in John 1:18 ("in the bosom of the Father") and John 13:23 ("leaning on Jesus' bosom") describes intimate relationship -- not geography. Luke 6:38 uses it for the fold of a garment. Acts 27:39 uses it for a bay/inlet. Only in Luke 16:22-23 is kolpos used as a post-mortem location designation ("Abraham's bosom").
+
+---
+
+## Paradise (paradeisos, G3857) -- NOT used in Luke 16
+
+> **Luke 23:43** And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise.
+> **2 Corinthians 12:2** I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knoweth;) such an one caught up to the third heaven.
+> **2 Corinthians 12:3** And I knew such a man, (whether in the body, or out of the body, I cannot tell: God knoweth;)
+> **2 Corinthians 12:4** How that he was caught up into paradise, and heard unspeakable words, which it is not lawful for a man to utter.
+> **Revelation 2:7** He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God.
+
+**Note:** Luke 16:19-31 does NOT use paradeisos for the location of the righteous dead. It uses "Abraham's bosom" (kolpos Abraam) -- a phrase found nowhere else in Scripture. If the passage were teaching literal afterlife geography, the absence of the standard term "paradise" is notable.
+
+---
+
+## Other Relevant Passages
+
+> **Matthew 10:28** And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell.
+
+> **Revelation 20:14** And death and hell were cast into the lake of fire. This is the second death.
+> **Revelation 21:8** But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death.

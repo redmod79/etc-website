@@ -1,181 +1,116 @@
-# PROMPT — etc5-15: The Strongest Biblical Case for ECT
-## Series: ETC5 — The Final Fate of the Wicked (Study 15 of 18)
-## Date: 2026-02-19
+# Bible Study: ECT Strongest Case
+
+## Question
+8 key ECT arguments evaluated at E/N/I tier: Rev 14:9-11, Rev 20:10, Matt 25:46, Mark 9:43-48, Luke 16:19-31, Rev 6:9-11, 2 Thess 1:9, Dan 12:2.
+
+The purpose of this study is to present the BEST case for Eternal Conscious Torment (ECT) and evaluate each argument at the E/N/I tier level. This study must be FAIR to the ECT position — steelman their arguments before applying the methodology.
+
+## Discovered Scope
+
+### Topics Found (from naves_semantic.py)
+| Topic | Score | Key Verse References |
+|-------|-------|---------------------|
+| ETERNAL PUNISHMENT | 0.74 | See PUNISHMENT, ETERNAL |
+| TORMENTS | 0.66 | LUK 16:23-28; REV 14:10,11 |
+| EVERLASTING PUNISHMENT | 0.62 | See PUNISHMENT, ETERNAL |
+| PUNISHMENT | 0.55 | Multiple references |
+| FUTURE PUNISHMENT | 0.54 | See PUNISHMENT, ETERNAL |
+| RETRIBUTION | 0.50 | See SIN, PUNISHMENT OF |
+
+### Nave's PUNISHMENT, ETERNAL Entry
+ISA 34:8-10; DAN 12:2; MAT 3:12; 10:28; 18:8; 25:41,46; MRK 3:29; LUK 3:17; JHN 5:29; HEB 6:2; 10:28-31; REV 14:10,11; 19:3; 20:10
+
+### Strong's Numbers Found (from semantic_strongs.py)
+| Strong's | Word | Relevance |
+|----------|------|-----------|
+| G929 | basanismos (torment) | Core ECT term |
+| G2851 | kolasis (punishment) | Matt 25:46 key word |
+| G928 | basanizo (to torment) | Rev 14:10; 20:10 |
+| G3600 | odunao (to grieve/sorrow) | Luke 16:24-25 vocabulary |
+| G166 | aionios (everlasting) | Modifies both life and punishment |
+| H5769 | olam (forever) | Dan 12:2 |
+
+### Web Research: Strongest ECT Arguments (from scholarly sources)
+
+**Key ECT scholars identified:** Robert A. Peterson (Hell on Trial; Two Views of Hell), Denny Burk (Four Views on Hell), Christopher Morgan, Jerry Shepherd.
+
+**The 8 passages and their ECT arguments (steelmanned):**
+
+1. **Rev 14:9-11** — "Tormented with fire and brimstone... smoke of their torment ascends forever and ever... no rest day or night." ECT argues: explicit torment language (basanizo), explicit duration ("for ever and ever"), explicit consciousness ("no rest" implies ongoing awareness). Peterson: "does not speak of consumption but says the lost will be tormented."
+
+2. **Rev 20:10** — "Tormented day and night for ever and ever." ECT argues: if the devil is consciously tormented forever, and humans share the same destination (lake of fire, Rev 20:14-15), humans share the same experience. The extension argument: same destination = same experience.
+
+3. **Matt 25:46** — "Everlasting punishment... life eternal." ECT argues: same adjective (aionios) modifies both outcomes; if eternal life is conscious and unending, eternal punishment must also be conscious and unending. Peterson: "It strains the natural meaning of the text to see eternal life as the conscious enjoyment of eternal life forever, but eternal punishment to mean that unbelievers cease to exist."
+
+4. **Mark 9:43-48** — "Fire that never shall be quenched... where their worm dieth not." ECT argues: unquenchable fire and undying worm imply ongoing, unending torment of conscious subjects.
+
+5. **Luke 16:19-31** — Rich man in torments, conscious, speaking, remembering. ECT argues: Jesus depicts conscious post-mortem suffering, with specific details (flame, thirst, memory, concern for brothers) indicating real conscious experience.
+
+6. **Rev 6:9-11** — Souls under altar cry out. ECT argues: conscious disembodied souls in an intermediate state, proving consciousness after death.
+
+7. **2 Thess 1:9** — "Everlasting destruction from the presence of the Lord." ECT argues: "destruction" means ongoing ruin/separation, not cessation; "everlasting" modifies the ongoing state. Peterson: olethros conveys "ruination with its full, destructive results."
+
+8. **Dan 12:2** — "Everlasting life... shame and everlasting contempt." ECT argues: parallel structure with everlasting life means everlasting conscious experience of shame/contempt.
+
+**Additional ECT arguments from web research:**
+- Theological argument from God's infinite worth: sin against an infinite God warrants infinite punishment (Burk)
+- Resurrection of the wicked: raised bodies fit for eternal experience of wrath (Burk)
+- Second Temple Jewish literature background: preponderance supports ECT reading
+- Historical consensus: 2,000 years of majority Christian teaching
+
+### Related Existing Studies
+| Study | Question | Relevance |
+|-------|----------|-----------|
+| etc-09-rich-man-lazarus | Luke 16:19-31 analysis | Covers passage #5 in depth |
+| etc-10-souls-under-altar | Rev 6:9-11 analysis | Covers passage #6 in depth |
+| etc-11-smoke-ascending | Rev 14:9-11 analysis | Covers passage #1 in depth |
+| etc-12-tormented-forever | Rev 20:10 analysis | Covers passage #2 in depth |
+| etc-14-judgment-passages | Matt 25:46, Dan 12:2, 2 Thess 1:9 | Covers passages #3, #7, #8 |
+| etc-07-olam-forever-in-ot | Hebrew olam semantic range | Covers Dan 12:2 olam usage |
+| etc-08-aionios-forever-in-nt | Greek aionios semantic range | Covers Matt 25:46 aionios |
+| etc-05-four-hell-words | Sheol, Hades, Gehenna, Tartaroo | Covers Mark 9:43-48 gehenna |
+
+**Key findings from prior studies:**
+- etc-09: Luke 16:19-31 is parabolic genre (Tree 3 Gate 1, Gate 3 fail). Opening formula matches labeled parables. Uses odunao/basanos, not basanizo/basanismos. Teaching point: "They have Moses and the prophets."
+- etc-10: Rev 6:9-11 is apocalyptic vision. Souls = psychas under altar, echoing Abel's blood crying (Gen 4:10). Sphazō vocabulary chain. Same group "lived" at first resurrection (Rev 20:4-5). Tree 3 Gate 1, Gate 3 fail.
+- etc-11: Rev 14:9-11 smoke imagery echoes Isa 34:10 (Edom — animals inhabit ruins). Fire-and-brimstone paradigm: Gen 19 = completed destruction. Babylon's basanismos IS her destruction. Rev 20:9 humans "devoured."
+- etc-12: Rev 20:10 names devil, beast, false prophet — none human. Beast/false prophet are symbolic apocalyptic entities. "Tormented for ever and ever" formula appears once, for non-human subjects. When humans enter lake of fire: "second death," not torment.
+- etc-14: Matt 25:46 uses kolasis (punishment), not basanismos (torment). Dan 12:2 dera'on = onlookers' reaction to dead (Isa 66:24 peger). 2 Thess 1:9 olethros = destruction. None of 8 judgment passages uses basanizo for humans.
+- etc-07: Olam does not inherently mean "eternal." Duration determined by subject. Demonstrably finite uses exist.
+- etc-08: Aionios derives from aion ("an age"). Aidios (G126) is the word for "strictly everduring." Jude 1:7 uses aionios for Sodom's fire (no longer burning).
+
+### Focus Areas
+1. For each of the 8 passages, present the ECT argument in its strongest form (steelmanned from scholarly sources)
+2. Document the conditionalist response from prior studies
+3. Classify each argument at the E/N/I tier level using the methodology
+4. Identify which ECT arguments have genuine E/N-level support and which require inference
+
+## Research Instructions
+
+### For each of the 8 passages:
+1. Retrieve full verse text from kjv.txt with context (2-3 verses before/after)
+2. Run any remaining parallels or word studies not yet completed in prior studies
+3. Document the ECT argument (steelmanned from web research and scholarly sources)
+4. Document the conditionalist response (from prior study findings)
+5. Note the master evidence IDs already registered for this passage
+
+### Additional web research needed:
+- Search for scholarly ECT arguments on each individual passage
+- Search for conditionalist responses to each ECT argument (Rethinking Hell, Fudge, etc.)
+
+### Word studies to verify/complete:
+- G928 basanizo — already studied in etc-12
+- G929 basanismos — already studied in etc-11, etc-12
+- G2851 kolasis — already studied in etc-14
+- G166 aionios — already studied in etc-08
+- H5769 olam — already studied in etc-07
+- G3600 odunao — already studied in etc-09
+- G931 basanos — already studied in etc-09, etc-12
+- Mark 9:43-48 vocabulary — already studied in etc-05
+
+## Workflow
+answer-question
 
 ---
-
-## Central Question
-
-**"What is the strongest biblical case for Eternal Conscious Torment? Assemble the best ECT arguments from the biblical text: (1) Rev 14:9-11 torment for ever — human worshippers; (2) Rev 20:10 tormented day and night for ever — explicit subjects; (3) Mat 25:46 everlasting punishment — same adjective as eternal life; (4) Mat 25:41 everlasting fire — prepared for devil and his angels; (5) Mark 9:43-48 — worm dieth not, fire not quenched; (6) Dan 12:2 — everlasting contempt, parallel to everlasting life; (7) Luke 16:23-24 — rich man in torment; (8) Isa 66:24 — worm and fire (quoted by Jesus 3x in Mark 9). Evaluate each argument: does it prove ECT at the E or N tier, or only at the I tier?"**
-
----
-
-## Purpose of This Study
-
-This study assembles the strongest possible biblical case for ECT and evaluates each argument using the E/N/I methodology. The investigator's role is to determine what tier each argument reaches — not to advocate for or against ECT.
-
----
-
-## The 8 ECT Arguments to Evaluate
-
-### Argument 1: Rev 14:9-11 — Torment of Beast-Worshippers
-**ECT Claim:** Human worshippers of the beast are "tormented with fire and brimstone" and the "smoke of their torment ascendeth up for ever and ever" — explicit torment language applied to human beings.
-
-**Key verses:** Rev 14:9-11
-**Relevant prior master items:** E150 (ECT), IB008 (Moderate AGAINST universal extension), IB009 (Strong toward permanent desolation), IB014 (Moderate toward judgment-process)
-
-### Argument 2: Rev 20:10 — Tormented Day and Night For Ever
-**ECT Claim:** The devil, beast, and false prophet are explicitly "tormented day and night for ever and ever" — the most direct torment-forever formula in the Bible.
-
-**Key verses:** Rev 20:10
-**Relevant prior master items:** E149 (ECT), IB015 (Moderate), E212 (Neutral — same formula withheld from human wicked in v.15)
-
-### Argument 3: Mat 25:46 — Everlasting Punishment (Same Adjective as Eternal Life)
-**ECT Claim:** Kolasis aionion (everlasting punishment) uses the same adjective (aionios) as zoe aionion (eternal life). If life is endless, so is punishment.
-
-**Key verses:** Mat 25:46
-**Relevant prior master items:** E119 (Neutral — grammatical observation), E208 (Neutral — both A-ASF), E209 (Neutral — kolasis not basanismos), IB012 (Moderate toward referent-nature)
-
-### Argument 4: Mat 25:41 — Everlasting Fire Prepared for Devil and His Angels
-**ECT Claim:** The fire is "everlasting" (pyr aiōnion) — and humans are sent INTO it; Rev 20:10 shows the devil is tormented therein.
-
-**Key verses:** Mat 25:41
-**Relevant prior master items:** E118 (Neutral), E214 (Neutral — hetoimasmenon for devil), IB016 (Moderate AGAINST universal extension)
-
-### Argument 5: Mark 9:43-48 — Worm Dieth Not / Fire Not Quenched (3x)
-**ECT Claim:** The three-fold refrain "where their worm dieth not and the fire is not quenched" describes an ongoing state of undying worm and unquenched fire — implying perpetual conscious existence.
-
-**Key verses:** Mark 9:43-48 (also vv.44,46 repeat the refrain)
-**Source text:** Isa 66:24 (confirmed: Mark 9:48 hybrid score 0.424 for Isa 66:24)
-**Relevant prior master items:** E141 (Neutral — objects are pigrê = corpses), E144 (Neutral — direct quote of Isa 66:24), IB009 (Strong)
-
-### Argument 6: Dan 12:2 — Everlasting Contempt Parallel to Everlasting Life
-**ECT Claim:** "Some to everlasting life, and some to shame and everlasting contempt" — the grammatical symmetry implies both outcomes have the same duration; if life is endless, contempt is endless.
-
-**Key verses:** Dan 12:2
-**Relevant prior master items:** E023 (Neutral), IB011 (Moderate toward referent-nature), E193 (Neutral — dir'on appears only in Dan 12:2 and Isa 66:24)
-
-### Argument 7: Luke 16:23-24 — Rich Man in Torment
-**ECT Claim:** The rich man is conscious, in flame, requesting water — explicit post-mortem conscious suffering.
-
-**Key verses:** Luke 16:19-31
-**Relevant prior master items:** E123 (ECT), IB006 (Moderate toward parabolic/literary genre)
-
-### Argument 8: Isa 66:24 — Worm and Fire (Source Text for Mark 9)
-**ECT Claim:** The worm "shall not die" and the fire "shall not be quenched" — present tense expressions suggesting ongoing, unending activity; this is the source text Jesus references.
-
-**Key verses:** Isa 66:24
-**Relevant prior master items:** E141 (Neutral — pigrê = corpses), IB009 (Strong), E271 (Neutral — new creation context)
-
----
-
-## Supporting ECT Passages to Research
-
-- Mat 3:12 — "burn up the chaff with unquenchable fire"
-- Mat 13:42,50 — "furnace of fire; wailing and gnashing"
-- Rev 19:3 — "smoke rose up for ever and ever" (Babylon)
-- Jude 1:7 — "eternal fire" as example (Sodom)
-- Heb 10:27-31 — "fiery indignation which shall devour the adversaries"
-- Mat 12:32 — "not forgiven in this world, neither in the world to come"
-
----
-
-## Passages Already Established (Do Not Re-Add)
-
-The following have master IDs — cite but do not duplicate:
-
-| Master ID | Passage | Description |
-|-----------|---------|-------------|
-| E150 | Rev 14:10-11 | Beast-worshippers tormented; smoke ascending for ever |
-| E149 | Rev 20:10 | Devil/beast/false prophet tormented day and night for ever |
-| E119 | Mat 25:46 | Everlasting punishment — same adjective as eternal life |
-| E208 | Mat 25:46 | Both aionion instances A-ASF |
-| E209 | Mat 25:46 | Kolasis not basanismos |
-| E118 | Mat 25:41 | Everlasting fire prepared for the devil and his angels |
-| E214 | Mat 25:41 | Hetoimasmenon for devil (Perfect Passive Participle) |
-| E141 | Isa 66:24 | Objects of worm/fire = pigrê (corpses) |
-| E144 | Mrk 9:48 | Direct quote of Isa 66:24 (hybrid score 0.424) |
-| E023 | Dan 12:2 | Both awake — some everlasting life, some shame/contempt |
-| E193 | Dan 12:2; Isa 66:24 | Dir'on only in these two texts; Isa 66:24 objects are corpses |
-| E123 | Luk 16:23-25 | Rich man in torments/flame; Abraham confirms |
-| IB008 | Rev 20:10; 14:10-11 | Torment language extends universally? — Moderate AGAINST |
-| IB009 | Rev 14:11; 19:3 | Smoke formula = permanent desolation — **Strong** |
-| IB011 | Dan 12:2 | Grammatical symmetry implies same duration? — Moderate toward referent-nature |
-| IB012 | Mat 25:46 | Aionios same for both — implies same duration? — Moderate toward referent-nature |
-| IB014 | Rev 14:11 | "No rest day nor night" = ongoing suffering? — Moderate toward judgment-process |
-| IB015 | Rev 20:10 | For-ever on active torment verb = ongoing conscious? — Moderate |
-| IB016 | Mat 25:41 | Same fire for humans as for devil? — Moderate AGAINST universal extension |
-| IB006 | Luk 16:23-31 | Parabolic genre — Moderate toward parabolic |
-| IB009-resolved (formerly N029, reclassified N→I-B) | Jude 1:7; 2 Pet 2:6 | Eternal fire = ashes on Sodom |
-
----
-
-## Key Word Studies Needed
-
-| Strong's | Word | Significance |
-|---------|------|-------------|
-| G929 | basanismos | Torment noun — 6 NT occ., all in Revelation |
-| G928 | basanizo | Torment verb — 12 NT occ.; eschatological uses in Rev |
-| G2851 | kolasis | Punishment noun in Mat 25:46 — 1 NT occ. |
-| G762 | asbestos | Unquenchable — 4 NT occ. |
-| G4570 | sbennumi | To quench/extinguish — appears in Mrk 9:48 |
-| G4663 | skolex | Worm — appears in Mrk 9:48 |
-| H8438 | tola'at | Worm (Isa 66:24) — scarlet thread dye worm |
-| H6297 | peger | Corpse/carcase (Isa 66:24) — already established as E141 |
-| H1860 | dir'on | Contempt (Dan 12:2 and Isa 66:24) — already established as E193 |
-
----
-
-## Key Greek Parsing Already Available
-
-| Verse | Key Form | Parsing | Significance |
-|-------|---------|---------|-------------|
-| Rev 14:11 | kapnos | N-NSM | Smoke is grammatical subject, not basanismou |
-| Rev 14:11 | basanismoū | N-GSM | Genitive attribute — of torment |
-| Rev 14:11 | anabainei | V-PAI-3S | Present Active Indicative |
-| Rev 20:10 | basanisthesontai | V-FPI-3P | Future Passive Indicative — subjects are devil/beast/false prophet |
-| Mat 25:46 | kolasis | N-ASF | Accusative Singular Feminine |
-| Mat 25:46 | aionion | A-ASF | Both instances Accusative Singular Feminine |
-| Mat 25:41 | hetoimasmenon | V-RPP-ASN | Perfect Passive Participle — already-prepared state |
-| Mat 25:41 | diabolo | A-DSM | Dative Singular Masculine — dative of purpose |
-| Mrk 9:48 | skolex | N-NSM | Worm — nominative subject |
-| Mrk 9:48 | teleutao | V-PAI-3S | Dies/ceases — Present Active Indicative |
-| Mrk 9:48 | sbennumi | V-PPI-3S | Is quenched — Present Passive Indicative |
-
----
-
-## Cross-Testament Parallels (Tool-Verified)
-
-| Verse | Top OT Parallel | Score | Significance |
-|-------|----------------|-------|-------------|
-| Rev 14:11 | Isa 34:10 | 0.401 | Smoke for ever = desolated wasteland |
-| Rev 20:10 | Rev 14:11 (NT) | 0.498 | Closest NT parallel within Revelation |
-| Mrk 9:48 | Isa 66:24 | 0.424 | Direct quotation confirmed |
-| Mat 25:41 | Rev 14:10 (NT) | 0.418 | Closest NT parallels involve beast context |
-
----
-
-## What the Analysis Agent Must Determine
-
-For each of the 8 ECT arguments, apply the tier-classification test:
-
-**E tier:** Does the text directly state ECT? (Both sides must acknowledge this as direct ECT proof — it cannot be read otherwise.)
-
-**N tier:** Does ECT necessarily follow from this text? (Universal agreement test: would an opposing scholar necessarily agree? No-interpretation-required test: is ECT the only possible meaning? Zero-added-concepts test: nothing external added?)
-
-**I-B tier:** Does the text offer genuine competing evidence — some force toward ECT, but also a legitimate alternative reading that the text itself supports?
-
-**I-A tier:** ECT reading is reasonable inference that extends from E/N statements and aligns with them, but requires systematizing.
-
-**I-D tier:** ECT reading requires concepts not in the text; the text's surface meaning points elsewhere.
-
-**After classifying all 8 arguments:** Produce a synthesis showing how many reach E, N, I-B, I-A, or I-D tier, and what new evidence items (if any) need to be added to the master file.
-
----
-
-## What NOT to Do
-
-- Do not re-add items already in the master evidence file
-- Do not advocate for either ECT or conditionalism — report only what tier the evidence reaches
-- Do not use editorial language ("strongest argument," "most compelling," etc.)
-- Do not cite non-etc5 studies
+*Scoped: 2026-02-20*
+*Folder: bible-studies/etc-15-ect-strongest-case/*

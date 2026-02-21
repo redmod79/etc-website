@@ -1,384 +1,249 @@
 # Word Studies
 
-## H7585 — Sheol
+## CORE WORDS -- The Four "Hell" Words
 
-**Original:** שְׁאוֹל (also spelled שְׁאֹל)
-**Transliteration:** shᵉʼôwl
-**Pronunciation:** sheh-ole
-**Part of Speech:** feminine noun
-**BLB Count:** 65 (lexicon); KJV translation distribution: 67 occurrences identified
+### 1. H7585 -- sheol (sheh-ole)
 
-### Definition
+**Part of Speech:** Feminine noun
+**Definition:** Hades or the world of the dead (as if a subterranean retreat), including its accessories and inmates -- grave, hell, pit
+**Total Occurrences:** 67 (65 per BLB)
+**Transliteration:** she'owl
 
-From Strong's H7585: "hades or the world of the dead (as if a subterranean retreat), including its accessories and inmates — grave, hell, pit."
-
-The word derives from a root possibly meaning "to ask" or "to demand" (cf. H7592, sha'al), though etymology is disputed. The dominant understanding is that sheol is the underworld — the realm where all the dead go, without distinction by moral status in the majority of OT uses.
-
-### Translations in KJV
-
-KJV renders H7585 with 25 different English phrases across 67 occurrences:
-
+**KJV Translation Distribution:**
 | Translation | Count | % |
 |---|---|---|
-| to the grave | 10 | 14.9% |
-| hell | 7 | 10.4% |
-| of hell | 6 | 9.0% |
-| in the grave | 6 | 9.0% |
-| the grave | 4 | 6.0% |
-| Hell (capitalized) | 4 | 6.0% |
-| into hell | 4 | 6.0% |
-| of the grave | 4 | 6.0% |
-| to hell | 3 | 4.5% |
-| into the pit | 2 | 3.0% |
-| in hell | 2 | 3.0% |
-| from hell | 2 | 3.0% |
-| (12 other phrases) | 13 | 19.5% |
+| (to/in/of/the) grave | 31 | 46.3% |
+| (of/into/in/to) hell | 27 | 40.3% |
+| (into/of) pit | 3 | 4.5% |
+| Other (depth, etc.) | 6 | 9.0% |
 
-**Summary:** "grave" renderings account for ~55% of KJV occurrences; "hell" renderings account for ~35%. The KJV uses "hell" most often for poetic/prophetic passages (Isa, Deut, Ps 86:13), and "grave" for narrative and wisdom literature (Gen, Job, Ecc).
+**Key Observation:** The same Hebrew word is translated "grave" 31 times and "hell" 27 times in KJV. The word itself does not inherently mean a place of punishment -- it is the general abode of the dead, entered by both righteous (Jacob, Gen 37:35; David, Ps 16:10) and wicked (Ps 9:17; Num 16:33).
 
-Specific verse lists:
-- Translated "hell" (7×): Deu 32:22; Psa 86:13; Isa 5:14; Isa 14:15; Isa 28:15; Isa 28:18; Isa 57:9
-- Translated "to the grave" (10×): Gen 42:38; Gen 44:29; Gen 44:31; 1Sa 2:6; 1Ki 2:6; 1Ki 2:9; Job 7:9; Job 21:13; Isa 14:11; Eze 31:15
+**LXX Translation (Septuagint):**
+H7585 (sheol) is translated by these Greek words in the LXX:
+| Greek | Count | PMI Score | Meaning |
+|---|---|---|---|
+| G86 hades | 58 | 33.87 | Unseen world, underworld |
+| G2609 katago | 10 | 14.59 | To lead down |
+| G2597 katabaino | 17 | 13.15 | To descend |
+| G2288 thanatos | 14 | 11.98 | Death |
+| G684 apoleia | 3 | 5.44 | Ruin, loss, destruction |
+| G5590 psyche | 9 | 5.29 | Soul, breath, life |
 
-### All 67 Occurrences (by book)
-
-Genesis (4): 37:35; 42:38; 44:29; 44:31
-Numbers (2): 16:30; 16:33
-Deuteronomy (1): 32:22
-1 Samuel (1): 2:6
-2 Samuel (1): 22:6
-1 Kings (2): 2:6; 2:9
-Job (12): 3:17; 3:18; 3:19; 7:9; 10:21; 11:8; 14:13; 17:13; 17:16; 21:13; 24:19; 26:5; 26:6
-Psalms (13): 6:5; 9:17; 16:10; 18:5; 30:3; 31:17; 49:14; 49:15; 55:15; 86:13; 88:3; 88:4; 89:48; 116:3; 139:8; 141:7
-Proverbs (9): 1:12; 5:5; 7:27; 9:18; 15:11; 15:24; 23:14; 27:20; 30:16
-Ecclesiastes (3): 9:5; 9:6; 9:10
-Song of Songs (1): 8:6
-Isaiah (14): 5:14; 7:11; 14:9; 14:11; 14:15; 26:19; 28:15; 28:18; 38:10; 38:18; 57:1; 57:2; 57:9
-Ezekiel (8): 16:10; 16:11; 17:15; 31:15; 31:16; 31:17; 32:21; 32:27
-Hosea (1): 13:14
-Amos (1): 9:2
-Jonah (2): 2:3; 2:7
-Habakkuk (1): 2:5
-
-### LXX Connections (H7585 → Greek in Septuagint)
-
-The LXX translators overwhelmingly rendered sheol as hades:
-
-| Greek | Transliteration | Count | PMI | Score |
-|---|---|---|---|---|
-| G86 ᾅδης | háidēs | 58 | 8.31 | **33.87** |
-| G2609 κατάγω | katágō (to bring down) | 10 | 6.09 | 14.59 |
-| G2597 καταβαίνω | katabaínō (to go down) | 17 | 4.55 | 13.15 |
-| G2288 θάνατος | thánatos (death) | 14 | 4.42 | 11.98 |
-| G5590 ψυχή | psychḗ (soul/life) | 9 | 2.30 | 5.29 |
-| G684 ἀπώλεια | apṓleia (destruction) | 3 | 3.93 | 5.44 |
-
-The score of 33.87 for G86 is dominant by a large margin — G86 (hades) is the standard LXX translation of H7585 (sheol). The LXX translators treated them as equivalent terms, meaning that NT uses of hades carry the full semantic range of sheol.
-
-### Semantic Range
-
-Sheol in the OT is the destination of all the dead — righteous and wicked alike:
-
-- **Righteous go to sheol:** Jacob (Gen 37:35); Samuel (1 Sam 2:6 parallel); David anticipates it (Ps 16:10; 30:3; 31:17; 88:3); Job seeks it as refuge (Job 14:13; 17:13)
-- **Wicked go to sheol:** Psa 9:17; Proverbs 5:5; 7:27; 9:18; Isa 5:14; 14:9; Hab 2:5
-- **God is present even in sheol:** Psa 139:8 ("If I make my bed in hell, thou art there")
-- **No activity in sheol:** Ecc 9:5 (the dead "know not any thing"); Ecc 9:10 ("no work, nor device, nor knowledge, nor wisdom in sheol")
-- **God can redeem from sheol:** Ps 16:10; Hos 13:14; Jon 2:2-6
-
-Sheol does NOT inherently mean a place of torment. It is the OT term for the realm of the dead — what happens there, and whether it persists beyond judgment, are determined by other passages, not by the word itself.
+**Critical Finding:** In 58 of 65+ occurrences, the LXX translators rendered H7585 (sheol) as G86 (hades). This confirms sheol-hades equivalence and demonstrates that both words refer to the same concept: the realm/state of the dead.
 
 ---
 
-## G86 — Hades
+### 2. G86 -- hades (hah-dace)
 
-**Original:** ᾅδης
-**Transliteration:** háidēs
-**Pronunciation:** hah-dace
-**Part of Speech:** proper locative noun (n-pr)
-**BLB Count:** 11
+**Part of Speech:** Proper locative noun
+**Definition:** From a- (negative particle) and eido (to see); properly "unseen," i.e. Hades -- the unseen world
+**Total Occurrences:** 11 (BLB: 11)
+**Transliteration:** haides
 
-### Definition
-
-From G1 (alpha-privative, "not") + G1492 (to see/perceive) — literally "the unseen place." The name reflects the Greek conception of the underworld as a realm invisible to the living. In secular Greek literature, Hades is both the god of the underworld and the place itself.
-
-Strong's: "properly, unseen, i.e. 'Hades' or the place (state) of departed souls."
-
-### Translations in KJV
-
+**KJV Translation Distribution:**
 | Translation | Count | % |
 |---|---|---|
-| hell | 7 | 63.6% |
+| hell / Hell | 8 | 72.7% |
 | of hell | 2 | 18.2% |
 | O grave | 1 | 9.1% |
-| Hell (capitalized) | 1 | 9.1% |
 
-All 11 KJV occurrences translated as "hell" or "grave" — never "hades" in KJV. The RV retained "Hades" in most places.
+**NT Distribution:**
+- Matthew: 2 (11:23; 16:18)
+- Luke: 2 (10:15; 16:23)
+- Acts: 2 (2:27; 2:31) -- both quoting Psalm 16:10
+- 1 Corinthians: 1 (15:55)
+- Revelation: 4 (1:18; 6:8; 20:13; 20:14)
 
-### All 11 Occurrences
+**Key Observation:** Hades in the NT functions as the Greek equivalent of sheol. Acts 2:27,31 directly quotes Psalm 16:10, substituting hades for sheol, confirming the words are interchangeable. Hades is temporary -- Rev 20:13-14 states it delivers up the dead and is then cast into the lake of fire. It is personified alongside Death (Rev 6:8; 20:13-14).
 
-- Mat 11:23 — "to hell" (Capernaum cast down to hades)
-- Mat 16:18 — "of hell" (gates of hades shall not prevail)
-- Luk 10:15 — "to hell" (Capernaum brought down to hades)
-- Luk 16:23 — "in hell" (rich man in hades, lifting up his eyes)
-- Act 2:27 — "in hell" (thou wilt not leave my soul in hades — quoting Ps 16:10)
-- Act 2:31 — "in hell" (his soul was not left in hades)
-- 1Co 15:55 — "O grave" (O death, where is thy sting? O grave, thy victory?)
-- Rev 1:18 — "of hell" (I have the keys of hell and of death)
-- Rev 6:8 — "Hell" (Death and Hell followed with him)
-- Rev 20:13 — "hell" (death and hell delivered up the dead in them)
-- Rev 20:14 — "hell" (death and hell were cast into the lake of fire)
-
-### Hebrew Sources for G86 (LXX mapping)
-
-| Hebrew | Transliteration | Count | PMI | Score |
-|---|---|---|---|---|
-| H7585 שְׁאוֹל | shᵉʼôwl (sheol) | 58 | 8.31 | **33.87** |
-| H3381 יָרַד | yârad (to descend) | 27 | 4.77 | 15.89 |
-| H4194 מָוֶת | mâveth (death) | 17 | 5.30 | 15.33 |
-| H7496 רָפָא | râphâʼ (rephaim) | 3 | 7.01 | 9.72 |
-
-The LXX used G86 to translate H7585 (sheol) 58 times. The NT use of G86 (hades) inherits the full OT range of sheol.
-
-### Semantic Range
-
-Hades in the NT continues the OT sheol concept:
-
-- **Pre-resurrection state:** Acts 2:27,31 (Jesus' soul was not left in hades = Ps 16:10 quoted)
-- **Realm of the dead:** Rev 6:8 (Death and Hades ride together); Rev 20:13 (hades gives up its dead)
-- **Temporary holding, not final destination:** Rev 20:14 — hades itself is cast into the lake of fire; it is abolished at the final judgment
-- **Not equivalent to "lake of fire":** Rev 20:14 distinguishes hades (current state of the dead) from the lake of fire (final judgment)
-- **Metaphor for humiliation/low estate:** Mat 11:23; Luk 10:15 (cities "brought down to hades")
-- **Luke 16:23:** Rich man "in hades" — this passage is highly contested; genre (parable vs. literal account) affects interpretation. The passage is unique in depicting conscious experience in hades.
-
-Hades and sheol are the same concept across the two Testaments. Neither word inherently designates a place of eternal conscious torment. Hades is the pre-judgment state; it is itself destroyed at Rev 20:14.
+**Etymology:** From a- (not) + eido (to see) = "the unseen place." The word itself carries no inherent meaning of punishment or torment.
 
 ---
 
-## G1067 — Gehenna
+### 3. G1067 -- geenna (gheh-en-nah)
 
-**Original:** γέεννα
-**Transliteration:** géenna
-**Pronunciation:** gheh-en-nah
-**Part of Speech:** feminine noun (n-f)
-**BLB Count:** 12 (KJV count: 11, with one occurrence rendered as compound phrase)
+**Part of Speech:** Feminine noun
+**Definition:** Of Hebrew origin (H1516 gay + H2011 Hinnom); valley of (the son of) Hinnom
+**Total Occurrences:** 12 (BLB); 11 in KJV apparatus
+**Transliteration:** geenna
 
-### Definition
-
-Strong's: "of Hebrew origin (H1516 + H2011); valley of (the son of) Hinnom."
-
-Etymology: From Hebrew גֵּי הִנֹּם (gê Hinnôm, H1516 + H2011) — "Valley of [the son of] Hinnom." The valley lay south/southwest of Jerusalem. It became associated with child sacrifice to Molech under wicked kings (2 Ki 23:10; 2 Chr 28:3; 33:6; Jer 7:31). Josiah defiled it (2 Ki 23:10), and it became a perpetual burning refuse dump — the tophet.
-
-Lexicon usage note: The BLB lexicon entry for G1067 cites OT background at Lev 10:2; Num 16:35; Josh 15:8; 18:16; 2 Ki 1; 23:10; 2 Chr 28:3; Neh 11:30; Psa 11:6; 27:13; Jer 7:31; 7:32.
-
-### Translations in KJV
-
+**KJV Translation Distribution:**
 | Translation | Count | % |
 |---|---|---|
-| hell | 9 | 75% |
-| of hell | 2 | 17% |
-| (set on) fire of hell | 1 | 8% |
+| hell | 9 | 81.8% |
+| of hell | 2 | 18.2% |
 
-All 12 NT occurrences are rendered as "hell" in KJV.
+**NT Distribution (by speaker):**
+- Jesus: 11 of 12 occurrences (Matt 5:22,29,30; 10:28; 18:9; 23:15,33; Mark 9:43,45,47; Luke 12:5)
+- James: 1 occurrence (Jas 3:6)
 
-### All 12 Occurrences
-
-- Mat 5:22 — "danger of hell fire" (anyone who says "thou fool")
-- Mat 5:29 — "cast into hell" (body cast into gehenna, not whole body)
-- Mat 5:30 — "cast into hell" (body cast into gehenna)
-- Mat 10:28 — "destroy both soul and body in hell" (fear him who can destroy in gehenna)
-- Mat 18:9 — "cast into hell fire" (rather than two eyes into gehenna)
-- Mat 23:15 — "child of hell" (twofold child of gehenna)
-- Mat 23:33 — "damnation of hell" (how can ye escape judgment of gehenna)
-- Mar 9:43 — "into hell, fire that never shall be quenched" (hand causes offence)
-- Mar 9:45 — "into hell" (foot causes offence)
-- Mar 9:47 — "into hell fire" (eye causes offence)
-- Luk 12:5 — "hath power to cast into hell" (fear him who after killing casts into gehenna)
-- Jas 3:6 — "set on fire of hell" (tongue set on fire by gehenna)
-
-### Key Grammatical Observations
-
-**Matt 10:28** — The verb used with gehenna is ἀπολέσαι (apollesai, G622 ἀπόλλυμι) — Aorist Active Infinitive. This is the word for "destroy" or "cause to perish," not for "torment" (βασανίζω) or "punish" (κολάζω). God destroys (apollumi) both soul and body in gehenna.
-
-**Mark 9:43–48** — The phrase "where their worm dieth not, and the fire is not quenched" (v.48) is a direct quotation of Isa 66:24 (confirmed by cross-testament parallels: hybrid score 0.424). In Isa 66:24, the objects being viewed are פִגְרֵי (pigrê) = CORPSES — dead bodies, not conscious persons. The unquenched fire and undying worm act on dead rebels.
-
-### Semantic Range
-
-Gehenna is exclusively eschatological in the NT — all 12 occurrences are figurative/symbolic references to final judgment. Not one occurrence refers to the literal valley in the NT era. Gehenna is:
-
-- Used exclusively by Jesus (11 of 12 occurrences) plus James 3:6
-- The destination after judgment, not the current state of the dead (unlike hades)
-- Associated with "fire" and destruction (apollumi), not specifically with "conscious torment" (the word βασανισμός does not appear in any gehenna passage)
-- Grounded in the OT image of unquenched fire from the Valley of Hinnom — a place where refuse was consumed
-
-The OT background (Isa 30:33; Isa 66:24; Jer 7:31-32) and the key verb apollumi (Matt 10:28) point toward destruction as the outcome, though the imagery of unquenched fire is used symbolically for thoroughness and finality of judgment.
+**Key Observation:** Gehenna is used exclusively by Jesus (11x) and James (1x). It derives from the Valley of Hinnom (ge-Hinnom), a real geographic location southwest of Jerusalem where children were burned in sacrifice to Molech (2 Ki 23:10; Jer 7:31; 32:35). The OT prophets declared it would become the "valley of slaughter" (Jer 7:32; 19:6). Unlike sheol/hades, gehenna is consistently associated with fire and judgment. Matt 10:28 says God is able to "destroy" (apollumi) both soul and body in gehenna. The verb apollumi means to destroy utterly, ruin, lose.
 
 ---
 
-## G5020 — Tartaroo
+### 4. G5020 -- tartaroo (tar-tar-o-oh)
 
-**Original:** ταρταρόω
-**Transliteration:** tartaróō
-**Pronunciation:** tar-tar-o-o
-**Part of Speech:** verb (v)
-**BLB Count:** 1 (single occurrence in all of Scripture)
+**Part of Speech:** Verb (not a noun)
+**Definition:** From Tartaros (the deepest abyss of Hades); to incarcerate in eternal torment
+**Total Occurrences:** 1
+**Transliteration:** tartaroo
 
-### Definition
+**The Single Occurrence:**
+2 Peter 2:4 -- "For if God spared not the angels that sinned, but cast them down to hell [tartaroo], and delivered them into chains of darkness, to be reserved unto judgment."
 
-Strong's: "from Τάρταρος Tártaros (the deepest abyss of Hades); to incarcerate in eternal torment / the deepest abyss."
-
-Etymology: Tartaros is a Greek mythological term for the deepest abyss beneath Hades — below even the realm of the dead. In Hesiod's Theogony, Tartarus is where the Titans were imprisoned. Peter borrows this term from Greek cosmology to describe the confinement of fallen angels, using familiar cultural imagery to describe a reality for which Hebrew had no direct equivalent.
-
-### Only Occurrence
-
-**2 Peter 2:4** — "For if God spared not the angels that sinned, but cast them down to hell [ταρταρώσας], and delivered them into chains of darkness, to be reserved unto judgment."
-
-Greek text: ταρταρώσας (V-AAP-NSM) — Aorist Active Participle, Nominative Singular Masculine — "having cast down to Tartarus."
-
-### Key Grammatical Notes (from parsing)
-
-1. **ταρταρώσας is an Aorist Active Participle** — the action is completed: they have already been confined
-2. **Subject is angels** (ἀγγέλων, Gen Pl M) — this passage applies to fallen angels, NOT humans
-3. **σειροῖς ζόφου** — "in chains/pits of darkness/gloom" — the confinement is characterized by darkness (ζόφος), not fire
-4. **τηρουμένους εἰς κρίσιν** — "being kept/reserved unto judgment" (Present Passive Participle) — this is a TEMPORARY state, ongoing until final judgment; the present tense indicates they are still being held
-5. Parallel in Jude 1:6: "And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day."
-
-### Semantic Range
-
-Tartaroo is a verbal form meaning "to cast into Tartarus" — to confine to the deepest abyss. Its range is severely limited by its single occurrence:
-
-- Applies only to fallen angels (never used of humans in Scripture)
-- Describes pre-judgment confinement, not post-judgment final state
-- The confinement is in "chains of darkness," not in fire or torment
-- The purpose is custody "unto judgment" — the judgment is still future from the perspective of 2 Pet 2:4
-
-Tartaroo is not a synonym for gehenna or the lake of fire. It is not used in any passage describing the final fate of humans. It cannot bear the weight of describing eternal conscious torment for humanity.
+**Key Observation:** Tartaroo is a verb (to cast into Tartarus), not a noun designating a place. It is used only once and applied only to fallen angels, never to human beings. Tartarus was a Greek mythological term for the deepest part of the underworld. Peter appropriates the term to describe the confinement of angels awaiting judgment -- it is a holding place, not a final destination. Jude 1:6 provides a parallel: "reserved in everlasting chains under darkness unto the judgment of the great day."
 
 ---
 
-## H7496 — Rephaim (Shades / Dead Ones)
+## BACKGROUND WORDS -- Gehenna Origin
 
-**Original:** רָפָא (plural: רְפָאִים)
-**Transliteration:** râphâʼ
-**Pronunciation:** raw-faw
-**Part of Speech:** masculine plural noun
-**BLB Count:** 8
+### 5. H1516 -- gay (gah-ee)
 
-### Definition
+**Part of Speech:** Feminine noun (also masculine)
+**Definition:** Probably by transmutation from the same root as ge'a (abbreviated); a gorge (from its lofty sides; hence narrow, but not a gully or winter-torrent) -- valley
+**Total Occurrences:** 67 (60 per BLB)
+**Transliteration:** gay'
 
-Strong's: "from H7495 in the sense of lax; properly, lax, i.e. (figuratively) a ghost (as dead; in plural only) — dead, deceased."
-
-The root idea is "slack/limp/weak" — the rephaim are the weak, insubstantial shades of the dead, lacking the vitality of the living. This is the OT concept of what humans become in sheol: not conscious, vibrant persons, but dim, powerless shadows (cf. the Greek concept of skia, "shade").
-
-### Translations in KJV
-
-| Translation | Count | % |
-|---|---|---|
-| the dead | 5 | 62.5% |
-| Dead (capitalized) | 1 | 12.5% |
-| of the dead | 1 | 12.5% |
-| deceased | 1 | 12.5% |
-
-### All 8 Occurrences
-
-- Job 26:5 — "Dead things are formed from under the waters" (rephaim tremble beneath)
-- Psa 88:11 — "Shall thy lovingkindness be declared in the grave? or thy faithfulness in destruction?"
-- Pro 2:18 — "her house inclineth unto death, and her paths unto the dead"
-- Pro 9:18 — "But he knoweth not that the dead are there; and that her guests are in the depths of hell"
-- Pro 21:16 — "The man that wandereth out of the way of understanding shall remain in the congregation of the dead"
-- Isa 14:9 — "Hell from beneath is moved for thee to meet thee at thy coming: it stirreth up the dead for thee"
-- Isa 26:14 — "They are dead, they shall not live; they are deceased, they shall not rise"
-- Isa 26:19 — "Thy dead men shall live, together with my dead body shall they arise"
-
-### LXX Connections (H7496 → Greek)
-
-| Greek | Transliteration | Count | PMI | Score |
-|---|---|---|---|---|
-| G3498 νεκρός | nekrós (dead [persons]) | 3 | 7.53 | 10.44 |
-| G86 ᾅδης | háidēs (hades) | 3 | 7.01 | 9.72 |
-
-The LXX translators used both "the dead" (nekros) and "hades" to render rephaim — confirming that rephaim denotes the dead inhabiting sheol/hades.
-
-### Semantic Range
-
-The rephaim are the dead inhabitants of sheol — the "shades" or weak ghosts of the departed. Isaiah 14:9 personifies them in prophetic poetry (they are "stirred up" and "speak"), but this is literary personification, not a description of conscious activity. Isa 26:14 contrasts the rephaim who will NOT rise with the righteous who WILL rise (v.19) — the resurrection language confirms rephaim = permanently dead, apart from resurrection.
+Used in combination with H2011 (Hinnom) to form the geographic name "Valley of Hinnom" -- the source for the Greek word gehenna. Occurs in Joshua 15:8; 18:16 (boundary marker), 2 Kings 23:10, 2 Chronicles 28:3; 33:6, Jeremiah 7:31,32; 19:2,6; 32:35, Nehemiah 11:30.
 
 ---
 
-## H6757 — Tsalmaveth (Shadow of Death)
+### 6. H2011 -- Hinnom (hin-nome)
 
-**Original:** צַלְמָוֶת
-**Transliteration:** tsalmâveth
-**Pronunciation:** tsal-maw-veth
-**Part of Speech:** masculine noun
-**BLB Count:** 18
+**Part of Speech:** Proper locative noun
+**Definition:** Probably of foreign origin; Hinnom, apparently a Jebusite
+**Total Occurrences:** 13
+**Transliteration:** Hinnom
 
-### Definition
+**All 13 occurrences refer to the Valley of Hinnom:**
+- Joshua 15:8 (3x); 18:16 (4x) -- Geographic boundary descriptions
+- 2 Kings 23:10 (2x) -- Josiah defiles Topheth
+- 2 Chronicles 28:3 (2x) -- Ahaz burns children there
+- 2 Chronicles 33:6 (2x) -- Manasseh burns children there
+- Nehemiah 11:30 -- Settlement boundary
+- *Isaiah 66:24, Jeremiah 7:31,32; 19:2,6; 32:35 -- per BLB/lexicon*
 
-Strong's: "from H6738 (shadow) and H4194 (death); shade of death, i.e. the grave (figuratively, calamity) — shadow of death."
-
-Compound word: צֵל (tsel, shadow) + מָוֶת (maveth, death) = "death-shadow." It denotes extreme darkness, extreme danger, or proximity to death. It is NOT a proper name for a location (unlike sheol) but a descriptive expression.
-
-### Translations in KJV
-
-All 18 KJV occurrences are rendered as "shadow of death" or a variant of that phrase.
-
-| Translation | Count | % |
-|---|---|---|
-| of the shadow of death | 5 | 27.8% |
-| and the shadow of death | 4 | 22.2% |
-| the shadow of death | 4 | 22.2% |
-| shadow of death | 1 | 5.6% |
-| with the shadow of death | 1 | 5.6% |
-| and in the shadow of death | 1 | 5.6% |
-| and of the shadow of death | 1 | 5.6% |
-| into the shadow of death | 1 | 5.6% |
-
-### All 18 Occurrences
-
-Job (10): 3:5; 10:21; 10:22; 12:22; 16:16; 24:17; 24:17; 28:3; 34:22; 38:17
-Psalms (4): 23:4; 44:20; 107:10; 107:14
-Isaiah (1): 9:1 (= Isa 9:2 in some versifications — "great light" vs. "shadow of death")
-Jeremiah (2): 2:6; 13:16
-Amos (1): 5:8
-
-### Key Verses
-
-**Psalm 23:4** — "Yea, though I walk through the valley of the shadow of death [tsalmaveth], I will fear no evil: for thou art with me." — Standard reference; tsalmaveth = extreme danger/proximity to death, not a supernatural location.
-
-**Isaiah 9:1-2** — "The people that walked in darkness have seen a great light: they that dwell in the land of the shadow of death [tsalmaveth], upon them hath the light shined." — Quoted in Matthew 4:15-16 as fulfilled by Jesus' ministry in Galilee. The "shadow of death" is used metaphorically for spiritual darkness.
-
-**Job 10:21-22** — "Before I go whence I shall not return, even to the land of darkness and the shadow of death [tsalmaveth]; a land of darkness... without any order, and where the light is as darkness." — Job describes sheol as tsalmaveth — a land of darkness and disorder.
-
-### Semantic Range
-
-Tsalmaveth is a poetic expression for the darkness, danger, and condition of death — not a separate location from sheol but a descriptive term for the state of the dead or situations of mortal danger. It reinforces the OT portrait of sheol/the realm of the dead as a place of darkness, silence, and the absence of activity (cf. Ecc 9:10; Psa 115:17; Job 14:21-22).
+**Key Observation:** Every OT occurrence of Hinnom is geographic or cultic. The valley was (1) a real place, (2) associated with child sacrifice to Molech, and (3) prophetically declared a place of destruction/slaughter by Jeremiah. This geographic-historical reality is the foundation for Jesus' use of "gehenna" as an image of final judgment.
 
 ---
 
-## Cross-Word Summary
+## SUPPORTING WORDS -- Torment/Punishment Vocabulary
 
-| Term | Strong's | Testament | Occurrences | Applies To | Final Destination? |
-|---|---|---|---|---|---|
-| Sheol | H7585 | OT | 67 | All the dead (righteous and wicked) | No — pre-judgment state |
-| Hades | G86 | NT | 11 | All the dead (general) | No — cast into lake of fire at Rev 20:14 |
-| Gehenna | G1067 | NT | 12 | The wicked after judgment | Yes — symbol of final destruction |
-| Tartaroo | G5020 | NT | 1 | Fallen angels only | No — temporary confinement until judgment |
-| Rephaim | H7496 | OT | 8 | Dead inhabitants of sheol | N/A — descriptive term |
-| Tsalmaveth | H6757 | OT | 18 | (figurative) darkness/danger | N/A — poetic/metaphorical |
+### 7. G929 -- basanismos (bas-an-is-mos)
 
-### Are They Interchangeable?
+**Part of Speech:** Masculine noun
+**Definition:** From G928 (basanizo); torture -- torment
+**Total Occurrences:** 6
+**Transliteration:** basanismos
 
-**Sheol and Hades** — functionally equivalent (LXX translates sheol as hades 58×, score 33.87). They describe the same reality across the two Testaments: the realm of all the dead, awaiting judgment.
+**All occurrences:**
+- Revelation 9:5 (2x) -- torment of locusts
+- Revelation 14:11 -- smoke of their torment ascends
+- Revelation 18:7 -- torment and sorrow of Babylon
+- Revelation 18:10 -- the hour of Babylon's judgment/torment
+- Revelation 18:15 -- merchants stand afar for fear of her torment
 
-**Gehenna** — distinct from sheol/hades. Sheol/hades is the current state of the dead; gehenna is the final outcome after judgment. Rev 20:14 shows the relationship: hades is cast INTO the lake of fire (gehenna-like final judgment). Gehenna is NOT interchangeable with hades.
+**Key Observation:** 5 of 6 occurrences are in Revelation. Of these, 3 refer to the destruction of Babylon (a symbolic entity), and 1 to the plague of locusts. Only Rev 14:11 directly concerns final judgment of idolaters, and notably the smoke (not the torment itself) is what "ascends forever."
 
-**Tartaroo** — distinct from all others. It applies only to fallen angels in a pre-judgment confinement state. It cannot be used to define the fate of humans.
+---
 
-### Do Any Inherently Mean Eternal Conscious Torment?
+### 8. G928 -- basanizo (bas-an-id-zo)
 
-- **Sheol:** No. Used of righteous and wicked alike. Characterized by silence, darkness, inactivity. No torment vocabulary attached to the word itself.
-- **Hades:** No. Equivalent to sheol. Abolished at Rev 20:14. Luke 16:23 uses it for the rich man, but this is parabolic material with disputed genre.
-- **Gehenna:** No inherent ECT meaning. The key verb in the key passage (Matt 10:28) is apollumi — "destroy." The unquenched fire of Isa 66:24 (source of Mark 9:48) acts on corpses (pigrê), not conscious souls. The word βασανισμός (torment) does not appear in any gehenna passage.
-- **Tartaroo:** No. It applies to angels in temporary pre-judgment confinement characterized by darkness, not fire or torment.
+**Part of Speech:** Verb
+**Definition:** From G931 (basanos = a touchstone); to torture -- pain, toil, torment, toss, vex
+**Total Occurrences:** 12
+**Transliteration:** basanizo
 
-The only NT passage that uses explicit "torment" (βασανισμός/βασανισμός) language in connection with eschatological judgment is Rev 14:10-11 and Rev 20:10 — neither of which uses sheol, hades, gehenna, or tartaroo. The "torment" passages in Revelation apply specifically to the beast, the false prophet, and the devil (Rev 20:10), and to beast-worshippers during the tribulation (Rev 14:10-11).
+**Notable occurrences:**
+- Matt 8:6 -- servant "grievously tormented" (sick)
+- Matt 8:29 -- demons ask "art thou come to torment us before the time?"
+- Matt 14:24 -- ship "tossed" with waves (same word)
+- Mark 5:7; Luke 8:28 -- demons plead not to be tormented
+- 2 Pet 2:8 -- Lot "vexed" his righteous soul
+- Rev 9:5 -- tormented as a scorpion stings
+- Rev 11:10 -- two prophets "tormented" those on earth
+- Rev 12:2 -- woman "pained" in childbirth
+- Rev 14:10 -- "tormented with fire and brimstone"
+- Rev 20:10 -- devil, beast, false prophet "tormented day and night for ever and ever"
+
+**Key Observation:** The word basanizo has a wide semantic range: it is used for sickness (Matt 8:6), waves tossing a boat (Matt 14:24), moral distress (2 Pet 2:8), and childbirth pain (Rev 12:2), in addition to punishment contexts. Rev 20:10 applies it to the devil, beast, and false prophet -- these are symbolic entities, not individual humans.
+
+---
+
+### 9. G2851 -- kolasis (kol-as-is)
+
+**Part of Speech:** Feminine noun
+**Definition:** From G2849 (kolazo); penal infliction -- punishment, torment
+**Total Occurrences:** 2 (BLB; 1 in KJV text)
+**Transliteration:** kolasis
+
+**Occurrences:**
+- Matthew 25:46 -- "And these shall go away into everlasting punishment" (kolasis aionios)
+- 1 John 4:18 -- "Fear hath torment" (kolasis)
+
+**Key Observation:** Kolasis occurs only twice in the NT. In classical Greek, kolasis originally meant "pruning" or "corrective punishment" (distinct from timoria, retributive punishment). In Matt 25:46, it is paired with aionios. The meaning depends on whether aionios means "eternal" in the sense of duration or "age-long" / "pertaining to the age to come."
+
+---
+
+### 10. G4663 -- skolex (sko-lakes)
+
+**Part of Speech:** Masculine noun
+**Definition:** Of uncertain derivation; a grub, maggot or earth-worm -- worm
+**Total Occurrences:** 3
+**Transliteration:** skolex
+
+**All occurrences:**
+- Mark 9:44 -- "Where their worm dieth not"
+- Mark 9:46 -- "Where their worm dieth not"
+- Mark 9:48 -- "Where their worm dieth not"
+
+**Key Observation:** All three occurrences are in Jesus' gehenna warning, quoting Isaiah 66:24. In the Isaiah source, the worm feeds on "carcases" (dead bodies, Hebrew peger), not living beings. The worm and fire in Isaiah 66:24 are instruments of consumption/decomposition of the dead, not agents of ongoing torment of the living. The skolex is a physical maggot, not a spiritual entity.
+
+---
+
+### 11. H7496 -- rapha (raw-faw)
+
+**Part of Speech:** Masculine plural noun
+**Definition:** From rapha in the sense of rapha; properly lax, i.e. (figuratively) a ghost (as dead; in plural only) -- dead, deceased
+**Total Occurrences:** 8
+**Transliteration:** rapha (rephaim)
+
+**KJV Translation Distribution:**
+| Translation | Count |
+|---|---|
+| the dead | 5 |
+| Dead | 1 |
+| of the dead | 1 |
+| deceased | 1 |
+
+**Key occurrences with sheol:**
+- Job 26:5 -- "Dead things [rephaim] are formed from under the waters"
+- Psalm 88:10 (per lexicon) -- referenced among sheol passages
+- Proverbs 2:18; 9:18; 21:16 -- "the dead" / depths of sheol
+- Isaiah 14:9 -- "Hell from beneath is moved for thee... it stirreth up the dead [rephaim]"
+- Isaiah 26:14 -- "The dead [rephaim] shall not live; the deceased shall not rise"
+- Isaiah 26:19 -- "Thy dead men shall live... awake and sing"
+
+**Key Observation:** Rephaim are the "shades" or inhabitants of sheol. In Isaiah 14:9, the rephaim are "stirred up" at the arrival of the king of Babylon -- but this is highly poetic/taunt language (see Isa 14:4 "thou shalt take up this proverb"). In Isaiah 26:14, the rephaim "shall not live" and "shall not rise" -- contradicting any idea of conscious activity. The term describes the dead as powerless, inactive shades.
+
+---
+
+### 12. G3041 -- limne (lim-nay)
+
+**Part of Speech:** Feminine noun
+**Definition:** Probably from G3040 (limen, a harbor); a pond (large or small) -- lake
+**Total Occurrences:** 10
+**Transliteration:** limne
+
+All 10 occurrences are in the NT:
+- Luke 5:1,2; 8:22,23,33 -- Lake of Gennesaret / lake (geographic)
+- Revelation 19:20; 20:10,14,15; 21:8 -- "lake of fire"
+
+**Key Observation:** In its 5 Revelation occurrences, limne (lake) is combined with pur (fire) to form "the lake of fire" -- a term that appears only in Revelation. The lake of fire is explicitly identified as "the second death" (Rev 20:14; 21:8). It is distinct from hades -- hades itself is cast into the lake of fire (Rev 20:14). The lake of fire receives: (1) the beast and false prophet (Rev 19:20), (2) the devil (Rev 20:10), (3) death and hades (Rev 20:14), (4) those not in the book of life (Rev 20:15), (5) the wicked categories of Rev 21:8.
+
+---
+
+## G166 -- aionios (ahee-o-nee-os)
+
+**Note:** This word was studied in detail in etc-03. It is the adjective used in "everlasting punishment" (Matt 25:46), "everlasting fire" (Matt 18:8; 25:41), "eternal damnation" (Mark 3:29), and "everlasting destruction" (2 Thess 1:9). Its meaning ("eternal," "age-long," "pertaining to the age") is a critical interpretive question for this study.

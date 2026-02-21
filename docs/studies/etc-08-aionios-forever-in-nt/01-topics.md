@@ -1,112 +1,81 @@
 # Topics Research
 
 ## Question
-
-What does the Greek word aionios (G166) mean in the New Testament? Does it always mean "eternal/endless" or can it mean "age-long/pertaining to an age"? Examine all 71 NT occurrences of aionios: in "eternal life," "eternal punishment," "eternal fire," "eternal destruction," and other contexts. Does the semantic range of aionios in the NT require endless conscious torment for the wicked? How does aionios compare to the rarer adjective aidios (G126), which explicitly carries the meaning "everduring (forward and backward)"? And what does the phrase "for ever and ever" (eis tous aionas ton aionon) — literally "into the ages of the ages" — mean in the 20 NT passages where it appears, especially in Revelation?
-
----
+Greek aionios (G166) -- all 71 NT occurrences. Compare aidios (G126). "Eis tous aionas ton aionon" in ~20 passages. LXX usage. Does aionios inherently mean "eternal/endless" or does it mean "pertaining to the age" with duration determined by the nature of the subject?
 
 ## Topics
 
-### ETERNAL LIFE
-*Nave's entry:*
-
-Redirects to: LIFE EVERLASTING
-
----
-
-### LIFE, EVERLASTING
-*Nave's — see cross-reference from ETERNAL LIFE:*
-
-Key verse references found under IMMORTALITY entry:
-
-Dan 12:2,3; Mat 10:28; 25:46; Mrk 10:30; Jn 3:14-16,36; 5:39,40; 6:39,40,44,47,50,51,53,54,58; 10:28; 11:25,26; 14:19; 17:2,3; Act 20:32; 23:8,9; 26:7,8,18; Rom 2:7; 6:22,23; 1Co 15:12-55; Gal 6:8; Col 1:5,6; 1Th 4:13-18; 5:10; 2Th 1:7-9; 2:16; 1Ti 4:8; 6:12,19; 2Ti 1:9,10; Tit 1:2; 3:7; Heb 9:15; 10:34; 11:5,10,13-16; 1Pe 1:3-5; 1Jn 2:17,25; 5:13; Jude 1:21; Rev 1:7; 3:4; 22:5
-
-*Cross-references within entry:*
-- See RESURRECTION
-- See RIGHTEOUS, PROMISES TO
-- See WICKED, PUNISHMENT OF
-
----
-
-### IMMORTALITY
-*Full Nave's entry:*
-
-General scriptures concerning: Gen 5:24; 2Sa 12:23; 2Ki 2:11; Neh 9:5; Job 4:17-21; 14:13; Psa 16:10,11; 21:4; 22:26; 23:6; 31:5; 36:9; 37:18,27; 49:7-9,14,15; 73:26; 86:12; 102:4,25-28; 121:8; 133:3; 145:1,2; Pro 14:32; Ecc 3:21; 12:7; Isa 14:9; 25:8; 26:19; 38:18,19; Ezk 32:31; Dan 12:2,3; Mat 10:28; 16:26; 19:16,17; 25:46; Mrk 10:30; 12:26,27; Luk 9:25; 10:25-28; 20:36-38; Jhn 3:14-16,36; 5:39,40; 6:39,40,44,47,50,51,53,54,58; 10:28; 11:25,26; 14:19; 17:2,3; Act 20:32; 23:8,9; 26:7,8,18; Rom 2:7; 6:22,23; 1Co 15:12-55; Gal 6:8; Col 1:5,6; 1Th 4:13-18; 5:10; 2Th 1:7-9; 2:16; 1Ti 4:8; 6:12,19; 2Ti 1:9,10; Tit 1:2; 3:7; Heb 9:15; 10:34; 11:5,10,13-16; 1Pe 1:3-5; 1Jn 2:17,25; 5:13; Jude 1:21; Rev 1:7; 3:4; 22:5
-
-Cross-references:
-- See RESURRECTION
-- See RIGHTEOUS, PROMISES TO
-- See WICKED, PUNISHMENT OF
-
-*Note: The IMMORTALITY entry in Nave's is a general-purpose cluster covering both positive outcomes (eternal life, resurrection) and negative outcomes (2Th 1:7-9 appears in this list). This confirms that the traditional topical approach does not sharply separate the two poles — both life and judgment appear under the single rubric of "immortality."*
-
----
-
-### ETERNITY
-*Full Nave's entry:*
-
+### ETERNITY (Nave's)
 - God inhabits: Isa 57:15; Mic 5:2
 - God rules: Jer 10:10
 - See GOD, ETERNITY OF
-- UNCLASSIFIED SCRIPTURES RELATING TO: Psa 30:12; 41:13; 72:17; 90:2; 110:4; 119:142; Mat 6:13; 18:8; 2Co 9:9; Jude 1:6
+- Unclassified scriptures: Psa 30:12; 41:13; 72:17; 90:2; 110:4; 119:142; Mat 6:13; 18:8; 2 Cor 9:9; Jude 1:6
   - See LIFE, EVERLASTING
   - See PUNISHMENT, ETERNAL
 
-*Note: Mat 18:8 ("everlasting fire") and Jude 1:6 ("everlasting [aidios] chains") appear as "unclassified scriptures" under ETERNITY. The fact that aidios (G126, Jude 1:6) and aionios (G166, Mat 18:8) both appear under the same topical entry without differentiation is typical of topical concordances — they do not distinguish between the two distinct Greek adjectives.*
+### IMMORTALITY (Nave's)
+- General scriptures: Gen 5:24; 2 Sam 12:23; 2 Ki 2:11; Neh 9:5; Job 4:17-21; 14:13; Psa 16:10,11; 21:4; 22:26; 23:6; 31:5; 36:9; 37:18,27; 49:7-9,14,15; 73:26; 86:12; 102:4,25-28; 121:8; 133:3; 145:1,2; Pro 14:32; Ecc 3:21; 12:7; Isa 14:9; 25:8; 26:19; 38:18,19; Eze 32:31; Dan 12:2,3; Mat 10:28; 16:26; 19:16,17; 25:46; Mk 10:30; 12:26,27; Lk 9:25; 10:25-28; 20:36-38; Jn 3:14-16,36; 5:39,40; 6:39,40,44,47,50,51,53,54,58; 10:28; 11:25,26; 14:19; 17:2,3; Act 20:32; 23:8,9; 26:7,8,18; Rom 2:7; 6:22,23; 1 Cor 15:12-55; Gal 6:8; Col 1:5,6; 1 Th 4:13-18; 5:10; 2 Th 1:7-9; 2:16; 1 Tim 4:8; 6:12,19; 2 Tim 1:9,10; Tit 1:2; 3:7; Heb 9:15; 10:34; 11:5,10,13-16; 1 Pet 1:3-5; 1 Jn 2:17,25; 5:13; Jude 1:21; Rev 1:7; 3:4; 22:5
 
----
-
-### PUNISHMENT (ETERNAL subsection)
-*Full Nave's entry for PUNISHMENT — ETERNAL subsection:*
-
-Isa 34:8-10; Dan 12:2; Mat 3:12; 10:28; 18:8; 25:41,46; Mrk 3:29; Luk 3:17; Jhn 5:29; Heb 6:2; 10:28-31; Rev 14:10,11; 19:3; 20:10
-
-*Cross-reference:*
+### PUNISHMENT, ETERNAL (Nave's)
+- Isa 34:8-10; Dan 12:2; Mat 3:12; 10:28; 18:8; 25:41,46; Mk 3:29; Lk 3:17; Jn 5:29; Heb 6:2; 10:28-31; Rev 14:10,11; 19:3; 20:10
 - See WICKED, PUNISHMENT OF
 
-*Additional PUNISHMENT entry sections directly relevant:*
-- PUNISHMENT, ACCORDING TO DEEDS: Job 34:11; Psa 62:12; Pro 12:14; 24:12; Isa 59:18; Jer 17:10; Ezk 7:3,27; 16:59; 39:24; Zec 1:6; Mat 5:22; 16:27; 23:14; Luk 12:47,48; 20:47
-- PUNISHMENT, DIVINE, NO ESCAPE FROM: Job 11:20; Pro 1:24-31; 11:21; 16:5; 29:1; Jer 11:11; 15:1; 25:28,29; Ezk 7:19; Amo 2:14-16; Zep 1:18; Mat 10:28; 23:33; Rom 2:3; Col 3:25; Heb 2:3; 12:25
+### FIRE, EVERLASTING (Nave's)
+- Isa 33:14; Mat 18:8; 25:41; Mk 9:44
+- Fire of the destruction of the wicked: Mat 13:42,50; 25:41; Mk 9:44; Rev 9:2; 21:8
+- Fire as judgment: Deu 4:24; 32:22; Isa 33:14; Jer 23:29; Amo 1:4,7,10,12,14; 2:2; Mal 3:2; Lk 12:49; Rev 20:9
 
-*Note: The PUNISHMENT, ETERNAL subsection lists Isa 34:8-10 as its first OT reference — the very passage that was confirmed as the highest-scoring OT parallel for Rev 14:11 (hybrid score 0.401) in etc5-07. This independently corroborates E182.*
+## Usage Categories for Aionios (G166)
 
----
+### Category A: Aionios Applied to God and His Nature
+- Rom 1:20 (NOTE: uses aidios G126, not aionios -- but relevant for comparison)
+- Rom 16:26 ("the everlasting God")
+- 1 Pet 5:10 ("the God of all grace... hath called you unto his eternal glory")
+- 2 Pet 1:11 ("the everlasting kingdom of our Lord")
 
-### FIRE (EVERLASTING FIRE subsection)
-*Full Nave's — FIRE entry:*
+### Category B: Aionios Applied to Life/Salvation (~42 occurrences)
+The largest category. "Eternal life" (zoe aionios) is the single most common phrase using aionios.
+- Mat 19:16,29; 25:46; Mk 10:17,30; Lk 10:25; 18:18,30
+- Jn 3:15,16,36; 4:14,36; 5:24,39; 6:27,40,47,54,68; 10:28; 12:25,50; 17:2,3
+- Act 13:46,48; Rom 2:7; 5:21; 6:22,23; Gal 6:8; 1 Tim 1:16; 6:12,19; Tit 1:2; 3:7
+- 1 Jn 1:2; 2:25; 3:15; 5:11,13,20; Jude 1:21
+- Also: Heb 5:9 ("eternal salvation"); Heb 9:12 ("eternal redemption"); Heb 9:15 ("eternal inheritance")
+- 2 Cor 4:17; 2 Tim 2:10; 1 Pet 5:10 ("eternal glory")
+- 2 Cor 5:1 ("eternal in the heavens"); 2 Th 2:16 ("everlasting consolation")
 
-FIGURATIVE uses include:
-- Judgments: Deu 4:24; 32:22; Isa 33:14; Jer 23:29; Amo 1:4,7,10,12,14; 2:2; Mal 3:2; Luk 12:49; Rev 20:9
-- Of the destruction of the wicked: Mat 13:42,50; 25:41; Mrk 9:44; Rev 9:2; 21:8
+### Category C: Aionios Applied to Punishment/Judgment (~7 occurrences)
+- Mat 18:8 ("everlasting fire")
+- Mat 25:41 ("everlasting fire, prepared for the devil and his angels")
+- Mat 25:46 ("everlasting punishment")
+- Mk 3:29 ("eternal damnation" / "eternal sin")
+- 2 Th 1:9 ("everlasting destruction")
+- Heb 6:2 ("eternal judgment")
+- Jude 1:7 ("the vengeance of eternal fire" -- applied to Sodom)
 
-**EVERLASTING FIRE subsection:**
-Isa 33:14; Mat 18:8; 25:41; Mrk 9:44
+### Category D: Aionios Applied to Past Time (3 occurrences)
+- Rom 16:25 ("since the world began" -- literally "in aionios times")
+- 2 Tim 1:9 ("before the world began" -- literally "before aionios times")
+- Tit 1:2 ("before the world began" -- literally "before aionios times")
 
-*Note: The FIRE, EVERLASTING entry in Nave's contains only 4 verses: Isa 33:14 (OT background), Mat 18:8, Mat 25:41, Mrk 9:44. Jude 1:7 is NOT included in this subsection, even though it uses the same phrase "eternal fire" (puros aioniou). This is a significant gap — the Jude 1:7 instance (with 2Pet 2:6 cross-reference confirming the fire reduced Sodom to ashes) is critical for establishing what "eternal fire" means.*
+### Category E: Aionios Applied to Other Subjects
+- Lk 16:9 ("everlasting habitations")
+- 2 Cor 4:18 ("things which are not seen are eternal")
+- Heb 9:14 ("through the eternal Spirit")
+- Heb 13:20 ("the blood of the everlasting covenant")
+- Rev 14:6 ("the everlasting gospel")
 
----
+### Aidios (G126) -- Both Occurrences
+- Rom 1:20 ("his eternal power and Godhead")
+- Jude 1:6 ("everlasting chains under darkness")
+
+### "Eis Tous Aionas Ton Aionon" Formula (~22 occurrences)
+**Applied to God/Christ (doxological -- praise/glory) ~18x:**
+Gal 1:5; Phil 4:20; 1 Tim 1:17; 2 Tim 4:18; Heb 1:8; Heb 13:21; 1 Pet 4:11; 1 Pet 5:11; Rev 1:6; Rev 1:18; Rev 4:9; Rev 4:10; Rev 5:13; Rev 5:14; Rev 7:12; Rev 10:6; Rev 11:15; Rev 15:7; Rev 22:5
+
+**Applied to judgment/punishment (3x):**
+Rev 14:11; Rev 19:3; Rev 20:10
 
 ## Related Topics Discovered
-
-### GOD, ETERNITY OF (referenced from ETERNITY)
-*Not fully retrieved, but listed here as related context. Key verses: Psa 90:2; Isa 57:15; Mic 5:2.*
-
-### WICKED, PUNISHMENT OF (referenced from IMMORTALITY and PUNISHMENT)
-*Not separately retrieved — entry not found under that exact heading. Key verses from PUNISHMENT, ETERNAL subsection cover the primary content.*
-
----
-
-## Summary of Topical Data for Analysis
-
-The Nave's topical entries confirm:
-
-1. **Both outcomes use the same adjective (aionios)**: IMMORTALITY lists both "eternal life" passages and judgment passages (including 2Th 1:7-9) in a single undifferentiated list.
-
-2. **PUNISHMENT, ETERNAL begins with Isa 34:8-10**: This independently confirms the LXX/OT background for the NT eternal punishment passages, aligning with E182 (Isa 34:10 as top OT parallel for Rev 14:11).
-
-3. **FIRE, EVERLASTING lists only 4 NT passages**: Mat 18:8; 25:41; Mrk 9:44 — but notably omits Jude 1:7, which is the passage where the fire's outcome is specified as ashes (2Pet 2:6).
-
-4. **ETERNITY lists both aidios (Jude 1:6) and aionios (Mat 18:8) without distinction**: Traditional topical concordances do not differentiate between the two Greek words.
-
-5. **Rev 14:10,11; 19:3; 20:10 appear under PUNISHMENT, ETERNAL**: These three "for ever and ever" passages are the Nave's basis for ECT in Revelation.
+- ETERNAL LIFE, EVERLASTING LIFE, EVERLASTING PUNISHMENT, EVERLASTING FIRE, FUTURE PUNISHMENT all redirect to the entries documented above
+- WRATH: Cross-references PUNISHMENT, ETERNAL
+- Nave's PUNISHMENT, ETERNAL lists same verses as the judgment category above
