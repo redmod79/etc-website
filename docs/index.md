@@ -99,20 +99,21 @@ Every study includes multiple layers of research, all accessible through the nav
 
 Study 18 synthesized the evidence from Studies 1--17. Study 19 (2 Corinthians 5 and the Intermediate State) was added subsequently as a supplementary passage study and is not included in the tallies below.
 
-The synthesis across Studies 1--17 produced **450 unique explicit statements and necessary implications** (after deduplication) and **133 inferences** (27 I-A, 40 I-B, 22 I-C, 44 I-D).
+The synthesis across Studies 1--17 classified **597 unique evidence items** (449 E + 65 N + 83 I, after deduplication across all studies).
 
 ### Positional Distribution (Studies 1--17)
 
-| Category | Conditionalist | ECT | Neutral/Shared | Total |
-|----------|---------------|-----|----------------|-------|
-| Unique E | 117 | 2 | 204 | 323 |
-| Unique N | 90 | 0 | 37 | 127 |
-| Inferences | 70 | 59 | 4 | 133 |
-| **Grand Total** | **277** | **61** | **245** | **583** |
+| Tier | Conditionalist | ECT-direction | Neutral | Total |
+|------|---------------|---------------|---------|-------|
+| E (Explicit) | 103 | 0 | 346 | 449 |
+| N (Necessary Implication) | 13 | 0 | 52 | 65 |
+| I-A (Evidence-Extending) | 24 | 0 | 0 | 24 |
+| I-B (Competing-Evidence) | 0 | 23 | 1 | 24 |
+| I-C (Compatible-External) | 0 | 30 | 2 | 32 |
+| I-D (Counter-Evidence External) | 0 | 4 | 0 | 4 |
+| **Total** | **140** | **57** | **401** | **598** |
 
-The 2 ECT explicit items are Rev 20:10 and Rev 14:10-11. No didactic passage states that the wicked are tormented forever. The explicit statements and necessary implications across all 17 studies use death, destruction, perishing, ashes, and cessation vocabulary for the fate of the wicked.
-
-Conditionalist inferences operate at the I-A level (27 items, evidence-extending, requiring only systematization), with 2 at I-B and 4 at I-C. ECT inferences operate at the I-B level (37 items, 31 resolved Strong against ECT, 5 Moderate against, 1 Unresolved), I-C level (15 items), or I-D level (44 items, requiring external concepts the text does not contain).
+Not a single explicit statement (E-tier) or necessary implication (N-tier) in the entire 597-item evidence base was classified as supporting eternal conscious torment of human beings. 82.9% of conditionalist evidence is at E or N tier; 100% of ECT evidence is at the inference level (I-B, I-C, or I-D).
 
 Study 19 provides a detailed Greek grammatical analysis of 2 Corinthians 5:1-8 -- the passage most frequently cited for a conscious intermediate state -- and concludes that it teaches about the resurrection body, not the intermediate state. Its findings are consistent with and reinforce the conclusions of Studies 01 and 04.
 
