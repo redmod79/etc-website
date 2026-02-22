@@ -115,6 +115,4 @@ The synthesis across Studies 1--17 classified **597 unique evidence items** (449
 
 Not a single explicit statement (E-tier) or necessary implication (N-tier) in the entire 597-item evidence base was classified as supporting eternal conscious torment of human beings. 82.9% of conditionalist evidence is at E or N tier; 100% of ECT evidence is at the inference level (I-B, I-C, or I-D).
 
-Study 19 provides a detailed Greek grammatical analysis of 2 Corinthians 5:1-8 -- the passage most frequently cited for a conscious intermediate state -- and concludes that it teaches about the resurrection body, not the intermediate state. Its findings are consistent with and reinforce the conclusions of Studies 01 and 04.
-
 [**Read the Full Synthesis**](studies/etc-18-comprehensive-synthesis/CONCLUSION.md){ .md-button .md-button--primary }
