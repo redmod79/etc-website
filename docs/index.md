@@ -1,6 +1,6 @@
 # The Final Fate of the Wicked: What Does the Bible Teach?
 
-*A comprehensive 18-study biblical investigation examining every major text, word, and argument bearing on the final fate of the wicked.*
+*A comprehensive 19-study biblical investigation examining every major text, word, and argument bearing on the final fate of the wicked.*
 
 ---
 
@@ -10,7 +10,7 @@ Two major positions exist in Christian theology regarding the fate of the wicked
 
 ## The Approach
 
-Each of the 18 studies is a genuine investigation. The agents gathered ALL relevant evidence, presented what each side claims, and let the biblical text speak for itself. No study presupposed its conclusion. Evidence was classified into hierarchical tiers:
+Each of the 19 studies is a genuine investigation. The agents gathered ALL relevant evidence, presented what each side claims, and let the biblical text speak for itself. No study presupposed its conclusion. Evidence was classified into hierarchical tiers:
 
 - **Explicit (E):** What the text directly says -- a quote or close paraphrase
 - **Necessary Implication (N):** What unavoidably follows from explicit statements
@@ -27,7 +27,7 @@ Each of the 18 studies is a genuine investigation. The agents gathered ALL relev
 
 ---
 
-## The 18 Studies
+## The 19 Studies
 
 ### Tier 1 -- Foundations
 
@@ -63,6 +63,7 @@ What do the most-debated passages actually say when examined in context?
 | 12 | [Tormented Day and Night Forever](studies/etc-12-tormented-forever/CONCLUSION.md) | What does Revelation 20:10 mean? Who are the three subjects? |
 | 13 | [The Lake of Fire and Second Death](studies/etc-13-lake-of-fire-second-death/CONCLUSION.md) | What is the "lake of fire"? What is the "second death"? What happens to death and hades? |
 | 14 | [The Five Judgment Passages](studies/etc-14-judgment-passages/CONCLUSION.md) | What do Matt 25:46, Mark 9:43-48, Matt 10:28, 2 Thess 1:9, and Dan 12:2 teach? |
+| 19 | [2 Corinthians 5 and the Intermediate State](studies/etc-19-2-corinthians-5-intermediate-state/CONCLUSION.md) | Does 2 Cor 5:1-8 teach a conscious intermediate state, or is Paul describing the resurrection body? What does the clothing metaphor mean? |
 
 ### Tier 4 -- Evaluation & Synthesis
 
@@ -83,6 +84,7 @@ Every study includes multiple layers of research, all accessible through the nav
 
 | File | Contents |
 |------|----------|
+| **Simple Conclusion** | A plain-language summary of the study's findings -- no technical jargon or evidence tables |
 | **Conclusion** | The final evidence classification with Explicit/Necessary Implication/Inference tables (4-type taxonomy), I-B resolutions, tally, and "What CAN/CANNOT Be Said" |
 | **Analysis** | Verse-by-verse analysis, identified patterns, connections between passages, both-sides arguments |
 | **Verses** | Full KJV text for every passage examined, organized thematically |

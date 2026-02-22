@@ -137,7 +137,7 @@
 **Key observations:**
 - Paul uses the same "swallowed up" (katapino) language as 1 Cor 15:54. Mortality is the present condition; being "swallowed up of life" is the future hope.
 - Paul expressly states he does NOT want to be "unclothed" (ekduo -- stripped of the body). He wants to be "clothed upon" (ependuomai -- to put on over). His desire is for the new body, not disembodied existence.
-- Vv.6-8 express Paul's willingness to be "absent from the body, and present with the Lord." This is the passage cited for the conscious intermediate state. etc-01 classified this as I-B (I007 in the master), resolved Strong toward the conditionalist reading via SIS, because Paul's own explicit teaching in 1 Thess 4:16-17 ties being with the Lord to the resurrection.
+- Vv.6-8 express Paul's willingness to be "absent from the body, and present with the Lord." This is the passage cited for the conscious intermediate state. etc-01 classified this as I-B (I007 in the master), resolved Strong toward the conditionalist reading via SIS, because Paul's own explicit teaching in 1 Thess 4:16-17 ties being with the Lord to the resurrection. See [Study 19](../etc-19-2-corinthians-5-intermediate-state/CONCLUSION.md) for comprehensive Greek grammatical analysis of this passage.
 
 ---
 

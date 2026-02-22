@@ -523,7 +523,7 @@ Note: I-B items classified by the direction they argue (ECT-direction), but both
 
 ## What CANNOT Be Said (Not Explicitly Stated or Necessarily Implied by Scripture)
 
-1. **It cannot be said that 2 Cor 5:8 or Phil 1:23 describes a conscious intermediate state.** Paul expresses willingness (2 Cor 5:8) and desire (Phil 1:23), but neither passage describes the intermediate state or its mechanism. Paul explicitly rejects disembodiment ("not unclothed, but clothed upon," 2 Cor 5:4). Paul's own explicit teaching on being with the Lord (1 Thess 4:16-17) ties it to the resurrection, not to death.
+1. **It cannot be said that 2 Cor 5:8 or Phil 1:23 describes a conscious intermediate state.** Paul expresses willingness (2 Cor 5:8) and desire (Phil 1:23), but neither passage describes the intermediate state or its mechanism. Paul explicitly rejects disembodiment ("not unclothed, but clothed upon," 2 Cor 5:4). The unique compound verb *ependyomai* (G1902, only 2x in NT) means "to put on over" -- receiving the resurrection body over the mortal body, i.e., transformation without death. The purpose clause "mortality swallowed up of life" shares vocabulary with 1 Cor 15:54 (*katapino*), confirming the resurrection context. The groaning of 2 Cor 5:2,4 (*stenazomen*, G4727) matches Rom 8:23, where its object is explicitly "the redemption of our body." Paul's own explicit teaching on being with the Lord (1 Thess 4:16-17) ties it to the resurrection, not to death. See [Study 19](../etc-19-2-corinthians-5-intermediate-state/CONCLUSION.md) for detailed Greek analysis.
 
 2. **It cannot be said that Luke 23:43 teaches the thief went to paradise that day.** The Greek text has no punctuation. The standard English comma placement is editorial, not textual. One reading conflicts with John 20:17 (Jesus not yet ascended) and Acts 2:27,31 (Jesus in hades). The other reading is consistent with all other passages.
 
@@ -567,7 +567,7 @@ Paul uses koimao (G2837) consistently for the Christian dead: "fallen asleep" (1
 
 This study examined all eight passages commonly cited for consciousness between death and resurrection. Each was analyzed for genre, context, grammatical features, and consistency with the broader biblical testimony.
 
-**2 Cor 5:8 and Phil 1:23** express Paul's preference but do not describe the intermediate state. Paul explicitly rejects disembodiment (2 Cor 5:4). His shared vocabulary with 1 Cor 15:54 ("mortality swallowed up") identifies the context as resurrection. His own didactic teaching (1 Thess 4:16-17) ties being with the Lord to the resurrection.
+**2 Cor 5:8 and Phil 1:23** express Paul's preference but do not describe the intermediate state. Paul explicitly rejects disembodiment (2 Cor 5:4). The unique compound verb *ependyomai* (G1902, only 2x in NT) means "to put on over" -- receiving the resurrection body over the mortal body. Paul's shared vocabulary with 1 Cor 15:54 ("mortality swallowed up," *katapino* G2666) identifies the context as resurrection. His groaning (*stenazomen* G4727 in 5:2,4) uses the same verb and form as Rom 8:23, where its object is "the redemption of our body." His own didactic teaching (1 Thess 4:16-17) ties being with the Lord to the resurrection. See [Study 19](../etc-19-2-corinthians-5-intermediate-state/CONCLUSION.md) for comprehensive Greek analysis of this passage.
 
 **Luke 23:43** depends on editorial punctuation absent from the Greek. One reading conflicts with John 20:17 and Acts 2:27,31; the other is consistent with all other passages.
 

@@ -83,9 +83,13 @@ Several passages are commonly read as evidence that the dead are conscious betwe
 
 Paul writes "to be absent from the body" is "to be present with the Lord" (2 Cor 5:8), and that he desires "to depart and be with Christ" (Phil 1:23). These are expressions of Paul's preference and longing -- they do not describe the mechanism or timing of that union.
 
-Critically, in the very same passage (2 Cor 5:4), Paul says he does NOT want to be "unclothed" (that is, disembodied) but "clothed upon" -- which is resurrection language, matching "death swallowed up in victory" in 1 Cor 15:54. Paul explicitly rules out the disembodied intermediate existence.
+Critically, in the very same passage (2 Cor 5:4), Paul says he does NOT want to be "unclothed" (that is, disembodied) but "clothed upon" -- which is resurrection language, matching "death swallowed up in victory" in 1 Cor 15:54. The Greek word Paul chose -- *ependyomai* (G1902, "to put on over") -- appears only twice in the entire New Testament, both in this passage. The compound prefix *epi-* indicates layering: receiving the resurrection body on top of the mortal body. Paul had the simpler word *endyo* ("to put on") available -- a word he uses 29 other times. He deliberately chose the compound form to describe transformation without death. Paul explicitly rules out the disembodied intermediate existence.
+
+Paul's "groaning" in 2 Cor 5:2,4 uses the same Greek verb (*stenazomen*, G4727) that appears in Romans 8:23, where what is being groaned for is stated explicitly: "the redemption of our body." Paul is not groaning to escape the body; he is groaning for the body's transformation.
 
 Paul himself teaches plainly when and how believers are with the Lord: "The dead in Christ shall rise first... and so shall we ever be with the Lord" (1 Thess 4:16-17). From the perspective of someone who is asleep, death and resurrection would be experienced as instantaneous -- there is no gap. Paul's desire to "be with Christ" is answered at the resurrection.
+
+*For a comprehensive Greek grammatical analysis of this passage, see [Study 19 -- 2 Corinthians 5 and the Intermediate State](../etc-19-2-corinthians-5-intermediate-state/conclusion-simple.md).*
 
 ### Luke 23:43 -- "Today shalt thou be with me in paradise"
 
