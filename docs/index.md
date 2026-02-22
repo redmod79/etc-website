@@ -74,7 +74,7 @@ How does it all hold together?
 | 15 | [The Strongest Case for ECT](studies/etc-15-ect-strongest-case/conclusion-simple.md) | What is the strongest biblical case for eternal conscious torment? How does it hold up against the full evidence? |
 | 16 | [Historical Origins of ECT](studies/etc-16-origins-of-ect/conclusion-simple.md) | Where does the concept of an inherently immortal soul come from -- the Bible or Greek philosophy? |
 | 17 | [God's Character and Justice](studies/etc-17-gods-character-and-justice/conclusion-simple.md) | Does the Bible describe God's justice as proportional or unlimited? What does "all things new" mean? |
-| 18 | [**Comprehensive Synthesis**](studies/etc-18-comprehensive-synthesis/conclusion-simple.md) | Taking ALL the evidence together from 17 studies, where does the weight of evidence fall? |
+| 18 | [**Comprehensive Synthesis**](studies/etc-18-comprehensive-synthesis/conclusion-simple.md) | Taking ALL the evidence together from 18 studies (1--17 and 19), where does the weight of evidence fall? |
 
 ---
 
