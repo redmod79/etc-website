@@ -116,3 +116,15 @@ The synthesis across Studies 1--17 classified **597 unique evidence items** (449
 Not a single explicit statement (E-tier) or necessary implication (N-tier) in the entire 597-item evidence base was classified as supporting eternal conscious torment of human beings. 82.9% of conditionalist evidence is at E or N tier; 100% of ECT evidence is at the inference level (I-B, I-C, or I-D).
 
 [**Read the Full Synthesis**](studies/etc-18-comprehensive-synthesis/conclusion-simple.md){ .md-button .md-button--primary }
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Law of God**](https://redmod79.github.io/law-website/) | A 31-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |
