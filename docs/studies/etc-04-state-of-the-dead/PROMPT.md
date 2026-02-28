@@ -378,3 +378,15 @@ Write all output to: D:/Bible/bible-studies/etc-04-state-of-the-dead/
 - Builds on 182 existing master evidence items from etc-01, etc-02, and etc-03
 - Expected output: ~50-70 evidence items (some overlapping with prior studies, many new -- especially from the alleged intermediate state passages and sheol/hades passages)
 - Key new analysis: the alleged conscious intermediate state passages (Luke 16, Rev 6:9, 1 Sam 28, Matt 17, 1 Pet 3:18-20) which were not examined in prior etc studies
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

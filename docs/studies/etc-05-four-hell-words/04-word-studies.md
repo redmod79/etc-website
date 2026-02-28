@@ -247,3 +247,15 @@ All 10 occurrences are in the NT:
 ## G166 -- aionios (ahee-o-nee-os)
 
 **Note:** This word was studied in detail in etc-03. It is the adjective used in "everlasting punishment" (Matt 25:46), "everlasting fire" (Matt 18:8; 25:41), "eternal damnation" (Mark 3:29), and "everlasting destruction" (2 Thess 1:9). Its meaning ("eternal," "age-long," "pertaining to the age") is a critical interpretive question for this study.
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

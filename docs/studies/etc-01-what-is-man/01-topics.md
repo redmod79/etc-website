@@ -95,3 +95,15 @@ What does Scripture explicitly say about the nature and composition of human bei
 - DEATH -- SECOND (from within DEATH entry): PRO 14:12; EZK 18:4,10,13,21,23,24; 33:8,9,11,14-16; MAT 7:13; 10:28; 25:30,41,46; REV 2:11; 19:20; 20:14; 21:8
 - DEATH -- Called SLEEP: DEU 31:16; JOB 7:21; 14:12; JER 51:39; DAN 12:2; JHN 11:11; ACT 7:60; 13:36; 1CO 15:6,18,51; 1TH 4:14,15
 - MAN -- INSIGNIFICANCE OF: JOB 4:18,19; 15:14; 22:2-5; 25:4-6; 35:2-8; PSA 8:3,4; 144:3,4
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

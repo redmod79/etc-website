@@ -75,3 +75,15 @@ Luke 16:19-31 -- parable or literal? Genre, first-century Jewish context. Apply 
 
 ### JESUS, PARABLES OF
 Nave's entry for PARABLES references "See JESUS, PARABLES OF." The search for "parables of jesus" returned entries in MALFEASANCE IN OFFICE (referencing the steward of Luke 16:1-7) and INSTRUCTION. The PARABLES entry itself lists OT and NT parables together. Critically, the unjust steward parable (Luke 16:1-7) is explicitly recognized as a parable of Jesus, and it uses the same "a certain rich man" formula as Luke 16:19.
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

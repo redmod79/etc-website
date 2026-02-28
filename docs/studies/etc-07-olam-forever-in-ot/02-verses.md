@@ -563,3 +563,15 @@ The intensified construction using both H5769 (olam) and H5703 (ad).
 > **Daniel 7:14** — And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion [is] an **everlasting** dominion, which shall not pass away, and his kingdom [that] which shall not be destroyed.
 
 > **Daniel 7:18** — But the saints of the most High shall take the kingdom, and possess the kingdom **for ever, even for ever and ever**.
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

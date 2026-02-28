@@ -89,3 +89,15 @@ Cross-references:
 5. **Nave's LIFE > FROM GOD** (11 references) consistently presents life as originating from God and sustained by God, not as inherently possessed by humans.
 
 6. **Nave's LIFE > EVERLASTING** (40+ references) -- the majority of these references present eternal life as something received through faith in Christ (John's Gospel dominates), not as something inherently possessed.
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

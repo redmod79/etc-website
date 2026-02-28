@@ -398,3 +398,15 @@ LIFE/ETERNAL FAMILY:
 - **Mortality/corruption applied to humans:** thnetos (Rom 6:12; 8:11; 2 Cor 4:11; 5:4), phthora (1 Cor 15:42, 50; Gal 6:8)
 - **Mortality/corruption never applied to God:** God is always aphthartos, never thnetos or phthartos.
 - **Immortality/incorruption never applied to human beings as a present inherent possession:** In no NT verse is a human being or the human soul described with athanasia, aphtharsia, or aphthartos as a current, inherent quality.
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

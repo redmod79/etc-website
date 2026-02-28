@@ -234,3 +234,15 @@ In 2 Cor 5:4, baroumenoi (Pres Pass Ptcp, "being burdened") is the causal partic
 1. The passage cannot be interpreted by simply importing meaning from other passages that use different words.
 2. The meaning must be determined primarily from the immediate context and from the broader Pauline vocabulary (especially the related but distinct words like endyO, skEnE, and the parallel in Rom 8:23).
 3. The compound ependyO (put on OVER) must be distinguished from the simple endyO (put on) to understand Paul's precise thought.
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

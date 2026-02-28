@@ -300,3 +300,15 @@ The souls of the martyrs cry out. However, Revelation is apocalyptic/symbolic li
 ### 1 Corinthians 15:18 -- "Then they also which are fallen asleep in Christ are perished"
 
 This verse creates a severe problem for the conscious intermediate state view. Paul argues that if there is no resurrection, the dead in Christ "are perished" (apOlonto). If the dead were currently in conscious bliss with Christ, they could not be "perished" without resurrection. The resurrection is necessary because without it, the dead are genuinely lost -- not because they are suffering, but because they are dead, unconscious, with no hope of future existence. This is consistent with the OT testimony and with the conditionalist reading of 2 Cor 5.
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
+| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |
