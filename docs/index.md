@@ -1,6 +1,6 @@
 # The Final Fate of the Wicked: What Does the Bible Teach?
 
-*A comprehensive 19-study biblical investigation examining every major text, word, and argument bearing on the final fate of the wicked.*
+*A comprehensive 21-study biblical investigation examining every major text, word, and argument bearing on the final fate of the wicked.*
 
 ---
 
@@ -10,7 +10,7 @@ Two major positions exist in Christian theology regarding the fate of the wicked
 
 ## The Approach
 
-Each of the 19 studies is a genuine investigation. The agents gathered ALL relevant evidence, presented what each side claims, and let the biblical text speak for itself. No study presupposed its conclusion. Evidence was classified into hierarchical tiers:
+Each of the 21 studies is a genuine investigation. The agents gathered ALL relevant evidence, presented what each side claims, and let the biblical text speak for itself. No study presupposed its conclusion. Evidence was classified into hierarchical tiers:
 
 - **Explicit (E):** What the text directly says -- a quote or close paraphrase
 - **Necessary Implication (N):** What unavoidably follows from explicit statements
@@ -27,7 +27,7 @@ Each of the 19 studies is a genuine investigation. The agents gathered ALL relev
 
 ---
 
-## The 19 Studies
+## The 21 Studies
 
 ### Tier 1 -- Foundations
 
@@ -64,6 +64,8 @@ What do the most-debated passages actually say when examined in context?
 | 13 | [The Lake of Fire and Second Death](studies/etc-13-lake-of-fire-second-death/conclusion-simple.md) | What is the "lake of fire"? What is the "second death"? What happens to death and hades? |
 | 14 | [The Five Judgment Passages](studies/etc-14-judgment-passages/conclusion-simple.md) | What do Matt 25:46, Mark 9:43-48, Matt 10:28, 2 Thess 1:9, and Dan 12:2 teach? |
 | 19 | [2 Corinthians 5 and the Intermediate State](studies/etc-19-2-corinthians-5-intermediate-state/conclusion-simple.md) | Does 2 Cor 5:1-8 teach a conscious intermediate state, or is Paul describing the resurrection body? What does the clothing metaphor mean? |
+| 20 | [Matthew 10:28 -- Destroy Soul and Body in Hell](studies/etc-20-matthew-10-28/conclusion-simple.md) | What does "destroy both soul and body in hell" mean? Same-author analysis of psyche, apollymi, and gehenna in Matthew. |
+| 21 | [Jesus' Judgment Parables and Imagery](studies/etc-21-judgment-parables-imagery/conclusion-simple.md) | What do the wheat and tares, dragnet, outer darkness, and weeping/gnashing of teeth teach about the fate of the wicked? |
 
 ### Tier 4 -- Evaluation & Synthesis
 
@@ -74,7 +76,7 @@ How does it all hold together?
 | 15 | [The Strongest Case for ECT](studies/etc-15-ect-strongest-case/conclusion-simple.md) | What is the strongest biblical case for eternal conscious torment? How does it hold up against the full evidence? |
 | 16 | [Historical Origins of ECT](studies/etc-16-origins-of-ect/conclusion-simple.md) | Where does the concept of an inherently immortal soul come from -- the Bible or Greek philosophy? |
 | 17 | [God's Character and Justice](studies/etc-17-gods-character-and-justice/conclusion-simple.md) | Does the Bible describe God's justice as proportional or unlimited? What does "all things new" mean? |
-| 18 | [**Comprehensive Synthesis**](studies/etc-18-comprehensive-synthesis/conclusion-simple.md) | Taking ALL the evidence together from 18 studies (1--17 and 19), where does the weight of evidence fall? |
+| 18 | [**Comprehensive Synthesis**](studies/etc-18-comprehensive-synthesis/conclusion-simple.md) | Taking ALL the evidence together from 20 studies (1--17 and 19--21), where does the weight of evidence fall? |
 
 ---
 
@@ -97,23 +99,20 @@ Every study includes multiple layers of research, all accessible through the nav
 
 ## Evidence Summary (from Study 18)
 
-Study 18 synthesized the evidence from Studies 1--17. Study 19 (2 Corinthians 5 and the Intermediate State) was added subsequently as a supplementary passage study and is not included in the tallies below.
+Study 18 synthesized the evidence from Studies 1--17. Studies 19--21 were added subsequently as supplementary passage studies. The tallies below reflect the full 21-study series (632 evidence items).
 
-The synthesis across Studies 1--17 classified **597 unique evidence items** (449 E + 65 N + 83 I, after deduplication across all studies).
+The synthesis across all studies classified **632 unique evidence items** (after deduplication across all studies).
 
-### Positional Distribution (Studies 1--17)
+### Positional Distribution (All Studies)
 
-| Tier | Conditionalist | ECT-direction | Neutral | Total |
-|------|---------------|---------------|---------|-------|
-| E (Explicit) | 103 | 0 | 346 | 449 |
-| N (Necessary Implication) | 13 | 0 | 52 | 65 |
-| I-A (Evidence-Extending) | 24 | 0 | 0 | 24 |
-| I-B (Competing-Evidence) | 0 | 23 | 1 | 24 |
-| I-C (Compatible-External) | 0 | 30 | 2 | 32 |
-| I-D (Counter-Evidence External) | 0 | 4 | 0 | 4 |
-| **Total** | **140** | **57** | **401** | **598** |
+| Position | Count |
+|----------|-------|
+| Conditionalist | 147 |
+| ECT-direction | 59 |
+| Neutral | 426 |
+| **Total** | **632** |
 
-Not a single explicit statement (E-tier) or necessary implication (N-tier) in the entire 597-item evidence base was classified as supporting eternal conscious torment of human beings. 82.9% of conditionalist evidence is at E or N tier; 100% of ECT evidence is at the inference level (I-B, I-C, or I-D).
+No explicit statement (E-tier) or necessary implication (N-tier) in the entire evidence base was classified as supporting eternal conscious torment of human beings. 100% of ECT evidence is at the inference level (I-B, I-C, or I-D).
 
 [**Read the Full Synthesis**](studies/etc-18-comprehensive-synthesis/conclusion-simple.md){ .md-button .md-button--primary }
 
