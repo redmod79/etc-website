@@ -15,11 +15,11 @@ The fifth seal (Rev 6:9-11) occurs within a sequence of seven seals, each opened
 - **First seal (6:1-2):** A white horse with a crowned rider carrying a bow -- symbolic.
 - **Second seal (6:3-4):** A red horse whose rider takes peace from the earth -- symbolic.
 - **Third seal (6:5-6):** A black horse with a rider holding balances; a voice sets prices for wheat and barley -- symbolic.
-- **Fourth seal (6:7-8):** A pale horse whose rider is named "Death," and "Hell" (Hades) follows him. Death and Hades are personified as riders -- symbolic. Personification of Death and Hades as characters who ride horses is not didactic description.
+- **Fourth seal (6:7-8):** A pale horse whose rider is named "Death," and "Hell" ([Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}) follows him. Death and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} are personified as riders -- symbolic. Personification of Death and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} as characters who ride horses is not didactic description.
 - **Fifth seal (6:9-11):** Souls under the altar cry and are told to rest -- the passage under study.
 - **Sixth seal (6:12-14):** The sun becomes black as sackcloth, the moon becomes as blood, stars fall, heaven departs as a scroll -- cosmic imagery, symbolic.
 
-Every seal in the sequence surrounding the fifth seal uses symbolic imagery. The fourth seal, immediately preceding the fifth, personifies Death and Hades as horsemen. The literary context in which the fifth seal appears is entirely apocalyptic-symbolic.
+Every seal in the sequence surrounding the fifth seal uses symbolic imagery. The fourth seal, immediately preceding the fifth, personifies Death and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} as horsemen. The literary context in which the fifth seal appears is entirely apocalyptic-symbolic.
 
 ### Rev 16:7 -- The Altar Itself Speaks
 
@@ -39,7 +39,7 @@ Rev 16:7 states: "And I heard another out of the altar say, Even so, Lord God Al
 
 **Key observations:**
 
-1. **Psyche (G5590) = nephesh (H5315) = blood = life.** The LXX consistently translates nephesh as psyche. The OT repeatedly equates nephesh with blood: "the nephesh of the flesh is in the blood" (Lev 17:11); "the blood is the nephesh" (Deut 12:23); "flesh with the nephesh thereof, which is the blood thereof" (Gen 9:4). When John sees psychas "under the altar," the OT background points to blood-life poured at the altar's base.
+1. **[Psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} (G5590) = [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} (H5315) = blood = life.** The LXX consistently translates [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} as [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}. The OT repeatedly equates [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} with blood: "the [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} of the flesh is in the blood" (Lev 17:11); "the blood is the [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}" (Deut 12:23); "flesh with the [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} thereof, which is the blood thereof" (Gen 9:4). When John sees psychas "under the altar," the OT background points to blood-life poured at the altar's base.
 
 2. **Blood poured at the base of the altar.** In the OT sacrificial system, the blood of the sin offering was poured at the bottom of the altar of burnt offering (Lev 4:7,18,25,30,34; Exo 29:12; Lev 8:15). This was done repeatedly -- five separate Levitical passages describe blood poured at the altar's base. John sees the psychas (blood-life) "under" (hypokatō, beneath/at the bottom of) the altar. The spatial correspondence is exact: the blood of the sacrificed victim collects at the base of the altar.
 
@@ -102,9 +102,9 @@ The sphazō vocabulary explicitly connects the two: Abel was "slain" (sphazō, 1
 
 In Gen 4:10, the blood cries without literal consciousness. The pattern is forensic personification: shed blood testifies before God that injustice has been committed.
 
-### Pattern 2: Psyche-Blood-Altar Spatial Correspondence
+### Pattern 2: [Psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}-Blood-Altar Spatial Correspondence
 
-The OT establishes: nephesh/psyche = blood = life (Lev 17:11,14; Gen 9:4; Deut 12:23). The OT sacrificial system places the blood at the base of the altar (Lev 4:7,18,25,30,34; Exo 29:12). John sees psychas (blood-life) "under" (hypokatō) the altar. The spatial location of the psychas corresponds to the spatial location of sacrificial blood in the OT system.
+The OT establishes: [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}/[psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} = blood = life (Lev 17:11,14; Gen 9:4; Deut 12:23). The OT sacrificial system places the blood at the base of the altar (Lev 4:7,18,25,30,34; Exo 29:12). John sees psychas (blood-life) "under" (hypokatō) the altar. The spatial location of the psychas corresponds to the spatial location of sacrificial blood in the OT system.
 
 ### Pattern 3: The Sphazō Vocabulary Chain
 
@@ -129,7 +129,7 @@ In each case, rest precedes the eschatological resolution (vindication, labors' 
 ### Pattern 5: Personification Throughout Revelation
 
 Revelation uses personification extensively:
-- Death and Hades ride horses (Rev 6:8)
+- Death and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} ride horses (Rev 6:8)
 - The altar speaks (Rev 16:7)
 - Trees of the field clap hands (Isa 55:12, background imagery)
 - Babylon is a woman (Rev 17:3-4)
@@ -169,14 +169,14 @@ The statement "the rest of the dead lived not again until the thousand years wer
 
 ## Word Study Insights
 
-### Psyche (G5590) as Blood-Life, Not Disembodied Soul
+### [Psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} (G5590) as Blood-Life, Not Disembodied Soul
 
-The translation "souls" in Rev 6:9 can give the impression of disembodied conscious entities. The word psyche, however, means "life" or "living being" (the Greek equivalent of Hebrew nephesh). In Revelation itself:
+The translation "souls" in Rev 6:9 can give the impression of disembodied conscious entities. The word [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}, however, means "life" or "living being" (the Greek equivalent of Hebrew [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}). In Revelation itself:
 - Rev 12:11: "they loved not their psychas [lives] unto the death"
-- Rev 16:3: "every living psyche [soul/creature] died in the sea"
-- Rev 8:9: creatures in the sea that had psyche [life] died
+- Rev 16:3: "every living [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} [soul/creature] died in the sea"
+- Rev 8:9: creatures in the sea that had [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} [life] died
 
-The nephesh-blood equation (Lev 17:11,14; Gen 9:4; Deut 12:23) means that psyche in a sacrificial context = blood-life. "The psychas of them that were slain" = the blood-life of those who were sacrificed.
+The [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}-blood equation (Lev 17:11,14; Gen 9:4; Deut 12:23) means that [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} in a sacrificial context = blood-life. "The psychas of them that were slain" = the blood-life of those who were sacrificed.
 
 ### Sphazō (G4969) as Sacrificial Terminology
 
@@ -200,7 +200,7 @@ The passage describes souls that "cry" and receive a response. An ECT reading in
 
 1. The scene occurs in an apocalyptic vision, not in didactic prose.
 2. The altar itself speaks in Rev 16:7 within the same book.
-3. Death and Hades are personified as horsemen in the immediately preceding seal (Rev 6:8).
+3. Death and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} are personified as horsemen in the immediately preceding seal (Rev 6:8).
 4. Abel's blood "cries" from the ground without Abel being conscious (Gen 4:10).
 5. The souls ask for the avenging of "our blood" -- identifying themselves with their shed blood, not with a conscious state.
 6. They are told to "rest" (anapauō) -- the same word used for the blessed dead's rest (Rev 14:13).
@@ -226,13 +226,13 @@ The giving of white robes to the souls could be read as interaction with conscio
 
 **Gate 1 (Subject Gate):** Is the grammatical subject a literal human being?
 
-The "souls under the altar" are figures in an apocalyptic vision. In the same vision, the preceding seal personifies Death and Hades as horsemen (Rev 6:8). The first four seals present symbolic horses with symbolic riders. The six seals collectively present a visionary sequence of symbolic figures. The "souls" are vision-figures in an apocalyptic context, not literal human beings encountered in the physical world.
+The "souls under the altar" are figures in an apocalyptic vision. In the same vision, the preceding seal personifies Death and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} as horsemen (Rev 6:8). The first four seals present symbolic horses with symbolic riders. The six seals collectively present a visionary sequence of symbolic figures. The "souls" are vision-figures in an apocalyptic context, not literal human beings encountered in the physical world.
 
 **FAIL:** Subject is a symbolic vision-figure in an apocalyptic vision.
 
 **Gate 3 (Genre Gate):** Is the passage didactic prose?
 
-Revelation is apocalyptic vision literature. Nave's classifies the entire book under VISION. Rev 1:1 states the book communicates through signs (sēmainō). The seal sequence (Rev 6) contains symbolic horses, personified Death and Hades, cosmic upheaval (sun black, moon as blood, stars falling, sky rolled up). The passage is an apocalyptic vision, not didactic prose.
+Revelation is apocalyptic vision literature. Nave's classifies the entire book under VISION. Rev 1:1 states the book communicates through signs (sēmainō). The seal sequence (Rev 6) contains symbolic horses, personified Death and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}, cosmic upheaval (sun black, moon as blood, stars falling, sky rolled up). The passage is an apocalyptic vision, not didactic prose.
 
 **FAIL:** Genre is apocalyptic vision.
 

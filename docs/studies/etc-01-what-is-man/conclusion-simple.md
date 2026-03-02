@@ -55,7 +55,7 @@ Job 14:21 captures the picture vividly: a dead man's sons may rise to honor or f
 
 ## What Scripture Says About the Soul
 
-The Hebrew word for "soul" (*nephesh*) carries a wide range of meanings -- it can refer to a living creature, a person, one's appetite or desire, or even a dead body. In Leviticus 21:11 and Numbers 6:6, the phrase *nephesh meth* means "dead soul" or "dead body." The soul is not, in Hebrew thinking, inherently alive or immortal.
+The Hebrew word for "soul" (*[nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}*) carries a wide range of meanings -- it can refer to a living creature, a person, one's appetite or desire, or even a dead body. In Leviticus 21:11 and Numbers 6:6, the phrase *[nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} meth* means "dead soul" or "dead body." The soul is not, in Hebrew thinking, inherently alive or immortal.
 
 More directly:
 

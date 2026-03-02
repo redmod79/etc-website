@@ -36,13 +36,13 @@ The story is about whether people will heed the existing Scripture. The afterlif
 
 ### 4. "Abraham's Bosom" Appears Nowhere Else in Scripture
 
-"Abraham's bosom" (*kolpos Abraam*) as a destination for the dead appears only in Luke 16:22-23. It is not in the Old Testament, the other Gospels, Acts, the Epistles, or Revelation. The standard New Testament term for the blessed resting place of the dead is *paradise* (*paradeisos*) — a word the same author, Luke, uses in Luke 23:43, but does not use here.
+"Abraham's bosom" (*kolpos Abraam*) as a destination for the dead appears only in Luke 16:22-23. It is not in the Old Testament, the other Gospels, Acts, the Epistles, or Revelation. The standard New Testament term for the blessed resting place of the dead is *paradise* (*[paradeisos](https://www.blueletterbible.org/lexicon/g3857/kjv/tr/0-1/){:target="_blank"}*) — a word the same author, Luke, uses in Luke 23:43, but does not use here.
 
 Elsewhere in the New Testament, *kolpos* (bosom) means an intimate relationship (John 1:18: "the bosom of the Father"), physical closeness (John 13:23: leaning on Jesus at the table), a garment fold used to carry things (Luke 6:38), or a geographic bay (Acts 27:39). None of these uses describe a post-mortem location.
 
 ### 5. The Torment Language Is Different From the Eschatological Torment Passages
 
-Luke 16 uses the Greek words *basanos* (noun, "torments") and *odunao* (verb, "to grieve/sorrow") for its torment descriptions. The New Testament's clear eschatological torment passages — the ones describing the final punishment of the wicked — use a different word: *basanizo* (Revelation 14:10; 20:10).
+Luke 16 uses the Greek words *basanos* (noun, "torments") and *odunao* (verb, "to grieve/sorrow") for its torment descriptions. The New Testament's clear eschatological torment passages — the ones describing the final punishment of the wicked — use a different word: *[basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}* (Revelation 14:10; 20:10).
 
 The word translated "tormented" in Luke 16:24-25 (*odunao*) is the same word Luke uses in these two other places:
 
@@ -94,7 +94,7 @@ Multiple independent lines of evidence converge toward reading Luke 16:19-31 as 
 - The story is the fifth in a continuous parabolic discourse spanning Luke 15-16.
 - The story's own climax (vv.29,31) identifies its purpose: hearing Moses and the prophets.
 - "Abraham's bosom" as a location appears only here and is not found anywhere else in Scripture.
-- The torment vocabulary (*odunao*, "to grieve/sorrow") differs from the eschatological torment vocabulary (*basanizo*) used elsewhere in the New Testament.
+- The torment vocabulary (*odunao*, "to grieve/sorrow") differs from the eschatological torment vocabulary (*[basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}*) used elsewhere in the New Testament.
 - The same author (Luke) records in Acts that a righteous man (David) has not ascended to heaven.
 - Nine direct passages from six or more biblical authors describe the dead as unconscious.
 

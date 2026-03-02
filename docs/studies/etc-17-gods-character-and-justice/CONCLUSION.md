@@ -18,6 +18,9 @@ Scripture reveals God's character through an explicit, repeated self-description
 - **Ezekiel 18:23,32** -- "Have I any pleasure at all that the wicked should die?... I have no pleasure in the death of him that dieth."
 - **2 Peter 3:9** -- "Not willing that any should perish, but that all should come to repentance."
 - **Psalm 145:17,20** -- "The LORD [is] righteous in all his ways, and holy in all his works... The LORD preserveth all them that love him: but all the wicked will he destroy."
+- **1 Timothy 2:4** -- "Who will have all men to be saved, and to come unto the knowledge of the truth."
+- **Ezekiel 33:11** -- "As I live, saith the Lord GOD, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live: turn ye, turn ye from your evil ways; for why will ye die, O house of Israel?"
+- **Lamentations 3:33** -- "For he doth not afflict willingly [milibo, 'from his heart'] nor grieve the children of men."
 
 ---
 
@@ -56,11 +59,11 @@ Scripture reveals God's character through an explicit, repeated self-description
 | E17 | "Have I any pleasure at all that the wicked should die? saith the Lord GOD: [and] not that he should return from his ways, and live?" | Ezek 18:23 | Neutral | NEW: E441 |
 | E18 | "I have no pleasure in the death of him that dieth" | Ezek 18:32 | Neutral | NEW: E442 |
 | E19 | "I have no pleasure in the death of the wicked; but that the wicked turn from his way and live: turn ye, turn ye from your evil ways; for why will ye die?" | Ezek 33:11 | Neutral | NEW: E443 |
-| E20 | "The Lord is not slack concerning his promise... but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance" | 2 Pet 3:9 | Neutral | *existing: E249* |
+| E20 | "The Lord is not slack concerning his promise... but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance" | 2 Pet 3:9 | Neutral | *existing: E239* |
 | E21 | Every recorded divine judgment in Scripture results in death/destruction: flood (Gen 7:21-23 -- "died," "destroyed"), Sodom (Gen 19:24-25 -- "overthrew"), Korah (Num 16:31-35 -- "perished," "consumed"), Nadab/Abihu (Lev 10:1-2 -- "devoured," "died") | Multiple | Neutral | NEW: E444 |
-| E22 | "For the wages of sin [is] death; but the gift of God [is] eternal life" | Rom 6:23 | Cond. | *existing: E036* |
-| E23 | "The soul that sinneth, it shall die" | Ezek 18:4,20 | Cond. | *existing: E014* |
-| E24 | God describes His judgment of Nineveh: "he will make an utter end" (kalah) | Nah 1:8-9 | Cond. | NEW: E445 |
+| E22 | "For the wages of sin [is] death; but the gift of God [is] eternal life" | Rom 6:23 | Cond. | *existing: E087* |
+| E23 | "The soul that sinneth, it shall die" | Ezek 18:4,20 | Cond. | *existing: E016* |
+| E24 | God describes His judgment of Nineveh: "he will make an utter end" ([kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}) | Nah 1:8-9 | Cond. | NEW: E445 |
 | E25 | "Who will have all men to be saved, and to come unto the knowledge of the truth" | 1 Tim 2:4 | Neutral | NEW: E446 |
 | E26 | Cain's punishment for the first murder: exile and wandering, NOT death -- God set a mark to protect him | Gen 4:11-15 | Neutral | NEW: E447 |
 
@@ -72,7 +75,7 @@ Scripture reveals God's character through an explicit, repeated self-description
 |---|---|---|---|---|---|
 | N1 | Biblical punishment is proportional to deeds, not uniform | E9 (many/few stripes), E10 (more tolerable), E11 (just recompense), E12 (sorer punishment), E13 (according to deeds), E15 (receive for the wrong done), E16 (according to ways) | All 7 passages state that punishment varies according to the offense. No reader of any position can deny that these texts teach proportional, not uniform, punishment. | Neutral | NEW: N062 |
 | N2 | God's revealed character places mercy as predominant over judgment | E1 (Ex 34:6-7: six mercy-attributes before two justice-attributes), E2 (mercy to thousands, judgment to third/fourth generation) | The text itself proportions mercy-language to judgment-language roughly 6:2. No additional framework is needed to see this. | Neutral | NEW: N063 |
-| N3 | God's anger is explicitly described as temporary, not permanent | E3 ("not always chide," "not keep anger for ever"), E6 ("retaineth not his anger for ever") | Both texts use "for ever" (olam/la'ad) with negation. God's anger does not persist indefinitely. Both ECT and conditionalist scholars can read this in the text. | Cond. | NEW: N064 |
+| N3 | God's anger is explicitly described as temporary, not permanent | E3 ("not always chide," "not keep anger for ever"), E6 ("retaineth not his anger for ever") | Both texts use "for ever" ([olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}/la'ad) with negation. God's anger does not persist indefinitely. Both ECT and conditionalist scholars can read this in the text. | Cond. | NEW: N064 |
 | N4 | God does not take pleasure in executing the death penalty on the wicked | E17 ("Have I any pleasure... that the wicked should die?"), E18 ("I have no pleasure in the death of him that dieth"), E19 ("I have no pleasure in the death of the wicked") | Three times God states this. The rhetorical question in E17 expects a "no" answer. This is what the text says. | Neutral | NEW: N065 |
 
 ---
@@ -137,8 +140,13 @@ Note: The single ECT-direction item (I3) is an I-C inference requiring an extern
 3. God has "no pleasure in the death of the wicked" (Ezek 18:23,32; 33:11) and is "not willing that any should perish" (2 Pet 3:9).
 4. Biblical punishment is explicitly proportional: "according to deeds" (Rom 2:6), "many stripes" vs. "few stripes" (Luke 12:47-48), "more tolerable" (Matt 10:15; 11:22), "just recompense" (Heb 2:2), "sorer punishment" (Heb 10:29). This is stated in at least 11 passages across 9 authors.
 5. Every recorded divine judgment in Scripture results in death/destruction, never ongoing torment.
-6. The stated penalty for sin is death (Rom 6:23; Ezek 18:4,20; Gen 2:17), using the same word (thanatos/mut) consistently.
+6. The stated penalty for sin is death (Rom 6:23; Ezek 18:4,20; Gen 2:17), using the same word ([thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}/mut) consistently.
 7. The "sin against infinite God requires infinite punishment" argument (I3) is not found in any biblical text. It is a philosophical framework originating with Anselm of Canterbury (c. 1098 AD). No verse measures punishment by the dignity of the offended party. Every verse that addresses the measure of punishment uses "according to deeds" (the offender's actions).
+
+**The Anselmian "infinite God / infinite punishment" argument:** This philosophical construct (Anselm, c. 1098; Aquinas; Edwards) is absent from Scripture. Biblical justice is explicitly proportional — "according to his deeds" (Rom 2:6), "many stripes / few stripes" (Luke 12:47-48), "greater sin" (John 19:11) — which is antithetical to "all sin is equally infinite." God declares he does NOT retain anger forever (Mic 7:18; Ps 30:5; Isa 57:16), directly contradicting the infinite-punishment premise. The argument derives from 11th-century feudal jurisprudence (offense measured by the offended party's rank), not from biblical proportional justice (offense measured by the harm done).
+
+**1 Timothy 2:4, Ezekiel 33:11, Lamentations 3:33 — God's stated desires:** God wills all to be saved (1 Tim 2:4), takes no pleasure in the death of the wicked (Ezek 33:11; 18:23,32), and does not afflict from his heart (Lam 3:33). ECT requires God to act contrary to all three declarations — perpetually, for the majority of humanity. Conditionalism aligns with these declarations: the wicked perish (God does not desire this but permits it), and the affliction reaches its conclusion.
+
 8. Destruction (cessation) is consistent with all E-level and N-level findings: proportional justice, temporary divine anger, the stated penalty of death, God's self-revealed character, and the observed pattern of historical judgments.
 
 ## What CANNOT Be Said

@@ -1,21 +1,21 @@
-# Research Agent Prompt: etc-07 -- Olam/Forever in OT
+# Research Agent Prompt: etc-07 -- [Olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}/Forever in OT
 
 ## Study Question
-Does Hebrew olam (H5769) always mean eternal/endless? All major usage categories including clearly limited uses. Duration determined by nature of subject?
+Does Hebrew [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} (H5769) always mean eternal/endless? All major usage categories including clearly limited uses. Duration determined by nature of subject?
 
 ## Series Context
-This is study etc-07 in the etc series (The Final Fate of the Wicked). Prior studies (etc-01 through etc-06) have produced 346 evidence items. This study examines the Hebrew word olam -- the primary OT word translated "for ever," "everlasting," "perpetual," etc. -- to determine its actual semantic range and whether it inherently means "eternal/endless" or whether context and the nature of the subject determine its duration.
+This is study etc-07 in the etc series (The Final Fate of the Wicked). Prior studies (etc-01 through etc-06) have produced 346 evidence items. This study examines the Hebrew word [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} -- the primary OT word translated "for ever," "everlasting," "perpetual," etc. -- to determine its actual semantic range and whether it inherently means "eternal/endless" or whether context and the nature of the subject determine its duration.
 
 **Do NOT reference etc-01-what-is-man (deleted).**
 
 ### Prior Study Findings (Read from CONCLUSION.md files)
 
-**etc-05 (Four Hell Words):** Sheol (H7585) and hades (G86) are semantically equivalent. Both designate the general abode of all the dead, characterized by unconsciousness in didactic passages. Gehenna uses destruction vocabulary (apollumi), not torment vocabulary. No "hell" word inherently means "eternal torment." The KJV translation of four distinct words as "hell" obscures their different semantic ranges.
+**etc-05 (Four Hell Words):** [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} (H7585) and [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (G86) are semantically equivalent. Both designate the general abode of all the dead, characterized by unconsciousness in didactic passages. [Gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} uses destruction vocabulary ([apollumi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}), not torment vocabulary. No "hell" word inherently means "eternal torment." The KJV translation of four distinct words as "hell" obscures their different semantic ranges.
 
-**etc-06 (Destruction Vocabulary):** Seven destruction words (abad, shamad, kalah, shachath, apollymi, apoleia, olethros) totaling ~743 combined occurrences form the Bible's primary vocabulary for the fate of the wicked. No lexicon defines any as "torment." The LXX maps abad to apollymi 141 times. "Everlasting destruction" (olethros aionios, 2 Thess 1:9) parallels OT "destroyed for ever" (Psa 92:7) and "perish for ever" (Job 20:7). Jude 1:7 demonstrates "eternal fire" = completed destruction with permanent result (Sodom not still burning).
+**etc-06 (Destruction Vocabulary):** Seven destruction words ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}, [shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}, [kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}, [shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}, [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}, [apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}, [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}) totaling ~743 combined occurrences form the Bible's primary vocabulary for the fate of the wicked. No lexicon defines any as "torment." The LXX maps [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} to [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} 141 times. "Everlasting destruction" ([olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}, 2 Thess 1:9) parallels OT "destroyed for ever" (Psa 92:7) and "perish for ever" (Job 20:7). Jude 1:7 demonstrates "eternal fire" = completed destruction with permanent result (Sodom not still burning).
 
 ### Relevance to This Study
-etc-06 already documented that "destroyed for ever" (Psa 92:7, H5769) uses olam to describe destruction whose result is permanent. This study examines the full semantic range of olam across ALL its ~432 occurrences to determine whether the word itself demands "endless duration" or whether it means something like "age-long / pertaining to the age / indefinite duration" with context determining the actual scope.
+etc-06 already documented that "destroyed for ever" (Psa 92:7, H5769) uses [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} to describe destruction whose result is permanent. This study examines the full semantic range of [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} across ALL its ~432 occurrences to determine whether the word itself demands "endless duration" or whether it means something like "age-long / pertaining to the age / indefinite duration" with context determining the actual scope.
 
 ## Methodology
 Read and follow: D:/Bible/bible-studies/etc-series-methodology.md (the full methodology is in that file).
@@ -35,47 +35,47 @@ Use kjv.txt to retrieve the actual text of every verse listed below. **Verses mu
 
 ### Phase 2: Word Studies (from tool output below)
 
-**Primary word: H5769 (olam)**
+**Primary word: [H5769](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} (olam)**
 - Strong's definition: properly, concealed, i.e. the vanishing point; generally, time out of mind (past or future), i.e. (practically) eternity; frequentatively, adverbial (especially with prepositional prefix) always
 - Part of speech: masculine noun
 - Total occurrences: ~432
 - KJV translations: "for ever" (198x, 45.8%), "ever" (70x, 16.2%), "everlasting" (56x, 13.0%), "perpetual" (22x, 5.1%), "of old" (13x, 3.0%), "evermore" (8x), "old" (7x), "for evermore" (7x), "never" (6x), "from everlasting" (5x), "ancient" (4x), "always" (3x), "of old time" (3x), plus 27 additional low-frequency translations including "long," "long time," "lasting," "eternal" (1x), "world without end" (1x), "ancient" (1x)
-- LXX mappings: aion (G165) 287x (PMI 5.55), aionios (G166) 100x (PMI 5.67), genea (G1074) 51x, nomimos (G3545) 30x, eleos (G1656) 57x, plus others
+- LXX mappings: [aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} (G165) 287x (PMI 5.55), [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} (G166) 100x (PMI 5.67), genea (G1074) 51x, nomimos (G3545) 30x, eleos (G1656) 57x, plus others
 
-**Comparison word: H5703 (ad - forever/perpetuity)**
+**Comparison word: [H5703](https://www.blueletterbible.org/lexicon/h5703/kjv/wlc/0-1/){:target="_blank"} (ad - forever/perpetuity)**
 - Strong's definition: properly, a (peremptory) terminus, i.e. (by implication) duration, in the sense of advance or perpetuity
 - Total occurrences: ~51
 - KJV translations: "for ever" (25x), "and ever" (14x), "everlasting" (2x), "eternity" (1x), "perpetually" (1x)
-- LXX mappings: aion (G165) 33x, meno (G3306) 4x, apollymi (G622) 6x
+- LXX mappings: [aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} (G165) 33x, meno (G3306) 4x, [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (G622) 6x
 
-**Comparison word: H5331 (netsach - perpetuity/forever)**
+**Comparison word: [H5331](https://www.blueletterbible.org/lexicon/h5331/kjv/wlc/0-1/){:target="_blank"} (netsach - perpetuity/forever)**
 - Strong's definition: properly, a goal, i.e. the bright object at a distance travelled towards; hence (figuratively), splendor, or (subjectively) truthfulness, or (objectively) confidence; but usually (adverbially), continually (i.e. to the most distant point of view)
 - Total occurrences: ~44
 - KJV translations: "for ever" (21x), "perpetual" (3x), "never" (3x), "always" (2x), "ever" (2x), "the Strength" (1x), "victory" (1x)
-- LXX mappings: telos (G5056) 19x (PMI 6.41), pote (G4219) 5x, orgizo (G3710) 5x, aion (G165) 10x, apollymi (G622) 6x
+- LXX mappings: telos (G5056) 19x (PMI 6.41), pote (G4219) 5x, orgizo (G3710) 5x, [aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} (G165) 10x, [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (G622) 6x
 
-### Phase 3: Categorize ALL Major Usage Categories of Olam
+### Phase 3: Categorize ALL Major Usage Categories of [Olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}
 
 Organize the ~432 occurrences into these categories. For each category, retrieve the actual verse text and note whether the subject is inherently eternal or inherently limited.
 
 #### Category A: Applied to God and His Attributes (inherently eternal subject)
-- God himself: Gen 21:33 (el olam), Isa 40:28 (elohei olam), Jer 10:10 (king of olam), Psa 90:2 (from olam to olam thou art God), Isa 57:15 (inhabiteth olam), Deu 33:27 (the olam God)
-- God's lovingkindness/mercy: Psa 136:1-26 (26x "his mercy endureth le-olam"), Psa 100:5, 103:17, 107:1, 118:1-4, Jer 31:3, Isa 54:8
+- God himself: Gen 21:33 (el [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}), Isa 40:28 (elohei [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}), Jer 10:10 (king of [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}), Psa 90:2 (from [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} to [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} thou art God), Isa 57:15 (inhabiteth [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}), Deu 33:27 (the [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} God)
+- God's lovingkindness/mercy: Psa 136:1-26 (26x "his mercy endureth le-[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}"), Psa 100:5, 103:17, 107:1, 118:1-4, Jer 31:3, Isa 54:8
 - God's righteousness: Psa 119:142, 119:144
 - God's word: Psa 119:89, Isa 40:8
 - God's name: Psa 135:13
 - God's throne/reign: Psa 29:10, 45:6, 66:7, 93:2, 145:13, 146:10, Exo 15:18, Lam 5:19
 
 #### Category B: Applied to Covenants and Institutions (subject has ended or will end)
-- Aaronic priesthood: Exo 29:9, 40:15, Num 25:13 (olam priesthood -- ended)
+- Aaronic priesthood: Exo 29:9, 40:15, Num 25:13 ([olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} priesthood -- ended)
 - Levitical statutes: Lev 3:17, 6:18, 6:22, 7:34, 7:36, 10:9, 10:15, 16:29, 16:34, 17:7, 23:14, 23:21, 23:31, 23:41, 24:3, 24:8, 24:9
-- Circumcision: Gen 17:13 (olam covenant -- but the covenant is now in Christ, not circumcision)
-- Passover: Exo 12:14, 12:17, 12:24 (olam ordinance -- not observed as Mosaic ordinance)
-- Sabbath as sign: Exo 31:16, 31:17 (olam covenant)
-- Land promises: Gen 13:15, 17:8, 48:4 (olam possession)
-- Davidic throne: 2 Sam 7:13, 7:16, 7:24, 7:25, 7:26, 7:29 (olam -- the literal Davidic kingdom ended)
-- Solomonic temple: 1 Ki 8:13, 9:3 (olam -- temple destroyed)
-- The Mosaic covenant generally: Lev 24:8-9, Num 18:19 (olam statutes -- Mosaic system has ended)
+- Circumcision: Gen 17:13 ([olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} covenant -- but the covenant is now in Christ, not circumcision)
+- Passover: Exo 12:14, 12:17, 12:24 ([olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} ordinance -- not observed as Mosaic ordinance)
+- Sabbath as sign: Exo 31:16, 31:17 ([olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} covenant)
+- Land promises: Gen 13:15, 17:8, 48:4 ([olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} possession)
+- Davidic throne: 2 Sam 7:13, 7:16, 7:24, 7:25, 7:26, 7:29 ([olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} -- the literal Davidic kingdom ended)
+- Solomonic temple: 1 Ki 8:13, 9:3 ([olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} -- temple destroyed)
+- The Mosaic covenant generally: Lev 24:8-9, Num 18:19 ([olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} statutes -- Mosaic system has ended)
 
 #### Category C: Applied to Human/Finite Subjects (clearly limited)
 - Slave service: Exo 21:6, Deu 15:17 ("serve thee for ever" -- limited to slave's lifetime)
@@ -83,9 +83,9 @@ Organize the ~432 occurrences into these categories. For each category, retrieve
 - Jonah in the fish: Jon 2:6 ("for ever" -- three days)
 - Earth's duration: Ecc 1:4 ("the earth abideth for ever" -- but cf. 2 Pet 3:10, Rev 21:1)
 - Hills and mountains: Gen 49:26, Hab 3:6 ("everlasting hills" -- not truly eternal)
-- Sodom's desolation: Jer 49:13, 50:5 (olam desolation/covenant)
+- Sodom's desolation: Jer 49:13, 50:5 ([olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} desolation/covenant)
 - Babylon's desolation: Jer 25:9, 25:12, 51:26, 51:39, 51:57, 51:62
-- Edom's desolation: Isa 34:10 (smoke goes up le-olam -- Edom not still smoking)
+- Edom's desolation: Isa 34:10 (smoke goes up le-[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} -- Edom not still smoking)
 - Leprosy of Gehazi: 2 Ki 5:27 (leprosy "for ever" -- limited to descendants)
 - Reproach of David's house: 2 Sam 12:10 (sword shall never depart "for ever")
 - Human lifespan references: Ecc 12:5 ("man goeth to his long [olam] home")
@@ -101,7 +101,7 @@ Organize the ~432 occurrences into these categories. For each category, retrieve
 - Everlasting contempt: Dan 12:2
 - Everlasting shame: Jer 23:40
 - Stars shining forever: Dan 12:3
-- Destroyed forever: Psa 92:7 (H5703+H5769 combination)
+- Destroyed forever: Psa 92:7 (H5703+[H5769](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} combination)
 - Everlasting covenant (new): Isa 55:3, 61:8, Jer 32:40, 50:5, Eze 16:60, 37:26
 - Everlasting joy: Isa 35:10, 51:11, 61:7
 - Everlasting salvation: Isa 45:17
@@ -109,23 +109,23 @@ Organize the ~432 occurrences into these categories. For each category, retrieve
 - Everlasting name/sign: Isa 55:13, 56:5
 
 #### Category F: Combined Forms
-- le-olam va-ed (for ever and ever): Psa 9:5, 10:16, 21:4, 45:6, 48:14, 52:8, 104:5, 111:8, 119:44, 145:1, 145:2, 145:21, Dan 12:3, Mic 4:5, etc.
-- min-ha-olam ve-ad-ha-olam (from everlasting to everlasting): Psa 90:2, 41:13, 103:17, 106:48, 1 Ch 16:36, 29:10, Neh 9:5
-- ad olam (unto olam): numerous occurrences
+- le-[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} va-ed (for ever and ever): Psa 9:5, 10:16, 21:4, 45:6, 48:14, 52:8, 104:5, 111:8, 119:44, 145:1, 145:2, 145:21, Dan 12:3, Mic 4:5, etc.
+- min-ha-[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} ve-ad-ha-[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} (from everlasting to everlasting): Psa 90:2, 41:13, 103:17, 106:48, 1 Ch 16:36, 29:10, Neh 9:5
+- ad [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} (unto [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}): numerous occurrences
 
 ### Phase 4: Key Analytical Questions
 
-1. **Does olam inherently mean "endless"?** Examine cases where the subject of olam has demonstrably ended (Aaronic priesthood, Mosaic ordinances, Solomonic temple, slave service, Jonah's confinement). If olam means "endless," these are false statements in Scripture.
+1. **Does [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} inherently mean "endless"?** Examine cases where the subject of [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} has demonstrably ended (Aaronic priesthood, Mosaic ordinances, Solomonic temple, slave service, Jonah's confinement). If [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} means "endless," these are false statements in Scripture.
 
-2. **Does the nature of the subject determine the duration?** When applied to God (eternal subject), does olam acquire eternal meaning from the subject? When applied to a slave (mortal subject), does olam acquire lifetime meaning from the subject?
+2. **Does the nature of the subject determine the duration?** When applied to God (eternal subject), does [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} acquire eternal meaning from the subject? When applied to a slave (mortal subject), does [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} acquire lifetime meaning from the subject?
 
-3. **How does the LXX translate olam?** The LXX maps olam to aion (G165) 287 times and aionios (G166) 100 times. Since aion means "age" and aionios means "age-lasting/pertaining to the age," does the LXX translation confirm the "age-long" rather than "strictly eternal" reading?
+3. **How does the LXX translate [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}?** The LXX maps [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} to [aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} (G165) 287 times and [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} (G166) 100 times. Since [aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} means "age" and [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} means "age-lasting/pertaining to the age," does the LXX translation confirm the "age-long" rather than "strictly eternal" reading?
 
 4. **How do the KJV's 40 different translations reveal the word's range?** The same Hebrew word is translated as "for ever" (198x), "everlasting" (56x), "perpetual" (22x), "of old" (13x), "old" (7x), "ancient" (4x), "long time" (1x). A word meaning "strictly eternal" would not be translated "of old" or "ancient."
 
-5. **What are the implications for "everlasting punishment" (Matt 25:46)?** aionios in the NT is the standard LXX translation of olam. If olam/aionios means "age-long" or "pertaining to the age" rather than "strictly endless," what does this mean for passages using these words for the fate of the wicked?
+5. **What are the implications for "everlasting punishment" (Matt 25:46)?** [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} in the NT is the standard LXX translation of [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}. If [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}/[aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} means "age-long" or "pertaining to the age" rather than "strictly endless," what does this mean for passages using these words for the fate of the wicked?
 
-6. **Does the double form le-olam va-ed (olam + ad) suggest olam alone is insufficient to express true eternity?** If olam alone meant "eternal," why would biblical authors combine it with ad ("perpetuity") for emphasis?
+6. **Does the double form le-[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} va-ed ([olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} + ad) suggest [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} alone is insufficient to express true eternity?** If [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} alone meant "eternal," why would biblical authors combine it with ad ("perpetuity") for emphasis?
 
 ### Phase 5: Verses to Retrieve (Organized by Category)
 
@@ -146,13 +146,13 @@ Gen 6:4, Deu 32:7, Psa 25:6, Psa 77:5, Pro 22:28, Pro 23:10, Isa 44:7, Isa 46:9,
 **Category E -- Eschatological Contexts:**
 Dan 9:24, Dan 12:2, Dan 12:3, Psa 92:7, Isa 35:10, Isa 45:17, Isa 51:11, Isa 55:3, Isa 55:13, Isa 56:5, Isa 60:19, Isa 60:20, Isa 60:21, Isa 61:7, Isa 61:8, Jer 32:40, Eze 37:26, Joe 2:26, Joe 2:27, Joe 3:20, Oba 1:10
 
-**Category F -- Combined Forms (le-olam va-ed and min-olam ve-ad-olam):**
+**Category F -- Combined Forms (le-[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} va-ed and min-[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} ve-ad-[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}):**
 Psa 9:5, Psa 10:16, Psa 21:4, Psa 41:13, Psa 45:6, Psa 48:14, Psa 52:8, Psa 90:2, Psa 103:17, Psa 104:5, Psa 106:48, Psa 111:8, Psa 119:44, Psa 145:1, Psa 145:2, Psa 145:21, Dan 12:3, Mic 4:5, 1 Ch 16:36, 1 Ch 29:10, Neh 9:5
 
-**Key Comparison Verses -- H5703 (ad):**
+**Key Comparison Verses -- [H5703](https://www.blueletterbible.org/lexicon/h5703/kjv/wlc/0-1/){:target="_blank"} (ad):**
 Psa 9:18, Psa 19:9, Psa 21:6, Psa 37:29, Psa 83:17, Psa 89:29, Psa 92:7, Psa 104:5, Psa 111:3, Psa 111:8, Psa 112:3, Psa 112:9, Pro 12:19, Isa 26:4, Isa 45:17, Isa 57:15, Isa 64:9, Isa 65:18
 
-**Key Comparison Verses -- H5331 (netsach):**
+**Key Comparison Verses -- [H5331](https://www.blueletterbible.org/lexicon/h5331/kjv/wlc/0-1/){:target="_blank"} (netsach):**
 1 Sam 15:29, 2 Sam 2:26, Job 4:20, Job 14:20, Job 20:7, Job 34:36, Psa 9:7, Psa 13:1, Psa 44:23, Psa 49:9, Psa 52:5, Psa 68:16, Psa 74:1, Psa 74:10, Psa 77:8, Psa 79:5, Psa 89:46, Psa 103:9, Isa 13:20, Isa 25:8, Isa 28:28, Isa 34:10, Isa 57:16, Jer 3:5, Jer 15:18, Jer 50:39, Lam 3:18, Lam 5:20, Amo 1:11, Hab 1:4
 
 ### Phase 6: Nave's Topical References
@@ -170,84 +170,84 @@ Psa 9:18, Psa 19:9, Psa 21:6, Psa 37:29, Psa 83:17, Psa 89:29, Psa 92:7, Psa 104
 
 ### Phase 7: LXX Translation Pattern Analysis
 
-**H5769 (olam) -> Greek:**
+**[H5769](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} (olam) -> Greek:**
 | Greek Word | Count | PMI Score | Meaning |
 |---|---|---|---|
-| G165 aion | 287 | 5.55 | an age; by extension, perpetuity |
-| G166 aionios | 100 | 5.67 | pertaining to an age; perpetual |
-| G1074 genea | 51 | 4.37 | a generation |
-| G3545 nomimos | 30 | 4.96 | legitimately |
-| G1656 eleos | 57 | 3.85 | compassion/mercy |
+| [G165](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} [aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} | 287 | 5.55 | an age; by extension, perpetuity |
+| [G166](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} | 100 | 5.67 | pertaining to an age; perpetual |
+| [G1074](https://www.blueletterbible.org/lexicon/g1074/kjv/tr/0-1/){:target="_blank"} genea | 51 | 4.37 | a generation |
+| [G3545](https://www.blueletterbible.org/lexicon/g3545/kjv/tr/0-1/){:target="_blank"} nomimos | 30 | 4.96 | legitimately |
+| [G1656](https://www.blueletterbible.org/lexicon/g1656/kjv/tr/0-1/){:target="_blank"} eleos | 57 | 3.85 | compassion/mercy |
 
-Key observation: The LXX translates olam as aion (an age) 287 times and aionios (pertaining to an age) 100 times. The Greek word aion etymologically means "age/era," not "eternity." The LXX translators -- pre-Christian Jewish scholars -- understood olam as "age-long" rather than "strictly eternal."
+Key observation: The LXX translates [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} as [aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} (an age) 287 times and [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} (pertaining to an age) 100 times. The Greek word [aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} etymologically means "age/era," not "eternity." The LXX translators -- pre-Christian Jewish scholars -- understood [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} as "age-long" rather than "strictly eternal."
 
-**H5703 (ad) -> Greek:**
+**[H5703](https://www.blueletterbible.org/lexicon/h5703/kjv/wlc/0-1/){:target="_blank"} (ad) -> Greek:**
 | Greek Word | Count | PMI Score |
 |---|---|---|
-| G165 aion | 33 | 5.57 |
-| G3306 meno | 4 | 5.30 |
-| G622 apollymi | 6 | 3.52 |
+| [G165](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} [aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} | 33 | 5.57 |
+| [G3306](https://www.blueletterbible.org/lexicon/g3306/kjv/tr/0-1/){:target="_blank"} meno | 4 | 5.30 |
+| [G622](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} | 6 | 3.52 |
 
-**H5331 (netsach) -> Greek:**
+**[H5331](https://www.blueletterbible.org/lexicon/h5331/kjv/wlc/0-1/){:target="_blank"} (netsach) -> Greek:**
 | Greek Word | Count | PMI Score |
 |---|---|---|
-| G5056 telos (end) | 19 | 6.41 |
-| G4219 pote (when?) | 5 | 6.22 |
-| G165 aion | 10 | 4.05 |
-| G622 apollymi | 6 | 3.73 |
+| [G5056](https://www.blueletterbible.org/lexicon/g5056/kjv/tr/0-1/){:target="_blank"} telos (end) | 19 | 6.41 |
+| [G4219](https://www.blueletterbible.org/lexicon/g4219/kjv/tr/0-1/){:target="_blank"} pote (when?) | 5 | 6.22 |
+| [G165](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} [aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} | 10 | 4.05 |
+| [G622](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} | 6 | 3.73 |
 
-Key observation: netsach maps primarily to telos (end/goal), not to aion. This reveals netsach's semantic range is "goal/completion/perpetuity" rather than "age."
+Key observation: netsach maps primarily to telos (end/goal), not to [aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"}. This reveals netsach's semantic range is "goal/completion/perpetuity" rather than "age."
 
 ### Phase 8: Analysis Framework
 
 Structure your analysis around these questions:
 
-1. **The Definition Question:** What does olam actually mean etymologically and lexically? Strong's says "concealed, i.e. the vanishing point" -- meaning a point in time so far away it cannot be seen. This is "indefinite duration," not "endless duration."
+1. **The Definition Question:** What does [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} actually mean etymologically and lexically? Strong's says "concealed, i.e. the vanishing point" -- meaning a point in time so far away it cannot be seen. This is "indefinite duration," not "endless duration."
 
-2. **The Limited-Duration Evidence:** Compile all cases where olam is applied to subjects that have demonstrably ended. These are the decisive test cases.
+2. **The Limited-Duration Evidence:** Compile all cases where [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} is applied to subjects that have demonstrably ended. These are the decisive test cases.
 
-3. **The Subject-Determines-Duration Principle:** Does olam take its duration from its subject? Applied to God = truly eternal (because God is eternal). Applied to a slave = lifetime. Applied to Aaronic priesthood = duration of the covenant. Applied to hills = very long but not truly endless.
+3. **The Subject-Determines-Duration Principle:** Does [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} take its duration from its subject? Applied to God = truly eternal (because God is eternal). Applied to a slave = lifetime. Applied to Aaronic priesthood = duration of the covenant. Applied to hills = very long but not truly endless.
 
-4. **The LXX Connection:** Since olam -> aion/aionios in the LXX, and aionios is the word used in Matt 25:46 ("everlasting punishment" / "everlasting life"), does understanding olam's range inform the meaning of aionios? (This will be examined further in etc-08.)
+4. **The LXX Connection:** Since [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} -> [aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"}/[aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} in the LXX, and [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} is the word used in Matt 25:46 ("everlasting punishment" / "everlasting life"), does understanding [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}'s range inform the meaning of [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}? (This will be examined further in etc-08.)
 
 5. **The Theological Implications:** If "everlasting punishment" uses a word whose duration depends on the subject, what happens? "Everlasting life" = truly endless (because life from God is eternal). "Everlasting destruction" = permanent destruction (because destruction, once complete, is permanent). The adjective describes the result, not an ongoing process.
 
-6. **The Double-Form Question:** Why do biblical authors sometimes use le-olam va-ed (olam + ad) if olam alone means "eternal"? The doubling suggests olam needed reinforcement to express true endlessness.
+6. **The Double-Form Question:** Why do biblical authors sometimes use le-[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} va-ed ([olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} + ad) if [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} alone means "eternal"? The doubling suggests [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} needed reinforcement to express true endlessness.
 
 ### Phase 9: Evidence Classification Requirements
 
 For your CONCLUSION.md, classify evidence into:
 
 **Explicit Statements (E):**
-- What the text directly says about olam in each usage category
+- What the text directly says about [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} in each usage category
 - Translation data (KJV translations, LXX mappings)
-- Cases where olam-described things have ended
+- Cases where [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}-described things have ended
 
 **Necessary Implications (N):**
-- If olam-described institutions have ended, then olam does not inherently mean "endless"
-- If olam's duration varies by subject, then the subject determines the duration
+- If [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}-described institutions have ended, then [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} does not inherently mean "endless"
+- If [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}'s duration varies by subject, then the subject determines the duration
 
 **Inferences (I):**
-- I-A: The systematization of olam's semantic range across all categories
-- I-B: Competing claims about whether olam means "eternal" vs. "age-long"
+- I-A: The systematization of [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}'s semantic range across all categories
+- I-B: Competing claims about whether [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} means "eternal" vs. "age-long"
 - I-C/I-D: External frameworks brought to the interpretation
 
 ### Phase 10: Cross-Study Integration
 
 Connect findings to prior studies:
-- etc-02: "Everlasting life" (aionios zoe) -- if aionios derives from olam, the word-study matters
-- etc-05: Jude 1:6 "everlasting chains" (aidios, not aionios -- note the distinction!)
-- etc-06: "Everlasting destruction" (olethros aionios, 2 Thess 1:9) -- olam/aionios modifying destruction
-- etc-06: "Destroyed for ever" (Psa 92:7) uses H5703 ad + H5769 olam together
+- etc-02: "Everlasting life" ([aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"}) -- if [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} derives from [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}, the word-study matters
+- etc-05: Jude 1:6 "everlasting chains" (aidios, not [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} -- note the distinction!)
+- etc-06: "Everlasting destruction" ([olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}, 2 Thess 1:9) -- [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}/[aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} modifying destruction
+- etc-06: "Destroyed for ever" (Psa 92:7) uses [H5703](https://www.blueletterbible.org/lexicon/h5703/kjv/wlc/0-1/){:target="_blank"} ad + [H5769](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} together
 
 ### Phase 11: Required Output Files
 
-Write these files to D:/Bible/bible-studies/etc-07-olam-forever-in-ot/:
+Write these files to D:/Bible/bible-studies/etc-07-[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}-forever-in-ot/:
 
 1. **01-topics.md** -- Outline of all usage categories
 2. **02-verses.md** -- All verses retrieved from kjv.txt organized by category
 3. **03-analysis.md** -- Verse-by-verse analysis with category assignments and duration assessments
-4. **04-word-studies.md** -- Full word studies for H5769, H5703, H5331 with LXX data
+4. **04-word-studies.md** -- Full word studies for [H5769](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}, [H5703](https://www.blueletterbible.org/lexicon/h5703/kjv/wlc/0-1/){:target="_blank"}, [H5331](https://www.blueletterbible.org/lexicon/h5331/kjv/wlc/0-1/){:target="_blank"} with LXX data
 5. **CONCLUSION.md** -- Full evidence classification per etc-series-methodology.md, including:
    - Evidence tables (E, N, I with all four I-subtypes)
    - Tree 3 applications for all positional E-items

@@ -34,9 +34,9 @@ The same distinction appears in Revelation 19:20-21: the beast and false prophet
 
 ---
 
-## The Greek Word "Tormented" (Basanizo) — What It Does and Does Not Mean
+## The Greek Word "Tormented" ([Basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}) — What It Does and Does Not Mean
 
-The Greek word translated "tormented" in Revelation 20:10 is *basanizo* (G928). It appears 12 times in the New Testament, and most of its uses have nothing to do with eschatological punishment:
+The Greek word translated "tormented" in Revelation 20:10 is *[basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}* (G928). It appears 12 times in the New Testament, and most of its uses have nothing to do with eschatological punishment:
 
 - Physical illness — "my servant lieth at home sick of the palsy, **grievously tormented**" (Matt 8:6)
 - Waves tossing a boat — "the ship was now in the midst of the sea, **tossed** with waves" (Matt 14:24)
@@ -46,11 +46,11 @@ The Greek word translated "tormented" in Revelation 20:10 is *basanizo* (G928). 
 
 Seven of the twelve occurrences are non-judgment contexts. The word simply means pain, toil, or distress — it is not a technical term for eternal punishment.
 
-All five uses of *basanizo* in a judgment context appear either in Revelation's apocalyptic visions or in the mouths of *demons* speaking about their own future (Matt 8:29: "Art thou come hither to torment us before the time?"). Not a single epistle, not a single Gospel, and no Old Testament passage uses this word for the final fate of ordinary human beings.
+All five uses of *[basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}* in a judgment context appear either in Revelation's apocalyptic visions or in the mouths of *demons* speaking about their own future (Matt 8:29: "Art thou come hither to torment us before the time?"). Not a single epistle, not a single Gospel, and no Old Testament passage uses this word for the final fate of ordinary human beings.
 
-Scripture also uses the related noun *basanismos* six times — all in Revelation. Three of those six describe the *completed destruction* of Babylon: "utterly burned with fire" (18:8), destroyed "in one hour" (18:10), "thrown down, and shall be found no more at all" (18:21). Clearly, "torment" language in Revelation can describe total destruction, not perpetual suffering.
+Scripture also uses the related noun *[basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"}* six times — all in Revelation. Three of those six describe the *completed destruction* of Babylon: "utterly burned with fire" (18:8), destroyed "in one hour" (18:10), "thrown down, and shall be found no more at all" (18:21). Clearly, "torment" language in Revelation can describe total destruction, not perpetual suffering.
 
-One additional use of *basanizo* carries an explicit **five-month time limit** (Rev 9:5), which confirms the word does not inherently mean "eternal."
+One additional use of *[basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}* carries an explicit **five-month time limit** (Rev 9:5), which confirms the word does not inherently mean "eternal."
 
 ---
 
@@ -67,9 +67,9 @@ Outside Revelation, the New Testament consistently uses destruction and death vo
 - "He that soweth to the flesh shall of the flesh reap **corruption**" (Gal 6:8)
 - "A certain fearful looking for of judgment and fiery indignation, which shall **devour** the adversaries" (Heb 10:27)
 
-This vocabulary — destroy, perish, death, destruction, perdition, corruption, devour — appears across multiple authors, across epistles and Gospels, and is the Bible's consistent language for human judgment. None of these passages uses *basanizo* or torment vocabulary.
+This vocabulary — destroy, perish, death, destruction, perdition, corruption, devour — appears across multiple authors, across epistles and Gospels, and is the Bible's consistent language for human judgment. None of these passages uses *[basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}* or torment vocabulary.
 
-Additionally, Matthew 25:41 says the everlasting fire was "prepared for the **devil and his angels**" — not originally for human beings. And the punishment word used for humans in Matthew 25:46 is *kolasis* (punishment), not *basanizo* (torment).
+Additionally, Matthew 25:41 says the everlasting fire was "prepared for the **devil and his angels**" — not originally for human beings. And the punishment word used for humans in Matthew 25:46 is *[kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"}* (punishment), not *[basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}* (torment).
 
 ---
 
@@ -100,7 +100,7 @@ The text does not say all inhabitants of the lake share identical experiences. I
 **Scripture does not say:**
 
 - That human beings are "tormented day and night for ever and ever" — the formula is never applied to humans anywhere in the Bible.
-- That *basanizo* is a technical term for eternal conscious punishment — the word covers illness, waves, labor pains, and rowing, and one judgment use has a five-month limit.
+- That *[basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}* is a technical term for eternal conscious punishment — the word covers illness, waves, labor pains, and rowing, and one judgment use has a five-month limit.
 - That everyone in the lake of fire shares the same experience as the devil, beast, and false prophet — the text itself uses different vocabulary for different subjects.
 
 ---

@@ -1,8 +1,8 @@
 # Word Studies
 
-## G5590 -- psyche (ψυχή)
-**Original:** ψυχή
-**Transliteration:** psyche
+## [G5590](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} -- [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} (ψυχή)
+**Original:** [ψυχή](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}
+**Transliteration:** [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}
 **Pronunciation:** psoo-khay
 **Part of Speech:** feminine noun
 **Definition:** From psykhō; breath, i.e. (by implication) spirit, abstractly or concretely (the animal sentient principle only)
@@ -24,12 +24,12 @@
 | minds | 1 | 1.1% |
 
 ### Key Observations
-- Greek equivalent of Hebrew nephesh (H5315)
+- Greek equivalent of Hebrew [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} (H5315)
 - Translated "life" nearly as often as "soul" -- the word means "life" or "the living being"
 - In Rev 6:9, psychas = "souls" = the lives/blood of the slain
 - In Rev 20:4, psychas = "souls" of beheaded martyrs -- same word, same group
 - In Rev 12:11, psychas = "lives" ("loved not their lives unto the death")
-- In Rev 16:3, "every living soul died" (psyche = living creature)
+- In Rev 16:3, "every living soul died" ([psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} = living creature)
 - The word is used for animals in Rev 8:9 ("the third part of the creatures which were in the sea, and had life [psyche], died")
 
 ### Key Verses in Revelation
@@ -40,11 +40,11 @@
 - Rev 20:4 -- "the souls [psychas] of them that were beheaded"
 
 ### LXX Connection
-The LXX uses psyche to translate nephesh throughout the OT. The nephesh-blood equation (Lev 17:11,14; Gen 9:4; Deu 12:23) carries into the NT: psyche = nephesh = blood = life.
+The LXX uses [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} to translate [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} throughout the OT. The [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}-blood equation (Lev 17:11,14; Gen 9:4; Deu 12:23) carries into the NT: [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} = [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} = blood = life.
 
 ---
 
-## G2379 -- thysiastērion (θυσιαστήριον)
+## [G2379](https://www.blueletterbible.org/lexicon/g2379/kjv/tr/0-1/){:target="_blank"} -- thysiastērion (θυσιαστήριον)
 **Original:** θυσιαστήριον
 **Transliteration:** thysiastērion
 **Pronunciation:** thoo-see-as-tay-ree-on
@@ -76,7 +76,7 @@ The LXX uses psyche to translate nephesh throughout the OT. The nephesh-blood eq
 
 ---
 
-## G4969 -- sphazō (σφάζω)
+## [G4969](https://www.blueletterbible.org/lexicon/g4969/kjv/tr/0-1/){:target="_blank"} -- sphazō (σφάζω)
 **Original:** σφάζω
 **Transliteration:** sphazō
 **Pronunciation:** sfad-zo
@@ -109,7 +109,7 @@ The use of the same word (sphazō) for both Christ and the martyrs places the ma
 
 ---
 
-## G2896 -- krazō (κράζω)
+## [G2896](https://www.blueletterbible.org/lexicon/g2896/kjv/tr/0-1/){:target="_blank"} -- krazō (κράζω)
 **Original:** κράζω
 **Transliteration:** krazō
 **Pronunciation:** krad-zo
@@ -142,7 +142,7 @@ The krazō word in Gen 4:10 (LXX) and Jas 5:4 establishes a pattern where non-pe
 
 ---
 
-## G373 -- anapauō (ἀναπαύω)
+## [G373](https://www.blueletterbible.org/lexicon/g373/kjv/tr/0-1/){:target="_blank"} -- anapauō (ἀναπαύω)
 **Original:** ἀναπαύω
 **Transliteration:** anapauō
 **Pronunciation:** an-ap-ow-o
@@ -185,7 +185,7 @@ The krazō word in Gen 4:10 (LXX) and Jas 5:4 establishes a pattern where non-pe
 
 ---
 
-## G1556 -- ekdikeō (ἐκδικέω)
+## [G1556](https://www.blueletterbible.org/lexicon/g1556/kjv/tr/0-1/){:target="_blank"} -- ekdikeō (ἐκδικέω)
 **Original:** ἐκδικέω
 **Transliteration:** ekdikeō
 **Pronunciation:** ek-dik-eh-o

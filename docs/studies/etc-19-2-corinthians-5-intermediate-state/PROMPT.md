@@ -71,43 +71,43 @@ What does 2 Corinthians 5:1-8 teach about the intermediate state? Does "unclothe
 
 | Strong's | Word | POS | Occurrences | Relevance |
 |----------|------|-----|-------------|-----------|
-| G1746 | endyo (to put on / clothe) | verb | 29x NT | Core metaphor -- "put on" used in 1 Cor 15:53-54 for putting on immortality; cf. Rom 13:14, Gal 3:27 |
-| G1902 | ependyomai (to put on over / clothe upon) | verb | **2x NT** (only in 2 Cor 5:2,4) | Paul's unique compound verb -- to clothe OVER existing clothing. Critical for interpretation. |
-| G1562 | ekdyo (to strip off / unclothe) | verb | 5x NT (Mat 27:28,31; Mrk 15:20; Luk 10:30; 2 Cor 5:3-4) | The "unclothed" state Paul does NOT prefer. Used elsewhere for stripping garments. |
-| G1131 | gymnos (naked) | adj | 15x NT | "Naked" in 2 Cor 5:3 -- the state Paul wants to avoid. Also 1 Cor 15:37 (bare grain). |
+| [G1746](https://www.blueletterbible.org/lexicon/g1746/kjv/tr/0-1/){:target="_blank"} | endyo (to put on / clothe) | verb | 29x NT | Core metaphor -- "put on" used in 1 Cor 15:53-54 for putting on immortality; cf. Rom 13:14, Gal 3:27 |
+| [G1902](https://www.blueletterbible.org/lexicon/g1902/kjv/tr/0-1/){:target="_blank"} | ependyomai (to put on over / clothe upon) | verb | **2x NT** (only in 2 Cor 5:2,4) | Paul's unique compound verb -- to clothe OVER existing clothing. Critical for interpretation. |
+| [G1562](https://www.blueletterbible.org/lexicon/g1562/kjv/tr/0-1/){:target="_blank"} | ekdyo (to strip off / unclothe) | verb | 5x NT (Mat 27:28,31; Mrk 15:20; Luk 10:30; 2 Cor 5:3-4) | The "unclothed" state Paul does NOT prefer. Used elsewhere for stripping garments. |
+| [G1131](https://www.blueletterbible.org/lexicon/g1131/kjv/tr/0-1/){:target="_blank"} | gymnos (naked) | adj | 15x NT | "Naked" in 2 Cor 5:3 -- the state Paul wants to avoid. Also 1 Cor 15:37 (bare grain). |
 
 **Dwelling/tent vocabulary:**
 
 | Strong's | Word | POS | Occurrences | Relevance |
 |----------|------|-----|-------------|-----------|
-| G4636 | skenos (tent/tabernacle as body) | noun | **2x NT** (only in 2 Cor 5:1,4) | Paul's term for the physical body as tent. Unique to this passage. |
-| G4633 | skene (tabernacle/tent) | noun | 20x NT | Related to skenos; used for tabernacle/temple. Cf. 2 Pe 1:14 (Peter's "tabernacle"). |
-| G3624 | oikos (house/dwelling) | noun | 114x NT | The heavenly "house" (oikia) in 2 Cor 5:1 -- "building of God, a house not made with hands." |
-| G4638 | skenoma (tabernacle/dwelling) | noun | 3x NT | Related dwelling term. 2 Pe 1:13-14 uses this for the body. |
+| [G4636](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"} | [skenos](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"} (tent/tabernacle as body) | noun | **2x NT** (only in 2 Cor 5:1,4) | Paul's term for the physical body as tent. Unique to this passage. |
+| [G4633](https://www.blueletterbible.org/lexicon/g4633/kjv/tr/0-1/){:target="_blank"} | skene (tabernacle/tent) | noun | 20x NT | Related to [skenos](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"}; used for tabernacle/temple. Cf. 2 Pe 1:14 (Peter's "tabernacle"). |
+| [G3624](https://www.blueletterbible.org/lexicon/g3624/kjv/tr/0-1/){:target="_blank"} | oikos (house/dwelling) | noun | 114x NT | The heavenly "house" (oikia) in 2 Cor 5:1 -- "building of God, a house not made with hands." |
+| [G4638](https://www.blueletterbible.org/lexicon/g4638/kjv/tr/0-1/){:target="_blank"} | [skenoma](https://www.blueletterbible.org/lexicon/g4638/kjv/tr/0-1/){:target="_blank"} (tabernacle/dwelling) | noun | 3x NT | Related dwelling term. 2 Pe 1:13-14 uses this for the body. |
 
 **Absent/present vocabulary:**
 
 | Strong's | Word | POS | Occurrences | Relevance |
 |----------|------|-----|-------------|-----------|
-| G1553 | ekdemeo (to be away from home / absent) | verb | **3x NT** (only in 2 Cor 5:6,8,9) | "Absent from the body" -- unique Pauline term. |
-| G1736 | endemeo (to be at home) | verb | **3x NT** (only in 2 Cor 5:6,8,9) | "At home in the body" / "present with the Lord" -- unique Pauline term. |
+| [G1553](https://www.blueletterbible.org/lexicon/g1553/kjv/tr/0-1/){:target="_blank"} | [ekdemeo](https://www.blueletterbible.org/lexicon/g1553/kjv/tr/0-1/){:target="_blank"} (to be away from home / absent) | verb | **3x NT** (only in 2 Cor 5:6,8,9) | "Absent from the body" -- unique Pauline term. |
+| [G1736](https://www.blueletterbible.org/lexicon/g1736/kjv/tr/0-1/){:target="_blank"} | [endemeo](https://www.blueletterbible.org/lexicon/g1736/kjv/tr/0-1/){:target="_blank"} (to be at home) | verb | **3x NT** (only in 2 Cor 5:6,8,9) | "At home in the body" / "present with the Lord" -- unique Pauline term. |
 
 **Groaning/burden vocabulary:**
 
 | Strong's | Word | POS | Occurrences | Relevance |
 |----------|------|-----|-------------|-----------|
-| G4727 | stenazo (to groan) | verb | 6x NT | "We groan" in 2 Cor 5:2,4. Also Rom 8:23 (groaning, waiting for adoption/body redemption). |
-| G916 | bareo (to burden/weigh down) | verb | 6x NT | "Burdened" in 2 Cor 5:4. Also 2 Cor 1:8. |
+| [G4727](https://www.blueletterbible.org/lexicon/g4727/kjv/tr/0-1/){:target="_blank"} | stenazo (to groan) | verb | 6x NT | "We groan" in 2 Cor 5:2,4. Also Rom 8:23 (groaning, waiting for adoption/body redemption). |
+| [G916](https://www.blueletterbible.org/lexicon/g916/kjv/tr/0-1/){:target="_blank"} | bareo (to burden/weigh down) | verb | 6x NT | "Burdened" in 2 Cor 5:4. Also 2 Cor 1:8. |
 
-**Critical observation:** G1902 (ependyomai), G4636 (skenos), G1553 (ekdemeo), and G1736 (endemeo) are ALL unique to 2 Corinthians 5 in the entire NT. This concentrated cluster of hapax/rare vocabulary means the passage must be interpreted carefully from its own context and from Paul's broader vocabulary.
+**Critical observation:** [G1902](https://www.blueletterbible.org/lexicon/g1902/kjv/tr/0-1/){:target="_blank"} (ependyomai), [G4636](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"} (skenos), [G1553](https://www.blueletterbible.org/lexicon/g1553/kjv/tr/0-1/){:target="_blank"} (ekdemeo), and [G1736](https://www.blueletterbible.org/lexicon/g1736/kjv/tr/0-1/){:target="_blank"} (endemeo) are ALL unique to 2 Corinthians 5 in the entire NT. This concentrated cluster of hapax/rare vocabulary means the passage must be interpreted carefully from its own context and from Paul's broader vocabulary.
 
 **Additional clothing vocabulary from semantic search:**
 
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| G1132 | gymnotes (nakedness) | Related to gymnos -- Rom 8:35; 2 Cor 11:27; Rev 3:18 |
-| G1742 | endyma (garment/apparel) | Related to endyo root family |
-| G2439 | himatizo (to clothe/dress) | General clothing verb |
+| [G1132](https://www.blueletterbible.org/lexicon/g1132/kjv/tr/0-1/){:target="_blank"} | gymnotes (nakedness) | Related to gymnos -- Rom 8:35; 2 Cor 11:27; Rev 3:18 |
+| [G1742](https://www.blueletterbible.org/lexicon/g1742/kjv/tr/0-1/){:target="_blank"} | endyma (garment/apparel) | Related to endyo root family |
+| [G2439](https://www.blueletterbible.org/lexicon/g2439/kjv/tr/0-1/){:target="_blank"} | himatizo (to clothe/dress) | General clothing verb |
 
 ### Related Existing Studies
 
@@ -115,31 +115,31 @@ What does 2 Corinthians 5:1-8 teach about the intermediate state? Does "unclothe
 
 | Study | Question | Score | Relevance |
 |-------|----------|-------|-----------|
-| etc6-03-biblical-death | What does "death" mean in the Bible? | 0.651 | Directly relevant -- defines death as reversal of creation, examines sleep metaphor, addresses 2 Cor 5 |
+| etc-03-biblical-death | What does "death" mean in the Bible? | 0.651 | Directly relevant -- defines death as reversal of creation, examines sleep metaphor, addresses 2 Cor 5 |
 | etc-03-biblical-death | How does the Bible define death? | 0.628 | Earlier iteration of death study |
-| etc6-01b-what-is-man | What does Scripture say about human nature/composition? | 0.587 | Directly relevant -- includes E049 (2 Cor 5:4,8) and I7 analysis of intermediate state |
-| etc6-02-who-has-immortality | Who possesses immortality? Is the soul inherently immortal? | 0.574 | Directly relevant -- examines thnetos (mortal) in 2 Cor 5:4, immortality vocabulary |
-| soul-nephesh-psyche | What is the biblical meaning of "soul"? | 0.610 | Background on nephesh/psyche |
+| etc-01-what-is-man | What does Scripture say about human nature/composition? | 0.587 | Directly relevant -- includes E049 (2 Cor 5:4,8) and I7 analysis of intermediate state |
+| etc-02-who-has-immortality | Who possesses immortality? Is the soul inherently immortal? | 0.574 | Directly relevant -- examines [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} (mortal) in 2 Cor 5:4, immortality vocabulary |
+| soul-[nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}-[psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} | What is the biblical meaning of "soul"? | 0.610 | Background on [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}/[psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} |
 
 **Key findings from CONCLUSION.md files of related studies:**
 
-**etc6-03-biblical-death (CONCLUSION.md):**
+**etc-03-biblical-death (CONCLUSION.md):**
 - Death defined as reversal of creation: body returns to dust, spirit returns to God, living soul ceases (Gen 3:19; Ecc 12:7; Ps 146:4)
 - Death described as "sleep" by 7+ biblical authors
 - No verse defines death as "separation of soul from body"
-- The "second death" uses the same word (thanatos) as physical death
+- The "second death" uses the same word ([thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}) as physical death
 - 71 explicit statements examined; 16 classified Conditionalist, 0 classified ECT
 
-**etc6-01b-what-is-man (CONCLUSION.md):**
+**etc-01-what-is-man (CONCLUSION.md):**
 - E049: "Paul expresses willingness to be absent from the body and present with the Lord; desires to be clothed upon, not unclothed" (2 Cor 5:4,8) -- classified NEUTRAL
 - I7: "2 Cor 5:8 and Phil 1:23 teach a conscious intermediate state" -- classified I-B (competing evidence)
 - I7 resolution: STRONG toward conditionalist reading. Paul's preference expressions (2 Cor 5:8; Phil 1:23) are "Contextually Clear" while death-as-sleep/cessation passages (1 Thess 4:16-17; Ps 146:4; Ecc 9:5) are "Plain." Plain governs Contextually Clear.
 - Key observation: "Paul specifically says he does NOT desire to be unclothed (5:4). His desire is to be 'clothed upon' -- to receive the resurrection body."
 - "It cannot be said that 2 Cor 5:8 describes a disembodied intermediate existence."
 
-**etc6-02-who-has-immortality (CONCLUSION.md):**
-- E10: "Paul desires to be clothed upon, not unclothed, that mortality (thnetos) might be swallowed up of life" (2 Cor 5:4) -- classified NEUTRAL
-- 1 Cor 15:53-54 and 2 Cor 5:4 share vocabulary: thnetos (mortal), katapino (swallowed up). Verified SIS connection (#4a).
+**etc-02-who-has-immortality (CONCLUSION.md):**
+- E10: "Paul desires to be clothed upon, not unclothed, that mortality ([thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"}) might be swallowed up of life" (2 Cor 5:4) -- classified NEUTRAL
+- 1 Cor 15:53-54 and 2 Cor 5:4 share vocabulary: [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} (mortal), katapino (swallowed up). Verified SIS connection (#4a).
 - God alone (monos) possesses immortality (1 Tim 6:16). Mortals must "put on" immortality at resurrection.
 - No NT passage applies immortality vocabulary to the human soul as an inherent, present possession.
 - "The 'put on' (enduo) of 1 Corinthians 15" -- same root as ependyomai in 2 Cor 5:2,4.
@@ -147,21 +147,21 @@ What does 2 Corinthians 5:1-8 teach about the intermediate state? Does "unclothe
 ### Focus Areas
 *(Derived from tool discoveries, not training knowledge)*
 
-1. **The unique vocabulary cluster** -- G1902 (ependyomai), G4636 (skenos), G1553 (ekdemeo), G1736 (endemeo) all occur ONLY in 2 Cor 5. This demands careful in-context analysis rather than importing meaning from parallel passages.
+1. **The unique vocabulary cluster** -- [G1902](https://www.blueletterbible.org/lexicon/g1902/kjv/tr/0-1/){:target="_blank"} (ependyomai), [G4636](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"} (skenos), [G1553](https://www.blueletterbible.org/lexicon/g1553/kjv/tr/0-1/){:target="_blank"} (ekdemeo), [G1736](https://www.blueletterbible.org/lexicon/g1736/kjv/tr/0-1/){:target="_blank"} (endemeo) all occur ONLY in 2 Cor 5. This demands careful in-context analysis rather than importing meaning from parallel passages.
 
 2. **The ependyomai vs. endyo distinction** -- Paul uses ependyomai (to put on OVER, 2x) instead of endyo (to put on, 29x). The compound prefix ep- suggests putting on over something already worn. This may indicate Paul's preference for receiving the resurrection body OVER the mortal body (transformation without death) rather than simple clothing.
 
 3. **The ekdyo / gymnos nexus** -- Paul says he does NOT want to be "unclothed" (ekdysasthai) or found "naked" (gymnos). What does this negative preference mean? Is "unclothed" = disembodied = intermediate state? Or is "unclothed" simply death without resurrection?
 
-4. **The skenos-oikos contrast** -- "Earthly house of this tabernacle" (skenos) vs. "building of God, a house not made with hands" (oikos/oikia). Temporary tent vs. permanent dwelling. Does the "house not made with hands" refer to the resurrection body or to heaven itself?
+4. **The [skenos](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"}-oikos contrast** -- "Earthly house of this tabernacle" ([skenos](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"}) vs. "building of God, a house not made with hands" (oikos/oikia). Temporary tent vs. permanent dwelling. Does the "house not made with hands" refer to the resurrection body or to heaven itself?
 
-5. **The connection to 1 Cor 15:53-54** -- Shared vocabulary (thnetos, katapino) links 2 Cor 5:4 to 1 Cor 15:54 ("mortality swallowed up"). Both passages use clothing metaphor for the resurrection. This is a verified SIS connection.
+5. **The connection to 1 Cor 15:53-54** -- Shared vocabulary ([thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"}, katapino) links 2 Cor 5:4 to 1 Cor 15:54 ("mortality swallowed up"). Both passages use clothing metaphor for the resurrection. This is a verified SIS connection.
 
 6. **The connection to Rom 8:23** -- stenazo (groan) in both 2 Cor 5:2,4 and Rom 8:23. In Romans 8, the groaning is explicitly for "the redemption of our body" -- the resurrection. Does the same apply in 2 Cor 5?
 
-7. **The ekdemeo/endemeo pairs (5:6-9)** -- Three times Paul contrasts being "at home in the body" with being "absent from the body" / "present with the Lord." Does "absent from the body" mean a disembodied state, or does it function as a euphemism for the transition from mortal to immortal existence?
+7. **The [ekdemeo](https://www.blueletterbible.org/lexicon/g1553/kjv/tr/0-1/){:target="_blank"}/[endemeo](https://www.blueletterbible.org/lexicon/g1736/kjv/tr/0-1/){:target="_blank"} pairs (5:6-9)** -- Three times Paul contrasts being "at home in the body" with being "absent from the body" / "present with the Lord." Does "absent from the body" mean a disembodied state, or does it function as a euphemism for the transition from mortal to immortal existence?
 
-8. **2 Pe 1:14 parallel** -- Peter uses skenoma (tabernacle) for his body, connecting to Paul's skenos. Nave's lists this under DEATH -- "putting off this tabernacle."
+8. **2 Pe 1:14 parallel** -- Peter uses [skenoma](https://www.blueletterbible.org/lexicon/g4638/kjv/tr/0-1/){:target="_blank"} (tabernacle) for his body, connecting to Paul's [skenos](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"}. Nave's lists this under DEATH -- "putting off this tabernacle."
 
 9. **The broader Pauline context (2 Cor 4:14-5:10)** -- The pericope begins at 4:14 with "he which raised up the Lord Jesus shall raise up us also." The entire passage is framed by resurrection. How does this context govern the interpretation of 5:6-8?
 
@@ -214,8 +214,8 @@ You are the Research Agent. Execute this study by:
 - Run concept_context.py for 2 Cor 5:1 and 5:4 with --scope author
 
 **Word Studies:**
-- Full lookup (--lookup AND --lexicon) for: G1746, G1902, G1562, G1131, G4636, G4633, G3624, G1553, G1736, G4727, G916
-- Check --verses for G1902 and G4636 to see every context where these rare words appear
+- Full lookup (--lookup AND --lexicon) for: [G1746](https://www.blueletterbible.org/lexicon/g1746/kjv/tr/0-1/){:target="_blank"}, [G1902](https://www.blueletterbible.org/lexicon/g1902/kjv/tr/0-1/){:target="_blank"}, [G1562](https://www.blueletterbible.org/lexicon/g1562/kjv/tr/0-1/){:target="_blank"}, [G1131](https://www.blueletterbible.org/lexicon/g1131/kjv/tr/0-1/){:target="_blank"}, [G4636](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"}, [G4633](https://www.blueletterbible.org/lexicon/g4633/kjv/tr/0-1/){:target="_blank"}, [G3624](https://www.blueletterbible.org/lexicon/g3624/kjv/tr/0-1/){:target="_blank"}, [G1553](https://www.blueletterbible.org/lexicon/g1553/kjv/tr/0-1/){:target="_blank"}, [G1736](https://www.blueletterbible.org/lexicon/g1736/kjv/tr/0-1/){:target="_blank"}, [G4727](https://www.blueletterbible.org/lexicon/g4727/kjv/tr/0-1/){:target="_blank"}, [G916](https://www.blueletterbible.org/lexicon/g916/kjv/tr/0-1/){:target="_blank"}
+- Check --verses for [G1902](https://www.blueletterbible.org/lexicon/g1902/kjv/tr/0-1/){:target="_blank"} and [G4636](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"} to see every context where these rare words appear
 - Run --lxx-map or --hebrew-source where relevant to check OT background
 
 ## Workflow

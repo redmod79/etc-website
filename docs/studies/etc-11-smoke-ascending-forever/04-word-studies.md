@@ -6,7 +6,7 @@ Rev 14:9-11, 19:3 -- OT source imagery (Isa 34:9-10, Gen 19:28, Mal 4:1-3). Smok
 
 ---
 
-## G2586 -- kapnos (smoke)
+## [G2586](https://www.blueletterbible.org/lexicon/g2586/kjv/tr/0-1/){:target="_blank"} -- kapnos (smoke)
 
 **Original:** kapnos
 **Transliteration:** kapnos
@@ -54,13 +54,13 @@ The Hebrew equivalent (ashan) is used in OT for:
 
 ---
 
-## G929 -- basanismos (torment)
+## [G929](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} -- [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} (torment)
 
-**Original:** basanismos
-**Transliteration:** basanismos
+**Original:** [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"}
+**Transliteration:** [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"}
 **Pronunciation:** bas-an-is-mos
 **Part of Speech:** masculine noun (n-m)
-**Definition:** torture, torment (from basanizo)
+**Definition:** torture, torment (from [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"})
 **Total Occurrences:** 6 (BLB count)
 
 ### Translations
@@ -80,15 +80,15 @@ The Hebrew equivalent (ashan) is used in OT for:
 - ALL 6 occurrences are in Revelation
 - 3 of 6 describe BABYLON'S "torment" (Rev 18:7,10,15)
 - Babylon's "torment" IS her destruction: "utterly burned with fire" (18:8), "in one hour" (18:10,17), "thrown down, and shall be found no more at all" (18:21)
-- Rev 9:5: the only occurrence with an explicit time limit (5 months) -- showing basanismos CAN describe a limited, temporary experience
-- Same book, same author uses basanismos for a completed destruction event (Babylon) and a temporally limited event (scorpion torment)
+- Rev 9:5: the only occurrence with an explicit time limit (5 months) -- showing [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} CAN describe a limited, temporary experience
+- Same book, same author uses [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} for a completed destruction event (Babylon) and a temporally limited event (scorpion torment)
 
 ---
 
-## G928 -- basanizo (to torment)
+## [G928](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} -- [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (to torment)
 
-**Original:** basanizo
-**Transliteration:** basanizo
+**Original:** [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}
+**Transliteration:** [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}
 **Pronunciation:** bas-an-id-zo
 **Part of Speech:** verb
 **Definition:** to torture, pain, toil, torment, toss, vex (from basanos)
@@ -131,7 +131,7 @@ The Hebrew equivalent (ashan) is used in OT for:
 
 ---
 
-## G372 -- anapausis (rest/cessation)
+## [G372](https://www.blueletterbible.org/lexicon/g372/kjv/tr/0-1/){:target="_blank"} -- anapausis (rest/cessation)
 
 **Original:** anapausis
 **Transliteration:** anapausis
@@ -168,7 +168,7 @@ The Hebrew equivalent (ashan) is used in OT for:
 
 ---
 
-## G2303 -- theion (brimstone)
+## [G2303](https://www.blueletterbible.org/lexicon/g2303/kjv/tr/0-1/){:target="_blank"} -- theion (brimstone)
 
 **Original:** theion
 **Transliteration:** theion
@@ -209,7 +209,7 @@ In every OT case, brimstone is an agent of destruction and desolation, not of on
 
 ---
 
-## G305 -- anabaino (ascend/go up)
+## [G305](https://www.blueletterbible.org/lexicon/g305/kjv/tr/0-1/){:target="_blank"} -- anabaino (ascend/go up)
 
 **Original:** anabaino
 **Transliteration:** anabaino
@@ -230,7 +230,7 @@ In Rev 14:11, the verb is in the present tense (anabainei), describing the smoke
 
 ---
 
-## H6227 -- ashan (smoke)
+## [H6227](https://www.blueletterbible.org/lexicon/h6227/kjv/wlc/0-1/){:target="_blank"} -- ashan (smoke)
 
 **Original:** ashan
 **Transliteration:** ashan
@@ -271,7 +271,7 @@ In Rev 14:11, the verb is in the present tense (anabainei), describing the smoke
 - Hos 13:3: "as the smoke out of the chimney" (transience)
 
 **Sodom:**
-- Gen 19:28 is NOT H6227 (uses qitor, H7008, "smoke/vapor" -- a different word)
+- Gen 19:28 is NOT [H6227](https://www.blueletterbible.org/lexicon/h6227/kjv/wlc/0-1/){:target="_blank"} (uses qitor, [H7008](https://www.blueletterbible.org/lexicon/h7008/kjv/wlc/0-1/){:target="_blank"}, "smoke/vapor" -- a different word)
 
 ### OT Smoke Vocabulary Summary
 In OT usage, smoke (ashan) consistently carries connotations of:
@@ -282,7 +282,7 @@ In OT usage, smoke (ashan) consistently carries connotations of:
 
 ---
 
-## H1614 -- gophriyth (brimstone)
+## [H1614](https://www.blueletterbible.org/lexicon/h1614/kjv/wlc/0-1/){:target="_blank"} -- gophriyth (brimstone)
 
 **Original:** gophriyth
 **Transliteration:** gophriyth

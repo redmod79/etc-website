@@ -1,24 +1,24 @@
 # Topics Research
 
 ## Question
-Semantic range of Sheol (H7585), Hades (G86), Gehenna (G1067), Tartaroo (G5020). Interchangeability? Does any inherently mean eternal torment? LXX translation patterns.
+Semantic range of [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} (H7585), [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (G86), [Gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} (G1067), [Tartaroo](https://www.blueletterbible.org/lexicon/g5020/kjv/tr/0-1/){:target="_blank"} (G5020). Interchangeability? Does any inherently mean eternal torment? LXX translation patterns.
 
 ## Topics
 
 ### HELL
-(In the A. V. this word occurs in O. T. Scriptures, cited below, and is the translation of the Hebrew word "sheol," which signifies the unseen state)
+(In the A. V. this word occurs in O. T. Scriptures, cited below, and is the translation of the Hebrew word "[sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}," which signifies the unseen state)
 - In the R. V. of O. T. it appears only in ISA 5:14; 14:9,15; 28:15,18; 57:9; EZK 31:16,17; 32:21,27; AMO 9:2; JON 2:2; HAB 2:5
-- In the R. V., "sheol" is translated "lowest pit" DEU 32:22; PSA 86:13
+- In the R. V., "[sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}" is translated "lowest pit" DEU 32:22; PSA 86:13
 - And it is translated "pit" in PSA 55:15
-- In the R. V. the word "Sheol" itself occurs in the following scriptures 2SA 22:6; JOB 11:8; 26:6; PSA 9:17; 16:10; 18:5; 116:3; 139:8; PRO 5:5; 7:27; 9:18; 15:11,24; 23:14; 27:20
-- Sheol is translated "grave" in A. V. in GEN 37:35; 42:38; 44:29,31; 1SA 2:6; 1KI 2:6; 9; JOB 7:9; 14:13; 17:13; 21:13; 24:19; PSA 6:5; 30:3; 31:17; 49:14,15; 88:3; 89:48; 141:7; PRO 1:12; 30:16; ECC 9:10; So 8:6; HOS 13:14
-- In the R. V. the Greek word "gehenna" is translated "hell" in the following scriptures MAT 5:22,29,30; 10:28; 18:9; 23:15,33; MRK 9:43,45,47; LUK 12:5; JAS 3:6
-- The R. V. has introduced "Hades," the word found in the Greek text, which signifies the unseen world, in the following scriptures MAT 11:23; 16:18; LUK 10:15; 16:23; ACT 2:27,31; REV 1:18; 6:8; 20:13,14
+- In the R. V. the word "[Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}" itself occurs in the following scriptures 2SA 22:6; JOB 11:8; 26:6; PSA 9:17; 16:10; 18:5; 116:3; 139:8; PRO 5:5; 7:27; 9:18; 15:11,24; 23:14; 27:20
+- [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} is translated "grave" in A. V. in GEN 37:35; 42:38; 44:29,31; 1SA 2:6; 1KI 2:6; 9; JOB 7:9; 14:13; 17:13; 21:13; 24:19; PSA 6:5; 30:3; 31:17; 49:14,15; 88:3; 89:48; 141:7; PRO 1:12; 30:16; ECC 9:10; So 8:6; HOS 13:14
+- In the R. V. the Greek word "[gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"}" is translated "hell" in the following scriptures MAT 5:22,29,30; 10:28; 18:9; 23:15,33; MRK 9:43,45,47; LUK 12:5; JAS 3:6
+- The R. V. has introduced "[Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}," the word found in the Greek text, which signifies the unseen world, in the following scriptures MAT 11:23; 16:18; LUK 10:15; 16:23; ACT 2:27,31; REV 1:18; 6:8; 20:13,14
 - THE FUTURE HOME OF THE WICKED PSA 9:17; PRO 5:5; 9:13,15-18; 15:24; 23:13,14; ISA 30:33; 33:14; MAT 3:12; 5:29,30; 7:13,14; 8:11,12; 10:28; 13:30,38-42,49,50; 16:18; 18:8,9,34,35; 22:13; 25:28-30,41,46; MRK 9:43-48; LUK 3:17; 16:23-26,28; ACT 1:25; 2TH 1:9; 2PE 2:4; Jude 1:6-23; REV 2:11; 9:1,2; 11:7; 14:10,11; 19:20; 20:10,15; 21:8
   - See WICKED, PUNISHMENT OF
 
-### HADES
-1. The unseen world, translated "hell" in A. V., but in the R. V. the word "Hades" is retained MAT 10:28; 11:23; 16:18; LUK 10:15; 16:23; ACT 2:27,31; REV 1:18; 6:8; 20:13,14
+### [HADES](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}
+1. The unseen world, translated "hell" in A. V., but in the R. V. the word "[Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}" is retained MAT 10:28; 11:23; 16:18; LUK 10:15; 16:23; ACT 2:27,31; REV 1:18; 6:8; 20:13,14
    - See HELL
 2. The realm (state) of the dead 2SA 22:6; JOB 26:5; PSA 6:5; 17:15; 30:9; 49:15; 86:13; 88:10-12; 115:17; 116:3; PRO 15:24; 21:16; 27:20; ECC 9:4-6; ISA 5:14; JON 2:2; LUK 23:42,43; JHN 8:22; 2CO 12:4
    - See HELL
@@ -52,14 +52,14 @@ Semantic range of Sheol (H7585), Hades (G86), Gehenna (G1067), Tartaroo (G5020).
   - See HELL
   - See PUNISHMENT
 
-### HINNOM
+### [HINNOM](https://www.blueletterbible.org/lexicon/h2011/kjv/wlc/0-1/){:target="_blank"}
 - A valley west and southwest of Jerusalem JOS 15:8; 18:16; 2KI 23:10; NEH 11:30
 - Children offered in sacrifice in 2CH 28:3; 33:6; JER 7:31,32; 19:2,4,6; 32:35
 - Possibly identical with the valley of the vision ISA 22:1,5
 - See TOPHET
 
 ### TOPHET (also TOPHETH)
-- A place in the valley of the sons of Hinnom 2KI 23:10
+- A place in the valley of the sons of [Hinnom](https://www.blueletterbible.org/lexicon/h2011/kjv/wlc/0-1/){:target="_blank"} 2KI 23:10
 - Jewish children passed through the fire to the god Molech in 2KI 23:10; JER 7:31,32; 19:6,11-14; 32:35
 - See also 2CH 28:3; 33:6
 - Destroyed by Josiah 2KI 23:10
@@ -82,8 +82,8 @@ Semantic range of Sheol (H7585), Hades (G86), Gehenna (G1067), Tartaroo (G5020).
 - See WICKED, PUNISHMENT OF
 
 ## Related Topics Discovered
-- GEHENNA: See HELL (Nave's redirects)
-- SHEOL: See HELL/HADES (Nave's redirects)
+- [GEHENNA](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"}: See HELL (Nave's redirects)
+- [SHEOL](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}: See HELL/[HADES](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (Nave's redirects)
 - DAMNED: See WICKED, PUNISHMENT OF
 - LOST, THE: See WICKED, PUNISHMENT OF
 - WAILING: Of the wicked MAT 13:42

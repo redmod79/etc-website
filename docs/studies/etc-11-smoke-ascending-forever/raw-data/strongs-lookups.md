@@ -1,6 +1,6 @@
 # Raw Strong's Lookup Data
 
-## G2586 -- kapnos (smoke)
+## [G2586](https://www.blueletterbible.org/lexicon/g2586/kjv/tr/0-1/){:target="_blank"} -- kapnos (smoke)
 ```
 G2586 - 13 total occurrences, 5 unique translations:
      9 ( 69.2%) smoke
@@ -21,7 +21,7 @@ Lexicon:
 Verses where G2586 = "smoke": Rev 8:4; 9:2; 9:3; 9:17; 9:18; 14:11; 18:9; 18:18; 19:3
 ```
 
-## G929 -- basanismos (torment)
+## [G929](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} -- [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} (torment)
 ```
 G929 - 6 total occurrences, 2 unique translations:
      5 ( 83.3%) torment
@@ -39,7 +39,7 @@ Lexicon:
 Verses where G929 = "torment": Rev 9:5; 14:11; 18:7; 18:10; 18:15
 ```
 
-## G928 -- basanizo (to torment)
+## [G928](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} -- [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (to torment)
 ```
 G928 - 12 total occurrences, 11 unique translations:
      2 ( 16.7%) tormented
@@ -67,7 +67,7 @@ Lexicon:
 Verses where G928 = "tormented": Mat 8:6; Rev 11:10
 ```
 
-## G2303 -- theion (brimstone)
+## [G2303](https://www.blueletterbible.org/lexicon/g2303/kjv/tr/0-1/){:target="_blank"} -- theion (brimstone)
 ```
 G2303 - 7 total occurrences, 1 unique translation:
      7 (100.0%) brimstone
@@ -85,7 +85,7 @@ Lexicon:
 Verses where G2303 = "brimstone": Luk 17:29; Rev 9:17; 9:18; 14:10; 19:20; 20:10; 21:8
 ```
 
-## G305 -- anabaino (ascend/go up)
+## [G305](https://www.blueletterbible.org/lexicon/g305/kjv/tr/0-1/){:target="_blank"} -- anabaino (ascend/go up)
 ```
 G305 - 65 total occurrences (KJV), 82 BLB count, 47 unique translations:
 Top translations: went up (8), he went up (3), we go up (3), going up (2), coming up (2)
@@ -101,7 +101,7 @@ Lexicon:
   Biblical Usage includes: Rev 4:1; 8:4; 9:2; 11:7; 11:12; 11:12 (and more)
 ```
 
-## G372 -- anapausis (rest/cessation)
+## [G372](https://www.blueletterbible.org/lexicon/g372/kjv/tr/0-1/){:target="_blank"} -- anapausis (rest/cessation)
 ```
 G372 - 5 total occurrences, 2 unique translations:
      4 ( 80.0%) rest
@@ -120,7 +120,7 @@ Verses where G372 = "rest": Mat 11:29; 12:43; Luk 11:24; Rev 14:11
 Note: Philemon 1:7 listed in lexicon but not in KJV translation data for this word
 ```
 
-## H1614 -- gophriyth (brimstone)
+## [H1614](https://www.blueletterbible.org/lexicon/h1614/kjv/wlc/0-1/){:target="_blank"} -- gophriyth (brimstone)
 ```
 H1614 - 7 total occurrences, 4 unique translations:
      3 ( 42.9%) brimstone
@@ -141,7 +141,7 @@ Lexicon:
 Verses where H1614 = "brimstone": Gen 19:24; Deu 29:23; Job 18:15
 ```
 
-## H6227 -- ashan (smoke)
+## [H6227](https://www.blueletterbible.org/lexicon/h6227/kjv/wlc/0-1/){:target="_blank"} -- ashan (smoke)
 ```
 H6227 - 24 total occurrences (KJV), 25 BLB count, 14 unique translations:
      4 ( 16.7%) a smoke

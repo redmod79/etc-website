@@ -78,13 +78,13 @@ The critical variant is between endysamenoi ("having put on/clothed ourselves," 
 **Text:** "For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens."
 
 **Grammar:**
-- ean + kataluthE (Aorist Passive Subjunctive) = 3rd class conditional: "if our earthly tent-house should be destroyed." This presents the dissolution of the body as a real possibility (not merely hypothetical), but not a certainty -- Paul entertains the possibility that some may be alive at the parousia (cf. 1 Cor 15:51: "we shall not all sleep").
+- ean + kataluthE (Aorist Passive Subjunctive) = 3rd class conditional: "if our earthly tent-house should be destroyed." This presents the dissolution of the body as a real possibility (not merely hypothetical), but not a certainty -- Paul entertains the possibility that some may be alive at the [parousia](https://www.blueletterbible.org/lexicon/g3952/kjv/tr/0-1/){:target="_blank"} (cf. 1 Cor 15:51: "we shall not all sleep").
 - echomen (Present Active Indicative) = "we have." The present tense is striking: Paul says "we have" (not "we will have") a building from God. This has been interpreted as evidence for an immediate post-death heavenly dwelling. However, the present tense can also express certainty of a future promise (the "proleptic present" -- so assured of the future reality that it is spoken of as a present possession). Compare John 5:24: "He that heareth my word, and believeth on him that sent me, hath [echei, present tense] everlasting life" -- yet the full realization of eternal life awaits the resurrection (John 6:40,54).
 
 **The tent/building contrast:**
-- skenos (G4636, "tent") -- occurs only here (5:1) and in 5:4. A tent is temporary, portable, easily taken down. Paul's use of skenos for the mortal body emphasizes its fragile, transient nature.
+- [skenos](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"} (G4636, "tent") -- occurs only here (5:1) and in 5:4. A tent is temporary, portable, easily taken down. Paul's use of [skenos](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"} for the mortal body emphasizes its fragile, transient nature.
 - oikodome (G3619, "building") from God -- permanent, made by God (not human hands), eternal, in the heavens. This contrasts with the earthly tent in every way: permanent vs. temporary, divine vs. earthly, eternal vs. transient, heavenly vs. earthly.
-- 2 Pe 1:13-14 uses the related skenoma (G4638) for Peter's body, confirming that the tent/tabernacle metaphor for the mortal body was shared apostolic language.
+- 2 Pe 1:13-14 uses the related [skenoma](https://www.blueletterbible.org/lexicon/g4638/kjv/tr/0-1/){:target="_blank"} (G4638) for Peter's body, confirming that the tent/tabernacle metaphor for the mortal body was shared apostolic language.
 
 **Is the "building from God" received at death or at resurrection?** The question is critical. Two observations:
 1. In 1 Cor 15:35-44, Paul answers the question "with what body do they come?" The answer is the resurrection body -- sown natural, raised spiritual. The building/dwelling language of 2 Cor 5:1 corresponds to this.
@@ -125,7 +125,7 @@ The critical variant is between endysamenoi ("having put on/clothed ourselves," 
 
 **The phrase eph' hO ("because/on account of which"):** This causal phrase explains why they groan while burdened. The burden is mortality itself -- the weight of living in a fragile, decaying tent-body. The groaning is not because they want to escape the body, but because they want mortality to be overcome by life.
 
-**Comparison with 1 Cor 15:51-52:** Paul writes to the Corinthians: "We shall not all sleep, but we shall all be changed, in a moment, in the twinkling of an eye, at the last trump." Here Paul explicitly contemplates the possibility that some believers will be alive at the parousia and will be transformed without dying ("we shall not all sleep"). The desire expressed in 2 Cor 5:4 -- to be "clothed upon" rather than "unclothed" -- corresponds exactly to this: Paul prefers the transformation-without-death of 1 Cor 15:51-52 to the death-and-resurrection sequence.
+**Comparison with 1 Cor 15:51-52:** Paul writes to the Corinthians: "We shall not all sleep, but we shall all be changed, in a moment, in the twinkling of an eye, at the last trump." Here Paul explicitly contemplates the possibility that some believers will be alive at the [parousia](https://www.blueletterbible.org/lexicon/g3952/kjv/tr/0-1/){:target="_blank"} and will be transformed without dying ("we shall not all sleep"). The desire expressed in 2 Cor 5:4 -- to be "clothed upon" rather than "unclothed" -- corresponds exactly to this: Paul prefers the transformation-without-death of 1 Cor 15:51-52 to the death-and-resurrection sequence.
 
 **Comparison with 1 Thess 4:15-17:** "We which are alive and remain unto the coming of the Lord shall not prevent them which are asleep... the dead in Christ shall rise first: then we which are alive and remain shall be caught up together with them." Paul envisions two categories: (1) the dead who are raised, and (2) the living who are transformed. In 2 Cor 5:4, Paul places himself in category (2) as his preference -- he wants to be among those who are alive and remain, who receive immortality over their mortality without the intervening nakedness of death.
 
@@ -182,7 +182,7 @@ The verse does not specify when or how these events relate temporally. Paul stat
 **Key observations:**
 - Verse 9 uses "whether present or absent" (eite endEmountes eite ekdEmountes) without specifying "in the body" or "from the body." The terms are left general -- the focus shifts from the body/Lord contrast to the judgment.
 - Verse 10 introduces the judgment seat of Christ (bEma tou Christou). Every person receives according to what was done "in his body" (dia tou sOmatos). The things done in the body determine the judgment. This further reinforces that the body is the theater of moral action, not a prison to escape.
-- The judgment seat scene is eschatological -- it corresponds to the parousia, not to an intermediate state.
+- The judgment seat scene is eschatological -- it corresponds to the [parousia](https://www.blueletterbible.org/lexicon/g3952/kjv/tr/0-1/){:target="_blank"}, not to an intermediate state.
 
 ## Comparison with Philippians 1:21-23
 
@@ -201,7 +201,7 @@ The verse does not specify when or how these events relate temporally. Paul stat
 
 The comparison is between continued earthly life and the state of being with Christ. It is NOT a comparison between intermediate state and resurrection. Paul does not say "I desire the intermediate state." He says "to depart and be with Christ" -- the departure leads to being with Christ, and from the departing person's perspective (if death is unconscious), the next conscious moment after departure IS being with Christ at the resurrection.
 
-**1 Cor 15:18 as consistency check:** Paul writes: "Then they also which are fallen asleep in Christ are perished." If the dead in Christ are currently experiencing blissful conscious fellowship with Christ in an intermediate state, how could Paul say they are "perished" (apOlonto, Aorist Middle Indicative of apollymi) without resurrection? The word apollymi means "destroyed, lost, ruined." This statement makes sense only if the dead are genuinely unconscious/dead without hope apart from the resurrection. If they were already "with Christ" in conscious bliss, they could not be described as "perished."
+**1 Cor 15:18 as consistency check:** Paul writes: "Then they also which are fallen asleep in Christ are perished." If the dead in Christ are currently experiencing blissful conscious fellowship with Christ in an intermediate state, how could Paul say they are "perished" (apOlonto, Aorist Middle Indicative of [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}) without resurrection? The word [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} means "destroyed, lost, ruined." This statement makes sense only if the dead are genuinely unconscious/dead without hope apart from the resurrection. If they were already "with Christ" in conscious bliss, they could not be described as "perished."
 
 ## Patterns Identified
 
@@ -215,11 +215,11 @@ Every element of the clothing metaphor points to resurrection/transformation, no
 ### Pattern 2: Paul's Preference Is for Transformation Without Death
 The preference structure in 5:4 aligns perfectly with 1 Cor 15:51-52 and 1 Thess 4:15-17:
 - Paul does NOT want to be unclothed (to die)
-- Paul WANTS to be clothed upon (to be transformed while alive at the parousia)
+- Paul WANTS to be clothed upon (to be transformed while alive at the [parousia](https://www.blueletterbible.org/lexicon/g3952/kjv/tr/0-1/){:target="_blank"})
 - The goal is the same event: mortality swallowed by life / "we shall all be changed"
 
 ### Pattern 3: "With the Lord" Is Eschatological
-Paul's statements about being "with the Lord" or "with Christ" find their explanation in 1 Thess 4:17: "so shall we ever be with the Lord." The permanent state of being with the Lord begins at the resurrection/parousia, not at an intermediate state.
+Paul's statements about being "with the Lord" or "with Christ" find their explanation in 1 Thess 4:17: "so shall we ever be with the Lord." The permanent state of being with the Lord begins at the resurrection/[parousia](https://www.blueletterbible.org/lexicon/g3952/kjv/tr/0-1/){:target="_blank"}, not at an intermediate state.
 
 ### Pattern 4: Death as Sleep/Unconsciousness Is Multi-Author Biblical Testimony
 The following passages describe death as unconsciousness or cessation of thought:
@@ -268,9 +268,9 @@ In Romans 8:23, what is being groaned for and eagerly awaited is explicitly "the
 
 Four words in 2 Cor 5 appear ONLY in this passage in the entire NT:
 - ependyomai (G1902) -- 2 occurrences
-- skenos (G4636) -- 2 occurrences
-- ekdemeO (G1553) -- 3 occurrences
-- endemeO (G1736) -- 3 occurrences
+- [skenos](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"} (G4636) -- 2 occurrences
+- [ekdemeO](https://www.blueletterbible.org/lexicon/g1553/kjv/tr/0-1/){:target="_blank"} (G1553) -- 3 occurrences
+- [endemeO](https://www.blueletterbible.org/lexicon/g1736/kjv/tr/0-1/){:target="_blank"} (G1736) -- 3 occurrences
 
 This concentration of unique vocabulary means the passage must be interpreted primarily from its own context and from Paul's broader theological vocabulary, not by importing meaning from passages that use different words. The attempt to equate "absent from the body" (ekdEmEsai) with a conscious disembodied state imports a meaning not found in the word itself. The word means "to be away from home" -- it describes departure from the bodily sphere, not the nature of existence after departure.
 

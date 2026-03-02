@@ -22,7 +22,7 @@ At least eight different Old Testament authors, writing across six or more books
 - **Job 10:21-22** -- Death is described as "a land of darkness, as darkness itself; and of the shadow of death, without any order, and where the light is as darkness."
 - **Isa 38:18-19** -- "The grave cannot praise thee, death can not celebrate thee: they that go down into the pit cannot hope for thy truth. The living, the living, he shall praise thee."
 
-Not a single Old Testament passage, in a plain teaching context, states that the dead are conscious. The passages that appear to personify the dead -- such as Isaiah 14:9-10, where the inhabitants of sheol "speak" -- are identified within the text itself as poetic taunt-songs, using the same kind of figure of speech as when Abel's blood "cried" from the ground (Gen 4:10) or when trees "rejoice." This is standard Hebrew poetry, not doctrinal description.
+Not a single Old Testament passage, in a plain teaching context, states that the dead are conscious. The passages that appear to personify the dead -- such as Isaiah 14:9-10, where the inhabitants of [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} "speak" -- are identified within the text itself as poetic taunt-songs, using the same kind of figure of speech as when Abel's blood "cried" from the ground (Gen 4:10) or when trees "rejoice." This is standard Hebrew poetry, not doctrinal description.
 
 ### 2. Scripture Calls Death "Sleep" Through at Least Seven Different Authors
 
@@ -65,13 +65,13 @@ The book of Hebrews addresses this directly:
 
 Abraham, Moses, and the other heroes of faith have not yet received what was promised. Their perfection -- their completion -- awaits the same event ours does. Paul adds that the crown of righteousness is given "at that day" -- the day of Christ's appearing (2 Tim 4:8), not at the moment of death.
 
-### 6. Sheol and Hades: The Grave of the Unconscious Dead
+### 6. [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}: The Grave of the Unconscious Dead
 
-The Hebrew word sheol (used 67 times in the Old Testament) and the Greek word hades (used 11 times in the New Testament) refer to the same reality: the grave, the abode of the dead. The Greek translation of the Old Testament (the Septuagint) consistently translates sheol as hades, and Peter confirms the equivalence directly when he quotes Psalm 16:10 (sheol) using the word hades (Acts 2:27,31).
+The Hebrew word [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} (used 67 times in the Old Testament) and the Greek word [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (used 11 times in the New Testament) refer to the same reality: the grave, the abode of the dead. The Greek translation of the Old Testament (the Septuagint) consistently translates [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} as [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}, and Peter confirms the equivalence directly when he quotes Psalm 16:10 ([sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}) using the word [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (Acts 2:27,31).
 
-Both the righteous and the wicked go to sheol: Jacob (Gen 37:35), David (Ps 16:10), Korah and his company (Num 16:33), and the wicked (Ps 9:17). It is not a divided realm with one section for the righteous and another for the wicked -- it is the common grave of all the dead, characterized by unconsciousness, silence, and darkness.
+Both the righteous and the wicked go to [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}: Jacob (Gen 37:35), David (Ps 16:10), Korah and his company (Num 16:33), and the wicked (Ps 9:17). It is not a divided realm with one section for the righteous and another for the wicked -- it is the common grave of all the dead, characterized by unconsciousness, silence, and darkness.
 
-Sheol/hades is also temporary. The book of Revelation states: "Death and hell [hades] delivered up the dead which were in them... and death and hell were cast into the lake of fire" (Rev 20:13-14). Hades is a waiting state, not a final destination.
+[Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}/[hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} is also temporary. The book of Revelation states: "Death and hell [hades] delivered up the dead which were in them... and death and hell were cast into the lake of fire" (Rev 20:13-14). [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} is a waiting state, not a final destination.
 
 ---
 
@@ -98,7 +98,7 @@ The standard English translation places a comma before "today": "I say unto thee
 The alternative reading -- "I say unto thee today, thou shalt be with me in paradise" -- is equally valid grammatically. And this reading is demanded by two other plain statements:
 
 - On resurrection morning, Jesus says "I am not yet ascended to my Father" (John 20:17). If he went to paradise on Friday, how had he not ascended by Sunday?
-- Peter's sermon states that Jesus' soul was in hades between death and resurrection (Acts 2:27,31). This is not paradise.
+- Peter's sermon states that Jesus' soul was in [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} between death and resurrection (Acts 2:27,31). This is not paradise.
 
 The reading that puts paradise on Friday creates a direct contradiction with plain statements from Jesus himself and from Peter. The reading that treats "today" as an emphatic statement -- "I solemnly tell you today, you will be with me in paradise" (at the restoration) -- is consistent with everything else Scripture says.
 
@@ -106,7 +106,7 @@ The reading that puts paradise on Friday creates a direct contradiction with pla
 
 This is a parable, appearing within a series of parables in Luke 15-16. Parables use vivid, culturally familiar imagery to make a point -- they are not doctrinal blueprints of the afterlife. The climax of this parable is: "They have Moses and the prophets; let them hear them" (v.29). The story is about listening to Scripture, not about the geography of the underworld.
 
-"Abraham's bosom" as a literal location for the dead is not described anywhere else in Scripture. A compartmentalized hades with conversations across a gulf is found nowhere else. Treating the imagery of a parable as a literal map of the afterlife is like treating the details of the Prodigal Son parable as a literal account of a specific family.
+"Abraham's bosom" as a literal location for the dead is not described anywhere else in Scripture. A compartmentalized [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} with conversations across a gulf is found nowhere else. Treating the imagery of a parable as a literal map of the afterlife is like treating the details of the Prodigal Son parable as a literal account of a specific family.
 
 ### Rev 6:9-11 -- Souls Under the Altar
 

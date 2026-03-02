@@ -24,18 +24,18 @@ This is a SYNTHESIS study. It does not investigate new passages or perform new v
 ## Prior Studies Synthesized
 | # | Study | Question |
 |---|-------|----------|
-| 01b | What Is Man? | Biblical anthropology: nephesh, ruach, neshamah |
+| 01b | What Is Man? | Biblical anthropology: [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}, [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}, [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} |
 | 02 | Who Has Immortality? | Immortality as divine attribute vs. human possession |
 | 03 | Biblical Death | What the Bible says death IS |
 | 04 | State of the Dead | Consciousness between death and resurrection |
-| 05 | Four Hell Words | Sheol, Hades, Gehenna, Tartaroo |
-| 06 | Destruction Vocabulary | Abad, apollumi, shamad, kalah, etc. |
-| 07 | Olam (Forever in OT) | Does olam always mean eternal? |
-| 08 | Aionios (Forever in NT) | Does aionios inherently mean eternal/endless? |
+| 05 | Four Hell Words | [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}, [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}, [Gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"}, [Tartaroo](https://www.blueletterbible.org/lexicon/g5020/kjv/tr/0-1/){:target="_blank"} |
+| 06 | Destruction Vocabulary | [Abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}, [apollumi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}, [shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}, [kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}, etc. |
+| 07 | [Olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} (Forever in OT) | Does [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} always mean eternal? |
+| 08 | [Aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} (Forever in NT) | Does [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} inherently mean eternal/endless? |
 | 09 | Rich Man and Lazarus | Luke 16:19-31 genre and interpretation |
 | 10 | Souls Under the Altar | Revelation 6:9-11 in apocalyptic context |
 | 11 | Smoke Ascending Forever | Rev 14:9-11, 19:3 and OT background |
-| 12 | Tormented Forever | Rev 20:10 subjects and basanizo usage |
+| 12 | Tormented Forever | Rev 20:10 subjects and [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} usage |
 | 13 | Lake of Fire / Second Death | Rev 20:14; 21:8 -- the text's own definition |
 | 14 | Judgment Passages | 8 major judgment texts at E/N/I tier |
 | 15 | ECT Strongest Case | 8 strongest ECT arguments evaluated |

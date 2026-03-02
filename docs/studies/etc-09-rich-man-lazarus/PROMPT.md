@@ -11,10 +11,10 @@ This is study etc-09 in the etc series (The Final Fate of the Wicked). Prior stu
 ### Prior Study Findings (Read from CONCLUSION.md files)
 
 **etc-04 (State of the Dead) -- initial classification of Luke 16:19-31:**
-Luke 16:19-31 was registered as E155 (Neutral): "In a parable, the rich man is depicted in hades in torments; Lazarus in Abraham's bosom; the point: 'They have Moses and the prophets; let them hear them.'" The passage failed Tree 3 Gates 1 and 3 (subject is an allegorical character; genre is parabolic). Inference I025 (I-C, ECT-direction): "Luke 16:19-31 teaches the literal geography of the afterlife" was classified as requiring an external framework (treating parabolic imagery as literal afterlife geography). The study documented 19 explicit Conditionalist statements about the death-state (unconsciousness, silence, darkness) from 8+ OT authors across 6+ books. 0 explicit ECT statements were found in didactic passages. All alleged conscious intermediate-state passages (2 Cor 5:8, Phil 1:23, Luke 23:43, Luke 16:19-31, Rev 6:9-11, 1 Sam 28, Matt 17, 1 Pet 3:18-20) failed one or more Tree 3 gates.
+Luke 16:19-31 was registered as E155 (Neutral): "In a parable, the rich man is depicted in [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} in torments; Lazarus in Abraham's bosom; the point: 'They have Moses and the prophets; let them hear them.'" The passage failed Tree 3 Gates 1 and 3 (subject is an allegorical character; genre is parabolic). Inference I025 (I-C, ECT-direction): "Luke 16:19-31 teaches the literal geography of the afterlife" was classified as requiring an external framework (treating parabolic imagery as literal afterlife geography). The study documented 19 explicit Conditionalist statements about the death-state (unconsciousness, silence, darkness) from 8+ OT authors across 6+ books. 0 explicit ECT statements were found in didactic passages. All alleged conscious intermediate-state passages (2 Cor 5:8, Phil 1:23, Luke 23:43, Luke 16:19-31, Rev 6:9-11, 1 Sam 28, Matt 17, 1 Pet 3:18-20) failed one or more Tree 3 gates.
 
-**etc-05 (Four Hell Words) -- hades analysis and Luke 16 in context:**
-Hades (G86, 11 NT occurrences) is the NT equivalent of sheol (confirmed by LXX translating sheol as hades 58/65 times and by Acts 2:27,31 directly quoting Ps 16:10). Didactic passages characterize sheol/hades by unconsciousness, silence, darkness, no work, no knowledge (Ecc 9:10; Ps 6:5; 115:17; Job 10:21-22). Only Luke 16:23 depicts consciousness in hades -- within a parable. Inference I032 (I-B, ECT-direction): "Sheol/hades is a place of conscious existence with compartments" was resolved Strong toward Conditionalist: 7 Plain didactic items on the AGAINST side vs. 3 Ambiguous items (1 parabolic, 1 mashal, 1 prophetic lamentation) on the FOR side.
+**etc-05 (Four Hell Words) -- [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} analysis and Luke 16 in context:**
+[Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (G86, 11 NT occurrences) is the NT equivalent of [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} (confirmed by LXX translating [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} as [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} 58/65 times and by Acts 2:27,31 directly quoting Ps 16:10). Didactic passages characterize [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}/[hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} by unconsciousness, silence, darkness, no work, no knowledge (Ecc 9:10; Ps 6:5; 115:17; Job 10:21-22). Only Luke 16:23 depicts consciousness in [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} -- within a parable. Inference I032 (I-B, ECT-direction): "[Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}/[hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} is a place of conscious existence with compartments" was resolved Strong toward Conditionalist: 7 Plain didactic items on the AGAINST side vs. 3 Ambiguous items (1 parabolic, 1 [mashal](https://www.blueletterbible.org/lexicon/h4912/kjv/wlc/0-1/){:target="_blank"}, 1 prophetic lamentation) on the FOR side.
 
 **etc-01 (What Is Man?):** Man became a living soul (Gen 2:7). Death reverses creation: dust returns, spirit returns to God (Ecc 12:7). Thoughts perish at death (Ps 146:4). The dead know nothing (Ecc 9:5).
 
@@ -24,12 +24,12 @@ Hades (G86, 11 NT occurrences) is the NT equivalent of sheol (confirmed by LXX t
 
 **etc-06 (Destruction Vocabulary):** Seven destruction words (~743 combined occurrences) form the Bible's primary vocabulary for the wicked's fate. No lexicon defines any as "torment."
 
-**etc-07 (Olam/Forever in OT):** Olam does not inherently mean "eternal/endless." Duration depends on context and subject.
+**etc-07 ([Olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}/Forever in OT):** [Olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} does not inherently mean "eternal/endless." Duration depends on context and subject.
 
-**etc-08 (Aionios/Forever in NT):** Aionios means "pertaining to the age" with duration determined by the nature of the subject. Past-time uses (Rom 16:25; 2 Tim 1:9; Tit 1:2) confirm it does not inherently mean "endless."
+**etc-08 ([Aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}/Forever in NT):** [Aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} means "pertaining to the age" with duration determined by the nature of the subject. Past-time uses (Rom 16:25; 2 Tim 1:9; Tit 1:2) confirm it does not inherently mean "endless."
 
 ### Relevance to This Study
-etc-04 classified Luke 16:19-31 as a parable (failing Tree 3 Gates 1 and 3) and registered the passage as E155 (Neutral). etc-05 resolved I032 (sheol/hades as conscious compartmentalized realm) Strong toward Conditionalist, with Luke 16:23 as one of three Ambiguous FOR items overruled by 7 Plain AGAINST items. This study provides the dedicated, in-depth investigation of Luke 16:19-31 that those studies cross-referenced. The question is: does the passage teach literal afterlife geography or is it a parable using familiar imagery to make a point about hearing Moses and the prophets?
+etc-04 classified Luke 16:19-31 as a parable (failing Tree 3 Gates 1 and 3) and registered the passage as E155 (Neutral). etc-05 resolved I032 ([sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}/[hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} as conscious compartmentalized realm) Strong toward Conditionalist, with Luke 16:23 as one of three Ambiguous FOR items overruled by 7 Plain AGAINST items. This study provides the dedicated, in-depth investigation of Luke 16:19-31 that those studies cross-referenced. The question is: does the passage teach literal afterlife geography or is it a parable using familiar imagery to make a point about hearing Moses and the prophets?
 
 ## Methodology
 Read and follow: D:/Bible/bible-studies/etc-series-methodology.md (the full methodology is in that file).
@@ -49,16 +49,16 @@ Use kjv.txt to retrieve the actual text of every verse listed below. **Verses mu
 
 ### Phase 2: Word Studies (from tool output)
 
-**G86 (hades)**
+**[G86](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (hades)**
 - Transliteration: haides
 - Pronunciation: hah-dace
 - Part of speech: proper locative noun
 - BLB Count: 11
-- Strong's definition: from (as negative particle) and; properly, unseen, i.e. "Hades"
+- Strong's definition: from (as negative particle) and; properly, unseen, i.e. "[Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}"
 - KJV translations: "hell" (7x, 63.6%), "of hell" (2x, 18.2%), "O grave" (1x, 9.1%), "Hell" (1x, 9.1%)
 - Outline of Biblical Usage: 2 Sam 22:6; Job 10:21; 11:8; 38:17; Ps 16:10; Isa 57:9; Amos 9:2; Matt 11:23; 16:18; Luke 10:15; 16:23; Acts 2:24,27,27,31; 1 Cor 15:55; Rev 1:18; 6:8; 20:13
 
-**G931 (basanos) -- "torments" in Luke 16:23,28**
+**[G931](https://www.blueletterbible.org/lexicon/g931/kjv/tr/0-1/){:target="_blank"} (basanos) -- "torments" in Luke 16:23,28**
 - Transliteration: basanos
 - Pronunciation: bas
 - Part of speech: masculine noun
@@ -67,7 +67,7 @@ Use kjv.txt to retrieve the actual text of every verse listed below. **Verses mu
 - KJV translations: "torments" (2x, 66.7%), "of torment" (1x, 33.3%)
 - Biblical Usage: Matt 4:24; Luke 16:23; Luke 16:28
 
-**G3600 (odunao) -- "tormented" in Luke 16:24,25**
+**[G3600](https://www.blueletterbible.org/lexicon/g3600/kjv/tr/0-1/){:target="_blank"} (odunao) -- "tormented" in Luke 16:24,25**
 - Transliteration: odunao
 - Pronunciation: od-oo-nah
 - Part of speech: verb
@@ -75,19 +75,19 @@ Use kjv.txt to retrieve the actual text of every verse listed below. **Verses mu
 - Strong's definition: from; to grieve: sorrow, torment
 - KJV translations: "sorrowing" (1x), "I am tormented" (1x), "art tormented" (1x), "Sorrowing" (1x)
 - Biblical Usage: Luke 2:48; Luke 16:24; Acts 20:38
-- NOTE: odunao means "to grieve/sorrow" -- a different word family from basanizo (G928). Luke 16 uses BOTH basanos (G931) and odunao (G3600), but NOT basanizo (G928, the standard "torment" verb used in Rev 14:10; 20:10).
+- NOTE: odunao means "to grieve/sorrow" -- a different word family from [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (G928). Luke 16 uses BOTH basanos (G931) and odunao (G3600), but NOT [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (G928, the standard "torment" verb used in Rev 14:10; 20:10).
 
-**G928 (basanizo) -- standard NT "torment" verb (NOT used in Luke 16)**
-- Transliteration: basanizo
+**[G928](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (basanizo) -- standard NT "torment" verb (NOT used in Luke 16)**
+- Transliteration: [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}
 - Pronunciation: bas-an-id
 - Part of speech: verb
 - BLB Count: 12
 - Strong's definition: from; to torture: pain, toil, torment, toss, vex
 - KJV translations: "tormented" (2x), "to torment" (1x), "tossed" (1x), "that thou torment" (1x), "toiling" (1x), "torment" (1x), "vexed" (1x), "they should be tormented" (1x), "pained" (1x), "he shall be tormented" (1x), "shall be tormented" (1x)
 - Biblical Usage: Matt 8:6,29; 14:24; Mark 5:7; 6:48; Luke 8:28; 2 Pet 2:8; Rev 9:5; 11:10; 12:2; 14:10; 20:10
-- KEY OBSERVATION: basanizo is the word used in Rev 14:10 and 20:10 for eschatological torment. It does NOT appear in Luke 16:19-31. The passage uses the milder basanos (noun) and odunao (grieve/sorrow) instead.
+- KEY OBSERVATION: [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} is the word used in Rev 14:10 and 20:10 for eschatological torment. It does NOT appear in Luke 16:19-31. The passage uses the milder basanos (noun) and odunao (grieve/sorrow) instead.
 
-**G2859 (kolpos) -- "bosom" in Luke 16:22,23**
+**[G2859](https://www.blueletterbible.org/lexicon/g2859/kjv/tr/0-1/){:target="_blank"} (kolpos) -- "bosom" in Luke 16:22,23**
 - Transliteration: kolpos
 - Pronunciation: kol
 - Part of speech: masculine noun
@@ -97,17 +97,17 @@ Use kjv.txt to retrieve the actual text of every verse listed below. **Verses mu
 - Biblical Usage (NT): Luke 6:38; Luke 16:22,23; John 1:18; 13:23; Acts 27:39
 - NOTE: "Abraham's bosom" as a location for the dead appears ONLY in Luke 16:22-23. John 1:18 uses kolpos for Jesus being "in the bosom of the Father" (intimate relationship, not geography). John 13:23 uses it for the disciple leaning on Jesus' bosom at supper. The geographical/locational use is unique to Luke 16.
 
-**G3857 (paradeisos) -- "paradise" (NOT used in Luke 16, but relevant comparison)**
-- Transliteration: paradeisos
+**[G3857](https://www.blueletterbible.org/lexicon/g3857/kjv/tr/0-1/){:target="_blank"} (paradeisos) -- "paradise" (NOT used in Luke 16, but relevant comparison)**
+- Transliteration: [paradeisos](https://www.blueletterbible.org/lexicon/g3857/kjv/tr/0-1/){:target="_blank"}
 - Pronunciation: par-ad
 - Part of speech: masculine noun
 - BLB Count: 3
 - Strong's definition: of Oriental origin; a park, i.e. (specially), an Eden
 - KJV translations: "paradise" (3x)
 - NT occurrences: Luke 23:43; 2 Cor 12:2-4; Rev 2:7
-- NOTE: Luke 16 does NOT use paradeisos for the righteous dead's location. It uses "Abraham's bosom" (kolpos Abraam) -- a phrase found nowhere else in Scripture. If Luke were teaching literal afterlife geography, the absence of the standard term "paradise" is notable.
+- NOTE: Luke 16 does NOT use [paradeisos](https://www.blueletterbible.org/lexicon/g3857/kjv/tr/0-1/){:target="_blank"} for the righteous dead's location. It uses "Abraham's bosom" (kolpos Abraam) -- a phrase found nowhere else in Scripture. If Luke were teaching literal afterlife geography, the absence of the standard term "paradise" is notable.
 
-**G3850 (parabole) -- "parable"**
+**[G3850](https://www.blueletterbible.org/lexicon/g3850/kjv/tr/0-1/){:target="_blank"} (parabole) -- "parable"**
 - Transliteration: parabole
 - Pronunciation: par-ab-ol-ay
 - Part of speech: feminine noun
@@ -146,11 +146,11 @@ Luke 16:1, 16:2, 16:3, 16:4, 16:5, 16:6, 16:7, 16:8, 16:9, 16:10, 16:11, 16:12, 
 **Luke 12:16 (same opening formula with explicit parabole label):**
 Luke 12:13, 12:14, 12:15, 12:16, 12:17, 12:18, 12:19, 12:20, 12:21
 
-**Same-author hades passages (Luke-Acts):**
+**Same-author [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} passages (Luke-Acts):**
 Acts 2:27, 2:29, 2:31, 2:34
 Luke 10:15
 
-**Other hades passages:**
+**Other [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} passages:**
 Matt 11:23, Matt 16:18
 Rev 1:18, Rev 6:8, Rev 20:13, Rev 20:14
 1 Cor 15:55
@@ -173,9 +173,9 @@ John 20:17
 
 **Other relevant passages:**
 Gen 4:10 (Abel's blood "cries" -- personification parallel)
-Matt 10:28 (destroy soul and body in gehenna)
+Matt 10:28 (destroy soul and body in [gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"})
 Rev 20:14, 21:8 (second death = lake of fire)
-Isa 14:4, 14:9, 14:10 (mashal with personification of sheol)
+Isa 14:4, 14:9, 14:10 ([mashal](https://www.blueletterbible.org/lexicon/h4912/kjv/wlc/0-1/){:target="_blank"} with personification of [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"})
 Ezek 32:21, 32:27 (prophetic lamentation: dead "speak" but lie with swords under heads)
 Luke 23:43 (thief and paradise -- same author)
 2 Cor 12:2, 12:3, 12:4 (paradise -- living person's vision)
@@ -202,7 +202,7 @@ Luke 23:43 (thief and paradise -- same author)
 
 4. **Abraham's Bosom (kolpos Abraam)**
    - Does "Abraham's bosom" appear anywhere else in Scripture as a location for the dead? (No)
-   - Does Luke use paradeisos (paradise) for this location? (No)
+   - Does Luke use [paradeisos](https://www.blueletterbible.org/lexicon/g3857/kjv/tr/0-1/){:target="_blank"} (paradise) for this location? (No)
    - What is the origin of the "Abraham's bosom" concept? (Examine whether it reflects first-century Jewish intertestamental imagery rather than OT teaching)
    - John 1:18 uses kolpos for the Son being "in the bosom of the Father" -- intimate relationship, not geography
 
@@ -215,8 +215,8 @@ Luke 23:43 (thief and paradise -- same author)
 
 6. **The Torment Vocabulary**
    - Luke 16 uses basanos (G931, noun: "torments") and odunao (G3600, verb: "to grieve/sorrow")
-   - It does NOT use basanizo (G928, the standard "torment" verb in Rev 14:10; 20:10)
-   - What does this vocabulary choice signify? Is odunao ("grieve/sorrow") weaker than basanizo ("torture")?
+   - It does NOT use [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (G928, the standard "torment" verb in Rev 14:10; 20:10)
+   - What does this vocabulary choice signify? Is odunao ("grieve/sorrow") weaker than [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} ("torture")?
    - Compare: odunao is used in Luke 2:48 (Mary "sorrowing" for the child Jesus) and Acts 20:38 (disciples "sorrowing" at Paul's departure) -- neither involves eschatological torment
 
 7. **The SIS Test: Clear Interprets Unclear**
@@ -248,8 +248,8 @@ Luke 23:43 (thief and paradise -- same author)
 1. Brother of Mary and Martha. Sickness and death of (Jhn 11:1-14). Resurrection of (Jhn 11:38-44; 12:17,18). Had dinner with Jesus (Jhn 12:1,2,9). Plotted against by the chief priests (Jhn 12:10,11).
 - NOTE: Nave's lists only ONE Lazarus -- the brother of Mary and Martha. The "Lazarus" of Luke 16 is NOT listed as a separate historical person. This is consistent with the parabolic reading.
 
-**HADES (Nave's entry):**
-1. The unseen world, translated "hell" in AV, but in RV the word "Hades" is retained: Mat 10:28; 11:23; 16:18; Luk 10:15; 16:23; Act 2:27,31; Rev 1:18; 6:8; 20:13,14. See HELL.
+**[HADES](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (Nave's entry):**
+1. The unseen world, translated "hell" in AV, but in RV the word "[Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}" is retained: Mat 10:28; 11:23; 16:18; Luk 10:15; 16:23; Act 2:27,31; Rev 1:18; 6:8; 20:13,14. See HELL.
 2. The realm (state) of the dead: 2 Sam 22:6; Job 26:5; Ps 6:5; 17:15; 30:9; 49:15; 86:13; 88:10-12; 115:17; 116:3; Pro 15:24; 21:16; 27:20; Ecc 9:4-6; Isa 5:14; Jon 2:2; Luk 23:42,43; Jhn 8:22; 2 Cor 12:4.
 
 **RICH, THE (Nave's entry):**
@@ -262,14 +262,14 @@ General scriptures: Neh 5:1-13; Job 21:7-15; 27:13-23; 31:24,25,28; Ps 49:16,17;
 
 ### Phase 6: Semantic Search Results
 
-**Nave's Semantic Search: "rich man lazarus parable hades abraham"**
-Top results: HADES (0.59), LAZARUS (0.57), ABRAHAM (0.54), RESURRECTION (0.42), KINGDOM OF HEAVEN (0.38). The search confirms the primary topical connections. The LAZARUS entry lists only the brother of Mary and Martha -- not a separate historical "Lazarus" from Luke 16.
+**Nave's Semantic Search: "rich man lazarus parable [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} abraham"**
+Top results: [HADES](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (0.59), LAZARUS (0.57), ABRAHAM (0.54), RESURRECTION (0.42), KINGDOM OF HEAVEN (0.38). The search confirms the primary topical connections. The LAZARUS entry lists only the brother of Mary and Martha -- not a separate historical "Lazarus" from Luke 16.
 
 **Semantic Studies Search: "rich man lazarus parable luke 16"**
 Top matches: etc-09-rich-man-lazarus (0.797), etc3-09-rich-man-lazarus (0.795), etc2-09-rich-man-lazarus (0.794), etc4-09-rich-man-lazarus (0.762), etc5-09-rich-man-lazarus (0.651). Five prior iterations of this study exist, all converging on the parabolic reading.
 
-**Semantic Strong's Search: "parable hades torment bosom"**
-Top results: G929 basanismos (0.533), G928 basanizo (0.508), G5020 tartaroo (0.506), G3600 odunao (0.500), G931 basanos (0.484), G930 basanistes (0.465), G86 hades (0.453), G2851 kolasis (0.441), G2859 kolpos (0.425).
+**Semantic Strong's Search: "parable [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} torment bosom"**
+Top results: [G929](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} (0.533), [G928](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (0.508), [G5020](https://www.blueletterbible.org/lexicon/g5020/kjv/tr/0-1/){:target="_blank"} [tartaroo](https://www.blueletterbible.org/lexicon/g5020/kjv/tr/0-1/){:target="_blank"} (0.506), [G3600](https://www.blueletterbible.org/lexicon/g3600/kjv/tr/0-1/){:target="_blank"} odunao (0.500), [G931](https://www.blueletterbible.org/lexicon/g931/kjv/tr/0-1/){:target="_blank"} basanos (0.484), [G930](https://www.blueletterbible.org/lexicon/g930/kjv/tr/0-1/){:target="_blank"} basanistes (0.465), [G86](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (0.453), [G2851](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} [kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} (0.441), [G2859](https://www.blueletterbible.org/lexicon/g2859/kjv/tr/0-1/){:target="_blank"} kolpos (0.425).
 
 ### Phase 7: LXX and Vocabulary Analysis
 
@@ -277,13 +277,13 @@ Top results: G929 basanismos (0.533), G928 basanizo (0.508), G5020 tartaroo (0.5
 
 | Word | Strongs | Meaning | Luke 16 | Rev 14:10 | Rev 20:10 |
 |------|---------|---------|---------|-----------|-----------|
-| basanizo (verb) | G928 | to torture/torment | NOT USED | YES | YES |
-| basanismos (noun) | G929 | torture/torment | NOT USED | YES | NOT USED |
-| basanistes (noun) | G930 | torturer/tormentor | NOT USED | NOT USED | NOT USED |
-| basanos (noun) | G931 | touchstone; torments | YES (16:23,28) | NOT USED | NOT USED |
-| odunao (verb) | G3600 | to grieve/sorrow | YES (16:24,25) | NOT USED | NOT USED |
+| [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (verb) | [G928](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} | to torture/torment | NOT USED | YES | YES |
+| [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} (noun) | [G929](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} | torture/torment | NOT USED | YES | NOT USED |
+| basanistes (noun) | [G930](https://www.blueletterbible.org/lexicon/g930/kjv/tr/0-1/){:target="_blank"} | torturer/tormentor | NOT USED | NOT USED | NOT USED |
+| basanos (noun) | [G931](https://www.blueletterbible.org/lexicon/g931/kjv/tr/0-1/){:target="_blank"} | touchstone; torments | YES (16:23,28) | NOT USED | NOT USED |
+| odunao (verb) | [G3600](https://www.blueletterbible.org/lexicon/g3600/kjv/tr/0-1/){:target="_blank"} | to grieve/sorrow | YES (16:24,25) | NOT USED | NOT USED |
 
-Key observation: Luke 16 and Revelation's eschatological torment passages use DIFFERENT vocabulary. Luke 16 uses basanos (touchstone/torments -- the noun root) and odunao (grieve/sorrow). Revelation 14:10 and 20:10 use basanizo (the verb form = to torture). If Luke intended to describe the same phenomenon as eschatological torment, the vocabulary divergence is notable.
+Key observation: Luke 16 and Revelation's eschatological torment passages use DIFFERENT vocabulary. Luke 16 uses basanos (touchstone/torments -- the noun root) and odunao (grieve/sorrow). Revelation 14:10 and 20:10 use [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (the verb form = to torture). If Luke intended to describe the same phenomenon as eschatological torment, the vocabulary divergence is notable.
 
 **odunao (G3600) usage in Luke-Acts:**
 - Luke 2:48: Mary says "thy father and I have sought thee sorrowing (odunomenoi)" -- about losing the child Jesus in the temple. This is grief/anxiety, not eschatological punishment.
@@ -311,7 +311,7 @@ Structure your analysis around these questions:
 
 2. **The Teaching Point:** What does the passage itself say it is teaching? Follow the text's own stated purpose (vv.29-31).
 
-3. **Vocabulary Analysis:** Document the specific Greek words used for "torments" and "tormented" in Luke 16. Compare with the torment vocabulary used in Revelation. Note the absence of basanizo (G928) and the presence of odunao (G3600, "grieve/sorrow").
+3. **Vocabulary Analysis:** Document the specific Greek words used for "torments" and "tormented" in Luke 16. Compare with the torment vocabulary used in Revelation. Note the absence of [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (G928) and the presence of odunao (G3600, "grieve/sorrow").
 
 4. **The "Abraham's Bosom" Concept:** Document that kolpos Abraam as a post-mortem location appears ONLY in Luke 16:22-23. It is not found in the OT, not found in the Epistles, and not found in Revelation. If this were literal afterlife geography, the absence of corroborating Scripture is significant.
 
@@ -330,7 +330,7 @@ For your CONCLUSION.md, classify evidence into:
 - The opening formula ("there was a certain rich man") and its Lukan parallels
 - The Lukan parabole-labeling pattern (Luke 15:3 covers three stories; Luke 12:16 uses same formula with label)
 - The passage's stated teaching point (vv.29,31)
-- The vocabulary used (basanos, odunao -- NOT basanizo)
+- The vocabulary used (basanos, odunao -- NOT [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"})
 - The unique use of "Abraham's bosom" (nowhere else in Scripture as a post-mortem location)
 - The naming of Lazarus (only named character in Jesus' parables)
 - The rich man being unnamed in the Greek
@@ -349,10 +349,10 @@ For your CONCLUSION.md, classify evidence into:
 
 Connect findings to prior studies:
 - **etc-04:** E155 (Luke 16:19-31 classified Neutral); I025 (literal afterlife geography classified I-C ECT-direction); I030 ("under the sun" invalidation -- classified I-C ECT-direction)
-- **etc-05:** I032 (sheol/hades as conscious compartmentalized realm -- I-B, resolved Strong toward Conditionalist); N004 (death-state characterized by unconsciousness in didactic passages)
-- **etc-01:** E011 (Ps 146:4 -- thoughts perish), E019 (Ecc 9:5 -- dead know nothing), E021 (Ecc 9:10 -- no work/knowledge in sheol)
+- **etc-05:** I032 ([sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}/[hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} as conscious compartmentalized realm -- I-B, resolved Strong toward Conditionalist); N004 (death-state characterized by unconsciousness in didactic passages)
+- **etc-01:** E011 (Ps 146:4 -- thoughts perish), E019 (Ecc 9:5 -- dead know nothing), E021 (Ecc 9:10 -- no work/knowledge in [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"})
 - **etc-03:** E123 (Rev 20:14 -- second death = lake of fire); N016 (second death = lake of fire)
-- **etc-05:** E155 (parable), E203 (hades and lake of fire are distinct), N022 (gehenna and sheol/hades distinct), N023 (hades distinct from lake of fire)
+- **etc-05:** E155 (parable), E203 ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} and lake of fire are distinct), N022 ([gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} and [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}/[hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} distinct), N023 ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} distinct from lake of fire)
 
 ### Phase 12: Required Output Files
 
@@ -361,7 +361,7 @@ Write these files to D:/Bible/bible-studies/etc-09-rich-man-lazarus/:
 1. **01-topics.md** -- Outline of all analytical topics (genre analysis, vocabulary study, literary structure, teaching point, harmony test)
 2. **02-verses.md** -- All verses retrieved from kjv.txt organized by category
 3. **03-analysis.md** -- Verse-by-verse analysis of Luke 16:19-31, plus genre analysis, vocabulary analysis, literary context analysis, harmony analysis, and SIS application
-4. **04-word-studies.md** -- Full word studies for G86, G931, G3600, G928, G2859, G3857, G3850 with usage comparisons
+4. **04-word-studies.md** -- Full word studies for [G86](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}, [G931](https://www.blueletterbible.org/lexicon/g931/kjv/tr/0-1/){:target="_blank"}, [G3600](https://www.blueletterbible.org/lexicon/g3600/kjv/tr/0-1/){:target="_blank"}, [G928](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}, [G2859](https://www.blueletterbible.org/lexicon/g2859/kjv/tr/0-1/){:target="_blank"}, [G3857](https://www.blueletterbible.org/lexicon/g3857/kjv/tr/0-1/){:target="_blank"}, [G3850](https://www.blueletterbible.org/lexicon/g3850/kjv/tr/0-1/){:target="_blank"} with usage comparisons
 5. **CONCLUSION.md** -- Full evidence classification per etc-series-methodology.md, including:
    - Evidence tables (E, N, I with all four I-subtypes)
    - Tree 3 applications for all positional E-items
@@ -388,10 +388,10 @@ Write these files to D:/Bible/bible-studies/etc-09-rich-man-lazarus/:
 - Use investigative, not advocacy language
 - The main E-item for this passage (E155) was already registered in etc-04 as Neutral; this study may add new E-items for specific observations but should reference E155 for the passage as a whole
 - The key I-item (I025: Luke 16 teaches literal afterlife geography) was already registered in etc-04 as I-C ECT-direction
-- The I-B resolution of sheol/hades as conscious compartmentalized realm (I032) was already resolved Strong in etc-05
+- The I-B resolution of [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}/[hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} as conscious compartmentalized realm (I032) was already resolved Strong in etc-05
 - This study should provide the detailed evidence that etc-04 and etc-05 cross-referenced
 - The Lukan parabole-labeling pattern (Luke 15:3 covering three stories; Luke 12:16 using same formula with label) is a KEY piece of internal Lukan evidence
-- The vocabulary analysis (odunao vs. basanizo) is a NEW contribution from this study
+- The vocabulary analysis (odunao vs. [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}) is a NEW contribution from this study
 - The "Abraham's bosom" uniqueness is a KEY observation -- this term as a post-mortem location appears only in Luke 16
 - The passage's own stated teaching point (vv.29,31) should be given primary weight in determining the passage's purpose
 

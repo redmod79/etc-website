@@ -2,7 +2,7 @@
 
 ## Study Information
 - **Series:** etc -- The Final Fate of the Wicked (study 02 of 18)
-- **Question:** Who possesses immortality? Is the soul inherently immortal or is immortality a divine gift? Examine athanasia (G110), aphtharsia (G861), thnetos (G2349).
+- **Question:** Who possesses immortality? Is the soul inherently immortal or is immortality a divine gift? Examine [athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} (G110), [aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"} (G861), [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} (G2349).
 - **Workflow:** answer-question
 - **Output folder:** D:/Bible/bible-studies/etc-02-who-has-immortality/
 
@@ -29,11 +29,11 @@ Who possesses immortality according to Scripture? Is the human soul inherently i
 ### Prior Study Context (etc-01)
 The anthropology study established:
 - N002: Man does not inherently possess immortality (based on E024, E025, E026)
-- N005: The nephesh (soul) is mortal -- it can die and be destroyed (based on E016, E028)
-- E024: God only (monos) has immortality (athanasia) -- 1 Tim 6:16
-- E025: Those who seek immortality (aphtharsia) receive eternal life -- Rom 2:7
-- E026: This mortal must put on immortality (athanasia) at resurrection -- 1 Cor 15:53-54
-- E027: Christ brought life and immortality (aphtharsia) to light through the gospel -- 2 Tim 1:10
+- N005: The [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} (soul) is mortal -- it can die and be destroyed (based on E016, E028)
+- E024: God only (monos) has immortality ([athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"}) -- 1 Tim 6:16
+- E025: Those who seek immortality ([aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"}) receive eternal life -- Rom 2:7
+- E026: This mortal must put on immortality ([athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"}) at resurrection -- 1 Cor 15:53-54
+- E027: Christ brought life and immortality ([aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"}) to light through the gospel -- 2 Tim 1:10
 - I001 (I-D): The claim that humans possess an inherently immortal soul requires overriding E024, E016, E028, and E011/E019
 
 This study (etc-02) goes deeper into the word studies for the three key terms and examines all their occurrences, the broader context of passages where they appear, and whether any Scripture attributes immortality to human beings.
@@ -42,22 +42,22 @@ This study (etc-02) goes deeper into the word studies for the three key terms an
 
 ### Key Greek Terms to Examine (Primary Focus)
 
-#### 1. athanasia (G110) -- "deathlessness, immortality"
+#### 1. [athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} (G110) -- "deathlessness, immortality"
 - **Occurrences:** 3 total, all translated "immortality"
-- **Lexicon:** feminine noun; from alpha-privative + thanatos (death); deathlessness
+- **Lexicon:** feminine noun; from alpha-privative + [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (death); deathlessness
 - **All verses:**
   - 1 Cor 15:53 -- "this mortal must put on immortality"
   - 1 Cor 15:54 -- "this mortal shall have put on immortality"
   - 1 Tim 6:16 -- "[God] who only hath immortality"
 
-#### 2. aphtharsia (G861) -- "incorruptibility, immortality"
+#### 2. [aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"} (G861) -- "incorruptibility, immortality"
 - **Occurrences:** 8 total in 3 translations
   - "incorruption" (4x): 1 Cor 15:42, 1 Cor 15:50, 1 Cor 15:53, 1 Cor 15:54
   - "immortality" (2x): Rom 2:7, 2 Tim 1:10
   - "sincerity" (2x): Eph 6:24, Tit 2:7
-- **Lexicon:** feminine noun; from aphthartos; incorruptibility, unending existence
+- **Lexicon:** feminine noun; from [aphthartos](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"}; incorruptibility, unending existence
 
-#### 3. thnetos (G2349) -- "mortal, liable to die"
+#### 3. [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} (G2349) -- "mortal, liable to die"
 - **Occurrences:** 6 total in 2 translations
   - "mortal" (5x): Rom 6:12, Rom 8:11, 1 Cor 15:53, 1 Cor 15:54, 2 Cor 4:11
   - "mortality" (1x): 2 Cor 5:4
@@ -65,7 +65,7 @@ This study (etc-02) goes deeper into the word studies for the three key terms an
 
 ### Related Greek Terms to Examine (Supporting)
 
-#### 4. aphthartos (G862) -- "incorruptible, immortal"
+#### 4. [aphthartos](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"} (G862) -- "incorruptible, immortal"
 - **Occurrences:** 7 total
   - "immortal" (1x): 1 Tim 1:17
   - "incorruptible" (2x): 1 Cor 15:52, 1 Pet 1:4
@@ -73,7 +73,7 @@ This study (etc-02) goes deeper into the word studies for the three key terms an
   - Other translations: 1 Cor 9:25, 1 Pet 1:23, 1 Pet 3:4
 - **Lexicon:** adjective; undecaying (in reference to God, raised body, or imperishable things)
 
-#### 5. phthora (G5356) -- "corruption, decay, ruin"
+#### 5. [phthora](https://www.blueletterbible.org/lexicon/g5356/kjv/tr/0-1/){:target="_blank"} (G5356) -- "corruption, decay, ruin"
 - **Occurrences:** 9 total
   - "corruption" (4x): 1 Cor 15:42, 1 Cor 15:50, Gal 6:8, 2 Pet 2:12
   - Also: Rom 8:21, 2 Pet 1:4, 2:12, 2:19, Col 2:22
@@ -87,11 +87,11 @@ This study (etc-02) goes deeper into the word studies for the three key terms an
 
 ### Key Passages to Examine (from tool output)
 
-#### A. The Immortality Word-Study Passages (all occurrences of G110, G861, G2349, G862)
+#### A. The Immortality Word-Study Passages (all occurrences of [G110](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"}, [G861](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"}, [G2349](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"}, G862)
 
-1. **1 Corinthians 15:42-54** -- The resurrection chapter; densest concentration of immortality vocabulary. Contains G110 (athanasia), G861 (aphtharsia), G2349 (thnetos), G862 (aphthartos), G5356 (phthora). Examine the full argument about what "puts on" immortality and when.
+1. **1 Corinthians 15:42-54** -- The resurrection chapter; densest concentration of immortality vocabulary. Contains [G110](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} (athanasia), [G861](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"} (aphtharsia), [G2349](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} (thnetos), [G862](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"} (aphthartos), [G5356](https://www.blueletterbible.org/lexicon/g5356/kjv/tr/0-1/){:target="_blank"} (phthora). Examine the full argument about what "puts on" immortality and when.
 
-2. **1 Timothy 6:14-16** -- God "who only hath immortality" (athanasia, G110). Examine the force of monos ("only") and what it excludes.
+2. **1 Timothy 6:14-16** -- God "who only hath immortality" ([athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"}, G110). Examine the force of monos ("only") and what it excludes.
 
 3. **Romans 2:7** -- "To them who by patient continuance in well doing seek for glory and honour and immortality [aphtharsia, G861], eternal life." Examine: if immortality is inherent, why must it be sought?
 
@@ -103,9 +103,9 @@ This study (etc-02) goes deeper into the word studies for the three key terms an
 
 7. **2 Corinthians 4:11** -- "The life also of Jesus might be made manifest in our mortal [thnetos, G2349] flesh."
 
-8. **2 Corinthians 5:4** -- "That mortality [thnetos, G2349] might be swallowed up of life." The only verse translating thnetos as "mortality."
+8. **2 Corinthians 5:4** -- "That mortality [thnetos, G2349] might be swallowed up of life." The only verse translating [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} as "mortality."
 
-9. **1 Timothy 1:17** -- "Now unto the King eternal, immortal [aphthartos, G862], invisible, the only wise God." God is called aphthartos.
+9. **1 Timothy 1:17** -- "Now unto the King eternal, immortal [aphthartos, G862], invisible, the only wise God." God is called [aphthartos](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"}.
 
 10. **Romans 1:23** -- "Changed the glory of the uncorruptible [aphthartos, G862] God into an image made like to corruptible man." Contrast: God is incorruptible; man is corruptible.
 
@@ -138,7 +138,7 @@ From the IMMORTALITY topic entry (71+ references), examine those not yet covered
 29. **John 17:2-3** -- "This is life eternal, that they might know thee"
 30. **Romans 5:16-18** -- Free gift unto justification of life
 31. **Romans 6:22-23** -- "The wages of sin is death; but the gift of God is eternal life"
-32. **Galatians 6:8** -- "He that soweth to the Spirit shall of the Spirit reap life everlasting" (also uses phthora: sow to flesh reaps corruption)
+32. **Galatians 6:8** -- "He that soweth to the Spirit shall of the Spirit reap life everlasting" (also uses [phthora](https://www.blueletterbible.org/lexicon/g5356/kjv/tr/0-1/){:target="_blank"}: sow to flesh reaps corruption)
 33. **Colossians 1:5-6** -- Hope laid up in heaven
 34. **1 Thessalonians 4:13-18** -- Resurrection/rapture passage (already E040)
 35. **2 Thessalonians 1:7-9** -- "Punished with everlasting destruction from the presence of the Lord"
@@ -181,23 +181,23 @@ From the IMMORTALITY topic entry (71+ references), examine those not yet covered
 
 ### Research Questions to Investigate
 
-1. **Who possesses athanasia (G110)?** Examine all 3 occurrences. Does any verse attribute athanasia to humans inherently? Or only to God (1 Tim 6:16) and as a future transformation at resurrection (1 Cor 15:53-54)?
+1. **Who possesses [athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} (G110)?** Examine all 3 occurrences. Does any verse attribute [athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} to humans inherently? Or only to God (1 Tim 6:16) and as a future transformation at resurrection (1 Cor 15:53-54)?
 
-2. **What is the nature of aphtharsia (G861)?** Examine all 8 occurrences. Is it something humans have, or something they must seek (Rom 2:7), that Christ revealed (2 Tim 1:10), and that is received at resurrection (1 Cor 15:42-54)?
+2. **What is the nature of [aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"} (G861)?** Examine all 8 occurrences. Is it something humans have, or something they must seek (Rom 2:7), that Christ revealed (2 Tim 1:10), and that is received at resurrection (1 Cor 15:42-54)?
 
-3. **What does thnetos (G2349) reveal about human nature?** Examine all 6 occurrences. When Paul calls the human body/flesh "mortal" (thnetos), what does this imply about the current state of human beings?
+3. **What does [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} (G2349) reveal about human nature?** Examine all 6 occurrences. When Paul calls the human body/flesh "mortal" ([thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"}), what does this imply about the current state of human beings?
 
 4. **Is eternal life inherent or gifted?** Examine the "life" passages from John's Gospel and Romans. Is eternal life something humans already possess or something conditionally given by God?
 
 5. **What is the relationship between mortality and the resurrection?** 1 Cor 15 is the key chapter. What happens at resurrection to mortal/corruptible bodies? What does "putting on" immortality mean?
 
-6. **Does any passage attribute immortality to the human soul?** Search for any verse that says the soul (nephesh/psyche) is immortal, undying, or indestructible. Compare with E016 (soul dies) and E028 (soul destroyed).
+6. **Does any passage attribute immortality to the human soul?** Search for any verse that says the soul ([nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}/[psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}) is immortal, undying, or indestructible. Compare with E016 (soul dies) and E028 (soul destroyed).
 
 7. **What is the significance of the tree of life in Gen 3:22-24?** Why was man barred from it? What does this imply about human mortality?
 
-8. **How do the aphthartos (G862) passages contribute?** When God is called "incorruptible" (Rom 1:23; 1 Tim 1:17), what does the contrast with corruptible humanity reveal?
+8. **How do the [aphthartos](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"} (G862) passages contribute?** When God is called "incorruptible" (Rom 1:23; 1 Tim 1:17), what does the contrast with corruptible humanity reveal?
 
-9. **What does "corruption" (phthora, G5356) teach about human nature?** Examine the corruption/incorruption contrast in 1 Cor 15, Rom 8, Gal 6, 2 Pet.
+9. **What does "corruption" ([phthora](https://www.blueletterbible.org/lexicon/g5356/kjv/tr/0-1/){:target="_blank"}, G5356) teach about human nature?** Examine the corruption/incorruption contrast in 1 Cor 15, Rom 8, Gal 6, 2 Pet.
 
 10. **Luke 20:36 -- Does equality with angels entail immortality?** Jesus says resurrected saints "neither can they die any more: for they are equal unto the angels." Does this imply they COULD die before resurrection?
 
@@ -207,14 +207,14 @@ From the IMMORTALITY topic entry (71+ references), examine those not yet covered
 
 | Term | Strong's | Occurrences | Study Focus |
 |------|----------|-------------|-------------|
-| athanasia | G110 | 3 | All 3 verses; who possesses it and when |
-| aphtharsia | G861 | 8 | All 8 verses; inherent vs. gifted; the "sincerity" usage |
-| thnetos | G2349 | 6 | All 6 verses; what is called mortal |
-| aphthartos | G862 | 7 | All 7 verses; who/what is incorruptible |
-| phthora | G5356 | 9 | Key verses; corruption vs. incorruption contrast |
-| diaphthora | G1312 | 6 | Supporting; decay of the body (Acts passages re Ps 16) |
-| zoe aionios | G2222 + G166 | Multiple | "Eternal life" -- inherent or gift? |
-| thanatos | G2288 | ~120 | Key verses only; death as wages of sin |
+| [athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} | [G110](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} | 3 | All 3 verses; who possesses it and when |
+| [aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"} | [G861](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"} | 8 | All 8 verses; inherent vs. gifted; the "sincerity" usage |
+| [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} | [G2349](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} | 6 | All 6 verses; what is called mortal |
+| [aphthartos](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"} | [G862](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"} | 7 | All 7 verses; who/what is incorruptible |
+| [phthora](https://www.blueletterbible.org/lexicon/g5356/kjv/tr/0-1/){:target="_blank"} | [G5356](https://www.blueletterbible.org/lexicon/g5356/kjv/tr/0-1/){:target="_blank"} | 9 | Key verses; corruption vs. incorruption contrast |
+| diaphthora | [G1312](https://www.blueletterbible.org/lexicon/g1312/kjv/tr/0-1/){:target="_blank"} | 6 | Supporting; decay of the body (Acts passages re Ps 16) |
+| [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} | [G2222](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} + [G166](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} | Multiple | "Eternal life" -- inherent or gift? |
+| [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} | [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} | ~120 | Key verses only; death as wages of sin |
 
 ---
 
@@ -238,7 +238,7 @@ Produce the following files in D:/Bible/bible-studies/etc-02-who-has-immortality
 1. **01-topics.md** -- Nave's topics and verse lists relevant to immortality
 2. **02-verses.md** -- All key verses with full text and initial observations
 3. **03-analysis.md** -- Detailed passage analysis, contextual examination, cross-references
-4. **04-word-studies.md** -- Complete word studies for G110, G861, G2349, G862, G5356, G1312
+4. **04-word-studies.md** -- Complete word studies for [G110](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"}, [G861](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"}, [G2349](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"}, [G862](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"}, [G5356](https://www.blueletterbible.org/lexicon/g5356/kjv/tr/0-1/){:target="_blank"}, [G1312](https://www.blueletterbible.org/lexicon/g1312/kjv/tr/0-1/){:target="_blank"}
 5. **CONCLUSION.md** -- Evidence classification (E/N/I tables), Tree 3/4/5 applications, I-B resolutions, tally, What CAN/CANNOT be said. Follow the methodology in etc-series-methodology.md exactly.
 
 ### Critical Reminders

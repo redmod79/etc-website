@@ -1,6 +1,6 @@
 # Raw Strong's Lookups Output
 
-## G86 -- hades
+## [G86](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} -- [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}
 ```
 G86 - 11 total occurrences, 4 unique translations:
      7 ( 63.6%)  hell
@@ -20,7 +20,7 @@ Lexicon:
     1 Corinthians 15:55; Revelation 1:18; 6:8; 20:13
 ```
 
-## G928 -- basanizo
+## [G928](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} -- [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}
 ```
 G928 - 12 total occurrences, 11 unique translations:
      2 ( 16.7%)  tormented
@@ -46,7 +46,7 @@ Lexicon:
     2 Peter 2:8; Revelation 9:5; 11:10; 12:2; 14:10; 20:10
 ```
 
-## G931 -- basanos
+## [G931](https://www.blueletterbible.org/lexicon/g931/kjv/tr/0-1/){:target="_blank"} -- basanos
 ```
 G931 - 3 total occurrences, 2 unique translations:
      2 ( 66.7%)  torments
@@ -63,7 +63,7 @@ Lexicon:
   Biblical Usage: Matthew 4:24; Luke 16:23; 16:28
 ```
 
-## G3600 -- odunao
+## [G3600](https://www.blueletterbible.org/lexicon/g3600/kjv/tr/0-1/){:target="_blank"} -- odunao
 ```
 G3600 - 4 total occurrences, 4 unique translations:
      1 ( 25.0%)  sorrowing
@@ -81,7 +81,7 @@ Lexicon:
   Biblical Usage: Luke 2:48; 16:24; Acts 20:38
 ```
 
-## G2859 -- kolpos
+## [G2859](https://www.blueletterbible.org/lexicon/g2859/kjv/tr/0-1/){:target="_blank"} -- kolpos
 ```
 G2859 - 4 total occurrences, 2 unique translations:
      3 ( 75.0%)  bosom
@@ -98,7 +98,7 @@ Lexicon:
     Luke 6:38; 16:22; 16:23; John 1:18; 13:23; Acts 27:39
 ```
 
-## G3857 -- paradeisos
+## [G3857](https://www.blueletterbible.org/lexicon/g3857/kjv/tr/0-1/){:target="_blank"} -- [paradeisos](https://www.blueletterbible.org/lexicon/g3857/kjv/tr/0-1/){:target="_blank"}
 ```
 G3857 - 3 total occurrences, 1 unique translations:
      3 (100.0%)  paradise
@@ -115,7 +115,7 @@ Lexicon:
     2 Corinthians 12:2; 12:2; 12:3; 12:4; 12:4; Revelation 2:7; 2:7
 ```
 
-## G3850 -- parabole
+## [G3850](https://www.blueletterbible.org/lexicon/g3850/kjv/tr/0-1/){:target="_blank"} -- parabole
 ```
 G3850 - 50 total occurrences, 6 unique translations:
     21 ( 42.0%)  parable

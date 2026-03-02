@@ -83,7 +83,7 @@ All parallels run using cross_testament_parallels_v2.py --hybrid-ot and --hybrid
 | HEB 10:39 | 0.367 | 0.62 | 0.20 | however, soul |
 | JAS 4:12 | 0.342 | 0.49 | 0.30 | able, consume, however |
 
-**Key observation:** Matt 10:28's strongest NT parallel is Luke 12:4-5 (the parallel passage). Also strongly connects to Matt 5:29-30 (body + hell + apollymi) and Jas 4:12 (save and destroy).
+**Key observation:** Matt 10:28's strongest NT parallel is Luke 12:4-5 (the parallel passage). Also strongly connects to Matt 5:29-30 (body + hell + [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}) and Jas 4:12 (save and destroy).
 
 ---
 
@@ -193,7 +193,7 @@ All parallels run using cross_testament_parallels_v2.py --hybrid-ot and --hybrid
 | REV 20:15 | 0.356 | 0.44 | 0.40 | alive, book, into, written |
 | REV 20:10 | 0.344 | 0.57 | 0.20 | beast, into |
 
-**Key observation:** Rev 17:8 (beast goes into perdition/apoleia) parallels Rev 20:10-15 (lake of fire) and Rev 13:8 (book of life).
+**Key observation:** Rev 17:8 (beast goes into perdition/[apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}) parallels Rev 20:10-15 (lake of fire) and Rev 13:8 (book of life).
 
 ---
 

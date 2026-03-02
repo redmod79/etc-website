@@ -48,17 +48,17 @@
 - TYPIFIED: Isaac (Gen 22:13; with Heb 11:19), Jonah (Jon 2:10; with Matt 12:40)
 - SYMBOLICAL: Rev 11:11
 
-## HADES
-- 1. The unseen world, translated "hell" in A.V., but in R.V. "Hades" is retained: Matt 10:28; 11:23; 16:18; Luke 10:15; 16:23; Acts 2:27,31; Rev 1:18; 6:8; 20:13,14
+## [HADES](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}
+- 1. The unseen world, translated "hell" in A.V., but in R.V. "[Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}" is retained: Matt 10:28; 11:23; 16:18; Luke 10:15; 16:23; Acts 2:27,31; Rev 1:18; 6:8; 20:13,14
 - 2. The realm (state) of the dead: 2 Sam 22:6; Job 26:5; Ps 6:5; 17:15; 30:9; 49:15; 86:13; 88:10-12; 115:17; 116:3; Prov 15:24; 21:16; 27:20; Ecc 9:4-6; Isa 5:14; Jonah 2:2; Luke 23:42,43; John 8:22; 2 Cor 12:4
 
 ## HELL
-- In A.V. translated from Hebrew "sheol" (the unseen state)
+- In A.V. translated from Hebrew "[sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}" (the unseen state)
 - In R.V. of O.T. appears only in Isa 5:14; 14:9,15; 28:15,18; 57:9; Ezek 31:16,17; 32:21,27; Amos 9:2; Jonah 2:2; Hab 2:5
-- Sheol translated "grave" in A.V.: Gen 37:35; 42:38; 44:29,31; 1 Sam 2:6; 1 Ki 2:6,9; Job 7:9; 14:13; 17:13; 21:13; 24:19; Ps 6:5; 30:3; 31:17; 49:14,15; 88:3; 89:48; 141:7; Prov 1:12; 30:16; Ecc 9:10; Song 8:6; Hos 13:14
-- "Sheol" in R.V.: 2 Sam 22:6; Job 11:8; 26:6; Ps 9:17; 16:10; 18:5; 116:3; 139:8; Prov 5:5; 7:27; 9:18; 15:11,24; 23:14; 27:20
-- Greek "gehenna" translated "hell" in R.V.: Matt 5:22,29,30; 10:28; 18:9; 23:15,33; Mark 9:43,45,47; Luke 12:5; Jas 3:6
-- R.V. introduced "Hades": Matt 11:23; 16:18; Luke 10:15; 16:23; Acts 2:27,31; Rev 1:18; 6:8; 20:13,14
+- [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} translated "grave" in A.V.: Gen 37:35; 42:38; 44:29,31; 1 Sam 2:6; 1 Ki 2:6,9; Job 7:9; 14:13; 17:13; 21:13; 24:19; Ps 6:5; 30:3; 31:17; 49:14,15; 88:3; 89:48; 141:7; Prov 1:12; 30:16; Ecc 9:10; Song 8:6; Hos 13:14
+- "[Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}" in R.V.: 2 Sam 22:6; Job 11:8; 26:6; Ps 9:17; 16:10; 18:5; 116:3; 139:8; Prov 5:5; 7:27; 9:18; 15:11,24; 23:14; 27:20
+- Greek "[gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"}" translated "hell" in R.V.: Matt 5:22,29,30; 10:28; 18:9; 23:15,33; Mark 9:43,45,47; Luke 12:5; Jas 3:6
+- R.V. introduced "[Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}": Matt 11:23; 16:18; Luke 10:15; 16:23; Acts 2:27,31; Rev 1:18; 6:8; 20:13,14
 - THE FUTURE HOME OF THE WICKED: Ps 9:17; Prov 5:5; 9:13,15-18; 15:24; 23:13,14; Isa 30:33; 33:14; Matt 3:12; 5:29,30; 7:13,14; 8:11,12; 10:28; 13:30,38-42,49,50; 16:18; 18:8,9,34,35; 22:13; 25:28-30,41,46; Mark 9:43-48; Luke 3:17; 16:23-26,28; Acts 1:25; 2 Thess 1:9; 2 Pet 2:4; Jude 1:6-23; Rev 2:11; 9:1,2; 11:7; 14:10,11; 19:20; 20:10,15; 21:8
 
 ## PARADISE

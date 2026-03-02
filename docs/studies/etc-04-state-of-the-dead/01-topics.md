@@ -19,7 +19,7 @@ The Old Testament consistently describes the dead as unconscious, unable to thin
 |---|-------|--------------|-------------|
 | 1 | Ps 146:4 | "In that very day his thoughts perish" | Psalmist |
 | 2 | Ecc 9:5-6 | "The dead know not any thing; their love, hatred, envy is perished" | Solomon |
-| 3 | Ecc 9:10 | "No work, device, knowledge, wisdom in the grave (sheol)" | Solomon |
+| 3 | Ecc 9:10 | "No work, device, knowledge, wisdom in the grave ([sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"})" | Solomon |
 | 4 | Ecc 12:7 | "The dust return to earth; the spirit return unto God who gave it" | Solomon |
 | 5 | Ecc 3:19-21 | "Man and beast have one breath; who knoweth the spirit of man?" | Solomon |
 | 6 | Ps 6:5 | "In death no remembrance of thee; in the grave who shall give thee thanks?" | David |
@@ -44,20 +44,20 @@ Death is called "sleep" by Moses, Job, Jeremiah, Daniel, Jesus, Paul, and Luke/A
 
 | # | Verse | Statement | Author | Hebrew/Greek |
 |---|-------|-----------|--------|-------------|
-| 1 | Deut 31:16 | "Thou shalt sleep with thy fathers" | Moses | H7901 shakab |
-| 2 | Job 7:21 | "Now shall I sleep in the dust" | Job | H7901 shakab |
-| 3 | Job 14:12 | "Man lieth down... shall not awake out of their sleep" | Job | H7901 shakab |
-| 4 | Jer 51:39 | "They shall sleep a perpetual sleep and not wake" | Jeremiah | H3462 yashen |
-| 5 | Dan 12:2 | "Many that sleep in the dust shall awake" | Daniel | H3462 yashen |
+| 1 | Deut 31:16 | "Thou shalt sleep with thy fathers" | Moses | [H7901](https://www.blueletterbible.org/lexicon/h7901/kjv/wlc/0-1/){:target="_blank"} [shakab](https://www.blueletterbible.org/lexicon/h7901/kjv/wlc/0-1/){:target="_blank"} |
+| 2 | Job 7:21 | "Now shall I sleep in the dust" | Job | [H7901](https://www.blueletterbible.org/lexicon/h7901/kjv/wlc/0-1/){:target="_blank"} [shakab](https://www.blueletterbible.org/lexicon/h7901/kjv/wlc/0-1/){:target="_blank"} |
+| 3 | Job 14:12 | "Man lieth down... shall not awake out of their sleep" | Job | [H7901](https://www.blueletterbible.org/lexicon/h7901/kjv/wlc/0-1/){:target="_blank"} [shakab](https://www.blueletterbible.org/lexicon/h7901/kjv/wlc/0-1/){:target="_blank"} |
+| 4 | Jer 51:39 | "They shall sleep a perpetual sleep and not wake" | Jeremiah | [H3462](https://www.blueletterbible.org/lexicon/h3462/kjv/wlc/0-1/){:target="_blank"} [yashen](https://www.blueletterbible.org/lexicon/h3462/kjv/wlc/0-1/){:target="_blank"} |
+| 5 | Dan 12:2 | "Many that sleep in the dust shall awake" | Daniel | [H3462](https://www.blueletterbible.org/lexicon/h3462/kjv/wlc/0-1/){:target="_blank"} [yashen](https://www.blueletterbible.org/lexicon/h3462/kjv/wlc/0-1/){:target="_blank"} |
 | 6 | Dan 12:13 | "Thou shalt rest, and stand in thy lot at the end of the days" | Angel to Daniel | -- |
-| 7 | John 11:11-14 | "Our friend Lazarus sleepeth... Lazarus is dead" | Jesus | G2837 koimao |
-| 8 | Matt 9:24 | "The maid is not dead, but sleepeth" | Jesus | G2518 katheudo |
-| 9 | Mark 5:39 | "The damsel is not dead, but sleepeth" | Jesus | G2518 katheudo |
-| 10 | Luke 8:52 | "She is not dead, but sleepeth" | Jesus | G2518 katheudo |
-| 11 | Acts 7:60 | Stephen "fell asleep" | Luke | G2837 koimao |
-| 12 | Acts 13:36 | David "fell on sleep, and was laid unto his fathers" | Paul/Luke | G2837 koimao |
-| 13 | 1 Cor 15:6,18,51 | "Fallen asleep... asleep in Christ... not all sleep" | Paul | G2837 koimao |
-| 14 | 1 Thess 4:13-16 | "Them which sleep in Jesus... dead in Christ shall rise first" | Paul | G2837 koimao |
+| 7 | John 11:11-14 | "Our friend Lazarus sleepeth... Lazarus is dead" | Jesus | [G2837](https://www.blueletterbible.org/lexicon/g2837/kjv/tr/0-1/){:target="_blank"} [koimao](https://www.blueletterbible.org/lexicon/g2837/kjv/tr/0-1/){:target="_blank"} |
+| 8 | Matt 9:24 | "The maid is not dead, but sleepeth" | Jesus | [G2518](https://www.blueletterbible.org/lexicon/g2518/kjv/tr/0-1/){:target="_blank"} [katheudo](https://www.blueletterbible.org/lexicon/g2518/kjv/tr/0-1/){:target="_blank"} |
+| 9 | Mark 5:39 | "The damsel is not dead, but sleepeth" | Jesus | [G2518](https://www.blueletterbible.org/lexicon/g2518/kjv/tr/0-1/){:target="_blank"} [katheudo](https://www.blueletterbible.org/lexicon/g2518/kjv/tr/0-1/){:target="_blank"} |
+| 10 | Luke 8:52 | "She is not dead, but sleepeth" | Jesus | [G2518](https://www.blueletterbible.org/lexicon/g2518/kjv/tr/0-1/){:target="_blank"} [katheudo](https://www.blueletterbible.org/lexicon/g2518/kjv/tr/0-1/){:target="_blank"} |
+| 11 | Acts 7:60 | Stephen "fell asleep" | Luke | [G2837](https://www.blueletterbible.org/lexicon/g2837/kjv/tr/0-1/){:target="_blank"} [koimao](https://www.blueletterbible.org/lexicon/g2837/kjv/tr/0-1/){:target="_blank"} |
+| 12 | Acts 13:36 | David "fell on sleep, and was laid unto his fathers" | Paul/Luke | [G2837](https://www.blueletterbible.org/lexicon/g2837/kjv/tr/0-1/){:target="_blank"} [koimao](https://www.blueletterbible.org/lexicon/g2837/kjv/tr/0-1/){:target="_blank"} |
+| 13 | 1 Cor 15:6,18,51 | "Fallen asleep... asleep in Christ... not all sleep" | Paul | [G2837](https://www.blueletterbible.org/lexicon/g2837/kjv/tr/0-1/){:target="_blank"} [koimao](https://www.blueletterbible.org/lexicon/g2837/kjv/tr/0-1/){:target="_blank"} |
+| 14 | 1 Thess 4:13-16 | "Them which sleep in Jesus... dead in Christ shall rise first" | Paul | [G2837](https://www.blueletterbible.org/lexicon/g2837/kjv/tr/0-1/){:target="_blank"} [koimao](https://www.blueletterbible.org/lexicon/g2837/kjv/tr/0-1/){:target="_blank"} |
 | 15 | Rev 14:13 | "Blessed are the dead... they may rest from their labours" | John | -- |
 
 ### C. Alleged Conscious Intermediate State Passages (9 passages)
@@ -94,38 +94,38 @@ The biblical hope for the dead is resurrection, not an intermediate state. "Bein
 | 12 | John 20:17 | "I am not yet ascended to my Father" (on resurrection morning) |
 | 13 | Heb 11:13,39-40 | "These all died in faith, not having received the promises" |
 
-### E. Sheol / Hades: The Abode of the Dead (25 passages)
-Sheol (H7585, 67 OT occurrences) and hades (G86, 11 NT occurrences) are the Hebrew and Greek terms for the realm of the dead. The LXX translates sheol as hades, confirming semantic equivalence.
+### E. [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} / [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}: The Abode of the Dead (25 passages)
+[Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} (H7585, 67 OT occurrences) and [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (G86, 11 NT occurrences) are the Hebrew and Greek terms for the realm of the dead. The LXX translates [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} as [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}, confirming semantic equivalence.
 
 | # | Verse | Key Detail |
 |---|-------|-----------|
-| 1 | Gen 37:35 | Jacob: "I will go down into the grave (sheol) unto my son" |
-| 2 | Gen 42:38 | Jacob: "Bring down my gray hairs with sorrow to the grave (sheol)" |
-| 3 | Num 16:30,33 | Korah "went down alive into the pit (sheol)" |
-| 4 | 1 Sam 2:6 | "The LORD killeth and maketh alive; bringeth down to sheol and bringeth up" |
-| 5 | Job 7:9 | "He that goeth down to sheol shall come up no more" |
-| 6 | Job 11:8 | "Deeper than hell (sheol); what canst thou know?" |
-| 7 | Job 14:13 | "O that thou wouldest hide me in sheol... till thy wrath be past" |
-| 8 | Job 17:13 | "If I wait, the grave (sheol) is mine house" |
-| 9 | Ps 9:17 | "The wicked shall be turned into hell (sheol)" |
-| 10 | Ps 16:10 | "Thou wilt not leave my soul in hell (sheol)" |
-| 11 | Ps 49:14-15 | "Like sheep laid in sheol... God will redeem my soul from sheol" |
-| 12 | Ps 86:13 | "Thou hast delivered my soul from the lowest hell (sheol)" |
-| 13 | Ps 88:3 | "My life draweth nigh unto the grave (sheol)" |
-| 14 | Ps 89:48 | "Shall he deliver his soul from the hand of sheol?" |
-| 15 | Ps 116:3 | "The pains of hell (sheol) gat hold upon me" |
-| 16 | Ps 139:8 | "If I make my bed in hell (sheol), behold, thou art there" |
-| 17 | Prov 15:24 | "The way of life is above... that he may depart from sheol beneath" |
-| 18 | Prov 27:20 | "Hell (sheol) and destruction are never full" |
-| 19 | Isa 5:14 | "Therefore hell (sheol) hath enlarged herself" |
-| 20 | Isa 14:9-11,15 | "Sheol from beneath is moved for thee... Art thou become weak as we?" |
-| 21 | Ecc 9:10 | "No work, device, knowledge, wisdom in sheol" |
-| 22 | Jonah 2:2 | "Out of the belly of hell (sheol) cried I" |
-| 23 | Acts 2:27,31 | "Thou wilt not leave my soul in hell (hades)" -- Peter quoting Ps 16:10 |
-| 24 | Luke 16:23 | "In hell (hades) he lift up his eyes, being in torments" (parable) |
-| 25 | Rev 1:18 | "I have the keys of hell (hades) and of death" |
-| 26 | Rev 6:8 | "His name was Death, and Hell (hades) followed with him" |
-| 27 | Rev 20:13-14 | "Death and hell (hades) delivered up the dead... cast into lake of fire" |
+| 1 | Gen 37:35 | Jacob: "I will go down into the grave ([sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}) unto my son" |
+| 2 | Gen 42:38 | Jacob: "Bring down my gray hairs with sorrow to the grave ([sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"})" |
+| 3 | Num 16:30,33 | Korah "went down alive into the pit ([sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"})" |
+| 4 | 1 Sam 2:6 | "The LORD killeth and maketh alive; bringeth down to [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} and bringeth up" |
+| 5 | Job 7:9 | "He that goeth down to [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} shall come up no more" |
+| 6 | Job 11:8 | "Deeper than hell ([sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}); what canst thou know?" |
+| 7 | Job 14:13 | "O that thou wouldest hide me in [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}... till thy wrath be past" |
+| 8 | Job 17:13 | "If I wait, the grave ([sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}) is mine house" |
+| 9 | Ps 9:17 | "The wicked shall be turned into hell ([sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"})" |
+| 10 | Ps 16:10 | "Thou wilt not leave my soul in hell ([sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"})" |
+| 11 | Ps 49:14-15 | "Like sheep laid in [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}... God will redeem my soul from [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}" |
+| 12 | Ps 86:13 | "Thou hast delivered my soul from the lowest hell ([sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"})" |
+| 13 | Ps 88:3 | "My life draweth nigh unto the grave ([sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"})" |
+| 14 | Ps 89:48 | "Shall he deliver his soul from the hand of [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}?" |
+| 15 | Ps 116:3 | "The pains of hell ([sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}) gat hold upon me" |
+| 16 | Ps 139:8 | "If I make my bed in hell ([sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}), behold, thou art there" |
+| 17 | Prov 15:24 | "The way of life is above... that he may depart from [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} beneath" |
+| 18 | Prov 27:20 | "Hell ([sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}) and destruction are never full" |
+| 19 | Isa 5:14 | "Therefore hell ([sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}) hath enlarged herself" |
+| 20 | Isa 14:9-11,15 | "[Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} from beneath is moved for thee... Art thou become weak as we?" |
+| 21 | Ecc 9:10 | "No work, device, knowledge, wisdom in [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}" |
+| 22 | Jonah 2:2 | "Out of the belly of hell ([sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}) cried I" |
+| 23 | Acts 2:27,31 | "Thou wilt not leave my soul in hell ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"})" -- Peter quoting Ps 16:10 |
+| 24 | Luke 16:23 | "In hell ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}) he lift up his eyes, being in torments" (parable) |
+| 25 | Rev 1:18 | "I have the keys of hell ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}) and of death" |
+| 26 | Rev 6:8 | "His name was Death, and Hell ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}) followed with him" |
+| 27 | Rev 20:13-14 | "Death and hell ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}) delivered up the dead... cast into lake of fire" |
 
 ### F. Additional Context Passages (12 passages)
 
@@ -142,7 +142,7 @@ Sheol (H7585, 67 OT occurrences) and hades (G86, 11 NT occurrences) are the Hebr
 | 9 | Matt 22:31-32 | "God is not the God of the dead, but of the living" |
 | 10 | Luke 20:34-38 | Same as above, with "for all live unto him" |
 | 11 | Ps 49:7-9,12,15,20 | "None can redeem his brother... God will redeem my soul" |
-| 12 | Ezek 32:17-27 | The slain in sheol: "they lie uncircumcised, slain by the sword" |
+| 12 | Ezek 32:17-27 | The slain in [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}: "they lie uncircumcised, slain by the sword" |
 
 ## Nave's Topic Summary
 
@@ -151,8 +151,8 @@ Sheol (H7585, 67 OT occurrences) and hades (G86, 11 NT occurrences) are the Hebr
 2. **DEAD (PEOPLE)** -- Raised to life instances (8), Unclassified scriptures (19 refs including Luke 16:19-31, 23:43)
 3. **SLEEP** -- "A symbol of death" (6 refs: Job 14:12; Matt 9:24; Mark 5:39; Luke 8:52; John 11:11,12; 1 Thess 4:14)
 4. **RESURRECTION** -- General scriptures (50+ refs), Figurative (Rom 6:4; Eph 2:1,5,6; Col 2:12; 3:1), Typified (Isaac, Jonah)
-5. **HADES** -- Two sub-entries: "The unseen world" (9 NT refs), "The realm of the dead" (22 OT/NT refs)
-6. **HELL** -- Sheol translated "grave" (24 refs), "hell" (31 refs), "pit" (3 refs). Gehenna (12 refs). Hades in R.V. (10 refs). Future home of wicked (50+ refs)
+5. **[HADES](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}** -- Two sub-entries: "The unseen world" (9 NT refs), "The realm of the dead" (22 OT/NT refs)
+6. **HELL** -- [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} translated "grave" (24 refs), "hell" (31 refs), "pit" (3 refs). [Gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} (12 refs). [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} in R.V. (10 refs). Future home of wicked (50+ refs)
 7. **PARADISE** -- Only 3 verses: Luke 23:43; 2 Cor 12:4; Rev 2:7
 8. **IMMORTALITY** -- General scriptures (100+ refs spanning OT and NT)
 
@@ -160,14 +160,14 @@ Sheol (H7585, 67 OT occurrences) and hades (G86, 11 NT occurrences) are the Hebr
 
 | Number | Word | Meaning | Count | Category |
 |--------|------|---------|-------|----------|
-| H7585 | sheol | The underworld/grave/abode of the dead | 67 | Location |
-| G86 | hades | The unseen world/realm of the dead | 11 | Location |
-| H7901 | shakab | To lie down (for rest, death) | 254 | Sleep (death) |
-| G2837 | koimao | To put to sleep; to die | 18 | Sleep (death) |
-| H3462 | yashen | To sleep; figuratively to die | 20 | Sleep (death) |
-| G2518 | katheudo | To lie down to rest; to be dead | 23 | Sleep (death) |
-| H8639 | tardemah | Deep sleep (God-induced) | 7 | Sleep (supernatural) |
-| H7290 | radam | To stun/stupefy with sleep or death | 7 | Sleep (stupor) |
+| [H7585](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} | [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} | The underworld/grave/abode of the dead | 67 | Location |
+| [G86](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} | [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} | The unseen world/realm of the dead | 11 | Location |
+| [H7901](https://www.blueletterbible.org/lexicon/h7901/kjv/wlc/0-1/){:target="_blank"} | [shakab](https://www.blueletterbible.org/lexicon/h7901/kjv/wlc/0-1/){:target="_blank"} | To lie down (for rest, death) | 254 | Sleep (death) |
+| [G2837](https://www.blueletterbible.org/lexicon/g2837/kjv/tr/0-1/){:target="_blank"} | [koimao](https://www.blueletterbible.org/lexicon/g2837/kjv/tr/0-1/){:target="_blank"} | To put to sleep; to die | 18 | Sleep (death) |
+| [H3462](https://www.blueletterbible.org/lexicon/h3462/kjv/wlc/0-1/){:target="_blank"} | [yashen](https://www.blueletterbible.org/lexicon/h3462/kjv/wlc/0-1/){:target="_blank"} | To sleep; figuratively to die | 20 | Sleep (death) |
+| [G2518](https://www.blueletterbible.org/lexicon/g2518/kjv/tr/0-1/){:target="_blank"} | [katheudo](https://www.blueletterbible.org/lexicon/g2518/kjv/tr/0-1/){:target="_blank"} | To lie down to rest; to be dead | 23 | Sleep (death) |
+| [H8639](https://www.blueletterbible.org/lexicon/h8639/kjv/wlc/0-1/){:target="_blank"} | [tardemah](https://www.blueletterbible.org/lexicon/h8639/kjv/wlc/0-1/){:target="_blank"} | Deep sleep (God-induced) | 7 | Sleep (supernatural) |
+| [H7290](https://www.blueletterbible.org/lexicon/h7290/kjv/wlc/0-1/){:target="_blank"} | [radam](https://www.blueletterbible.org/lexicon/h7290/kjv/wlc/0-1/){:target="_blank"} | To stun/stupefy with sleep or death | 7 | Sleep (stupor) |
 
 ---
 

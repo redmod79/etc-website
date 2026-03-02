@@ -89,10 +89,10 @@
 |---|---|---|
 | Luke 16:24 | 0.393 | abraham, lazarus |
 | John 12:9 | 0.378 | lazarus, see |
-| Acts 2:31 | 0.369 | hades |
+| Acts 2:31 | 0.369 | [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} |
 | Luke 16:22 | 0.358 | abraham, bosom |
 | Matt 17:8 | 0.348 | eye |
-| Acts 2:27 | 0.346 | hades, see |
+| Acts 2:27 | 0.346 | [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}, see |
 | Rev 1:7 | 0.343 | eye, see |
 | Luke 16:25 | 0.341 | abraham, lazarus |
 
@@ -117,14 +117,14 @@
 | Reference | Score | Key Terms |
 |---|---|---|
 | Acts 13:35 | 0.503 | allow, decay, see |
-| Acts 2:31 | 0.493 | abandon, decay, hades, into |
-| Luke 10:15 | 0.437 | hades |
-| Matt 11:23 | 0.407 | hades |
+| Acts 2:31 | 0.493 | abandon, decay, [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}, into |
+| Luke 10:15 | 0.437 | [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} |
+| Matt 11:23 | 0.407 | [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} |
 | Matt 10:28 | 0.376 | soul |
 | Acts 13:37 | 0.374 | decay, see |
-| Rev 1:18 | 0.369 | hades |
+| Rev 1:18 | 0.369 | [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} |
 | 1 Cor 15:50 | 0.358 | decay, nor |
-| Rev 20:14 | 0.344 | hades, into |
+| Rev 20:14 | 0.344 | [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}, into |
 | Matt 25:41 | 0.341 | into |
 
 ---
@@ -145,14 +145,14 @@
 ### NT Parallels (--hybrid-nt)
 | Reference | Score | Key Terms |
 |---|---|---|
-| Rev 6:8 | 0.409 | death, hades |
-| Rev 1:18 | 0.405 | dead, death, hades |
-| Rev 20:14 | 0.401 | death, hades |
+| Rev 6:8 | 0.409 | death, [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} |
+| Rev 1:18 | 0.405 | dead, death, [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} |
+| Rev 20:14 | 0.401 | death, [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} |
 | Rev 20:12 | 0.383 | dead, judged |
 | 2 Cor 1:9 | 0.347 | dead, death |
 | Rom 6:9 | 0.343 | dead, death |
-| Matt 11:23 | 0.332 | hades |
-| Luke 10:15 | 0.327 | hades |
+| Matt 11:23 | 0.332 | [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} |
+| Luke 10:15 | 0.327 | [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} |
 
 ---
 

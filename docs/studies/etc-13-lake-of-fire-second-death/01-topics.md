@@ -23,7 +23,7 @@ PRO 14:12; EZK 18:4,10,13,21,23,24; 33:8,9,11,14-16; MAT 7:13; 10:28; 25:30,41,4
 - Of the destruction of the wicked: MAT 13:42,50; 25:41; MRK 9:44; REV 9:2; 21:8
 - EVERLASTING FIRE: ISA 33:14; MAT 18:8; 25:41; MRK 9:44
 
-### HADES
+### [HADES](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}
 - The unseen world, translated "hell" in A.V.: MAT 10:28; 11:23; 16:18; LUK 10:15; 16:23; ACT 2:27,31; REV 1:18; 6:8; 20:13,14
 
 ### HELL — THE FUTURE HOME OF THE WICKED
@@ -32,10 +32,10 @@ PSA 9:17; PRO 5:5; 9:13,15-18; 15:24; 23:13,14; ISA 30:33; 33:14; MAT 3:12; 5:29
 ## Semantic Search Results
 
 ### naves_semantic.py: "lake fire second death revelation"
-Top matches: SECOND DEATH (0.54), LAKE (0.53), RESURRECTION (0.45), EVERLASTING FIRE (0.44), FIRE (0.40), HADES (0.40)
+Top matches: SECOND DEATH (0.54), LAKE (0.53), RESURRECTION (0.45), EVERLASTING FIRE (0.44), FIRE (0.40), [HADES](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (0.40)
 
 ### semantic_strongs.py: "lake fire second death"
-Top matches: G2618 katakaio (burn down/consume, 0.313), G2740 kausis (burning, 0.298), G3041 limne (lake, 0.287), G2288 thanatos (death, 0.266)
+Top matches: [G2618](https://www.blueletterbible.org/lexicon/g2618/kjv/tr/0-1/){:target="_blank"} [katakaio](https://www.blueletterbible.org/lexicon/g2618/kjv/tr/0-1/){:target="_blank"} (burn down/consume, 0.313), [G2740](https://www.blueletterbible.org/lexicon/g2740/kjv/tr/0-1/){:target="_blank"} kausis (burning, 0.298), [G3041](https://www.blueletterbible.org/lexicon/g3041/kjv/tr/0-1/){:target="_blank"} [limne](https://www.blueletterbible.org/lexicon/g3041/kjv/tr/0-1/){:target="_blank"} (lake, 0.287), [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (death, 0.266)
 
 ## Key Observations
 
@@ -47,7 +47,7 @@ Top matches: G2618 katakaio (burn down/consume, 0.313), G2740 kausis (burning, 0
 
 4. Nave's classifies fire in judgment as "Of the destruction of the wicked" and everlasting fire as FIGURATIVE.
 
-5. G3041 (limne) occurs 10 times in NT: 5 literal uses in Luke (Lake of Gennesaret), 5 uses for "lake of fire" in Revelation. The word simply means "lake/pond" -- a body of water.
+5. [G3041](https://www.blueletterbible.org/lexicon/g3041/kjv/tr/0-1/){:target="_blank"} (limne) occurs 10 times in NT: 5 literal uses in Luke (Lake of Gennesaret), 5 uses for "lake of fire" in Revelation. The word simply means "lake/pond" -- a body of water.
 
 ---
 *Research compiled: 2026-02-20*

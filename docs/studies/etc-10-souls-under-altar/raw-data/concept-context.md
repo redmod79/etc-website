@@ -3,8 +3,8 @@
 ## REV 6:9 -- Concept Context
 
 ### Concepts in Verse
-- **LIFE:** Chay/zoe -- living, alive, life (Strong's: G5590 "souls")
-- **WORD:** Dabar/logos -- word, matter, thing (Strong's: G3056 "word")
+- **LIFE:** [Chay](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"}/[zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} -- living, alive, life (Strong's: [G5590](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} "souls")
+- **WORD:** Dabar/logos -- word, matter, thing (Strong's: [G3056](https://www.blueletterbible.org/lexicon/g3056/kjv/tr/0-1/){:target="_blank"} "word")
 
 ### Same Chapter (Revelation 6) -- 7 verses
 1. Rev 6:1 [WORD] -- "one of the four beasts saying, Come and see"
@@ -37,7 +37,7 @@
 - **WORD:** Dabar/logos (G3004 "saying")
 - **HOLY:** Qadosh/hagios (G40 "holy")
 - **TRUTH:** Emeth/aletheia (G228 "true")
-- **JUDGMENT:** Mishpat/krisis (G2919 "judge")
+- **JUDGMENT:** Mishpat/[krisis](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} (G2919 "judge")
 - **BLOOD:** Dam/haima (G129 "blood")
 
 ### Same Chapter (Revelation 6) -- 8 verses

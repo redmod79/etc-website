@@ -11,7 +11,7 @@
 
 ### Gen 2:16-17
 "And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat: But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die."
-- **Hebrew:** "mot tamut" (dying thou shalt die) -- H4191 x2 (emphatic construction)
+- **Hebrew:** "mot tamut" (dying thou shalt die) -- [H4191](https://www.blueletterbible.org/lexicon/h4191/kjv/wlc/0-1/){:target="_blank"} x2 (emphatic construction)
 - **Parallels OT:** Gen 2:9 (0.507 -- tree of knowledge/good/evil), Gen 3:22 (0.458 -- eat/evil/good/tree), Gen 3:3 (0.424 -- die/eat/tree)
 - **Parallels NT:** Matt 7:17 (0.377 -- good/tree), John 6:50 (0.350 -- die/eat), 1 Cor 15:32 (0.346 -- die/eat)
 
@@ -220,7 +220,7 @@
 ### Rev 20:14
 "And death and hell were cast into the lake of fire. This is the second death."
 - **Parallels OT:** Isa 43:2 (0.325 -- burn), Song 8:6 (0.302 -- burn/death)
-- **Parallels NT:** Rev 20:15 (0.472 -- burn/cast/into/lake), Rev 21:8 (0.464 -- burn/death/lake/second), Rev 20:10 (0.429 -- burn/cast/into/lake), Rev 1:18 (0.383 -- death/hades)
+- **Parallels NT:** Rev 20:15 (0.472 -- burn/cast/into/lake), Rev 21:8 (0.464 -- burn/death/lake/second), Rev 20:10 (0.429 -- burn/cast/into/lake), Rev 1:18 (0.383 -- death/[hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"})
 
 ### Rev 21:8
 "But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death."

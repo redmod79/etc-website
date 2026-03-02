@@ -61,7 +61,7 @@
 
 ---
 
-### Nephesh = Blood = Life
+### [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} = Blood = Life
 
 > **Leviticus 17:11** For the life of the flesh [is] in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it [is] the blood [that] maketh an atonement for the soul.
 

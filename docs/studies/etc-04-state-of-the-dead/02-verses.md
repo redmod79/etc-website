@@ -312,7 +312,7 @@ Cross-testament parallels retrieved via cross_testament_parallels_v2.py (--hybri
 
 ---
 
-## E. Sheol / Hades: The Abode of the Dead
+## E. [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} / [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}: The Abode of the Dead
 
 ### Gen 37:35
 > "And all his sons and all his daughters rose up to comfort him; but he refused to be comforted; and he said, For I will go down into the grave unto my son mourning. Thus his father wept for him."

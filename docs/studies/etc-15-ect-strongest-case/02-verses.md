@@ -74,7 +74,7 @@
 **Dan 12:2** — And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt.
 **Dan 12:3** — And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever.
 
-*Prior study: etc-14-judgment-passages, etc-07-olam-forever-in-ot*
+*Prior study: etc-14-judgment-passages, etc-07-[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}-forever-in-ot*
 
 ## Key Cross-Reference Verses
 

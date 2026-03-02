@@ -1,28 +1,28 @@
-# etc-07: Olam/Forever in OT — Topics & Scope
+# etc-07: [Olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}/Forever in OT — Topics & Scope
 
 ## Study Title
-**Olam (H5769) / "Forever" in the Old Testament: Semantic Range and Duration**
+**[Olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} (H5769) / "Forever" in the Old Testament: Semantic Range and Duration**
 
 ## Central Question
-Does the Hebrew word *olam* (H5769), typically translated "forever," "everlasting," or "eternal" in English, always denote infinite/endless duration? Or does its meaning vary by context, sometimes indicating a limited age or indefinite period?
+Does the Hebrew word *[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}* (H5769), typically translated "forever," "everlasting," or "eternal" in English, always denote infinite/endless duration? Or does its meaning vary by context, sometimes indicating a limited age or indefinite period?
 
 ## Series Context
 This is study #07 in the etc series examining what Scripture teaches about the nature and duration of final punishment. Previous studies established:
 - etc-02: Only God inherently possesses immortality (1 Tim 6:16)
 - etc-03: Human mortality is a consistent biblical theme
 - etc-04: Conditional immortality language pervades Scripture ("if...then life")
-- etc-05: Sheol/Hades as an intermediate state, not eternal conscious torment
+- etc-05: [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}/[Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} as an intermediate state, not eternal conscious torment
 - etc-06: Destruction/perishing language as the dominant punishment vocabulary
 
-This study examines the primary Hebrew term behind "eternal/everlasting" claims to determine whether *olam* inherently requires infinite duration or allows contextual limitation.
+This study examines the primary Hebrew term behind "eternal/everlasting" claims to determine whether *[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}* inherently requires infinite duration or allows contextual limitation.
 
 ## Thesis to Test
-That *olam* functions as a contextually-determined duration marker whose meaning ranges from "a long time" to "age-lasting" to "perpetual/unending," with the specific duration determined by the nature of the subject modified, not by the word *olam* itself.
+That *[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}* functions as a contextually-determined duration marker whose meaning ranges from "a long time" to "age-lasting" to "perpetual/unending," with the specific duration determined by the nature of the subject modified, not by the word *[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}* itself.
 
 ## Key Topics
 
-### A. God and His Attributes (Olam = Truly Unending)
-When *olam* modifies God or His essential attributes, it carries its maximal meaning: genuinely unending duration.
+### A. God and His Attributes ([Olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} = Truly Unending)
+When *[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}* modifies God or His essential attributes, it carries its maximal meaning: genuinely unending duration.
 - God as "everlasting" (Gen 21:33; Isa 40:28; Jer 10:10; Hab 3:6)
 - God's reign (Exo 15:18; Ps 10:16; 29:10; 93:2; 146:10; Lam 5:19)
 - God's mercy/lovingkindness (Ps 100:5; 103:17; 106:48; 107:1; 136:1-4)
@@ -33,8 +33,8 @@ When *olam* modifies God or His essential attributes, it carries its maximal mea
 - "From everlasting to everlasting" (Ps 90:2; 103:17; Mic 5:2)
 - "Inhabiteth eternity" (Isa 57:15)
 
-### B. Covenants and Institutions (Olam = Age-lasting, Eventually Ended/Superseded)
-When *olam* modifies covenantal institutions, those institutions have demonstrably ended or been superseded, proving *olam* did not mean "endless" in these cases.
+### B. Covenants and Institutions ([Olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} = Age-lasting, Eventually Ended/Superseded)
+When *[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}* modifies covenantal institutions, those institutions have demonstrably ended or been superseded, proving *[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}* did not mean "endless" in these cases.
 - Aaronic priesthood as "everlasting" (Exo 40:15; Num 25:13) — superseded by Melchizedek order (Heb 7:11-24)
 - Mosaic ceremonial laws as "forever" statutes (Exo 12:14,17,24; Lev 3:17; 6:18; 7:34-36; 16:29,34; 23:14,21,31,41; 24:3,8-9; Num 18:19,23; 19:10,21) — fulfilled in Christ
 - Levitical offerings as "perpetual" (Exo 29:9,28; 30:21; Num 10:8; 18:8,11) — ended with temple destruction
@@ -44,8 +44,8 @@ When *olam* modifies covenantal institutions, those institutions have demonstrab
 - Naaman's leprosy "forever" (2 Ki 5:27) — to his seed, not literally endless
 - Promised land "forever" (Gen 13:15; 17:8; 48:4; Exo 32:13) — subject to covenant conditions
 
-### C. Human/Finite Subjects (Olam = Limited Duration)
-When *olam* modifies human or finite subjects, the duration is inherently limited.
+### C. Human/Finite Subjects ([Olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} = Limited Duration)
+When *[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}* modifies human or finite subjects, the duration is inherently limited.
 - "Serve him forever" — a slave's lifetime (Exo 21:6; Deut 15:17)
 - Jonah in whale "forever" — three days (Jon 2:6)
 - "Live forever" — prevented at Eden (Gen 3:22)
@@ -58,7 +58,7 @@ When *olam* modifies human or finite subjects, the duration is inherently limite
 - David prays for perpetual dynasty (2 Sam 7:13,16,25-26,29)
 
 ### D. Past Time ("Of Old")
-*Olam* looking backward means "ancient time" or "long ago," not eternal past.
+*[Olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}* looking backward means "ancient time" or "long ago," not eternal past.
 - "People of old time" (Ezek 26:20)
 - "Ancient/old paths" (Jer 6:16; 18:15)
 - "Ancient nation" (Jer 5:15)
@@ -79,8 +79,8 @@ These are the crucial passages for the eternal punishment debate.
 - Obadiah's "cut off forever" (Obad 1:10)
 - "Perpetual sleep" of Babylon's rulers (Jer 51:39,57)
 
-### F. Combined Forms (Le-olam Va-ed)
-The intensified form "forever and ever" (le-olam va-ed) uses both H5769 and H5703.
+### F. Combined Forms (Le-[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} Va-ed)
+The intensified form "forever and ever" (le-[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} va-ed) uses both [H5769](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} and [H5703](https://www.blueletterbible.org/lexicon/h5703/kjv/wlc/0-1/){:target="_blank"}.
 - God reigns "forever and ever" (Exo 15:18; Ps 10:16; 45:6; 48:14)
 - Praise "forever and ever" (Ps 145:1-2,21)
 - Stars established "forever and ever" (Ps 148:6)
@@ -88,13 +88,13 @@ The intensified form "forever and ever" (le-olam va-ed) uses both H5769 and H570
 - Dan 12:3 — wise shine "for ever and ever"
 
 ## Comparison Words
-- **H5703 (ad)**: "perpetuity" — often paired with olam (51 occurrences)
-- **H5331 (netsach)**: "completeness, perpetuity" — goal/endpoint imagery (44 occurrences)
-- **H8548 (tamid)**: "continuance" — daily/continual sacrifice terminology (105 occurrences)
-- **H5957 (alam)**: Aramaic equivalent of olam in Daniel (20 occurrences)
+- **[H5703](https://www.blueletterbible.org/lexicon/h5703/kjv/wlc/0-1/){:target="_blank"} (ad)**: "perpetuity" — often paired with [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} (51 occurrences)
+- **[H5331](https://www.blueletterbible.org/lexicon/h5331/kjv/wlc/0-1/){:target="_blank"} (netsach)**: "completeness, perpetuity" — goal/endpoint imagery (44 occurrences)
+- **[H8548](https://www.blueletterbible.org/lexicon/h8548/kjv/wlc/0-1/){:target="_blank"} (tamid)**: "continuance" — daily/continual sacrifice terminology (105 occurrences)
+- **[H5957](https://www.blueletterbible.org/lexicon/h5957/kjv/wlc/0-1/){:target="_blank"} (alam)**: Aramaic equivalent of [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} in Daniel (20 occurrences)
 
 ## Expected Outcome
-If *olam* has a fixed meaning of "endless," then all its uses must be truly infinite. If demonstrably finite uses exist (slave service, Jonah's three days, ended covenants, destroyed temples), then the word's duration is contextually determined. This has direct implications for interpreting "everlasting punishment/fire/contempt" passages.
+If *[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}* has a fixed meaning of "endless," then all its uses must be truly infinite. If demonstrably finite uses exist (slave service, Jonah's three days, ended covenants, destroyed temples), then the word's duration is contextually determined. This has direct implications for interpreting "everlasting punishment/fire/contempt" passages.
 
 ---
 

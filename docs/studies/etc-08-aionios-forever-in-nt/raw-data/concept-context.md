@@ -5,7 +5,7 @@
 
 ### Concepts Detected
 - **RIGHTEOUSNESS:** Tsedaqah/dikaiosyne - rightness, justice, right standing (G1342)
-- **LIFE:** Chay/zoe - living, alive, life (G2222)
+- **LIFE:** [Chay](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"}/[zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} - living, alive, life (G2222)
 
 ### Same Chapter (Matthew 25)
 1. **Matt 25:37** [RIGHTEOUSNESS] -- "Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed thee?"
@@ -57,5 +57,5 @@ No theological concepts found by the tool.
 The concept_context tool did not detect tagged theological concepts in this verse, but the following conceptual connections are significant:
 - **Sodom as archetype:** The destruction of Sodom is repeatedly used as a paradigmatic example of divine judgment (Gen 19:24-28; Isa 1:9; Lam 4:6; Amos 4:11; 2 Pet 2:6; Luke 17:29)
 - **"Set forth for an example":** Jude explicitly says Sodom serves as a deigma (example/exhibit) -- the past destruction illustrates future judgment
-- **"Eternal fire" on Sodom:** The fire that destroyed Sodom is historically completed -- the fire went out -- yet Jude calls it "eternal fire" (puros aioniou). This is a critical data point for understanding what aionios modifies: the source/quality of the fire rather than its ongoing duration, OR the permanent nature of the results rather than the process.
+- **"Eternal fire" on Sodom:** The fire that destroyed Sodom is historically completed -- the fire went out -- yet Jude calls it "eternal fire" (puros aioniou). This is a critical data point for understanding what [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} modifies: the source/quality of the fire rather than its ongoing duration, OR the permanent nature of the results rather than the process.
 - **Key parallel: 2 Peter 2:6** -- "turning the cities of Sodom and Gomorrha into ashes condemned them with an overthrow, making them an ensample unto those that after should live ungodly." Peter's account emphasizes the ashes (completed destruction) and the exemplary nature.

@@ -1,6 +1,6 @@
 # Strong's Lookups -- Raw Data
 
-## G166: aionios
+## [G166](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}: [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}
 
 ### --lookup
 ```
@@ -60,7 +60,7 @@ Hebrew source words (ranked by PMI-weighted):
 
 ---
 
-## G165: aion
+## [G165](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"}: [aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"}
 
 ### --lookup
 ```
@@ -132,7 +132,7 @@ Hebrew source words (ranked by PMI-weighted):
 
 ---
 
-## G126: aidios
+## [G126](https://www.blueletterbible.org/lexicon/g126/kjv/tr/0-1/){:target="_blank"}: aidios
 
 ### --lookup
 ```
@@ -157,11 +157,11 @@ Outline of Biblical Usage:
 ```
 
 ### --hebrew-source
-No Hebrew sources found for G126.
+No Hebrew sources found for [G126](https://www.blueletterbible.org/lexicon/g126/kjv/tr/0-1/){:target="_blank"}.
 
 ---
 
-## G104: aei
+## [G104](https://www.blueletterbible.org/lexicon/g104/kjv/tr/0-1/){:target="_blank"}: aei
 
 ### --lookup
 ```

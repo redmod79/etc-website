@@ -14,7 +14,7 @@ Scripture never says the soul is immortal. God alone possesses immortality: "who
 
 Man was formed from dust and the breath of life (Gen 2:7). At death, "the dust returns to the earth as it was" (Ecc 12:7). God barred Adam from the tree of life specifically to prevent him from living forever (Gen 3:22), which would make no sense if the soul were inherently indestructible.
 
-The soul is explicitly described as mortal and destructible. "The soul that sinneth, it shall die" (Ezek 18:4, 20). God "is able to destroy both soul and body in gehenna" (Matt 10:28). The concept of an inherently immortal soul is not found in Scripture -- it originates with the Greek philosopher Plato and entered Christian teaching through later Greek-influenced writers.
+The soul is explicitly described as mortal and destructible. "The soul that sinneth, it shall die" (Ezek 18:4, 20). God "is able to destroy both soul and body in [gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"}" (Matt 10:28). The concept of an inherently immortal soul is not found in Scripture -- it originates with the Greek philosopher Plato and entered Christian teaching through later Greek-influenced writers.
 
 ### The dead are unconscious
 
@@ -29,7 +29,7 @@ The Bible is explicit and consistent: "The wages of sin is death" (Rom 6:23). "T
 Across both testaments and hundreds of occurrences, the words used for the wicked's end are words for destruction and cessation: *perish*, *destroy*, *consume*, *burn up*, *cut off*. No dictionary of biblical Hebrew or Greek defines any of these words as "ongoing conscious torment." The wicked are described as:
 
 - **Perishing** -- "For God so loved the world... that whosoever believeth in him should not perish" (John 3:16); "Except ye repent, ye shall all likewise perish" (Luke 13:3, 5)
-- **Being destroyed** -- "Fear him which is able to destroy both soul and body in gehenna" (Matt 10:28); "who shall be punished with everlasting destruction" (2 Thess 1:9)
+- **Being destroyed** -- "Fear him which is able to destroy both soul and body in [gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"}" (Matt 10:28); "who shall be punished with everlasting destruction" (2 Thess 1:9)
 - **Dying** -- "The wages of sin is death" (Rom 6:23); "The soul that sinneth, it shall die" (Ezek 18:4)
 - **Being consumed** -- "A fire shall consume them" (Ps 37:20); "fire which shall devour the adversaries" (Heb 10:27)
 - **Becoming as though they had not been** -- "They shall be as though they had not been" (Obad 1:16)
@@ -68,7 +68,7 @@ The following claims are not supported by any direct biblical statement:
 
 1. **The soul is naturally immortal.** No verse teaches this. The concept comes from Plato.
 2. **Eternal conscious torment of human beings is directly stated anywhere in Scripture.** It is not.
-3. **Any word translated "hell" inherently means eternal torment.** Sheol and hades are the general abode of all the dead. Gehenna is associated with destruction (Matt 10:28: "destroy"). None of these words inherently carries the meaning of endless conscious suffering.
+3. **Any word translated "hell" inherently means eternal torment.** [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} and [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} are the general abode of all the dead. [Gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} is associated with destruction (Matt 10:28: "destroy"). None of these words inherently carries the meaning of endless conscious suffering.
 4. **Destruction vocabulary means "ongoing conscious ruin."** No dictionary supports this. It is a redefinition of words the Bible itself uses hundreds of times with their plain meaning.
 5. **The "infinite God requires infinite punishment" argument is biblical.** It is not found in any Scripture. It is a philosophical argument from the eleventh century.
 6. **Conditionalism is a modern or fringe position.** Conditional immortality was the earliest Christian position, held by the Apostolic Fathers (c. 90-150 AD), and was never condemned by any church council. The doctrine of the soul's natural immortality was not declared church dogma until 1513.

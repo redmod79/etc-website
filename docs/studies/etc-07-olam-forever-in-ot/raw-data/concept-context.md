@@ -4,10 +4,10 @@
 **"And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame [and] everlasting contempt."**
 
 ### Concepts Identified
-- **LIFE**: Chay/zoe — living, alive, life (H2416)
+- **LIFE**: [Chay](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"}/[zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} — living, alive, life (H2416)
 
 ### Same Chapter Connections
-1. **Daniel 12:7** [LIFE] — "sware by him that liveth for ever" — same olam used of God's eternal life, contextualizing the "everlasting life" of 12:2
+1. **Daniel 12:7** [LIFE] — "sware by him that liveth for ever" — same [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} used of God's eternal life, contextualizing the "everlasting life" of 12:2
 
 ### Key Cross-Book Connections
 - **1 Cor 15:19** [LIFE] — "If in this life only we have hope in Christ, we are of all men most miserable"
@@ -60,9 +60,9 @@ Key contextual note: Isaiah 34:11-17 describes owls, ravens, cormorants, hedgeho
 - **Lam 1:12** [WRATH] — "the day of his fierce anger"
 
 ### Key Observation
-Jeremiah 17:4 says the fire of God's anger "shall burn for ever" (olam). But:
+Jeremiah 17:4 says the fire of God's anger "shall burn for ever" ([olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}). But:
 1. **Jer 17:27** applies the same fire imagery to Jerusalem's gates — fulfilled in 586 BC by Babylon
 2. **Jer 21:12** uses "fire that none can quench" — same unquenchable fire, historically fulfilled
 3. The wrath/fire was fulfilled in the Babylonian exile and destruction
 
-This is decisive evidence that "burn for ever" (olam) in prophetic judgment language means "burn until completely consumed" or "burn irreversibly" — not "burn for infinite duration." The WRATH and OBEDIENCE concepts show this is covenantal judgment language, not ontological duration language.
+This is decisive evidence that "burn for ever" ([olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}) in prophetic judgment language means "burn until completely consumed" or "burn irreversibly" — not "burn for infinite duration." The WRATH and OBEDIENCE concepts show this is covenantal judgment language, not ontological duration language.

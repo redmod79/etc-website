@@ -14,19 +14,19 @@ answer-question
 
 This is study #10 in the etc series (The Final Fate of the Wicked). Prior studies have established:
 
-- **etc-01** (What Is Man?): Man = dust + breath = living soul (Gen 2:7). Nephesh (H5315) shared with animals. Death reverses creation. Thoughts perish at death (Ps 146:4). Dead know nothing (Ecc 9:5). Death = sleep (7+ authors). God alone has immortality (1 Tim 6:16). Immortality put on at resurrection (1 Cor 15:53-54). Rev 6:9-11 classified Neutral per Tree 3 (apocalyptic genre, symbolic subjects).
-- **etc-02** (Who Has Immortality?): God exclusively possesses athanasia. Mortals must seek/receive/put on immortality. Eternal life is conditional on Christ. Life vs. perish contrast (John 3:16).
-- **etc-03** (What Does Death Mean?): Death = cessation, reversal of creation. Same vocabulary (thanatos/maveth) for all death types. Second death = lake of fire (Rev 20:14; 21:8).
+- **etc-01** (What Is Man?): Man = dust + breath = living soul (Gen 2:7). [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} (H5315) shared with animals. Death reverses creation. Thoughts perish at death (Ps 146:4). Dead know nothing (Ecc 9:5). Death = sleep (7+ authors). God alone has immortality (1 Tim 6:16). Immortality put on at resurrection (1 Cor 15:53-54). Rev 6:9-11 classified Neutral per Tree 3 (apocalyptic genre, symbolic subjects).
+- **etc-02** (Who Has Immortality?): God exclusively possesses [athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"}. Mortals must seek/receive/put on immortality. Eternal life is conditional on Christ. Life vs. perish contrast (John 3:16).
+- **etc-03** (What Does Death Mean?): Death = cessation, reversal of creation. Same vocabulary ([thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}/[maveth](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"}) for all death types. Second death = lake of fire (Rev 20:14; 21:8).
 - **etc-04** (State of the Dead): 19 explicit statements describe the dead as unconscious (8+ authors, 6+ books). 0 explicit statements describe the dead as conscious in a didactic context. All alleged conscious-intermediate-state passages (2 Cor 5:8, Phil 1:23, Luke 23:43, Luke 16:19-31, Rev 6:9-11, 1 Sam 28, Matt 17, 1 Pet 3:18-20) fail Tree 3 gates. Rev 6:9-11 classified Neutral: Gate 1 FAIL (symbolic entity in apocalyptic vision), Gate 3 FAIL (apocalyptic genre). Abel's blood parallel noted (Gen 4:10).
-- **etc-05** (Four Hell Words): Sheol/hades = abode of all dead, characterized by unconsciousness. Gehenna = eschatological destruction (Isa 66:24 corpse-background). Hades distinct from lake of fire.
+- **etc-05** (Four Hell Words): [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}/[hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} = abode of all dead, characterized by unconsciousness. [Gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} = eschatological destruction (Isa 66:24 corpse-background). [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} distinct from lake of fire.
 - **etc-06** (Destruction Vocabulary): Seven destruction words analyzed. All mean cessation, not ongoing torment. Destruction and torment vocabulary are distinct word families.
-- **etc-07** (OT Olam): Olam does not inherently mean "endless"; duration determined by context/subject. OT "forever" fire/smoke language describes completed, irreversible judgments.
-- **etc-08** (NT Aionios): Aionios does not inherently mean "eternal"; past-time uses prove contextual range. "Ages of ages" in Revelation echoes OT ended-judgment language.
-- **etc-09** (Rich Man and Lazarus): Luke 16:19-31 is parabolic (9+ Plain indicators vs. 1 Contextually Clear). Vocabulary divergence (basanos/odunao, not basanizo). Stated teaching point: hearing Moses and the prophets.
+- **etc-07** (OT [Olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}): [Olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} does not inherently mean "endless"; duration determined by context/subject. OT "forever" fire/smoke language describes completed, irreversible judgments.
+- **etc-08** (NT [Aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}): [Aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} does not inherently mean "eternal"; past-time uses prove contextual range. "Ages of ages" in Revelation echoes OT ended-judgment language.
+- **etc-09** (Rich Man and Lazarus): Luke 16:19-31 is parabolic (9+ Plain indicators vs. 1 Contextually Clear). Vocabulary divergence (basanos/odunao, not [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}). Stated teaching point: hearing Moses and the prophets.
 
 ### Prior-Iteration Conclusions for This Passage
 
-**etc4-10** established: Rev 6:9-11 depicts martyrs' lifeblood poured at the base of the heavenly sacrifice altar, crying for vindication -- imagery from OT sacrificial system (Lev 4:7,18,25,30) and blood-crying-out motif (Gen 4:10; Heb 11:4; 12:24). Psychai (G5590) = nephesh = blood-life. Same sphazō (G4969) word for both the Lamb and the martyrs. "Rest" (anapauō, G373) same word as Rev 14:13. Martyrs' "living" located at the first resurrection (Rev 20:4-5). The altar itself "speaks" in Rev 16:7 (personification throughout).
+**etc4-10** established: Rev 6:9-11 depicts martyrs' lifeblood poured at the base of the heavenly sacrifice altar, crying for vindication -- imagery from OT sacrificial system (Lev 4:7,18,25,30) and blood-crying-out motif (Gen 4:10; Heb 11:4; 12:24). Psychai (G5590) = [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} = blood-life. Same sphazō (G4969) word for both the Lamb and the martyrs. "Rest" (anapauō, G373) same word as Rev 14:13. Martyrs' "living" located at the first resurrection (Rev 20:4-5). The altar itself "speaks" in Rev 16:7 (personification throughout).
 
 **etc5-10** confirmed: Rev 6:9-11 is a visionary scene where personification is the governing literary mode. The crying follows the Gen 4:10 pattern (juridical/forensic testimony of shed blood, not literal vocalization). The "rest" command matches Rev 14:13. Martyrs "live" at the first resurrection (Rev 20:4-5). Passage classified Neutral (both sides accept textual facts; what they mean is inference).
 
@@ -118,7 +118,7 @@ Retrieve and analyze these verses from KJV:
 - **Rev 6:1-2** -- First seal: white horse (symbolic)
 - **Rev 6:3-4** -- Second seal: red horse (symbolic)
 - **Rev 6:5-6** -- Third seal: black horse (symbolic)
-- **Rev 6:7-8** -- Fourth seal: pale horse; rider named Death; Hades follows (personification: Death and Hades as riders)
+- **Rev 6:7-8** -- Fourth seal: pale horse; rider named Death; [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} follows (personification: Death and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} as riders)
 - **Rev 6:9-11** -- Fifth seal: souls under the altar
 - **Rev 6:12-14** -- Sixth seal: sun becomes black, moon as blood, stars fall (cosmic symbols)
 
@@ -132,11 +132,11 @@ Retrieve and analyze these verses from KJV:
 - **Job 14:21** -- "His sons come to honour, and he knoweth it not"
 - **Dan 12:13** -- "thou shalt rest, and stand in thy lot at the end of the days" (rest-then-resurrection pattern)
 - **1 Jn 3:12** -- Cain "slew [sphazō] his brother" (same word connecting Abel to Rev 6:9)
-- **Ezek 18:4,20** -- "the soul [nephesh] that sinneth, it shall die" (nephesh/psyche is mortal)
+- **Ezek 18:4,20** -- "the soul [nephesh] that sinneth, it shall die" ([nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}/[psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} is mortal)
 
 ### Personification Parallels (non-literal "speaking" of the dead or objects)
 
-- **Isa 14:4,8-10** -- mashal (taunt-poem): rephaim "speak" in sheol; trees "rejoice"
+- **Isa 14:4,8-10** -- [mashal](https://www.blueletterbible.org/lexicon/h4912/kjv/wlc/0-1/){:target="_blank"} (taunt-poem): [rephaim](https://www.blueletterbible.org/lexicon/h7496/kjv/wlc/0-1/){:target="_blank"} "speak" in [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}; trees "rejoice"
 - **Hab 2:11** -- "the stone shall cry out of the wall, and the beam out of the timber shall answer it"
 - **Luk 19:40** -- "the stones would immediately cry out"
 
@@ -146,19 +146,19 @@ Retrieve and analyze these verses from KJV:
 
 ### From tool output:
 
-- **G5590 (psyche)** -- 87 NT occurrences. Translated: "soul" (32x), "life" (25x), "souls" (18x), "lives" (4x), plus minor variants. The word means "life/soul" and is the Greek equivalent of nephesh. In Rev 6:9, psychas = the lives/blood of the slain.
+- **[G5590](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} (psyche)** -- 87 NT occurrences. Translated: "soul" (32x), "life" (25x), "souls" (18x), "lives" (4x), plus minor variants. The word means "life/soul" and is the Greek equivalent of [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}. In Rev 6:9, psychas = the lives/blood of the slain.
 
-- **G2379 (thysiastērion)** -- 22 NT occurrences. Translated: "altar" (20x), "altars" (1x), "an altar" (1x). From a derivative of thyo (to sacrifice). A place of sacrifice. In Rev 6:9, the heavenly altar under which the souls/lives are seen.
+- **[G2379](https://www.blueletterbible.org/lexicon/g2379/kjv/tr/0-1/){:target="_blank"} (thysiastērion)** -- 22 NT occurrences. Translated: "altar" (20x), "altars" (1x), "an altar" (1x). From a derivative of thyo (to sacrifice). A place of sacrifice. In Rev 6:9, the heavenly altar under which the souls/lives are seen.
 
-- **G4969 (sphazō)** -- 8 NT occurrences. Translated: "slain" (5x), "killed" (1x), "wounded" (1x), "kill" (1x). Used for: the Lamb slain (Rev 5:6,9,12), martyrs slain (Rev 6:9), all slain on earth (Rev 18:24), Abel slain (1 Jn 3:12), beast's head wounded (Rev 13:3). The shared vocabulary between the Lamb and the martyrs places both in a sacrificial framework.
+- **[G4969](https://www.blueletterbible.org/lexicon/g4969/kjv/tr/0-1/){:target="_blank"} (sphazō)** -- 8 NT occurrences. Translated: "slain" (5x), "killed" (1x), "wounded" (1x), "kill" (1x). Used for: the Lamb slain (Rev 5:6,9,12), martyrs slain (Rev 6:9), all slain on earth (Rev 18:24), Abel slain (1 Jn 3:12), beast's head wounded (Rev 13:3). The shared vocabulary between the Lamb and the martyrs places both in a sacrificial framework.
 
-- **G2896 (krazō)** -- 52 NT occurrences. Translated: "cried" (13x), "cried out" (11x), "crying" (8x), etc. A loud cry. In Rev 6:10, the souls "cried with a loud voice." Same root as Jas 5:4 where withheld wages "cry."
+- **[G2896](https://www.blueletterbible.org/lexicon/g2896/kjv/tr/0-1/){:target="_blank"} (krazō)** -- 52 NT occurrences. Translated: "cried" (13x), "cried out" (11x), "crying" (8x), etc. A loud cry. In Rev 6:10, the souls "cried with a loud voice." Same root as Jas 5:4 where withheld wages "cry."
 
 ### Additional key terms to study:
 
-- **G373 (anapauō)** -- "to rest, refresh." Used in Rev 6:11 ("rest yet for a little season") and Rev 14:13 ("rest from their labours"). Same word linking the martyrs' state to the blessed dead.
-- **H5315 (nephesh)** -- "soul, life, living being." The Hebrew equivalent of G5590. Nephesh = blood (Lev 17:11,14; Gen 9:4; Deu 12:23). Nephesh can die (Ezek 18:4,20).
-- **G1556 (ekdikeo)** -- "to avenge, vindicate." In Rev 6:10 ("avenge our blood") and Rev 19:2 ("hath avenged the blood").
+- **[G373](https://www.blueletterbible.org/lexicon/g373/kjv/tr/0-1/){:target="_blank"} (anapauō)** -- "to rest, refresh." Used in Rev 6:11 ("rest yet for a little season") and Rev 14:13 ("rest from their labours"). Same word linking the martyrs' state to the blessed dead.
+- **[H5315](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} (nephesh)** -- "soul, life, living being." The Hebrew equivalent of [G5590](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}. [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} = blood (Lev 17:11,14; Gen 9:4; Deu 12:23). [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} can die (Ezek 18:4,20).
+- **[G1556](https://www.blueletterbible.org/lexicon/g1556/kjv/tr/0-1/){:target="_blank"} (ekdikeo)** -- "to avenge, vindicate." In Rev 6:10 ("avenge our blood") and Rev 19:2 ("hath avenged the blood").
 
 ---
 
@@ -214,12 +214,12 @@ Top matches:
 
 ### Semantic Strong's Search: "soul altar cry blood avenge"
 Top results:
-1. **G2379 (thysiastērion)** (0.390) -- "a place of sacrifice, i.e. an altar"
-2. H2025 (har'el) (0.361) -- "mount of God; figuratively, the altar of burnt-offering"
-3. H741 (ari'eyl) (0.336) -- "the altar of the temple"
-4. H4056 (madbach) (0.334) -- "a sacrificial altar"
-5. H8386 (ta'aniyah) (0.326) -- "lamentation; heaviness, mourning"
-6. H5360 (neqamah) (0.314) -- "avengement; avenge, revenge, vengeance"
+1. **[G2379](https://www.blueletterbible.org/lexicon/g2379/kjv/tr/0-1/){:target="_blank"} (thysiastērion)** (0.390) -- "a place of sacrifice, i.e. an altar"
+2. [H2025](https://www.blueletterbible.org/lexicon/h2025/kjv/wlc/0-1/){:target="_blank"} (har'el) (0.361) -- "mount of God; figuratively, the altar of burnt-offering"
+3. [H741](https://www.blueletterbible.org/lexicon/h741/kjv/wlc/0-1/){:target="_blank"} (ari'eyl) (0.336) -- "the altar of the temple"
+4. [H4056](https://www.blueletterbible.org/lexicon/h4056/kjv/wlc/0-1/){:target="_blank"} (madbach) (0.334) -- "a sacrificial altar"
+5. [H8386](https://www.blueletterbible.org/lexicon/h8386/kjv/wlc/0-1/){:target="_blank"} (ta'aniyah) (0.326) -- "lamentation; heaviness, mourning"
+6. [H5360](https://www.blueletterbible.org/lexicon/h5360/kjv/wlc/0-1/){:target="_blank"} (neqamah) (0.314) -- "avengement; avenge, revenge, vengeance"
 
 ---
 
@@ -234,7 +234,7 @@ The master evidence file (D:/Bible/bible-studies/etc-master-evidence.md) current
 ### Existing items relevant to this study:
 - **E156** -- "In an apocalyptic vision, souls under the altar cry 'How long?' and are told to rest" (Rev 6:9-11) -- Neutral -- First appeared etc-04
 - **E335** -- "Abel's blood 'crieth' from the ground -- personification; the dead Abel is not literally conscious and speaking" (Gen 4:10) -- Neutral -- First appeared etc-09
-- **E171** -- "Isaiah 14:9-10 is a mashal (taunt-poem) using personification of sheol, trees, and rephaim" (Isa 14:4,8-10) -- Neutral
+- **E171** -- "Isaiah 14:9-10 is a [mashal](https://www.blueletterbible.org/lexicon/h4912/kjv/wlc/0-1/){:target="_blank"} (taunt-poem) using personification of [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}, trees, and [rephaim](https://www.blueletterbible.org/lexicon/h7496/kjv/wlc/0-1/){:target="_blank"}" (Isa 14:4,8-10) -- Neutral
 - **I026** -- "Rev 6:9-11 teaches dead martyrs are consciously present in heaven" -- I-C ECT-direction -- First appeared etc-04
 
 ### Items to update "Also In":
@@ -247,14 +247,14 @@ The master evidence file (D:/Bible/bible-studies/etc-master-evidence.md) current
 ### 1. Genre Analysis (CRITICAL)
 Analyze the genre of Revelation as apocalyptic literature. Document:
 - Revelation is classified under VISION in Nave's Topical Bible
-- The seal sequence (Rev 6) is filled with symbolic elements: four colored horses, Death and Hades personified as riders, cosmic upheaval
-- Within the fifth seal itself, note that the fourth seal just had Death (personified) and Hades (personified) as horsemen -- the literary context is entirely symbolic
+- The seal sequence (Rev 6) is filled with symbolic elements: four colored horses, Death and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} personified as riders, cosmic upheaval
+- Within the fifth seal itself, note that the fourth seal just had Death (personified) and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (personified) as horsemen -- the literary context is entirely symbolic
 - Rev 16:7 has the altar itself speaking ("I heard another out of the altar say...") -- if the altar can "speak," the souls under the altar "crying" fits the same personification pattern
 - Apply Tree 3 Genre Gate: Revelation is apocalyptic vision, not didactic prose
 
-### 2. The Nephesh-Blood-Altar Connection
+### 2. The [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}-Blood-Altar Connection
 Analyze the OT background:
-- Nephesh (H5315) / psyche (G5590) = blood = life (Lev 17:11,14; Gen 9:4; Deu 12:23)
+- [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} (H5315) / [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} (G5590) = blood = life (Lev 17:11,14; Gen 9:4; Deu 12:23)
 - In the OT sacrificial system, the blood of the sacrifice was poured at the base/bottom of the altar (Lev 4:7,18,25,30; Exo 29:12)
 - In Rev 6:9, John sees psychas (souls/lives) under the altar -- this is the blood-life poured at the altar base
 - The martyrs are presented as sacrificial offerings (sphazō used for both them and the Lamb)
@@ -315,7 +315,7 @@ Apply the clarity criteria:
 |-----------|-----------|-----------|----------|
 | E156 | In an apocalyptic vision, souls under the altar cry "How long?" and are told to rest | Rev 6:9-11 | Neutral |
 | E335 | Abel's blood "crieth" from the ground -- personification; the dead Abel is not literally conscious | Gen 4:10 | Neutral |
-| E171 | Isaiah 14:9-10 is a mashal using personification of sheol, trees, and rephaim | Isa 14:4,8-10 | Neutral |
+| E171 | Isaiah 14:9-10 is a [mashal](https://www.blueletterbible.org/lexicon/h4912/kjv/wlc/0-1/){:target="_blank"} using personification of [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}, trees, and [rephaim](https://www.blueletterbible.org/lexicon/h7496/kjv/wlc/0-1/){:target="_blank"} | Isa 14:4,8-10 | Neutral |
 | E011 | When breath departs, he returns to his earth; in that very day his thoughts perish | Ps 146:4 | Cond. |
 | E017 | In death there is no remembrance of God; in the grave no one gives thanks | Ps 6:5 | Cond. |
 | E018 | The dead praise not the LORD; they go down into silence | Ps 115:17 | Cond. |
@@ -347,7 +347,7 @@ Write CONCLUSION.md following the methodology in etc-series-methodology.md. Incl
 4. **Master Evidence Update** -- list all new items to add to etc-master-evidence.md and existing items to update "Also In"
 5. **Positional Tally**
 6. **What CAN Be Said / What CANNOT Be Said**
-7. **Analysis** section with genre analysis, nephesh-blood-altar connection, Abel's blood parallel, vindication arc, Rev 20:4-5 connection, rest command, SIS hierarchy
+7. **Analysis** section with genre analysis, [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}-blood-altar connection, Abel's blood parallel, vindication arc, Rev 20:4-5 connection, rest command, SIS hierarchy
 8. **Conclusion** -- present classification results as data; let the numbers speak
 
 ---

@@ -1,8 +1,8 @@
 # Verses
 
-## A. SHEOL (H7585) -- All OT Occurrences
+## A. [SHEOL](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} (H7585) -- All OT Occurrences
 
-### Sheol Translated "Grave" in KJV
+### [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} Translated "Grave" in KJV
 
 > **Genesis 37:35** And all his sons and all his daughters rose up to comfort him; but he refused to be comforted; and he said, For I will go down into the grave unto my son mourning. Thus his father wept for him.
 
@@ -54,7 +54,7 @@
 
 > **Hosea 13:14** I will ransom them from the power of the grave; I will redeem them from death: O death, I will be thy plagues; O grave, I will be thy destruction: repentance shall be hid from mine eyes.
 
-### Sheol Translated "Hell" in KJV
+### [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} Translated "Hell" in KJV
 
 > **Deuteronomy 32:22** For a fire is kindled in mine anger, and shall burn unto the lowest hell, and shall consume the earth with her increase, and set on fire the foundations of the mountains.
 
@@ -118,13 +118,13 @@
 
 > **Habakkuk 2:5** Yea also, because he transgresseth by wine, he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people.
 
-### Sheol Translated "Pit" in KJV
+### [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} Translated "Pit" in KJV
 
 > **Numbers 16:30** But if the LORD make a new thing, and the earth open her mouth, and swallow them up, with all that appertain unto them, and they go down quick into the pit; then ye shall understand that these men have provoked the LORD.
 
 > **Numbers 16:33** They, and all that appertained to them, went down alive into the pit, and the earth closed upon them: and they perished from among the congregation.
 
-### Additional Sheol Context Verses
+### Additional [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} Context Verses
 
 > **Isaiah 14:10** All they shall speak and say unto thee, Art thou also become weak as we? art thou become like unto us?
 
@@ -162,7 +162,7 @@
 
 ---
 
-## B. HADES (G86) -- All 11 NT Occurrences
+## B. [HADES](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (G86) -- All 11 NT Occurrences
 
 > **Matthew 11:23** And thou, Capernaum, which art exalted unto heaven, shalt be brought down to hell: for if the mighty works, which have been done in thee, had been done in Sodom, it would have remained until this day.
 
@@ -193,7 +193,7 @@
 
 ---
 
-## C. GEHENNA (G1067) -- All NT Occurrences
+## C. [GEHENNA](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} (G1067) -- All NT Occurrences
 
 > **Matthew 5:22** But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, Raca, shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire.
 
@@ -227,7 +227,7 @@
 
 ---
 
-## D. TARTAROO (G5020) -- 1 NT Occurrence
+## D. [TARTAROO](https://www.blueletterbible.org/lexicon/g5020/kjv/tr/0-1/){:target="_blank"} (G5020) -- 1 NT Occurrence
 
 > **2 Peter 2:4** For if God spared not the angels that sinned, but cast them down to hell, and delivered them into chains of darkness, to be reserved unto judgment;
 
@@ -238,29 +238,29 @@
 
 ---
 
-## E. Valley of Hinnom OT Background (Gehenna Source)
+## E. Valley of [Hinnom](https://www.blueletterbible.org/lexicon/h2011/kjv/wlc/0-1/){:target="_blank"} OT Background ([Gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} Source)
 
-> **Joshua 15:8** And the border went up by the valley of the son of Hinnom unto the south side of the Jebusite; the same is Jerusalem: and the border went up to the top of the mountain that lieth before the valley of Hinnom westward, which is at the end of the valley of the giants northward.
+> **Joshua 15:8** And the border went up by the valley of the son of [Hinnom](https://www.blueletterbible.org/lexicon/h2011/kjv/wlc/0-1/){:target="_blank"} unto the south side of the Jebusite; the same is Jerusalem: and the border went up to the top of the mountain that lieth before the valley of [Hinnom](https://www.blueletterbible.org/lexicon/h2011/kjv/wlc/0-1/){:target="_blank"} westward, which is at the end of the valley of the giants northward.
 
-> **Joshua 18:16** And the border came down to the end of the mountain that lieth before the valley of the son of Hinnom, and which is in the valley of the giants on the north, and descended to the valley of Hinnom, to the side of Jebusi on the south, and descended to Enrogel.
+> **Joshua 18:16** And the border came down to the end of the mountain that lieth before the valley of the son of [Hinnom](https://www.blueletterbible.org/lexicon/h2011/kjv/wlc/0-1/){:target="_blank"}, and which is in the valley of the giants on the north, and descended to the valley of [Hinnom](https://www.blueletterbible.org/lexicon/h2011/kjv/wlc/0-1/){:target="_blank"}, to the side of Jebusi on the south, and descended to Enrogel.
 
-> **2 Kings 23:10** And he defiled Topheth, which is in the valley of the children of Hinnom, that no man might make his son or his daughter to pass through the fire to Molech.
+> **2 Kings 23:10** And he defiled Topheth, which is in the valley of the children of [Hinnom](https://www.blueletterbible.org/lexicon/h2011/kjv/wlc/0-1/){:target="_blank"}, that no man might make his son or his daughter to pass through the fire to Molech.
 
-> **2 Chronicles 28:3** Moreover he burnt incense in the valley of the son of Hinnom, and burnt his children in the fire, after the abominations of the heathen whom the LORD had cast out before the children of Israel.
+> **2 Chronicles 28:3** Moreover he burnt incense in the valley of the son of [Hinnom](https://www.blueletterbible.org/lexicon/h2011/kjv/wlc/0-1/){:target="_blank"}, and burnt his children in the fire, after the abominations of the heathen whom the LORD had cast out before the children of Israel.
 
-> **2 Chronicles 33:6** And he caused his children to pass through the fire in the valley of the son of Hinnom: also he observed times, and used enchantments, and used witchcraft, and dealt with a familiar spirit, and with wizards: he wrought much evil in the sight of the LORD, to provoke him to anger.
+> **2 Chronicles 33:6** And he caused his children to pass through the fire in the valley of the son of [Hinnom](https://www.blueletterbible.org/lexicon/h2011/kjv/wlc/0-1/){:target="_blank"}: also he observed times, and used enchantments, and used witchcraft, and dealt with a familiar spirit, and with wizards: he wrought much evil in the sight of the LORD, to provoke him to anger.
 
-> **Nehemiah 11:30** Zanoah, Adullam, and in their villages, at Lachish, and the fields thereof, at Azekah, and in the villages thereof. And they dwelt from Beersheba unto the valley of Hinnom.
+> **Nehemiah 11:30** Zanoah, Adullam, and in their villages, at Lachish, and the fields thereof, at Azekah, and in the villages thereof. And they dwelt from Beersheba unto the valley of [Hinnom](https://www.blueletterbible.org/lexicon/h2011/kjv/wlc/0-1/){:target="_blank"}.
 
-> **Jeremiah 7:31** And they have built the high places of Tophet, which is in the valley of the son of Hinnom, to burn their sons and their daughters in the fire; which I commanded them not, neither came it into my heart.
+> **Jeremiah 7:31** And they have built the high places of Tophet, which is in the valley of the son of [Hinnom](https://www.blueletterbible.org/lexicon/h2011/kjv/wlc/0-1/){:target="_blank"}, to burn their sons and their daughters in the fire; which I commanded them not, neither came it into my heart.
 
-> **Jeremiah 7:32** Therefore, behold, the days come, saith the LORD, that it shall no more be called Tophet, nor the valley of the son of Hinnom, but the valley of slaughter: for they shall bury in Tophet, till there be no place.
+> **Jeremiah 7:32** Therefore, behold, the days come, saith the LORD, that it shall no more be called Tophet, nor the valley of the son of [Hinnom](https://www.blueletterbible.org/lexicon/h2011/kjv/wlc/0-1/){:target="_blank"}, but the valley of slaughter: for they shall bury in Tophet, till there be no place.
 
-> **Jeremiah 19:2** And go forth unto the valley of the son of Hinnom, which is by the entry of the east gate, and proclaim there the words that I shall tell thee.
+> **Jeremiah 19:2** And go forth unto the valley of the son of [Hinnom](https://www.blueletterbible.org/lexicon/h2011/kjv/wlc/0-1/){:target="_blank"}, which is by the entry of the east gate, and proclaim there the words that I shall tell thee.
 
-> **Jeremiah 19:6** Therefore, behold, the days come, saith the LORD, that this place shall no more be called Tophet, nor The valley of the son of Hinnom, but The valley of slaughter.
+> **Jeremiah 19:6** Therefore, behold, the days come, saith the LORD, that this place shall no more be called Tophet, nor The valley of the son of [Hinnom](https://www.blueletterbible.org/lexicon/h2011/kjv/wlc/0-1/){:target="_blank"}, but The valley of slaughter.
 
-> **Jeremiah 32:35** And they built the high places of Baal, which are in the valley of the son of Hinnom, to cause their sons and their daughters to pass through the fire unto Molech; which I commanded them not, neither came it into my mind, that they should do this abomination, to cause Judah to sin.
+> **Jeremiah 32:35** And they built the high places of Baal, which are in the valley of the son of [Hinnom](https://www.blueletterbible.org/lexicon/h2011/kjv/wlc/0-1/){:target="_blank"}, to cause their sons and their daughters to pass through the fire unto Molech; which I commanded them not, neither came it into my mind, that they should do this abomination, to cause Judah to sin.
 
 > **Isaiah 30:33** For Tophet is ordained of old; yea, for the king it is prepared; he hath made it deep and large: the pile thereof is fire and much wood; the breath of the LORD, like a stream of brimstone, doth kindle it.
 

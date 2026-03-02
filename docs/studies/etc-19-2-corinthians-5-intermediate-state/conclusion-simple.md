@@ -70,7 +70,7 @@ Paul is not groaning to escape the body. He is groaning for the body's transform
 
 If a conscious intermediate state were true, several other statements Paul makes would be difficult to explain:
 
-- **1 Corinthians 15:18** -- "Then they also which are fallen asleep in Christ are perished." If the dead in Christ are currently in conscious bliss with Christ, Paul could not describe them as "perished" without resurrection. The word *apollymi* means "destroyed, lost, ruined." This only makes sense if the dead are genuinely dead, not consciously with Christ.
+- **1 Corinthians 15:18** -- "Then they also which are fallen asleep in Christ are perished." If the dead in Christ are currently in conscious bliss with Christ, Paul could not describe them as "perished" without resurrection. The word *[apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}* means "destroyed, lost, ruined." This only makes sense if the dead are genuinely dead, not consciously with Christ.
 
 - **1 Corinthians 15:19** -- "If in this life only we have hope in Christ, we are of all men most miserable." If believers go to conscious bliss at death, hope extends beyond this life even without resurrection. Paul's argument requires that the resurrection is the ONLY hope.
 
@@ -82,7 +82,7 @@ If a conscious intermediate state were true, several other statements Paul makes
 
 Several other passages are sometimes cited alongside 2 Corinthians 5:8:
 
-- **Luke 23:43** ("Today shalt thou be with me in paradise") -- The Greek has no punctuation. The comma before "today" is an editorial insertion. Jesus himself said on Sunday morning, "I am not yet ascended to my Father" (John 20:17), and Peter says Jesus' soul was in hades between death and resurrection (Acts 2:27,31). Jesus was not in paradise on Friday.
+- **Luke 23:43** ("Today shalt thou be with me in paradise") -- The Greek has no punctuation. The comma before "today" is an editorial insertion. Jesus himself said on Sunday morning, "I am not yet ascended to my Father" (John 20:17), and Peter says Jesus' soul was in [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} between death and resurrection (Acts 2:27,31). Jesus was not in paradise on Friday.
 
 - **Luke 16:19-31** (The Rich Man and Lazarus) -- This is a parable within a series of parables (Luke 15-16). Its climax is "They have Moses and the prophets; let them hear them." Parables use culturally familiar imagery to make a point; they are not cosmological blueprints.
 

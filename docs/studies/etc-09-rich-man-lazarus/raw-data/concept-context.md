@@ -6,14 +6,14 @@
 "And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom."
 
 ### Concepts Found
-- **DEATH:** Maveth/thanatos - death, dying (Strong's: G86 = hades/"hell")
+- **DEATH:** [Maveth](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"}/[thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} - death, dying (Strong's: [G86](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} = [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}/"hell")
 
 ### Same Chapter (Luke 16) -- 1 verse
 1. **Luke 16:22** [DEATH] -- "And it came to pass, that the beggar died, and was carried by the angels into Abraham's bosom: the rich man also died, and was buried;"
 
 ### Same Book (Luke) -- 18 verses (top 10)
 1. **Luke 1:79** [DEATH] -- "To give light to them that sit in darkness and [in] the shadow of death"
-2. **Luke 10:15** [DEATH] -- "shalt be thrust down to hell" (another Lukan hades passage)
+2. **Luke 10:15** [DEATH] -- "shalt be thrust down to hell" (another Lukan [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} passage)
 3. **Luke 2:26** [DEATH] -- "should not see death, before he had seen the Lord's Christ"
 4. **Luke 20:28-32** [DEATH] -- levirate marriage discussion involving death
 5. **Luke 20:36** [DEATH] -- "Neither can they die any more: for they are equal unto the angels"
@@ -22,11 +22,11 @@
 ### Same Author (Luke-Acts) -- 13 verses (top highlights)
 1. **Acts 13:28** [DEATH] -- "found no cause of death [in him]"
 2. **Acts 2:24** [DEATH] -- "God hath raised up, having loosed the pains of death"
-3. **Acts 2:27** [DEATH] -- "thou wilt not leave my soul in hell [hades]" (KEY: same author uses hades in didactic context of resurrection)
+3. **Acts 2:27** [DEATH] -- "thou wilt not leave my soul in hell [hades]" (KEY: same author uses [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} in didactic context of resurrection)
 4. **Acts 2:31** [DEATH] -- "his soul was not left in hell [hades]" (KEY: same author, didactic, resurrection context)
 
 ### Key Observation
-The concept_context tool connects Luke 16:23 to Acts 2:27,31 through the shared concept of DEATH (hades). This is same-author evidence: Luke uses hades in Luke 16:23 (parabolic narrative) and in Acts 2:27,31 (Peter's didactic speech about Christ's resurrection from the dead). The Acts passages use hades as the temporary state from which Christ was raised -- not as a place of conscious torment.
+The concept_context tool connects Luke 16:23 to Acts 2:27,31 through the shared concept of DEATH ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}). This is same-author evidence: Luke uses [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} in Luke 16:23 (parabolic narrative) and in Acts 2:27,31 (Peter's didactic speech about Christ's resurrection from the dead). The Acts passages use [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} as the temporary state from which Christ was raised -- not as a place of conscious torment.
 
 ---
 
@@ -38,8 +38,8 @@ The concept_context tool connects Luke 16:23 to Acts 2:27,31 through the shared 
 ### Concepts Found
 - **OBEDIENCE:** Shama/hypakouo - hear, obey, listen (Strong's: G191)
 - **PROPHET:** Nabi/prophetes - spokesman, prophet (Strong's: G4396)
-- **FAITH:** Emunah/pistis - trust, belief, faithfulness (Strong's: G3982 = "persuaded")
-- **RESURRECTION:** Qum/anastasis - rising, standing up (Strong's: G450 = "rose")
+- **FAITH:** Emunah/pistis - trust, belief, faithfulness (Strong's: [G3982](https://www.blueletterbible.org/lexicon/g3982/kjv/tr/0-1/){:target="_blank"} = "persuaded")
+- **RESURRECTION:** Qum/[anastasis](https://www.blueletterbible.org/lexicon/g386/kjv/tr/0-1/){:target="_blank"} - rising, standing up (Strong's: [G450](https://www.blueletterbible.org/lexicon/g450/kjv/tr/0-1/){:target="_blank"} = "rose")
 
 ### Same Chapter (Luke 16) -- 7 verses
 1. **Luke 16:29** [OBEDIENCE, PROPHET] -- "They have Moses and the prophets; let them hear them." (DIRECT PARALLEL: same teaching point stated twice)

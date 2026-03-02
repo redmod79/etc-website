@@ -1,7 +1,7 @@
 # Topics Research
 
 ## Question
-Greek aionios (G166) -- all 71 NT occurrences. Compare aidios (G126). "Eis tous aionas ton aionon" in ~20 passages. LXX usage. Does aionios inherently mean "eternal/endless" or does it mean "pertaining to the age" with duration determined by the nature of the subject?
+Greek [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} (G166) -- all 71 NT occurrences. Compare aidios (G126). "Eis tous aionas ton aionon" in ~20 passages. LXX usage. Does [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} inherently mean "eternal/endless" or does it mean "pertaining to the age" with duration determined by the nature of the subject?
 
 ## Topics
 
@@ -25,16 +25,16 @@ Greek aionios (G166) -- all 71 NT occurrences. Compare aidios (G126). "Eis tous 
 - Fire of the destruction of the wicked: Mat 13:42,50; 25:41; Mk 9:44; Rev 9:2; 21:8
 - Fire as judgment: Deu 4:24; 32:22; Isa 33:14; Jer 23:29; Amo 1:4,7,10,12,14; 2:2; Mal 3:2; Lk 12:49; Rev 20:9
 
-## Usage Categories for Aionios (G166)
+## Usage Categories for [Aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} (G166)
 
-### Category A: Aionios Applied to God and His Nature
-- Rom 1:20 (NOTE: uses aidios G126, not aionios -- but relevant for comparison)
+### Category A: [Aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} Applied to God and His Nature
+- Rom 1:20 (NOTE: uses aidios [G126](https://www.blueletterbible.org/lexicon/g126/kjv/tr/0-1/){:target="_blank"}, not [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} -- but relevant for comparison)
 - Rom 16:26 ("the everlasting God")
 - 1 Pet 5:10 ("the God of all grace... hath called you unto his eternal glory")
 - 2 Pet 1:11 ("the everlasting kingdom of our Lord")
 
-### Category B: Aionios Applied to Life/Salvation (~42 occurrences)
-The largest category. "Eternal life" (zoe aionios) is the single most common phrase using aionios.
+### Category B: [Aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} Applied to Life/Salvation (~42 occurrences)
+The largest category. "Eternal life" ([zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}) is the single most common phrase using [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}.
 - Mat 19:16,29; 25:46; Mk 10:17,30; Lk 10:25; 18:18,30
 - Jn 3:15,16,36; 4:14,36; 5:24,39; 6:27,40,47,54,68; 10:28; 12:25,50; 17:2,3
 - Act 13:46,48; Rom 2:7; 5:21; 6:22,23; Gal 6:8; 1 Tim 1:16; 6:12,19; Tit 1:2; 3:7
@@ -43,7 +43,7 @@ The largest category. "Eternal life" (zoe aionios) is the single most common phr
 - 2 Cor 4:17; 2 Tim 2:10; 1 Pet 5:10 ("eternal glory")
 - 2 Cor 5:1 ("eternal in the heavens"); 2 Th 2:16 ("everlasting consolation")
 
-### Category C: Aionios Applied to Punishment/Judgment (~7 occurrences)
+### Category C: [Aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} Applied to Punishment/Judgment (~7 occurrences)
 - Mat 18:8 ("everlasting fire")
 - Mat 25:41 ("everlasting fire, prepared for the devil and his angels")
 - Mat 25:46 ("everlasting punishment")
@@ -52,12 +52,12 @@ The largest category. "Eternal life" (zoe aionios) is the single most common phr
 - Heb 6:2 ("eternal judgment")
 - Jude 1:7 ("the vengeance of eternal fire" -- applied to Sodom)
 
-### Category D: Aionios Applied to Past Time (3 occurrences)
-- Rom 16:25 ("since the world began" -- literally "in aionios times")
-- 2 Tim 1:9 ("before the world began" -- literally "before aionios times")
-- Tit 1:2 ("before the world began" -- literally "before aionios times")
+### Category D: [Aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} Applied to Past Time (3 occurrences)
+- Rom 16:25 ("since the world began" -- literally "in [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} times")
+- 2 Tim 1:9 ("before the world began" -- literally "before [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} times")
+- Tit 1:2 ("before the world began" -- literally "before [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} times")
 
-### Category E: Aionios Applied to Other Subjects
+### Category E: [Aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} Applied to Other Subjects
 - Lk 16:9 ("everlasting habitations")
 - 2 Cor 4:18 ("things which are not seen are eternal")
 - Heb 9:14 ("through the eternal Spirit")

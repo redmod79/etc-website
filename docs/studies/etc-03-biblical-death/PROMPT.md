@@ -15,7 +15,7 @@
 
 ## Study Question
 
-What does "death" mean in the Bible? Is death cessation of existence, separation of soul from body, or separation from God? Examine the Hebrew words maveth (H4194, noun, 160+ occurrences) and mut (H4191, verb, 835+ occurrences), and the Greek words thanatos (G2288, noun, 119 occurrences) and apothnesko (G599, verb, 112 occurrences). Trace the origin of death (Gen 2-3), the nature and meaning of physical death, spiritual death, and the second death (Rev 2:11; 20:6, 14; 21:8).
+What does "death" mean in the Bible? Is death cessation of existence, separation of soul from body, or separation from God? Examine the Hebrew words [maveth](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"} (H4194, noun, 160+ occurrences) and mut (H4191, verb, 835+ occurrences), and the Greek words [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (G2288, noun, 119 occurrences) and [apothnesko](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} (G599, verb, 112 occurrences). Trace the origin of death (Gen 2-3), the nature and meaning of physical death, spiritual death, and the second death (Rev 2:11; 20:6, 14; 21:8).
 
 ## Workflow
 
@@ -88,7 +88,7 @@ This is study etc-03 in the "Final Fate of the Wicked" series.
 | Verse | Topic | Tool Source |
 |-------|-------|-------------|
 | Rom 5:12 | By one man sin entered, and death by sin; death passed upon all men | Nave's DEATH; semantic search; master E066 (etc-02) |
-| Rom 5:14,17,21 | Death reigned from Adam to Moses; by grace life reigns | Nave's DEATH; G2288 lexicon |
+| Rom 5:14,17,21 | Death reigned from Adam to Moses; by grace life reigns | Nave's DEATH; [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} lexicon |
 | Rom 6:23 | Wages of sin is death; gift of God is eternal life | Nave's DEATH (second); master E087 |
 | 1 Cor 15:21-22 | By man came death; in Adam all die, in Christ all made alive | Nave's DEATH; master E066 |
 | 1 Cor 15:26 | The last enemy that shall be destroyed is death | Nave's DEATH; master E065 |
@@ -115,9 +115,9 @@ This is study etc-03 in the "Final Fate of the Wicked" series.
 | Verse | Topic | Tool Source |
 |-------|-------|-------------|
 | Luke 1:79 | "To give light to them that sit in darkness and in the shadow of death" | Nave's DEATH (spiritual) |
-| John 5:24-26 | "Passed from death unto life... the dead shall hear the voice" | Nave's DEATH (spiritual); G2288 lexicon |
-| John 6:50-53 | "Eat of this bread and not die... except ye eat, no life in you" | Nave's DEATH (spiritual); G599 lexicon |
-| John 11:26 | "Whosoever liveth and believeth in me shall never die" | Nave's DEATH (spiritual); G599 lexicon |
+| John 5:24-26 | "Passed from death unto life... the dead shall hear the voice" | Nave's DEATH (spiritual); [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} lexicon |
+| John 6:50-53 | "Eat of this bread and not die... except ye eat, no life in you" | Nave's DEATH (spiritual); [G599](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} lexicon |
+| John 11:26 | "Whosoever liveth and believeth in me shall never die" | Nave's DEATH (spiritual); [G599](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} lexicon |
 | Rom 5:12,15 | "Death by sin... through the offence of one many be dead" | Nave's DEATH (spiritual) |
 | Rom 7:11 | "Sin, taking occasion by the commandment, deceived me and slew me" | Nave's DEATH (spiritual) |
 | Rom 8:5-6,13 | "To be carnally minded is death... if ye live after the flesh, ye shall die" | Nave's DEATH (spiritual) |
@@ -126,16 +126,16 @@ This is study etc-03 in the "Final Fate of the Wicked" series.
 | Col 2:13 | "You, being dead in your sins... hath he quickened together" | Nave's DEATH (spiritual) |
 | 1 Tim 5:6 | "She that liveth in pleasure is dead while she liveth" | Nave's DEATH (spiritual) |
 | 1 Pet 2:24 | "Being dead to sins, should live unto righteousness" | Nave's DEATH (spiritual) |
-| 1 John 3:14 | "He that loveth not his brother abideth in death" | G2288 lexicon |
+| 1 John 3:14 | "He that loveth not his brother abideth in death" | [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} lexicon |
 | 1 John 5:12 | "He that hath the Son hath life; he that hath not the Son hath not life" | Nave's DEATH (spiritual); master E096 |
 
 ### F. The Second Death
 | Verse | Topic | Tool Source |
 |-------|-------|-------------|
-| Rev 2:11 | "He that overcometh shall not be hurt of the second death" | Nave's DEATH (second); SECOND DEATH; G2288 lexicon |
-| Rev 20:6 | "On such the second death hath no power" | G2288 lexicon |
+| Rev 2:11 | "He that overcometh shall not be hurt of the second death" | Nave's DEATH (second); SECOND DEATH; [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} lexicon |
+| Rev 20:6 | "On such the second death hath no power" | [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} lexicon |
 | Rev 20:14 | "Death and hell were cast into the lake of fire. This is the second death" | Nave's SECOND DEATH; Nave's DEATH (second); semantic search |
-| Rev 21:8 | "The fearful... shall have their part in the lake of fire... which is the second death" | Nave's DEATH (second); G2288 lexicon |
+| Rev 21:8 | "The fearful... shall have their part in the lake of fire... which is the second death" | Nave's DEATH (second); [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} lexicon |
 | Rev 19:20 | Beast and false prophet cast alive into the lake of fire | Nave's DEATH (second) |
 | Rev 20:10 | Devil cast into lake of fire and brimstone | Semantic search |
 | Prov 14:12 | "There is a way which seemeth right... the end thereof are the ways of death" | Nave's DEATH (second) |
@@ -143,18 +143,18 @@ This is study etc-03 in the "Final Fate of the Wicked" series.
 | Matt 10:28 | "Fear him which is able to destroy both soul and body in hell" | Nave's DEATH (second); master E028 |
 | Matt 25:41,46 | "Depart from me... everlasting fire... everlasting punishment" | Nave's DEATH (second) |
 | Mark 9:43-44 | "Fire that never shall be quenched; where their worm dieth not" | Nave's DEATH (second) |
-| Rom 1:32 | "They which commit such things are worthy of death" | Nave's DEATH (second); G2288 lexicon |
+| Rom 1:32 | "They which commit such things are worthy of death" | Nave's DEATH (second); [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} lexicon |
 | Rom 6:16,21,23 | "Sin unto death... wages of sin is death" | Nave's DEATH (second); master E087 |
 | Rom 8:13 | "If ye live after the flesh, ye shall die" | Nave's DEATH (second) |
 | 2 Thess 1:9 | "Punished with everlasting destruction from the presence of the Lord" | Nave's DEATH (second); master E090 |
-| James 1:15 | "Sin, when it is finished, bringeth forth death" | Nave's DEATH (second); G2288 lexicon |
+| James 1:15 | "Sin, when it is finished, bringeth forth death" | Nave's DEATH (second); [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} lexicon |
 | 2 Pet 2:12 | "As natural brute beasts... shall utterly perish in their own corruption" | Nave's DEATH (second); master E095 |
 
 ### G. Death Figurative of Regeneration
 | Verse | Topic | Tool Source |
 |-------|-------|-------------|
-| Rom 6:2-11 | "Dead to sin... buried with him by baptism into death" | Nave's DEATH (figurative); G2288 lexicon |
-| Col 2:20 | "If ye be dead with Christ from the rudiments of the world" | Nave's DEATH (figurative); G599 lexicon |
+| Rom 6:2-11 | "Dead to sin... buried with him by baptism into death" | Nave's DEATH (figurative); [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} lexicon |
+| Col 2:20 | "If ye be dead with Christ from the rudiments of the world" | Nave's DEATH (figurative); [G599](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} lexicon |
 
 ### H. Key Additional Death Passages
 | Verse | Topic | Tool Source |
@@ -164,12 +164,12 @@ This is study etc-03 in the "Final Fate of the Wicked" series.
 | Ps 68:20 | "Unto GOD the Lord belong the issues from death" | Nave's DEATH (unclassified); master E099 |
 | Ps 89:48 | "What man is he that liveth and shall not see death?" | Nave's DEATH (unclassified) |
 | Ps 90:3 | "Thou turnest man to destruction; and sayest, Return, ye children of men" | Nave's DEATH (unclassified) |
-| Ps 49:7-9,15 | "None of them can by any means redeem his brother... God will redeem my soul from sheol" | Nave's DEAD; master E067-E068 |
+| Ps 49:7-9,15 | "None of them can by any means redeem his brother... God will redeem my soul from [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}" | Nave's DEAD; master E067-E068 |
 | Hos 13:14 | "O death, I will be thy plagues; O grave, I will be thy destruction" | Nave's DEATH (apostrophe) |
-| Rev 1:18 | "I am he that liveth, and was dead... and have the keys of hell and of death" | Nave's DEATH; G2288 lexicon |
-| Rev 6:8 | "His name that sat on him was Death, and Hell followed with him" | Nave's DEATH (symbolized); G2288 lexicon |
+| Rev 1:18 | "I am he that liveth, and was dead... and have the keys of hell and of death" | Nave's DEATH; [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} lexicon |
+| Rev 6:8 | "His name that sat on him was Death, and Hell followed with him" | Nave's DEATH (symbolized); [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} lexicon |
 | Rev 21:4 | "There shall be no more death, neither sorrow, nor crying" | Nave's DEATH; semantic search |
-| Matt 10:21 | "Brother shall deliver up the brother to death" | G2288 lexicon |
+| Matt 10:21 | "Brother shall deliver up the brother to death" | [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} lexicon |
 | Deut 30:15,19 | "I have set before thee this day life and good, and death and evil... choose life" | Nave's DEPRAVITY; semantic search |
 
 ---
@@ -179,32 +179,32 @@ This is study etc-03 in the "Final Fate of the Wicked" series.
 ### Primary Hebrew words:
 | Number | Word | Transliteration | Occurrences | Definition |
 |--------|------|-----------------|-------------|------------|
-| H4194 | מָוֶת | maveth | 160 | Death (natural or violent); concretely, the dead, their place or state (hades); figuratively, pestilence, ruin |
-| H4191 | מוּת | mut | 835 | Verb: to die (literally or figuratively); causatively, to kill |
+| [H4194](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"} | [מָוֶת](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"} | [maveth](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"} | 160 | Death (natural or violent); concretely, the dead, their place or state (hades); figuratively, pestilence, ruin |
+| [H4191](https://www.blueletterbible.org/lexicon/h4191/kjv/wlc/0-1/){:target="_blank"} | מוּת | mut | 835 | Verb: to die (literally or figuratively); causatively, to kill |
 
 ### Primary Greek words:
 | Number | Word | Transliteration | Occurrences | Definition |
 |--------|------|-----------------|-------------|------------|
-| G2288 | θάνατος | thanatos | 119 | Death (literally or figuratively); from thnesko (to die) |
-| G599 | ἀποθνήσκω | apothnesko | 112 | Verb: to die off (literally or figuratively) |
+| [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} | [θάνατος](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} | [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} | 119 | Death (literally or figuratively); from thnesko (to die) |
+| [G599](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} | [ἀποθνήσκω](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} | [apothnesko](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} | 112 | Verb: to die off (literally or figuratively) |
 
 ### Additional death-related words found by tool searches:
 | Number | Word | Transliteration | Occurrences | Definition |
 |--------|------|-----------------|-------------|------------|
-| H4463 | מָמוֹת | mamowth | 3 | A mortal disease; concretely, a corpse |
-| H8546 | תְּמוּתָה | temuwthah | 2 | Execution (as a doom) |
-| G2289 | θανατόω | thanatoo | 11 | To kill (literally or figuratively); to put to death |
-| G3500 | νέκρωσις | nekrosis | 2 | Decease; figuratively, impotency: deadness, dying |
-| G3498 | νεκρός | nekros | 132 | Dead (literally or figuratively); a corpse |
-| G5053 | τελευτάω | teleutao | 11 | To finish life; to die |
-| G5054 | τελευτή | teleute | 1 | Decease; death |
-| G2349 | θνητός | thnetos | 6 | Liable to die; mortal |
-| G4880 | συναποθνήσκω | synapothnesko | 3 | To die together with |
-| G1935 | ἐπιθανάτιος | epithanatios | 1 | Doomed to death |
+| [H4463](https://www.blueletterbible.org/lexicon/h4463/kjv/wlc/0-1/){:target="_blank"} | מָמוֹת | mamowth | 3 | A mortal disease; concretely, a corpse |
+| [H8546](https://www.blueletterbible.org/lexicon/h8546/kjv/wlc/0-1/){:target="_blank"} | תְּמוּתָה | temuwthah | 2 | Execution (as a doom) |
+| [G2289](https://www.blueletterbible.org/lexicon/g2289/kjv/tr/0-1/){:target="_blank"} | θανατόω | [thanatoo](https://www.blueletterbible.org/lexicon/g2289/kjv/tr/0-1/){:target="_blank"} | 11 | To kill (literally or figuratively); to put to death |
+| [G3500](https://www.blueletterbible.org/lexicon/g3500/kjv/tr/0-1/){:target="_blank"} | νέκρωσις | [nekrosis](https://www.blueletterbible.org/lexicon/g3500/kjv/tr/0-1/){:target="_blank"} | 2 | Decease; figuratively, impotency: deadness, dying |
+| [G3498](https://www.blueletterbible.org/lexicon/g3498/kjv/tr/0-1/){:target="_blank"} | [νεκρός](https://www.blueletterbible.org/lexicon/g3498/kjv/tr/0-1/){:target="_blank"} | [nekros](https://www.blueletterbible.org/lexicon/g3498/kjv/tr/0-1/){:target="_blank"} | 132 | Dead (literally or figuratively); a corpse |
+| [G5053](https://www.blueletterbible.org/lexicon/g5053/kjv/tr/0-1/){:target="_blank"} | τελευτάω | teleutao | 11 | To finish life; to die |
+| [G5054](https://www.blueletterbible.org/lexicon/g5054/kjv/tr/0-1/){:target="_blank"} | τελευτή | teleute | 1 | Decease; death |
+| [G2349](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} | [θνητός](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} | [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} | 6 | Liable to die; mortal |
+| [G4880](https://www.blueletterbible.org/lexicon/g4880/kjv/tr/0-1/){:target="_blank"} | συναποθνήσκω | synapothnesko | 3 | To die together with |
+| [G1935](https://www.blueletterbible.org/lexicon/g1935/kjv/tr/0-1/){:target="_blank"} | ἐπιθανάτιος | epithanatios | 1 | Doomed to death |
 
 ### LXX Mappings (from --lxx-map):
-- **H4194 (maveth)** maps to: G2288 thanatos (97x, score 27.43), G5054 teleute (8x), G86 hades (17x), G599 apothnesko (35x), G2222 zoe (12x -- in life/death contrast), G5590 psyche (17x -- death of the nephesh/psyche)
-- **H4191 (mut)** maps to: G599 apothnesko (366x, score 28.53), G2289 thanatoo (121x), G5053 teleutao (62x), G2348 thnesko (52x), G2288 thanatos (84x), G3498 nekros (27x), G615 apokteino (48x)
+- **[H4194](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"} (maveth)** maps to: [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (97x, score 27.43), [G5054](https://www.blueletterbible.org/lexicon/g5054/kjv/tr/0-1/){:target="_blank"} teleute (8x), [G86](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (17x), [G599](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} [apothnesko](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} (35x), [G2222](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} (12x -- in life/death contrast), [G5590](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} (17x -- death of the nephesh/psyche)
+- **[H4191](https://www.blueletterbible.org/lexicon/h4191/kjv/wlc/0-1/){:target="_blank"} (mut)** maps to: [G599](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} [apothnesko](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} (366x, score 28.53), [G2289](https://www.blueletterbible.org/lexicon/g2289/kjv/tr/0-1/){:target="_blank"} [thanatoo](https://www.blueletterbible.org/lexicon/g2289/kjv/tr/0-1/){:target="_blank"} (121x), [G5053](https://www.blueletterbible.org/lexicon/g5053/kjv/tr/0-1/){:target="_blank"} teleutao (62x), [G2348](https://www.blueletterbible.org/lexicon/g2348/kjv/tr/0-1/){:target="_blank"} thnesko (52x), [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (84x), [G3498](https://www.blueletterbible.org/lexicon/g3498/kjv/tr/0-1/){:target="_blank"} [nekros](https://www.blueletterbible.org/lexicon/g3498/kjv/tr/0-1/){:target="_blank"} (27x), [G615](https://www.blueletterbible.org/lexicon/g615/kjv/tr/0-1/){:target="_blank"} [apokteino](https://www.blueletterbible.org/lexicon/g615/kjv/tr/0-1/){:target="_blank"} (48x)
 
 ---
 
@@ -233,16 +233,16 @@ Investigate these questions using the verses and word studies above:
 ### 4. The Second Death
 - What is the "second death" (Rev 2:11; 20:6,14; 21:8)?
 - The phrase occurs only in Revelation -- what does the text explicitly say about it?
-- Rev 20:14 says "death and hell (hades) were cast into the lake of fire. This is the second death." What does this identify?
+- Rev 20:14 says "death and hell ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}) were cast into the lake of fire. This is the second death." What does this identify?
 - What OT/NT passages does Nave's classify under "second death"? (Prov 14:12; Ezek 18:4; Matt 10:28; 25:41,46; Rom 6:23; 2 Thess 1:9; 2 Pet 2:12; etc.)
 - Is the "second death" cessation, ongoing torment, or permanent separation? What does the text state vs. what is inferred?
 
 ### 5. Death Vocabulary Analysis
-- What is the semantic range of maveth (H4194) across its 160 OT occurrences?
+- What is the semantic range of [maveth](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"} (H4194) across its 160 OT occurrences?
 - What is the semantic range of mut (H4191) across its 835 OT occurrences?
-- What is the semantic range of thanatos (G2288) across its 119 NT occurrences?
-- What is the semantic range of apothnesko (G599) across its 112 NT occurrences?
-- How does the LXX translate maveth and mut? Do the Greek translations reveal anything about how the Jews understood death?
+- What is the semantic range of [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (G2288) across its 119 NT occurrences?
+- What is the semantic range of [apothnesko](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} (G599) across its 112 NT occurrences?
+- How does the LXX translate [maveth](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"} and mut? Do the Greek translations reveal anything about how the Jews understood death?
 - Does the Bible ever define death as "separation of soul from body"? If so, cite the verse. If not, note this absence.
 - Does the Bible ever define death as "separation from God"? If so, cite the verse. If not, note this absence.
 
@@ -272,7 +272,7 @@ Write all output to: D:/Bible/bible-studies/etc-03-biblical-death/
 1. **01-topics.md** -- Full Nave's topic entries retrieved
 2. **02-verses.md** -- All verse texts with hybrid-ot/hybrid-nt results
 3. **03-analysis.md** -- Verse-by-verse analysis organized by section
-4. **04-word-studies.md** -- Complete word studies for H4194, H4191, G2288, G599 (and related terms)
+4. **04-word-studies.md** -- Complete word studies for [H4194](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"}, [H4191](https://www.blueletterbible.org/lexicon/h4191/kjv/wlc/0-1/){:target="_blank"}, [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}, [G599](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} (and related terms)
 5. **CONCLUSION.md** -- Full evidence classification per etc-series-methodology.md, including:
    - Explicit Statements table (with positional classification and Tree 3 applications)
    - Necessary Implications table (with N-tier tests)

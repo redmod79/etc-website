@@ -22,7 +22,7 @@ Historical investigation: What are the historical channels through which the doc
 > Which in his times he shall shew, who is the blessed and only Potentate, the King of kings, and Lord of lords;
 > Who only hath immortality, dwelling in the light which no man can approach unto; whom no man hath seen, nor can see: to whom be honour and power everlasting. Amen.
 
-**Relevance:** God ONLY (monos) has immortality (athanasia). If the soul were inherently immortal, this statement would be false.
+**Relevance:** God ONLY (monos) has immortality ([athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"}). If the soul were inherently immortal, this statement would be false.
 
 ### 1 Corinthians 15:50-54
 > Now this I say, brethren, that flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption.

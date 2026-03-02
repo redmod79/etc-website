@@ -18,7 +18,7 @@ Rev 20:14 makes a direct identification: "And death and hell were cast into the 
 
 Rev 21:8 repeats this identification for human sinners specifically: "But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: **which is the second death.**"
 
-The text's own chosen word for what the lake of fire does is *death* — not *torment*. The Bible uses the Greek word *thanatos* (death) to define the lake, not *basanizo* (torment). This is the text's own label for its own concept, and that label is "the second death."
+The text's own chosen word for what the lake of fire does is *death* — not *torment*. The Bible uses the Greek word *[thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}* (death) to define the lake, not *[basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}* (torment). This is the text's own label for its own concept, and that label is "the second death."
 
 The phrase "lake of fire" appears only in Revelation, five times (Rev 19:20; 20:10; 20:14; 20:15; 21:8). The phrase "second death" appears only in Revelation, four times (Rev 2:11; 20:6; 20:14; 21:8). Neither phrase appears anywhere else in the Bible.
 
@@ -28,7 +28,7 @@ Not everyone who enters the lake of fire is described the same way. The text use
 
 - **The beast and false prophet** (symbolic entities) are cast "alive" into the lake (Rev 19:20).
 - **The devil** (a non-human supernatural being) is "tormented day and night for ever and ever" in the lake (Rev 20:10).
-- **Death and hades** (personified conditions) are cast into the lake, and the result is "no more death" (Rev 21:4).
+- **Death and [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}** (personified conditions) are cast into the lake, and the result is "no more death" (Rev 21:4).
 - **Human beings not found in the book of life** are cast into the lake (Rev 20:15) — with no torment formula attached.
 - **Eight categories of human wicked** face "the lake which burneth with fire and brimstone: which is the second death" (Rev 21:8) — again identified as "the second death," not as "torment."
 
@@ -46,7 +46,7 @@ Rev 20:6 adds: "the second death hath no power" over those in the first resurrec
 
 ### 4. The Destruction of Death Itself
 
-When death and hades are cast into the lake of fire (Rev 20:14), the result is that death itself is destroyed. Rev 21:4, appearing immediately afterward, announces: "there shall be no more death."
+When death and [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} are cast into the lake of fire (Rev 20:14), the result is that death itself is destroyed. Rev 21:4, appearing immediately afterward, announces: "there shall be no more death."
 
 This is not an isolated statement. A consistent thread of Scripture speaks of death being destroyed:
 
@@ -60,7 +60,7 @@ The lake of fire is not just the destination of the wicked — it is also the pl
 
 ### 5. What the Rest of the Bible Says About the Penalty for Sin
 
-Rom 6:23 states: "the wages of sin is death." The word used is *thanatos* — the same word as in "second death." The penalty for sin, taught plainly in a doctrinal letter, is death. This connects directly to the lake of fire, which the text calls "the second death" using that same word.
+Rom 6:23 states: "the wages of sin is death." The word used is *[thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}* — the same word as in "second death." The penalty for sin, taught plainly in a doctrinal letter, is death. This connects directly to the lake of fire, which the text calls "the second death" using that same word.
 
 Matt 25:41 adds that the everlasting fire was "prepared for the devil and his angels" — its primary designation is for non-human supernatural beings, not for human beings as its first purpose.
 
@@ -80,7 +80,7 @@ The "death as separation from God" reading — a common way of softening eternal
 
 - The text does not say the second death means eternal conscious torment for human beings. The torment formula in the passage is applied to non-human/symbolic entities.
 - The text does not say the second death means separation from God. No verse defines it that way.
-- The text does not say that the lake of fire, hades, gehenna, and sheol are all the same place. Hades is explicitly cast *into* the lake of fire (Rev 20:14) — they are distinct.
+- The text does not say that the lake of fire, [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}, [gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"}, and [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} are all the same place. [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} is explicitly cast *into* the lake of fire (Rev 20:14) — they are distinct.
 - The lake of fire does not appear anywhere outside Revelation. It is part of Revelation's distinctive imagery.
 
 ---

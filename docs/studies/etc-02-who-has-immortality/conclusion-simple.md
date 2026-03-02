@@ -16,7 +16,7 @@ Consistent with this, Romans 1:23 places God and man on opposite sides of a dire
 
 ### 2. Humans Are Mortal, Not Immortal
 
-The New Testament repeatedly describes the human body and human flesh as "mortal" (*thnetos*). Paul writes of "your mortal body" (Rom 6:12), "your mortal bodies" (Rom 8:11), "our mortal flesh" (2 Cor 4:11), and "mortality" being swallowed up by life (2 Cor 5:4). Job 4:17–20 asks: "Shall mortal man be more just than God? ...Man dwells in houses of clay...they are destroyed and perish forever."
+The New Testament repeatedly describes the human body and human flesh as "mortal" (*[thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"}*). Paul writes of "your mortal body" (Rom 6:12), "your mortal bodies" (Rom 8:11), "our mortal flesh" (2 Cor 4:11), and "mortality" being swallowed up by life (2 Cor 5:4). Job 4:17–20 asks: "Shall mortal man be more just than God? ...Man dwells in houses of clay...they are destroyed and perish forever."
 
 No New Testament verse ever calls the human soul immortal, incorruptible, or undying. The phrase "immortal soul" does not appear anywhere in Scripture. The closest any verse comes to the subject is Matthew 10:28 — but that verse says the *opposite*: God is able to "destroy both soul and body in hell." And Ezekiel 18:4 states plainly, "the soul that sinneth, it shall die."
 

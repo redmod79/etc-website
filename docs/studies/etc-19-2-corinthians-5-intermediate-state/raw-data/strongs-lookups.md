@@ -2,7 +2,7 @@
 
 ## Core Clothing Metaphor Vocabulary
 
-### G1746 - endyO (to put on / clothe)
+### [G1746](https://www.blueletterbible.org/lexicon/g1746/kjv/tr/0-1/){:target="_blank"} - endyO (to put on / clothe)
 **Lexicon:**
 - Transliteration: endyO
 - Pronunciation: en-doo
@@ -12,7 +12,7 @@
 - 31 total occurrences, 19 unique translations
 - Top translations: "on" (4x, 12.9%), "clothed" (3x, 9.7%), "put on" (3x, 9.7%)
 
-### G1902 - ependyomai (to clothe upon / put on over)
+### [G1902](https://www.blueletterbible.org/lexicon/g1902/kjv/tr/0-1/){:target="_blank"} - ependyomai (to clothe upon / put on over)
 **Lexicon:**
 - Transliteration: ependyomai
 - Pronunciation: ep-en-doo
@@ -25,9 +25,9 @@
 
 **BLB Extended (Thayer's):** "to put on over" -- cites parallels in Plutarch and Josephus
 
-**Verses:** G1902 translated "clothed upon": 2 Cor 5:4
+**Verses:** [G1902](https://www.blueletterbible.org/lexicon/g1902/kjv/tr/0-1/){:target="_blank"} translated "clothed upon": 2 Cor 5:4
 
-### G1562 - ekdyO (to strip off / unclothe)
+### [G1562](https://www.blueletterbible.org/lexicon/g1562/kjv/tr/0-1/){:target="_blank"} - ekdyO (to strip off / unclothe)
 **Lexicon:**
 - Transliteration: ekdyO
 - Pronunciation: ek-doo
@@ -37,7 +37,7 @@
 - Occurrences: Mat 27:28; 27:31; Mrk 15:20; Luk 10:30; 2 Cor 5:3; 5:4
 - 7 total occurrences, 7 translations: "they stripped" (1x), "they took" (1x), "off" (1x), "they took off" (1x), "stripped" (1x), "of his raiment" (1x), "be unclothed" (1x)
 
-### G1131 - gymnos (naked)
+### [G1131](https://www.blueletterbible.org/lexicon/g1131/kjv/tr/0-1/){:target="_blank"} - gymnos (naked)
 **Lexicon:**
 - Transliteration: gymnos
 - Pronunciation: goom-nos
@@ -49,9 +49,9 @@
 
 ## Dwelling/Tent Vocabulary
 
-### G4636 - skEnos (tent/tabernacle as body)
+### [G4636](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"} - [skEnos](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"} (tent/tabernacle as body)
 **Lexicon:**
-- Transliteration: skEnos
+- Transliteration: [skEnos](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"}
 - Pronunciation: skay-nos
 - POS: neuter noun
 - BLB Count: 2 (only in 2 Cor 5:1 and 5:4)
@@ -60,30 +60,30 @@
 
 **BLB Extended (Thayer's):** The term appears in philosophical literature comparing the human body to a tent that the soul inhabits and which "is taken down at death," emphasizing the transient nature of physical existence.
 
-**Verses:** G4636 translated "tabernacle": 2 Cor 5:1; 2 Cor 5:4
+**Verses:** [G4636](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"} translated "tabernacle": 2 Cor 5:1; 2 Cor 5:4
 
-### G4633 - skEnE (tabernacle/tent)
+### [G4633](https://www.blueletterbible.org/lexicon/g4633/kjv/tr/0-1/){:target="_blank"} - skEnE (tabernacle/tent)
 **Lexicon:**
 - Transliteration: skEnE
 - Pronunciation: skay-nay
 - POS: feminine noun
 - BLB Count: 20
-- Definition: apparently akin to skenos; a tent or cloth hut (literally or figuratively)
+- Definition: apparently akin to [skenos](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"}; a tent or cloth hut (literally or figuratively)
 - Occurrences: Ezra 2:11; Isa 16:5; Amos 5:26; 9:11; Mat 17:4; Mrk 9:5; Luk 9:33; 16:9; Act 7:43,44; 15:16; Heb 8:2,5; 9:1,2,3,6,8,11; 11:9; 13:10; Rev 13:6; 15:5; 21:3
 - 20 total occurrences: "tabernacle" (13x, 65%), "tabernacles" (4x, 20%), "habitations" (1x), "a tabernacle" (1x)
 
-### G4638 - skEnOma (tabernacle/dwelling)
+### [G4638](https://www.blueletterbible.org/lexicon/g4638/kjv/tr/0-1/){:target="_blank"} - [skEnOma](https://www.blueletterbible.org/lexicon/g4638/kjv/tr/0-1/){:target="_blank"} (tabernacle/dwelling)
 **Lexicon:**
-- Transliteration: skEnOma
+- Transliteration: [skEnOma](https://www.blueletterbible.org/lexicon/g4638/kjv/tr/0-1/){:target="_blank"}
 - Pronunciation: skay-no-mah
 - POS: neuter noun
 - BLB Count: 3
-- Definition: from skEnos; an encampment, i.e. (figuratively) the Temple (as God's residence), the human body (as a transient dwelling)
+- Definition: from [skEnos](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"}; an encampment, i.e. (figuratively) the Temple (as God's residence), the human body (as a transient dwelling)
 - Occurrences (NT): Act 7:46; 2 Cor 5:2 [note: N1904 has oikEtErion here]; 2 Pe 1:13,14(15)
 - OT refs: 1 Ki 2:28; Pss 14:1; 15:1; 25:8; 26:8; 42:3; 43:3; 45:5; 46:5
 - 3 total occurrences: "tabernacle" (2x, 66.7%), "a tabernacle" (1x, 33.3%)
 
-### G3624 - oikos (house/dwelling)
+### [G3624](https://www.blueletterbible.org/lexicon/g3624/kjv/tr/0-1/){:target="_blank"} - oikos (house/dwelling)
 **Lexicon:**
 - Transliteration: oikos
 - Pronunciation: oy-kos
@@ -94,9 +94,9 @@
 
 ## Absent/Present Vocabulary
 
-### G1553 - ekdEmeO (to be away from home / absent)
+### [G1553](https://www.blueletterbible.org/lexicon/g1553/kjv/tr/0-1/){:target="_blank"} - [ekdEmeO](https://www.blueletterbible.org/lexicon/g1553/kjv/tr/0-1/){:target="_blank"} (to be away from home / absent)
 **Lexicon:**
-- Transliteration: ekdEmeO
+- Transliteration: [ekdEmeO](https://www.blueletterbible.org/lexicon/g1553/kjv/tr/0-1/){:target="_blank"}
 - Pronunciation: ek-day-meh-o
 - POS: verb
 - BLB Count: 3 (only in 2 Cor 5:6, 5:8, 5:9)
@@ -104,11 +104,11 @@
 - Etymology: ek (G1537, "out of") + dEmos (G1218, "people")
 - 3 total occurrences: "we are absent" (1x), "to be absent" (1x), "absent" (1x)
 
-**BLB Extended (Thayer's):** "To go abroad, emigrate, depart." Figuratively: departing from "the body as the earthly abode of the spirit." Opposed to endEmeO (to be at home).
+**BLB Extended (Thayer's):** "To go abroad, emigrate, depart." Figuratively: departing from "the body as the earthly abode of the spirit." Opposed to [endEmeO](https://www.blueletterbible.org/lexicon/g1736/kjv/tr/0-1/){:target="_blank"} (to be at home).
 
-### G1736 - endEmeO (to be at home)
+### [G1736](https://www.blueletterbible.org/lexicon/g1736/kjv/tr/0-1/){:target="_blank"} - [endEmeO](https://www.blueletterbible.org/lexicon/g1736/kjv/tr/0-1/){:target="_blank"} (to be at home)
 **Lexicon:**
-- Transliteration: endEmeO
+- Transliteration: [endEmeO](https://www.blueletterbible.org/lexicon/g1736/kjv/tr/0-1/){:target="_blank"}
 - Pronunciation: en-day-meh-o
 - POS: verb
 - BLB Count: 3 (only in 2 Cor 5:6, 5:8, 5:9)
@@ -116,11 +116,11 @@
 - Etymology: en (G1722, "in") + dEmos (G1218, "people")
 - 3 total occurrences: "whilst we are at home" (1x), "to be present" (1x), "present" (1x)
 
-**BLB Extended (Thayer's):** "Properly, to be among one's own people, dwell in one's own country, stay at home." Opposed to ekdEmeO. Used figuratively of earthly life "in the body" and heavenly presence "with the Lord."
+**BLB Extended (Thayer's):** "Properly, to be among one's own people, dwell in one's own country, stay at home." Opposed to [ekdEmeO](https://www.blueletterbible.org/lexicon/g1553/kjv/tr/0-1/){:target="_blank"}. Used figuratively of earthly life "in the body" and heavenly presence "with the Lord."
 
 ## Groaning/Burden Vocabulary
 
-### G4727 - stenazO (to groan)
+### [G4727](https://www.blueletterbible.org/lexicon/g4727/kjv/tr/0-1/){:target="_blank"} - stenazO (to groan)
 **Lexicon:**
 - Transliteration: stenazO
 - Pronunciation: sten-ad-zo
@@ -130,7 +130,7 @@
 - Occurrences: Mrk 7:34; Rom 8:23; 2 Cor 5:2; 5:4; Heb 13:17; Jas 5:9
 - 5 total occurrences: "he sighed" (1x), "groan" (1x), "we groan" (1x), "do groan" (1x), "with grief" (1x)
 
-### G916 - bareO (to burden/weigh down)
+### [G916](https://www.blueletterbible.org/lexicon/g916/kjv/tr/0-1/){:target="_blank"} - bareO (to burden/weigh down)
 **Lexicon:**
 - Transliteration: bareO
 - Pronunciation: bar-eh-o

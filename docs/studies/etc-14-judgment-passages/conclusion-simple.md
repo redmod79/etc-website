@@ -16,11 +16,11 @@ The two main views under examination are the annihilation view (conditionalism),
 
 ### Revelation 20:11-15 — The Great White Throne
 
-The dead are judged "according to their works" (vv.12-13). Those whose names are not in the book of life are "cast into the lake of fire." The text then defines what the lake of fire is: **"This is the second death"** (v.14). The word used is *thanatos* — death. The passage does not use the Greek word for torment (*basanizo*) when speaking of human beings.
+The dead are judged "according to their works" (vv.12-13). Those whose names are not in the book of life are "cast into the lake of fire." The text then defines what the lake of fire is: **"This is the second death"** (v.14). The word used is *[thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}* — death. The passage does not use the Greek word for torment (*[basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}*) when speaking of human beings.
 
 ### Matthew 25:46 — Everlasting Punishment and Eternal Life
 
-Jesus says: **"these shall go away into everlasting punishment, but the righteous into life eternal"** (v.46). The word translated "punishment" is the Greek *kolasis*, which means a penal penalty or infliction — it is not the Greek word for torment (*basanismos*). The same adjective (*aionios*, everlasting/eternal) modifies both outcomes. The text says the wicked receive *punishment*, not *torment*.
+Jesus says: **"these shall go away into everlasting punishment, but the righteous into life eternal"** (v.46). The word translated "punishment" is the Greek *[kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"}*, which means a penal penalty or infliction — it is not the Greek word for torment (*[basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"}*). The same adjective (*[aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}*, everlasting/eternal) modifies both outcomes. The text says the wicked receive *punishment*, not *torment*.
 
 Notably, the "everlasting fire" in v.41 is described as "prepared for the devil and his angels" — its primary designation is for non-human entities.
 
@@ -38,19 +38,19 @@ This passage shares its rare Hebrew word (*dera'on*, abhorring/contempt) with Da
 
 ### John 5:28-29 — Resurrection of Life, Resurrection of Judgment
 
-**"They that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation"** (John 5:29). The word "damnation" here is the Greek *krisis*, which means judgment or decision — it appears five times in John 5 (vv.22, 24, 27, 29, 30) and always carries the sense of a judicial verdict. In verse 24, Jesus says those who believe have "passed from death unto life" — the opposite of life is death, and *krisis* is the judgment that brings that result.
+**"They that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation"** (John 5:29). The word "damnation" here is the Greek *[krisis](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"}*, which means judgment or decision — it appears five times in John 5 (vv.22, 24, 27, 29, 30) and always carries the sense of a judicial verdict. In verse 24, Jesus says those who believe have "passed from death unto life" — the opposite of life is death, and *[krisis](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"}* is the judgment that brings that result.
 
 ### 2 Thessalonians 1:7-10 — Everlasting Destruction
 
-Paul writes that those who do not obey the gospel **"shall be punished with everlasting destruction from the presence of the Lord"** (2 Thess 1:9). The Greek word Paul uses for "destruction" is *olethros*, which appears four times in the New Testament (1 Cor 5:5; 1 Thess 5:3; 2 Thess 1:9; 1 Tim 6:9) and means destruction or ruin in every instance. Paul, writing a letter to a church with the aim of teaching clearly, does not use the word for torment — he uses the word for destruction.
+Paul writes that those who do not obey the gospel **"shall be punished with everlasting destruction from the presence of the Lord"** (2 Thess 1:9). The Greek word Paul uses for "destruction" is *[olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}*, which appears four times in the New Testament (1 Cor 5:5; 1 Thess 5:3; 2 Thess 1:9; 1 Tim 6:9) and means destruction or ruin in every instance. Paul, writing a letter to a church with the aim of teaching clearly, does not use the word for torment — he uses the word for destruction.
 
 ### Hebrews 10:26-31 — Fire That Devours, Perdition vs. Salvation
 
-The author writes of **"a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries"** (Heb 10:27). "Devour" (*katesthio*) means to consume or eat up — destruction vocabulary. The argument in verse 28 uses death as the standard: "He that despised Moses' law died without mercy." Verse 29 then asks about a "sorer punishment" — but the passage's own language for the outcome is "perdition" (*apoleia*, meaning destruction or ruin) in verse 39, contrasted with "saving of the soul." The binary is destruction versus salvation, not torment versus salvation.
+The author writes of **"a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries"** (Heb 10:27). "Devour" (*[katesthio](https://www.blueletterbible.org/lexicon/g2719/kjv/tr/0-1/){:target="_blank"}*) means to consume or eat up — destruction vocabulary. The argument in verse 28 uses death as the standard: "He that despised Moses' law died without mercy." Verse 29 then asks about a "sorer punishment" — but the passage's own language for the outcome is "perdition" (*[apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}*, meaning destruction or ruin) in verse 39, contrasted with "saving of the soul." The binary is destruction versus salvation, not torment versus salvation.
 
 ### Romans 2:5-11 — Wrath, Tribulation, and Perishing
 
-Paul writes that those who seek "glory and honour and immortality" receive "eternal life" (v.7). The word "immortality" (*aphtharsia*) is something believers seek and receive — it is not described as something all humans inherently possess. For the disobedient, Paul lists "indignation and wrath, tribulation and anguish" (vv.8-9). Then verse 12 states the outcome plainly: **"as many as have sinned without law shall also perish"** (*apollymi* — to destroy, to perish). The concluding vocabulary is destruction.
+Paul writes that those who seek "glory and honour and immortality" receive "eternal life" (v.7). The word "immortality" (*[aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"}*) is something believers seek and receive — it is not described as something all humans inherently possess. For the disobedient, Paul lists "indignation and wrath, tribulation and anguish" (vv.8-9). Then verse 12 states the outcome plainly: **"as many as have sinned without law shall also perish"** (*[apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}* — to destroy, to perish). The concluding vocabulary is destruction.
 
 ---
 
@@ -62,7 +62,7 @@ When you look at the actual words used across these eight passages, a clear patt
 - **Two passages use penalty or judgment vocabulary without specifying the nature of the outcome:** Matthew 25 ("punishment"), John 5 ("judgment").
 - **Two passages describe the dead as objects of abhorrence to the living:** Daniel 12 ("everlasting contempt"), Isaiah 66 ("carcasses," "abhorring").
 
-Across all eight passages, not one uses the Greek word for torment (*basanizo* or *basanismos*) when referring to human beings.
+Across all eight passages, not one uses the Greek word for torment (*[basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}* or *[basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"}*) when referring to human beings.
 
 ---
 
@@ -73,22 +73,22 @@ Across all eight passages, not one uses the Greek word for torment (*basanizo* o
 The text straightforwardly establishes several things that neither view can honestly dispute:
 
 - The lake of fire is called "the second death" (Rev 20:14).
-- Matthew 25:46 uses *kolasis* (punishment/penalty), not the word for torment.
+- Matthew 25:46 uses *[kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"}* (punishment/penalty), not the word for torment.
 - The Hebrew *dera'on* (contempt/abhorring) appears only in Daniel 12:2 and Isaiah 66:24, and in the Isaiah passage its objects are dead bodies (*peger*).
 - Isaiah 66:24 describes *peger* — corpses — as the subjects of the worm and fire.
-- Paul's word in 2 Thessalonians 1:9 is *olethros*, which means destruction in all four of its New Testament occurrences.
+- Paul's word in 2 Thessalonians 1:9 is *[olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}*, which means destruction in all four of its New Testament occurrences.
 - Romans 2:7 says immortality must be sought and received; the same passage says sinners "perish."
 
 ### The Key Dispute: What Do "Punishment" and "Contempt" Mean?
 
 The main claims of the eternal torment view in these passages are that:
 
-1. "Everlasting punishment" (Matt 25:46) means eternal conscious torment, because the same adjective (*aionios*) modifies both "punishment" and "life."
+1. "Everlasting punishment" (Matt 25:46) means eternal conscious torment, because the same adjective (*[aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}*) modifies both "punishment" and "life."
 2. "Everlasting contempt" (Dan 12:2) means the wicked forever consciously experience their shame.
 
-But both claims require adding something the text does not say. The first claim requires interpreting *kolasis* (punishment) as meaning ongoing conscious suffering — yet the word means penalty or penal infliction, and Paul's own word for the same event (2 Thess 1:9) is *destruction*. The second claim requires treating *dera'on* as an experience of the wicked — yet the only other place the word appears (Isa 66:24) makes the objects dead bodies.
+But both claims require adding something the text does not say. The first claim requires interpreting *[kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"}* (punishment) as meaning ongoing conscious suffering — yet the word means penalty or penal infliction, and Paul's own word for the same event (2 Thess 1:9) is *destruction*. The second claim requires treating *dera'on* as an experience of the wicked — yet the only other place the word appears (Isa 66:24) makes the objects dead bodies.
 
-The eternal torment view of 2 Thessalonians 1:9 requires that "everlasting destruction" actually means something like "everlasting conscious existence in a ruined state" — which requires changing what the word *olethros* means.
+The eternal torment view of 2 Thessalonians 1:9 requires that "everlasting destruction" actually means something like "everlasting conscious existence in a ruined state" — which requires changing what the word *[olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}* means.
 
 ---
 
@@ -101,10 +101,10 @@ The eternal torment view of 2 Thessalonians 1:9 requires that "everlasting destr
 - "Everlasting contempt" (Dan 12:2) uses a word that, in its only other biblical occurrence, describes how the living view dead bodies.
 
 **The text does not say:**
-- That any of these eight passages uses the word for torment (*basanizo*) when speaking of human beings.
-- That *kolasis* (punishment) means conscious ongoing suffering rather than a penal act.
+- That any of these eight passages uses the word for torment (*[basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}*) when speaking of human beings.
+- That *[kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"}* (punishment) means conscious ongoing suffering rather than a penal act.
 - That *dera'on* (contempt/abhorring) is something the wicked themselves experience.
-- That *olethros* (destruction) means an ongoing conscious existence in ruin.
+- That *[olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}* (destruction) means an ongoing conscious existence in ruin.
 - That the "tribulation and anguish" of Romans 2:9 last forever (the same passage uses "perish" as the outcome).
 
 ---

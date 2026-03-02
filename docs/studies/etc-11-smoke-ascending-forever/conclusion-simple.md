@@ -46,7 +46,7 @@ Other prophets use the same imagery of complete consumption: "into smoke shall t
 
 ## Key Finding 3: "Torment" in Revelation Also Describes Completed Destruction
 
-The Greek word translated "torment" in Revelation 14:11 is *basanismos*. This word appears exactly six times in the entire New Testament — all six in Revelation. Three of those six occurrences describe Babylon's "torment" (Revelation 18:7, 10, 15).
+The Greek word translated "torment" in Revelation 14:11 is *[basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"}*. This word appears exactly six times in the entire New Testament — all six in Revelation. Three of those six occurrences describe Babylon's "torment" (Revelation 18:7, 10, 15).
 
 But Babylon's "torment" is explicitly described as a completed destruction:
 

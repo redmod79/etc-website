@@ -4,7 +4,7 @@
 etc-06 in the etc series (The Final Fate of the Wicked)
 
 ## Question
-Hebrew/Greek destruction vocabulary: abad/apollumi (H6/G622), shamad (H8045), kalah (H3615), shachath (H7843), apoleia (G684), olethros (G3639). Lexical definitions, eschatological usage.
+Hebrew/Greek destruction vocabulary: [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}/[apollumi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (H6/G622), [shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"} (H8045), [kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"} (H3615), [shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"} (H7843), [apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} (G684), [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} (G3639). Lexical definitions, eschatological usage.
 
 ## Prior Studies in Series
 - etc-01 (72 items), etc-02 (60 items), etc-03 (50 items), etc-04 (43 items), etc-05 (44 items). Total: 269 items.
@@ -57,9 +57,9 @@ ISA 34:8-10; DAN 12:2; MAT 3:12; 10:28; 18:8; 25:41,46; MRK 3:29; LUK 3:17; JHN 
 
 ### Strong's Lookups
 
-#### H6: abad (to perish, to destroy)
-- **Word:** אָבַד (abad)
-- **Transliteration:** abad
+#### [H6](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}: [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} (to perish, to destroy)
+- **Word:** אָבַד ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"})
+- **Transliteration:** [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}
 - **Pronunciation:** aw-bad
 - **Part of Speech:** verb
 - **Definition:** A primitive root; properly, to wander away, i.e. lose oneself; by implication to perish (causative, destroy): break, destroy(-uction), not escape, fail, lose, (cause to, make) perish, spend, and surely, take, be undone, utterly, be void of, have no way to flee.
@@ -79,30 +79,30 @@ ISA 34:8-10; DAN 12:2; MAT 3:12; 10:28; 18:8; 25:41,46; MRK 3:29; LUK 3:17; JHN 
   - "that which was lost" (2x, 0.9%)
 - **Semantic range:** Perish (intransitive), destroy (causative), lose, be lost, wander away. The primary meaning is cessation of existence or being brought to ruin.
 
-**LXX Translation Map for H6 (abad):**
+**LXX Translation Map for [H6](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} (abad):**
 | Greek Word | Strong's | Count | PMI Score | Meaning |
 |-----------|----------|-------|-----------|---------|
-| apollymi | G622 | 141 | 30.45 | to destroy fully |
-| apoleia | G684 | 11 | 10.82 | ruin, loss, destruction |
-| phyge | G5437 | 3 | 7.36 | flight, escape |
-| elpis | G1680 | 6 | 6.65 | hope |
-| asebeis | G765 | 9 | 6.19 | ungodly |
-| epilanthanomai | G1950 | 6 | 5.86 | to forget |
-| teko | G5080 | 3 | 5.03 | to melt |
-| planao | G4105 | 4 | 4.41 | to wander |
+| [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} | [G622](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} | 141 | 30.45 | to destroy fully |
+| [apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} | [G684](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} | 11 | 10.82 | ruin, loss, destruction |
+| phyge | [G5437](https://www.blueletterbible.org/lexicon/g5437/kjv/tr/0-1/){:target="_blank"} | 3 | 7.36 | flight, escape |
+| elpis | [G1680](https://www.blueletterbible.org/lexicon/g1680/kjv/tr/0-1/){:target="_blank"} | 6 | 6.65 | hope |
+| asebeis | [G765](https://www.blueletterbible.org/lexicon/g765/kjv/tr/0-1/){:target="_blank"} | 9 | 6.19 | ungodly |
+| epilanthanomai | [G1950](https://www.blueletterbible.org/lexicon/g1950/kjv/tr/0-1/){:target="_blank"} | 6 | 5.86 | to forget |
+| teko | [G5080](https://www.blueletterbible.org/lexicon/g5080/kjv/tr/0-1/){:target="_blank"} | 3 | 5.03 | to melt |
+| planao | [G4105](https://www.blueletterbible.org/lexicon/g4105/kjv/tr/0-1/){:target="_blank"} | 4 | 4.41 | to wander |
 
-**Key finding:** The LXX overwhelmingly translates H6 (abad) as G622 (apollymi) -- 141 times out of ~184 instances, score 30.45. This is the dominant mapping. The noun form apoleia (G684) also appears 11 times. The associated Greek vocabulary is destruction, ruin, loss -- consistent with cessation, not torment.
+**Key finding:** The LXX overwhelmingly translates [H6](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} (abad) as [G622](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (apollymi) -- 141 times out of ~184 instances, score 30.45. This is the dominant mapping. The noun form [apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} (G684) also appears 11 times. The associated Greek vocabulary is destruction, ruin, loss -- consistent with cessation, not torment.
 
-**Verses where H6 is translated "perish":** Num 17:12; Deu 4:26; 8:19; 30:18; Jdg 5:31; Job 3:3; Psa 9:18; 41:5; 49:10; 68:2; 146:4; Pro 11:10; Ecc 5:14; Jer 18:18; 40:15; Jon 1:14
+**Verses where [H6](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} is translated "perish":** Num 17:12; Deu 4:26; 8:19; 30:18; Jdg 5:31; Job 3:3; Psa 9:18; 41:5; 49:10; 68:2; 146:4; Pro 11:10; Ecc 5:14; Jer 18:18; 40:15; Jon 1:14
 
-**Verses where H6 is translated "destroy":** Num 33:52; Deu 12:2
+**Verses where [H6](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} is translated "destroy":** Num 33:52; Deu 12:2
 
-#### G622: apollymi (to destroy, to perish)
-- **Word:** apollymi (apollumi)
-- **Transliteration:** apollymi
+#### [G622](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}: [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (to destroy, to perish)
+- **Word:** [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} ([apollumi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"})
+- **Transliteration:** [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}
 - **Pronunciation:** ap-ol-loo-mee
 - **Part of Speech:** verb
-- **Definition:** From apo and the base of olethros; to destroy fully (reflexively, to perish, or lose).
+- **Definition:** From apo and the base of [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}; to destroy fully (reflexively, to perish, or lose).
 - **Total occurrences:** 84 (BLB count: 92)
 - **Key translation distribution:**
   - "perish" (10x, 11.9%)
@@ -118,24 +118,24 @@ ISA 34:8-10; DAN 12:2; MAT 3:12; 10:28; 18:8; 25:41,46; MRK 3:29; LUK 3:17; JHN 
   - "they might destroy" (3x, 3.6%)
   - "was lost" (3x, 3.6%)
   - "shall perish" (3x, 3.6%)
-- **Semantic range:** Destroy fully (active/causative), perish (middle/passive), lose. Same range as Hebrew abad. Note: G622 is the NT cognate of H6 -- the LXX translates abad as apollymi 141 times.
+- **Semantic range:** Destroy fully (active/causative), perish (middle/passive), lose. Same range as Hebrew [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}. Note: [G622](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} is the NT cognate of [H6](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} -- the LXX translates [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} as [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} 141 times.
 
-**Verses where G622 is translated "perish":** Mat 9:17; Luk 13:3; 13:5; 13:33; 15:17; 21:18; Rom 2:12; 1Co 8:11; 2Co 2:15; 2Th 2:10
+**Verses where [G622](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} is translated "perish":** Mat 9:17; Luk 13:3; 13:5; 13:33; 15:17; 21:18; Rom 2:12; 1Co 8:11; 2Co 2:15; 2Th 2:10
 
-**Verses where G622 is translated "destroy":** Mat 21:41; 27:20; Mar 9:22; 12:9; Luk 20:16
+**Verses where [G622](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} is translated "destroy":** Mat 21:41; 27:20; Mar 9:22; 12:9; Luk 20:16
 
-**Key eschatological verses using G622:**
-- Matt 10:28 -- "Fear him which is able to DESTROY (apollumi) both soul and body in hell"
-- John 3:16 -- "Whosoever believeth in him should not PERISH (apollumi)"
-- Luke 13:3,5 -- "Except ye repent, ye shall all likewise PERISH (apollumi)"
-- Rom 2:12 -- "As many as have sinned without law shall also PERISH (apollumi)"
-- 2 Thess 2:10 -- "Them that PERISH (apollumi); because they received not the love of the truth"
-- 2 Pet 3:9 -- "Not willing that any should PERISH (apollumi)"
-- Matt 5:29-30 -- "One of thy members should PERISH (apollumi), and not that thy whole body should be cast into hell"
+**Key eschatological verses using [G622](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}:**
+- Matt 10:28 -- "Fear him which is able to DESTROY ([apollumi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}) both soul and body in hell"
+- John 3:16 -- "Whosoever believeth in him should not PERISH ([apollumi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"})"
+- Luke 13:3,5 -- "Except ye repent, ye shall all likewise PERISH ([apollumi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"})"
+- Rom 2:12 -- "As many as have sinned without law shall also PERISH ([apollumi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"})"
+- 2 Thess 2:10 -- "Them that PERISH ([apollumi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}); because they received not the love of the truth"
+- 2 Pet 3:9 -- "Not willing that any should PERISH ([apollumi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"})"
+- Matt 5:29-30 -- "One of thy members should PERISH ([apollumi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}), and not that thy whole body should be cast into hell"
 
-#### H8045: shamad (to destroy, to be destroyed)
-- **Word:** shamad
-- **Transliteration:** shamad
+#### [H8045](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}: [shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"} (to destroy, to be destroyed)
+- **Word:** [shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}
+- **Transliteration:** [shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}
 - **Pronunciation:** shaw-mad
 - **Part of Speech:** verb
 - **Definition:** A primitive root; to desolate: destroy(-uction), bring to nought, overthrow, perish, pluck down, utterly.
@@ -148,30 +148,30 @@ ISA 34:8-10; DAN 12:2; MAT 3:12; 10:28; 18:8; 25:41,46; MRK 3:29; LUK 3:17; JHN 
   - "destroy" (4x, 4.0%)
   - "destroyed them" (3x, 3.0%)
   - "utterly" (2x, 2.0%)
-- **Semantic range:** To destroy utterly, to exterminate, to annihilate. Stronger than abad -- implies total destruction, complete elimination. Used for the destruction of nations, peoples, cities.
+- **Semantic range:** To destroy utterly, to exterminate, to annihilate. Stronger than [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} -- implies total destruction, complete elimination. Used for the destruction of nations, peoples, cities.
 
-**LXX Translation Map for H8045 (shamad):**
+**LXX Translation Map for [H8045](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"} (shamad):**
 | Greek Word | Strong's | Count | PMI Score | Meaning |
 |-----------|----------|-------|-----------|---------|
-| apollymi | G622 | 23 | 14.39 | to destroy fully |
-| exairo | G1808 | 12 | 11.04 | to remove, put away |
-| apoleia | G684 | 5 | 7.55 | ruin, destruction |
-| planao | G4105 | 4 | 6.02 | to wander |
-| hamartoloi | G268 | 4 | 5.79 | sinful, sinner |
+| [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} | [G622](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} | 23 | 14.39 | to destroy fully |
+| exairo | [G1808](https://www.blueletterbible.org/lexicon/g1808/kjv/tr/0-1/){:target="_blank"} | 12 | 11.04 | to remove, put away |
+| [apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} | [G684](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} | 5 | 7.55 | ruin, destruction |
+| planao | [G4105](https://www.blueletterbible.org/lexicon/g4105/kjv/tr/0-1/){:target="_blank"} | 4 | 6.02 | to wander |
+| hamartoloi | [G268](https://www.blueletterbible.org/lexicon/g268/kjv/tr/0-1/){:target="_blank"} | 4 | 5.79 | sinful, sinner |
 
-**Key finding:** The LXX translates shamad primarily as apollymi (G622) -- 23 times. Also uses exairo (to remove completely) 12 times and apoleia (destruction) 5 times. All the top translations carry the meaning of complete removal/destruction.
+**Key finding:** The LXX translates [shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"} primarily as [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (G622) -- 23 times. Also uses exairo (to remove completely) 12 times and [apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} (destruction) 5 times. All the top translations carry the meaning of complete removal/destruction.
 
-**Verses where H8045 is translated "destroy":** 2Sa 14:16; 1Ki 16:12; Psa 106:34; Amo 9:8
+**Verses where [H8045](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"} is translated "destroy":** 2Sa 14:16; 1Ki 16:12; Psa 106:34; Amo 9:8
 
-**Key eschatological verses using H8045:**
-- Psa 37:38 -- "The transgressors shall be DESTROYED (shamad) together: the end of the wicked shall be cut off"
-- Psa 145:20 -- "The LORD preserveth all them that love him: but all the wicked will he DESTROY (shamad)"
-- Psa 92:7 -- "When the wicked spring as the grass... it is that they shall be DESTROYED (shamad) for ever"
-- Isa 13:9 -- "The day of the LORD cometh... to lay the land desolate: and he shall DESTROY (shamad) the sinners thereof out of it"
+**Key eschatological verses using [H8045](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}:**
+- Psa 37:38 -- "The transgressors shall be DESTROYED ([shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}) together: the end of the wicked shall be cut off"
+- Psa 145:20 -- "The LORD preserveth all them that love him: but all the wicked will he DESTROY ([shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"})"
+- Psa 92:7 -- "When the wicked spring as the grass... it is that they shall be DESTROYED ([shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}) for ever"
+- Isa 13:9 -- "The day of the LORD cometh... to lay the land desolate: and he shall DESTROY ([shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}) the sinners thereof out of it"
 
-#### H3615: kalah (to consume, to finish, to complete)
-- **Word:** kalah
-- **Transliteration:** kalah
+#### [H3615](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}: [kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"} (to consume, to finish, to complete)
+- **Word:** [kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}
+- **Transliteration:** [kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}
 - **Pronunciation:** kaw-law
 - **Part of Speech:** verb
 - **Definition:** A primitive root; to end, whether intransitive (to cease, be finished, perish) or transitive (to complete, prepare, consume): accomplish, cease, consume (away), determine, destroy (utterly), be (when...were) done, (be an) end (of), expire, (cause to) fail, faint, finish, fulfil, fully, have, leave (off), long, bring to pass, wholly reap, make clean riddance, spend, quite take away, waste.
@@ -189,29 +189,29 @@ ISA 34:8-10; DAN 12:2; MAT 3:12; 10:28; 18:8; 25:41,46; MRK 3:29; LUK 3:17; JHN 
   - "are consumed" (2x, 0.8%)
 - **Semantic range:** Dual meaning -- (1) to complete/finish/end (neutral: making an end of a task) and (2) to consume/destroy/use up (destructive: consuming away). When applied to people, carries the meaning of being consumed, spent, used up -- ceased to exist.
 
-**LXX Translation Map for H3615 (kalah):**
+**LXX Translation Map for [H3615](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"} (kalah):**
 | Greek Word | Strong's | Count | PMI Score | Meaning |
 |-----------|----------|-------|-----------|---------|
-| synteleo | G4931 | 85 | 27.17 | to complete entirely, consume |
-| ekleipo | G1587 | 30 | 15.96 | to cease, leave off, fail |
-| pauo | G3973 | 15 | 13.71 | to stop, cease |
-| orge | G3709 | 19 | 10.05 | wrath |
-| teleo | G5055 | 5 | 9.84 | to end, complete |
-| analisko | G355 | 3 | 6.75 | to consume |
-| syntelia | G4930 | 5 | 6.87 | consummation |
+| [synteleo](https://www.blueletterbible.org/lexicon/g4931/kjv/tr/0-1/){:target="_blank"} | [G4931](https://www.blueletterbible.org/lexicon/g4931/kjv/tr/0-1/){:target="_blank"} | 85 | 27.17 | to complete entirely, consume |
+| ekleipo | [G1587](https://www.blueletterbible.org/lexicon/g1587/kjv/tr/0-1/){:target="_blank"} | 30 | 15.96 | to cease, leave off, fail |
+| pauo | [G3973](https://www.blueletterbible.org/lexicon/g3973/kjv/tr/0-1/){:target="_blank"} | 15 | 13.71 | to stop, cease |
+| orge | [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} | 19 | 10.05 | wrath |
+| teleo | [G5055](https://www.blueletterbible.org/lexicon/g5055/kjv/tr/0-1/){:target="_blank"} | 5 | 9.84 | to end, complete |
+| analisko | [G355](https://www.blueletterbible.org/lexicon/g355/kjv/tr/0-1/){:target="_blank"} | 3 | 6.75 | to consume |
+| syntelia | [G4930](https://www.blueletterbible.org/lexicon/g4930/kjv/tr/0-1/){:target="_blank"} | 5 | 6.87 | consummation |
 
-**Key finding:** The LXX translates kalah primarily as synteleo (to complete entirely, 85 times), ekleipo (to cease/fail, 30 times), and pauo (to stop, 15 times). The dominant semantic field is cessation, completion, consumption. Associated with orge (wrath) in 19 instances.
+**Key finding:** The LXX translates [kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"} primarily as [synteleo](https://www.blueletterbible.org/lexicon/g4931/kjv/tr/0-1/){:target="_blank"} (to complete entirely, 85 times), ekleipo (to cease/fail, 30 times), and pauo (to stop, 15 times). The dominant semantic field is cessation, completion, consumption. Associated with orge (wrath) in 19 instances.
 
-**Key eschatological verses using H3615:**
-- Psa 37:20 -- "The wicked shall perish, and the enemies of the LORD shall be as the fat of lambs: they shall CONSUME (kalah); into smoke shall they consume away"
-- Psa 59:13 -- "CONSUME (kalah) them in wrath, consume them, that they may not be"
-- Psa 104:35 -- "Let the sinners be CONSUMED (kalah) out of the earth, and let the wicked be no more"
-- Deu 32:23 -- "I will spend (kalah) mine arrows upon them"
-- Isa 1:28 -- "The destruction of the transgressors and of the sinners shall be together, and they that forsake the LORD shall be CONSUMED (kalah)"
+**Key eschatological verses using [H3615](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}:**
+- Psa 37:20 -- "The wicked shall perish, and the enemies of the LORD shall be as the fat of lambs: they shall CONSUME ([kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}); into smoke shall they consume away"
+- Psa 59:13 -- "CONSUME ([kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}) them in wrath, consume them, that they may not be"
+- Psa 104:35 -- "Let the sinners be CONSUMED ([kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}) out of the earth, and let the wicked be no more"
+- Deu 32:23 -- "I will spend ([kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}) mine arrows upon them"
+- Isa 1:28 -- "The destruction of the transgressors and of the sinners shall be together, and they that forsake the LORD shall be CONSUMED ([kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"})"
 
-#### H7843: shachath (to destroy, to corrupt, to ruin)
-- **Word:** shachath
-- **Transliteration:** shachath
+#### [H7843](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}: [shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"} (to destroy, to corrupt, to ruin)
+- **Word:** [shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}
+- **Transliteration:** [shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}
 - **Pronunciation:** shaw-khath
 - **Part of Speech:** verb
 - **Definition:** A primitive root; to decay, i.e. (causatively) ruin (literally or figuratively): batter, cast off, corrupt(-er, thing), destroy(-er, -uction), lose, mar, perish, spill, spoiler, utterly, waste(-r).
@@ -227,35 +227,35 @@ ISA 34:8-10; DAN 12:2; MAT 3:12; 10:28; 18:8; 25:41,46; MRK 3:29; LUK 3:17; JHN 
   - "have corrupted" (2x, 1.2%)
   - "corrupted" (2x, 1.2%)
   - "was marred" (2x, 1.2%)
-- **Semantic range:** To decay, to corrupt, to ruin. Broader than shamad -- includes both physical destruction and moral corruption. The root idea is spoiling, ruining, rendering useless.
+- **Semantic range:** To decay, to corrupt, to ruin. Broader than [shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"} -- includes both physical destruction and moral corruption. The root idea is spoiling, ruining, rendering useless.
 
-**LXX Translation Map for H7843 (shachath):**
+**LXX Translation Map for [H7843](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"} (shachath):**
 | Greek Word | Strong's | Count | PMI Score | Meaning |
 |-----------|----------|-------|-----------|---------|
-| diaphtheiro | G1311 | 48 | 27.24 | to rot thoroughly, destroy |
-| phtheiro | G5351 | 6 | 12.44 | to corrupt, destroy |
-| kataklusmos | G2627 | 4 | 8.83 | inundation, flood |
-| exaleipho | G1813 | 5 | 8.29 | to smear out, obliterate |
-| anomos | G459 | 7 | 7.58 | lawless |
-| diaphthora | G1312 | 3 | 6.26 | decay, corruption |
-| apollymi | G622 | 9 | 5.81 | to destroy fully |
-| kataskoto | G2679 | 3 | 5.71 | to undermine, demolish |
+| diaphtheiro | [G1311](https://www.blueletterbible.org/lexicon/g1311/kjv/tr/0-1/){:target="_blank"} | 48 | 27.24 | to rot thoroughly, destroy |
+| [phtheiro](https://www.blueletterbible.org/lexicon/g5351/kjv/tr/0-1/){:target="_blank"} | [G5351](https://www.blueletterbible.org/lexicon/g5351/kjv/tr/0-1/){:target="_blank"} | 6 | 12.44 | to corrupt, destroy |
+| kataklusmos | [G2627](https://www.blueletterbible.org/lexicon/g2627/kjv/tr/0-1/){:target="_blank"} | 4 | 8.83 | inundation, flood |
+| exaleipho | [G1813](https://www.blueletterbible.org/lexicon/g1813/kjv/tr/0-1/){:target="_blank"} | 5 | 8.29 | to smear out, obliterate |
+| anomos | [G459](https://www.blueletterbible.org/lexicon/g459/kjv/tr/0-1/){:target="_blank"} | 7 | 7.58 | lawless |
+| diaphthora | [G1312](https://www.blueletterbible.org/lexicon/g1312/kjv/tr/0-1/){:target="_blank"} | 3 | 6.26 | decay, corruption |
+| [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} | [G622](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} | 9 | 5.81 | to destroy fully |
+| kataskoto | [G2679](https://www.blueletterbible.org/lexicon/g2679/kjv/tr/0-1/){:target="_blank"} | 3 | 5.71 | to undermine, demolish |
 
-**Key finding:** The LXX translates shachath primarily as diaphtheiro (to rot thoroughly, to destroy utterly, 48 times) and phtheiro (to corrupt/destroy, 6 times). The dominant semantic field is decay, corruption, and destruction. Note that diaphthora (G1312, corruption) appears -- the same word used in Acts 2:27,31 and Acts 13:34-37 for the corruption of the grave.
+**Key finding:** The LXX translates [shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"} primarily as diaphtheiro (to rot thoroughly, to destroy utterly, 48 times) and [phtheiro](https://www.blueletterbible.org/lexicon/g5351/kjv/tr/0-1/){:target="_blank"} (to corrupt/destroy, 6 times). The dominant semantic field is decay, corruption, and destruction. Note that diaphthora (G1312, corruption) appears -- the same word used in Acts 2:27,31 and Acts 13:34-37 for the corruption of the grave.
 
-**Key eschatological verses using H7843:**
-- Gen 6:17 -- "I do bring a flood of waters... to DESTROY (shachath) all flesh"
-- Gen 18:28-32 -- "Wilt thou DESTROY (shachath) all the city...?"
-- Psa 14:1; 53:1 -- "They are CORRUPT (shachath), they have done abominable works"
-- Isa 65:8 -- "DESTROY (shachath) it not; for a blessing is in it"
-- Hos 13:9 -- "O Israel, thou hast DESTROYED (shachath) thyself"
+**Key eschatological verses using [H7843](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}:**
+- Gen 6:17 -- "I do bring a flood of waters... to DESTROY ([shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}) all flesh"
+- Gen 18:28-32 -- "Wilt thou DESTROY ([shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}) all the city...?"
+- Psa 14:1; 53:1 -- "They are CORRUPT ([shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}), they have done abominable works"
+- Isa 65:8 -- "DESTROY ([shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}) it not; for a blessing is in it"
+- Hos 13:9 -- "O Israel, thou hast DESTROYED ([shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}) thyself"
 
-#### G684: apoleia (destruction, perdition)
-- **Word:** apoleia
-- **Transliteration:** apoleia
+#### [G684](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}: [apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} (destruction, perdition)
+- **Word:** [apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}
+- **Transliteration:** [apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}
 - **Pronunciation:** ap-o-li-a
 - **Part of Speech:** feminine noun
-- **Definition:** From a presumed derivative of apollymi; ruin or loss (physical, spiritual or eternal).
+- **Definition:** From a presumed derivative of [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}; ruin or loss (physical, spiritual or eternal).
 - **Total occurrences:** 17 (BLB count: 20)
 - **Translation distribution:**
   - "perdition" (5x, 29.4%)
@@ -267,27 +267,27 @@ ISA 34:8-10; DAN 12:2; MAT 3:12; 10:28; 18:8; 25:41,46; MRK 3:29; LUK 3:17; JHN 
   - "damnable" (1x, 5.9%)
   - "pernicious ways" (1x, 5.9%)
   - "damnation" (1x, 5.9%)
-- **Semantic range:** The noun form of apollymi (G622). Means destruction, ruin, loss, perdition. Note: "perdition" in English derives from Latin perdere (to lose/destroy) -- the same semantic field.
+- **Semantic range:** The noun form of [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (G622). Means destruction, ruin, loss, perdition. Note: "perdition" in English derives from Latin perdere (to lose/destroy) -- the same semantic field.
 
-**Verses where G684 is translated "perdition":** 1Ti 6:9; Heb 10:39; 2Pe 3:7; Rev 17:8; 17:11
+**Verses where [G684](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} is translated "perdition":** 1Ti 6:9; Heb 10:39; 2Pe 3:7; Rev 17:8; 17:11
 
-**Verses where G684 is translated "destruction":** Mat 7:13; Rom 9:22; 2Pe 2:1; 3:16
+**Verses where [G684](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} is translated "destruction":** Mat 7:13; Rom 9:22; 2Pe 2:1; 3:16
 
-**Key eschatological verses using G684:**
-- Matt 7:13 -- "Wide is the gate, and broad is the way, that leadeth to DESTRUCTION (apoleia)"
-- Rom 9:22 -- "Vessels of wrath fitted to DESTRUCTION (apoleia)"
-- Phil 3:19 -- "Whose end is DESTRUCTION (apoleia)"
-- 2 Pet 3:7 -- "Reserved unto fire against the day of judgment and PERDITION (apoleia) of ungodly men"
-- 1 Tim 6:9 -- "Foolish and hurtful lusts, which drown men in destruction and PERDITION (apoleia)"
-- 2 Thess 2:3 -- "That man of sin be revealed, the son of PERDITION (apoleia)"
-- Rev 17:8,11 -- The beast "goeth into PERDITION (apoleia)"
-- John 17:12 -- "The son of PERDITION (apoleia)"
-- Heb 10:39 -- "We are not of them who draw back unto PERDITION (apoleia); but of them that believe to the saving of the soul"
-- 2 Pet 2:1-3 -- "Damnable (apoleia) heresies... their DESTRUCTION (apoleia) slumbereth not"
+**Key eschatological verses using [G684](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}:**
+- Matt 7:13 -- "Wide is the gate, and broad is the way, that leadeth to DESTRUCTION ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"})"
+- Rom 9:22 -- "Vessels of wrath fitted to DESTRUCTION ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"})"
+- Phil 3:19 -- "Whose end is DESTRUCTION ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"})"
+- 2 Pet 3:7 -- "Reserved unto fire against the day of judgment and PERDITION ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}) of ungodly men"
+- 1 Tim 6:9 -- "Foolish and hurtful lusts, which drown men in destruction and PERDITION ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"})"
+- 2 Thess 2:3 -- "That man of sin be revealed, the son of PERDITION ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"})"
+- Rev 17:8,11 -- The beast "goeth into PERDITION ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"})"
+- John 17:12 -- "The son of PERDITION ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"})"
+- Heb 10:39 -- "We are not of them who draw back unto PERDITION ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}); but of them that believe to the saving of the soul"
+- 2 Pet 2:1-3 -- "Damnable ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}) heresies... their DESTRUCTION ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}) slumbereth not"
 
-#### G3639: olethros (destruction)
-- **Word:** olethros
-- **Transliteration:** olethros
+#### [G3639](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}: [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} (destruction)
+- **Word:** [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}
+- **Transliteration:** [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}
 - **Pronunciation:** ol-eth-ros
 - **Part of Speech:** masculine noun
 - **Definition:** From a primary ollymi (to destroy; a prolonged form); ruin, i.e. death, punishment.
@@ -296,31 +296,31 @@ ISA 34:8-10; DAN 12:2; MAT 3:12; 10:28; 18:8; 25:41,46; MRK 3:29; LUK 3:17; JHN 
   - "destruction" (3x, 75.0%)
   - "the destruction" (1x, 25.0%)
 
-**All 4 verses using G3639:**
-- 1 Cor 5:5 -- "To deliver such an one unto Satan for the DESTRUCTION (olethros) of the flesh"
-- 1 Thess 5:3 -- "Then sudden DESTRUCTION (olethros) cometh upon them... and they shall not escape"
-- 2 Thess 1:9 -- "Who shall be punished with everlasting DESTRUCTION (olethros) from the presence of the Lord"
-- 1 Tim 6:9 -- "Foolish and hurtful lusts, which drown men in DESTRUCTION (olethros) and perdition (apoleia)"
+**All 4 verses using [G3639](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}:**
+- 1 Cor 5:5 -- "To deliver such an one unto Satan for the DESTRUCTION ([olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}) of the flesh"
+- 1 Thess 5:3 -- "Then sudden DESTRUCTION ([olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}) cometh upon them... and they shall not escape"
+- 2 Thess 1:9 -- "Who shall be punished with everlasting DESTRUCTION ([olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}) from the presence of the Lord"
+- 1 Tim 6:9 -- "Foolish and hurtful lusts, which drown men in DESTRUCTION ([olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}) and perdition ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"})"
 
-**Key finding:** All four uses of olethros involve destruction/ruin. The critical eschatological verse is 2 Thess 1:9 -- "everlasting DESTRUCTION (olethros)" -- the phrase combines aionios (everlasting) with olethros (destruction/ruin). Note: olethros is etymologically related to apollymi (G622).
+**Key finding:** All four uses of [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} involve destruction/ruin. The critical eschatological verse is 2 Thess 1:9 -- "everlasting DESTRUCTION ([olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"})" -- the phrase combines [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} (everlasting) with [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} (destruction/ruin). Note: [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} is etymologically related to [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (G622).
 
 ---
 
 ### Semantic Strong's Search Results: "destroy destruction perish consume annihilate"
 
 Top results by semantic relevance:
-1. H3617 (kalah, noun form) -- "a completion; consumption, destruction" -- score 0.524
-2. H8 (obed, active participle of H6) -- "wretched, destruction; perish" -- score 0.511
-3. H4892 (mashcheth) -- "destruction, destroying" -- score 0.492
-4. G684 (apoleia) -- "ruin or loss; perdition, destruction" -- score 0.485
-5. H12 (abdan) -- "a perishing; destruction" -- score 0.485
-6. H13 (obdan) -- "a perishing; destruction" -- score 0.482
-7. H7591 (she'iyah) -- "desolation; destruction" -- score 0.470
-8. H5395 (nasham) -- "to blow away; destroy" -- score 0.464
-9. H8046 (shemad, Aramaic of H8045) -- "consume" -- score 0.463
-10. H6789 (tsamath) -- "to extirpate; consume, cut off, destroy, vanish" -- score 0.463
+1. [H3617](https://www.blueletterbible.org/lexicon/h3617/kjv/wlc/0-1/){:target="_blank"} (kalah, noun form) -- "a completion; consumption, destruction" -- score 0.524
+2. [H8](https://www.blueletterbible.org/lexicon/h8/kjv/wlc/0-1/){:target="_blank"} (obed, active participle of H6) -- "wretched, destruction; perish" -- score 0.511
+3. [H4892](https://www.blueletterbible.org/lexicon/h4892/kjv/wlc/0-1/){:target="_blank"} (mashcheth) -- "destruction, destroying" -- score 0.492
+4. [G684](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} (apoleia) -- "ruin or loss; perdition, destruction" -- score 0.485
+5. [H12](https://www.blueletterbible.org/lexicon/h12/kjv/wlc/0-1/){:target="_blank"} (abdan) -- "a perishing; destruction" -- score 0.485
+6. [H13](https://www.blueletterbible.org/lexicon/h13/kjv/wlc/0-1/){:target="_blank"} (obdan) -- "a perishing; destruction" -- score 0.482
+7. [H7591](https://www.blueletterbible.org/lexicon/h7591/kjv/wlc/0-1/){:target="_blank"} (she'iyah) -- "desolation; destruction" -- score 0.470
+8. [H5395](https://www.blueletterbible.org/lexicon/h5395/kjv/wlc/0-1/){:target="_blank"} (nasham) -- "to blow away; destroy" -- score 0.464
+9. [H8046](https://www.blueletterbible.org/lexicon/h8046/kjv/wlc/0-1/){:target="_blank"} (shemad, Aramaic of H8045) -- "consume" -- score 0.463
+10. [H6789](https://www.blueletterbible.org/lexicon/h6789/kjv/wlc/0-1/){:target="_blank"} (tsamath) -- "to extirpate; consume, cut off, destroy, vanish" -- score 0.463
 
-**Key observation:** The semantic search reveals a rich destruction vocabulary cluster. The Hebrew destruction word family includes: abad (H6), shamad (H8045), kalah (H3615), shachath (H7843), plus their noun/participle forms obed (H8), abdan (H12), obdan (H13), kalah-noun (H3617), mashcheth (H4892), mashchiyth (H4889). The Greek destruction word family includes: apollymi (G622), apoleia (G684), olethros (G3639), synapollymi (G4881, to destroy together). These form a consistent semantic field of cessation, ruin, consumption, and annihilation.
+**Key observation:** The semantic search reveals a rich destruction vocabulary cluster. The Hebrew destruction word family includes: [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} (H6), [shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"} (H8045), [kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"} (H3615), [shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"} (H7843), plus their noun/participle forms obed (H8), abdan (H12), obdan (H13), [kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}-noun (H3617), mashcheth (H4892), mashchiyth (H4889). The Greek destruction word family includes: [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (G622), [apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} (G684), [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} (G3639), synapollymi (G4881, to destroy together). These form a consistent semantic field of cessation, ruin, consumption, and annihilation.
 
 ---
 
@@ -330,111 +330,111 @@ Top results by semantic relevance:
 
 **Research Agent MUST retrieve ALL of these from kjv.txt:**
 
-**H6 (abad) eschatological verses:**
-- Psa 1:6 -- "The way of the ungodly shall perish (abad)"
-- Psa 2:12 -- "Lest he be angry and ye perish (abad) from the way"
-- Psa 37:20 -- "The wicked shall perish (abad)"
-- Psa 68:2 -- "As wax melteth before the fire, so let the wicked perish (abad)"
-- Psa 73:27 -- "They that are far from thee shall perish (abad)"
-- Psa 92:9 -- "The workers of iniquity shall be scattered" (context with 92:7 shamad)
-- Psa 146:4 -- "His thoughts perish (abad)" (already E011)
-- Pro 11:7 -- "When a wicked man dieth, his expectation shall perish (abad)"
-- Pro 11:10 -- "When the wicked perish (abad), there is shouting"
-- Pro 28:28 -- "When they perish (abad), the righteous increase"
-- Isa 26:14 -- "They are dead, they shall not live... thou hast destroyed (abad)" (already E148)
-- Jer 51:18 -- "They are vanity... in the time of their visitation they shall perish (abad)"
-- Eze 25:7 -- "I will cause thee to perish (abad) out of the countries"
-- Job 4:9 -- "By the blast of God they perish (abad)"
-- Job 18:17 -- "His remembrance shall perish (abad) from the earth"
-- Job 20:7 -- "He shall perish (abad) for ever like his own dung"
-- Ecc 9:6 -- "Their love, and their hatred, and their envy, is now perished (abad)"
-- Num 16:33 -- "They perished (abad) from among the congregation"
-- Deu 4:26 -- "Ye shall soon utterly perish (abad) from off the land"
-- Deu 8:19-20 -- "Ye shall surely perish (abad)... as the nations which the LORD destroyeth (abad)"
-- Deu 28:20 -- "Until thou be destroyed (abad), and until thou perish (abad) quickly"
-- Deu 28:51 -- "Until he have destroyed (abad) thee"
-- Deu 28:63 -- "So the LORD will rejoice over you to destroy (abad) you"
-- Oba 1:12 -- "In the day that he perished (abad)" (context of Edom's destruction)
-- Jon 1:6 -- "If so be that God will think upon us, that we perish (abad) not"
+**[H6](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} (abad) eschatological verses:**
+- Psa 1:6 -- "The way of the ungodly shall perish ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"})"
+- Psa 2:12 -- "Lest he be angry and ye perish ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}) from the way"
+- Psa 37:20 -- "The wicked shall perish ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"})"
+- Psa 68:2 -- "As wax melteth before the fire, so let the wicked perish ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"})"
+- Psa 73:27 -- "They that are far from thee shall perish ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"})"
+- Psa 92:9 -- "The workers of iniquity shall be scattered" (context with 92:7 [shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"})
+- Psa 146:4 -- "His thoughts perish ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"})" (already E011)
+- Pro 11:7 -- "When a wicked man dieth, his expectation shall perish ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"})"
+- Pro 11:10 -- "When the wicked perish ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}), there is shouting"
+- Pro 28:28 -- "When they perish ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}), the righteous increase"
+- Isa 26:14 -- "They are dead, they shall not live... thou hast destroyed ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"})" (already E148)
+- Jer 51:18 -- "They are vanity... in the time of their visitation they shall perish ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"})"
+- Eze 25:7 -- "I will cause thee to perish ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}) out of the countries"
+- Job 4:9 -- "By the blast of God they perish ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"})"
+- Job 18:17 -- "His remembrance shall perish ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}) from the earth"
+- Job 20:7 -- "He shall perish ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}) for ever like his own dung"
+- Ecc 9:6 -- "Their love, and their hatred, and their envy, is now perished ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"})"
+- Num 16:33 -- "They perished ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}) from among the congregation"
+- Deu 4:26 -- "Ye shall soon utterly perish ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}) from off the land"
+- Deu 8:19-20 -- "Ye shall surely perish ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"})... as the nations which the LORD destroyeth ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"})"
+- Deu 28:20 -- "Until thou be destroyed ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}), and until thou perish ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}) quickly"
+- Deu 28:51 -- "Until he have destroyed ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}) thee"
+- Deu 28:63 -- "So the LORD will rejoice over you to destroy ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}) you"
+- Oba 1:12 -- "In the day that he perished ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"})" (context of Edom's destruction)
+- Jon 1:6 -- "If so be that God will think upon us, that we perish ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}) not"
 
-**G622 (apollymi) eschatological verses:**
-- Matt 5:29-30 -- "One of thy members should perish (apollymi)... cast into hell"
-- Matt 10:28 -- "Able to destroy (apollymi) both soul and body in hell"
-- Matt 10:42 -- "Shall in no wise lose (apollymi) his reward"
-- Matt 18:11 -- "The Son of man is come to save that which was lost (apollymi)"
-- Luke 13:3,5 -- "Except ye repent, ye shall all likewise perish (apollymi)"
-- Luke 15:4,8,9 -- "Having lost (apollymi) one sheep... lost coin"
-- Luke 17:27,29 -- "The flood came, and destroyed (apollymi) them all... fire and brimstone from heaven, and destroyed (apollymi) them all"
-- Luke 19:10 -- "The Son of man is come to seek and to save that which was lost (apollymi)"
-- John 3:15,16 -- "Should not perish (apollymi), but have everlasting life"
-- John 6:39 -- "Of all which he hath given me I should lose (apollymi) nothing"
-- John 10:28 -- "They shall never perish (apollymi)"
-- John 17:12 -- "None of them is lost (apollymi), but the son of perdition (apoleia)"
-- Rom 2:12 -- "As many as have sinned without law shall also perish (apollymi)"
-- 1 Cor 1:18 -- "The preaching of the cross is to them that perish (apollymi) foolishness"
-- 1 Cor 15:18 -- "Then they also which are fallen asleep in Christ are perished (apollymi)"
-- 2 Cor 2:15 -- "A savour of death unto death" / "them that perish (apollymi)"
-- 2 Cor 4:3 -- "Our gospel be hid, it is hid to them that are lost (apollymi)"
-- 2 Thess 2:10 -- "With all deceivableness of unrighteousness in them that perish (apollymi)"
-- 2 Pet 3:9 -- "Not willing that any should perish (apollymi), but that all should come to repentance"
-- Jude 1:5 -- "Afterward destroyed (apollymi) them that believed not"
-- Jude 1:11 -- "Perished (apollymi) in the gainsaying of Core"
+**[G622](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (apollymi) eschatological verses:**
+- Matt 5:29-30 -- "One of thy members should perish ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"})... cast into hell"
+- Matt 10:28 -- "Able to destroy ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}) both soul and body in hell"
+- Matt 10:42 -- "Shall in no wise lose ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}) his reward"
+- Matt 18:11 -- "The Son of man is come to save that which was lost ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"})"
+- Luke 13:3,5 -- "Except ye repent, ye shall all likewise perish ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"})"
+- Luke 15:4,8,9 -- "Having lost ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}) one sheep... lost coin"
+- Luke 17:27,29 -- "The flood came, and destroyed ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}) them all... fire and brimstone from heaven, and destroyed ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}) them all"
+- Luke 19:10 -- "The Son of man is come to seek and to save that which was lost ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"})"
+- John 3:15,16 -- "Should not perish ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}), but have everlasting life"
+- John 6:39 -- "Of all which he hath given me I should lose ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}) nothing"
+- John 10:28 -- "They shall never perish ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"})"
+- John 17:12 -- "None of them is lost ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}), but the son of perdition ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"})"
+- Rom 2:12 -- "As many as have sinned without law shall also perish ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"})"
+- 1 Cor 1:18 -- "The preaching of the cross is to them that perish ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}) foolishness"
+- 1 Cor 15:18 -- "Then they also which are fallen asleep in Christ are perished ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"})"
+- 2 Cor 2:15 -- "A savour of death unto death" / "them that perish ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"})"
+- 2 Cor 4:3 -- "Our gospel be hid, it is hid to them that are lost ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"})"
+- 2 Thess 2:10 -- "With all deceivableness of unrighteousness in them that perish ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"})"
+- 2 Pet 3:9 -- "Not willing that any should perish ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}), but that all should come to repentance"
+- Jude 1:5 -- "Afterward destroyed ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}) them that believed not"
+- Jude 1:11 -- "Perished ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}) in the gainsaying of Core"
 
-**H8045 (shamad) eschatological verses:**
-- Psa 37:38 -- "The transgressors shall be destroyed (shamad) together"
-- Psa 92:7 -- "When the wicked spring as the grass... it is that they shall be destroyed (shamad) for ever"
-- Psa 145:20 -- "The LORD preserveth all them that love him: but all the wicked will he destroy (shamad)"
-- Isa 13:9 -- "The day of the LORD cometh... he shall destroy (shamad) the sinners thereof out of it"
-- Isa 26:14 -- "They are dead... thou hast destroyed (shamad) them, and made all their memory to perish (abad)"
-- Deu 4:26 -- "Ye shall soon utterly perish (abad abad) from off the land... the LORD shall destroy (shamad) you"
-- Deu 6:15 -- "Lest the anger of the LORD thy God be kindled against thee, and destroy (shamad) thee from off the face of the earth"
-- Deu 28:48 -- "Until he have destroyed (shamad) thee"
-- Amo 9:8 -- "I will destroy (shamad) it from off the face of the earth"
+**[H8045](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"} (shamad) eschatological verses:**
+- Psa 37:38 -- "The transgressors shall be destroyed ([shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}) together"
+- Psa 92:7 -- "When the wicked spring as the grass... it is that they shall be destroyed ([shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}) for ever"
+- Psa 145:20 -- "The LORD preserveth all them that love him: but all the wicked will he destroy ([shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"})"
+- Isa 13:9 -- "The day of the LORD cometh... he shall destroy ([shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}) the sinners thereof out of it"
+- Isa 26:14 -- "They are dead... thou hast destroyed ([shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}) them, and made all their memory to perish ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"})"
+- Deu 4:26 -- "Ye shall soon utterly perish ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}) from off the land... the LORD shall destroy ([shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}) you"
+- Deu 6:15 -- "Lest the anger of the LORD thy God be kindled against thee, and destroy ([shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}) thee from off the face of the earth"
+- Deu 28:48 -- "Until he have destroyed ([shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}) thee"
+- Amo 9:8 -- "I will destroy ([shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}) it from off the face of the earth"
 
-**H3615 (kalah) eschatological verses:**
-- Psa 37:20 -- "The enemies of the LORD shall be as the fat of lambs: they shall consume (kalah); into smoke shall they consume away"
-- Psa 59:13 -- "Consume (kalah) them in wrath, consume them, that they may not be"
-- Psa 104:35 -- "Let the sinners be consumed (kalah) out of the earth, and let the wicked be no more"
-- Psa 73:19 -- "How are they brought into desolation... they are utterly consumed (kalah) with terrors"
-- Isa 1:28 -- "The destruction of the transgressors and of the sinners shall be together, and they that forsake the LORD shall be consumed (kalah)"
-- Deu 28:21 -- "The LORD shall make the pestilence cleave unto thee, until he have consumed (kalah) thee"
-- Deu 32:23 -- "I will heap mischiefs upon them; I will spend (kalah) mine arrows upon them"
-- Eze 5:13 -- "I will accomplish (kalah) my fury upon them"
+**[H3615](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"} (kalah) eschatological verses:**
+- Psa 37:20 -- "The enemies of the LORD shall be as the fat of lambs: they shall consume ([kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}); into smoke shall they consume away"
+- Psa 59:13 -- "Consume ([kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}) them in wrath, consume them, that they may not be"
+- Psa 104:35 -- "Let the sinners be consumed ([kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}) out of the earth, and let the wicked be no more"
+- Psa 73:19 -- "How are they brought into desolation... they are utterly consumed ([kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}) with terrors"
+- Isa 1:28 -- "The destruction of the transgressors and of the sinners shall be together, and they that forsake the LORD shall be consumed ([kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"})"
+- Deu 28:21 -- "The LORD shall make the pestilence cleave unto thee, until he have consumed ([kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}) thee"
+- Deu 32:23 -- "I will heap mischiefs upon them; I will spend ([kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}) mine arrows upon them"
+- Eze 5:13 -- "I will accomplish ([kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}) my fury upon them"
 - Eze 22:31 -- "Their own way have I recompensed upon their heads"
-- Num 25:11 -- "That I consumed (kalah) not the children of Israel in my jealousy"
-- Jer 14:12 -- "I will consume (kalah) them by the sword, and by the famine, and by the pestilence"
-- Lam 2:22 -- "Those that I have swaddled and brought up hath mine enemy consumed (kalah)"
+- Num 25:11 -- "That I consumed ([kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}) not the children of Israel in my jealousy"
+- Jer 14:12 -- "I will consume ([kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}) them by the sword, and by the famine, and by the pestilence"
+- Lam 2:22 -- "Those that I have swaddled and brought up hath mine enemy consumed ([kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"})"
 
-**H7843 (shachath) eschatological verses:**
-- Gen 6:17 -- "I do bring a flood of waters... to destroy (shachath) all flesh"
-- Gen 18:28-32 -- Abraham's intercession: "wilt thou destroy (shachath) all the city...?"
-- Gen 19:13-14 -- "We will destroy (shachath) this place"
-- Deu 4:31 -- "He will not forsake thee, neither destroy (shachath) thee"
-- 2 Sam 24:16 -- "The angel that destroyed (shachath) the people"
-- Isa 11:9 -- "They shall not hurt nor destroy (shachath) in all my holy mountain"
-- Isa 65:8 -- "Destroy (shachath) it not; for a blessing is in it"
-- Eze 5:16 -- "I shall send upon them the evil arrows of famine, which shall be for their destruction (shachath)"
-- Hos 13:9 -- "O Israel, thou hast destroyed (shachath) thyself; but in me is thine help"
-- Mal 3:11 -- "I will rebuke the devourer... and he shall not destroy (shachath) the fruits of your ground"
+**[H7843](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"} (shachath) eschatological verses:**
+- Gen 6:17 -- "I do bring a flood of waters... to destroy ([shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}) all flesh"
+- Gen 18:28-32 -- Abraham's intercession: "wilt thou destroy ([shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}) all the city...?"
+- Gen 19:13-14 -- "We will destroy ([shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}) this place"
+- Deu 4:31 -- "He will not forsake thee, neither destroy ([shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}) thee"
+- 2 Sam 24:16 -- "The angel that destroyed ([shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}) the people"
+- Isa 11:9 -- "They shall not hurt nor destroy ([shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}) in all my holy mountain"
+- Isa 65:8 -- "Destroy ([shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}) it not; for a blessing is in it"
+- Eze 5:16 -- "I shall send upon them the evil arrows of famine, which shall be for their destruction ([shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"})"
+- Hos 13:9 -- "O Israel, thou hast destroyed ([shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}) thyself; but in me is thine help"
+- Mal 3:11 -- "I will rebuke the devourer... and he shall not destroy ([shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}) the fruits of your ground"
 
-**G684 (apoleia) eschatological verses:**
-- Matt 7:13 -- "Broad is the way that leadeth to destruction (apoleia)"
-- Rom 9:22 -- "Vessels of wrath fitted to destruction (apoleia)"
-- Phil 3:19 -- "Whose end is destruction (apoleia)"
-- 2 Pet 3:7 -- "Reserved unto fire against the day of judgment and perdition (apoleia) of ungodly men"
-- 1 Tim 6:9 -- "Drown men in destruction (olethros) and perdition (apoleia)"
-- 2 Thess 2:3 -- "The son of perdition (apoleia)"
-- Heb 10:39 -- "We are not of them who draw back unto perdition (apoleia)"
-- 2 Pet 2:1-3 -- "Bring upon themselves swift destruction (apoleia)"
-- John 17:12 -- "The son of perdition (apoleia)"
-- Rev 17:8,11 -- The beast "goeth into perdition (apoleia)"
-- Acts 8:20 -- "Thy money perish (apoleia) with thee" (Peter to Simon)
+**[G684](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} (apoleia) eschatological verses:**
+- Matt 7:13 -- "Broad is the way that leadeth to destruction ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"})"
+- Rom 9:22 -- "Vessels of wrath fitted to destruction ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"})"
+- Phil 3:19 -- "Whose end is destruction ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"})"
+- 2 Pet 3:7 -- "Reserved unto fire against the day of judgment and perdition ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}) of ungodly men"
+- 1 Tim 6:9 -- "Drown men in destruction ([olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}) and perdition ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"})"
+- 2 Thess 2:3 -- "The son of perdition ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"})"
+- Heb 10:39 -- "We are not of them who draw back unto perdition ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"})"
+- 2 Pet 2:1-3 -- "Bring upon themselves swift destruction ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"})"
+- John 17:12 -- "The son of perdition ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"})"
+- Rev 17:8,11 -- The beast "goeth into perdition ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"})"
+- Acts 8:20 -- "Thy money perish ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}) with thee" (Peter to Simon)
 
-**G3639 (olethros) -- ALL 4 eschatological verses:**
-- 1 Cor 5:5 -- "For the destruction (olethros) of the flesh"
-- 1 Thess 5:3 -- "Then sudden destruction (olethros) cometh upon them"
-- 2 Thess 1:9 -- "Punished with everlasting destruction (olethros) from the presence of the Lord"
-- 1 Tim 6:9 -- "Drown men in destruction (olethros) and perdition (apoleia)"
+**[G3639](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} (olethros) -- ALL 4 eschatological verses:**
+- 1 Cor 5:5 -- "For the destruction ([olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}) of the flesh"
+- 1 Thess 5:3 -- "Then sudden destruction ([olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}) cometh upon them"
+- 2 Thess 1:9 -- "Punished with everlasting destruction ([olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}) from the presence of the Lord"
+- 1 Tim 6:9 -- "Drown men in destruction ([olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}) and perdition ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"})"
 
 #### B. ADDITIONAL DESTRUCTION VOCABULARY PASSAGES
 
@@ -452,7 +452,7 @@ Top results by semantic relevance:
 - Heb 12:29 -- "Our God is a consuming fire"
 - 2 Pet 3:7,10 -- "The heavens and the earth... are reserved unto fire... the elements shall melt with fervent heat"
 - Rev 20:9 -- "Fire came down from God out of heaven, and devoured them"
-- Jas 4:12 -- "One lawgiver, who is able to save and to destroy (apollymi)"
+- Jas 4:12 -- "One lawgiver, who is able to save and to destroy ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"})"
 - Psa 21:9 -- "Thou shalt make them as a fiery oven... the fire shall devour them"
 - Isa 33:12 -- "The people shall be as the burnings of lime: as thorns cut up shall they be burned in the fire"
 
@@ -461,8 +461,8 @@ Top results by semantic relevance:
 - Matt 25:41,46 -- "Everlasting fire prepared for the devil and his angels... everlasting punishment"
 - Rev 14:10-11 -- "Tormented with fire and brimstone... the smoke of their torment ascendeth up for ever and ever"
 - Rev 20:10 -- "The devil... was cast into the lake of fire... and shall be tormented day and night for ever and ever"
-- Mark 9:43-48 -- "Gehenna, into the fire that never shall be quenched: where their worm dieth not"
-- Luke 16:23-28 -- Rich man in hades "in torments"
+- Mark 9:43-48 -- "[Gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"}, into the fire that never shall be quenched: where their worm dieth not"
+- Luke 16:23-28 -- Rich man in [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} "in torments"
 - 2 Thess 1:9 -- "Everlasting destruction from the presence of the Lord"
 - Jude 1:7 -- "The vengeance of eternal fire"
 - Dan 12:2 -- "Some to everlasting life, and some to shame and everlasting contempt"
@@ -474,9 +474,9 @@ Top results by semantic relevance:
 
 **From etc-01 (What Is Man?):**
 - Man became a living soul (Gen 2:7) -- holistic, not dualistic
-- Nephesh can die (Ezek 18:4,20) -- E016
-- God can destroy (apollymi) both soul and body in gehenna (Matt 10:28) -- E028
-- Thoughts perish (abad) at death (Ps 146:4) -- E011
+- [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} can die (Ezek 18:4,20) -- E016
+- God can destroy ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}) both soul and body in [gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} (Matt 10:28) -- E028
+- Thoughts perish ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}) at death (Ps 146:4) -- E011
 - The dead know nothing (Ecc 9:5) -- E019
 - 72 items total: 56 E, 9 N, 7 I
 
@@ -498,18 +498,18 @@ Top results by semantic relevance:
 - At least 8 OT authors describe the dead as unconscious
 - Death = sleep by 7+ biblical authors
 - Being "with the Lord" is tied to resurrection, not death -- N018
-- Sheol/hades is the common destination of all dead -- N019
-- Hades is temporary (Rev 20:13-14) -- N020
+- [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}/[hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} is the common destination of all dead -- N019
+- [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} is temporary (Rev 20:13-14) -- N020
 - 43 items total (new): 31 E, 5 N, 7 I
 
 **From etc-05 (Four Hell Words):**
-- Sheol (H7585) and hades (G86) are semantically equivalent (LXX: sheol -> hades 58x) -- N019 updated
-- Sheol/hades is characterized by unconsciousness in didactic passages -- N004 updated
-- Gehenna uses destruction vocabulary (apollymi), not torment vocabulary -- E197
-- No gehenna passage applies basanizo/basanismos/kolasis to humans -- E197
+- [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} (H7585) and [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (G86) are semantically equivalent (LXX: [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} -> [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} 58x) -- N019 updated
+- [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}/[hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} is characterized by unconsciousness in didactic passages -- N004 updated
+- [Gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} uses destruction vocabulary ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}), not torment vocabulary -- E197
+- No [gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} passage applies [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}/[basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"}/[kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} to humans -- E197
 - Isaiah 66:24 describes "carcases" (peger = corpses) consumed by worm and fire -- E192
-- Gehenna vs. life dichotomy: "enter into life" vs. gehenna -- E190
-- Tartaroo applies only to angels, not humans -- N024
+- [Gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} vs. life dichotomy: "enter into life" vs. [gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} -- E190
+- [Tartaroo](https://www.blueletterbible.org/lexicon/g5020/kjv/tr/0-1/){:target="_blank"} applies only to angels, not humans -- N024
 - KJV translates four distinct words as "hell," obscuring their differences -- N026
 - Rev 20:10 applies torment to three named subjects (devil, beast, false prophet), not humans -- E125
 - When humans enter the lake of fire, the term is "the second death," not "torment" -- E204
@@ -522,23 +522,23 @@ Top results by semantic relevance:
 ### Focus Areas
 (Derived from tool discoveries and prior study findings)
 
-1. **abad (H6) and apollymi (G622) -- The primary destruction word pair:** The LXX translates abad as apollymi 141 times, establishing them as the premier Hebrew-Greek equivalents for "perish/destroy." Together they occur over 300 times. How are these words used in eschatological contexts? Are they EVER used to mean "ongoing torment" or do they consistently mean "cease to exist / be destroyed"? Prior study etc-05 already noted that apollymi is Jesus' chosen word for what happens in gehenna (Matt 10:28; Matt 5:29-30). This study conducts the comprehensive lexical analysis.
+1. **[abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} (H6) and [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (G622) -- The primary destruction word pair:** The LXX translates [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} as [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} 141 times, establishing them as the premier Hebrew-Greek equivalents for "perish/destroy." Together they occur over 300 times. How are these words used in eschatological contexts? Are they EVER used to mean "ongoing torment" or do they consistently mean "cease to exist / be destroyed"? Prior study etc-05 already noted that [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} is Jesus' chosen word for what happens in [gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} (Matt 10:28; Matt 5:29-30). This study conducts the comprehensive lexical analysis.
 
-2. **shamad (H8045) -- Total destruction/annihilation:** Used ~100 times. Means to desolate, exterminate, bring to nought. The LXX translates it as apollymi 23 times and exairo (to remove completely) 12 times. How does shamad function in eschatological contexts? Key verse: Psa 145:20 -- "all the wicked will he destroy (shamad)."
+2. **[shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"} (H8045) -- Total destruction/annihilation:** Used ~100 times. Means to desolate, exterminate, bring to nought. The LXX translates it as [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} 23 times and exairo (to remove completely) 12 times. How does [shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"} function in eschatological contexts? Key verse: Psa 145:20 -- "all the wicked will he destroy ([shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"})."
 
-3. **kalah (H3615) -- Consume/complete/finish:** A word with dual meaning (complete a task / consume a substance). When used of people, means to consume, spend up, use up. Key verse: Psa 37:20 -- "into smoke shall they consume away (kalah)." What does the consumption metaphor imply about the nature of divine judgment?
+3. **[kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"} (H3615) -- Consume/complete/finish:** A word with dual meaning (complete a task / consume a substance). When used of people, means to consume, spend up, use up. Key verse: Psa 37:20 -- "into smoke shall they consume away ([kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"})." What does the consumption metaphor imply about the nature of divine judgment?
 
-4. **shachath (H7843) -- Corrupt/decay/ruin:** The broadest of the Hebrew terms. Includes both physical destruction and moral corruption. The LXX translates it as diaphtheiro (to rot thoroughly, 48 times). Note connection to diaphthora (G1312, corruption) used in Acts 2:27,31 and Acts 13:34-37 for grave-corruption. How does the decay/corruption meaning relate to the fate of the wicked?
+4. **[shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"} (H7843) -- Corrupt/decay/ruin:** The broadest of the Hebrew terms. Includes both physical destruction and moral corruption. The LXX translates it as diaphtheiro (to rot thoroughly, 48 times). Note connection to diaphthora (G1312, corruption) used in Acts 2:27,31 and Acts 13:34-37 for grave-corruption. How does the decay/corruption meaning relate to the fate of the wicked?
 
-5. **apoleia (G684) -- Destruction/perdition:** The noun form of apollymi (G622). Used 17-20 times in the NT. KJV translates it as "perdition" (5x) and "destruction" (4x). Key verse: Matt 7:13 -- "broad is the way that leadeth to destruction (apoleia)." How does this word function in contrast to "life" (zoe)?
+5. **[apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} (G684) -- Destruction/perdition:** The noun form of [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (G622). Used 17-20 times in the NT. KJV translates it as "perdition" (5x) and "destruction" (4x). Key verse: Matt 7:13 -- "broad is the way that leadeth to destruction ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"})." How does this word function in contrast to "life" ([zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"})?
 
-6. **olethros (G3639) -- Destruction/ruin:** Only 4 NT occurrences. The critical verse is 2 Thess 1:9 -- "everlasting destruction (olethros) from the presence of the Lord." This is the ONLY verse pairing aionios (everlasting) with olethros (destruction). How does the ECT interpretation handle "everlasting destruction" when olethros means "ruin/destruction"? How does the conditionalist interpretation handle "everlasting" modifying a destruction word?
+6. **[olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} (G3639) -- Destruction/ruin:** Only 4 NT occurrences. The critical verse is 2 Thess 1:9 -- "everlasting destruction ([olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}) from the presence of the Lord." This is the ONLY verse pairing [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} (everlasting) with [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} (destruction). How does the ECT interpretation handle "everlasting destruction" when [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} means "ruin/destruction"? How does the conditionalist interpretation handle "everlasting" modifying a destruction word?
 
-7. **The abad-apollymi-apoleia lexical chain:** H6 (abad) -> G622 (apollymi, via LXX) -> G684 (apoleia, noun form). This forms a single lexical chain from the OT through the LXX to the NT. The semantic field is consistent: perish, destroy, destruction, ruin, loss. Does this chain support the idea that the fate of the wicked is destruction (cessation) or does it support ongoing torment?
+7. **The [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}-[apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}-[apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} lexical chain:** [H6](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} (abad) -> [G622](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (apollymi, via LXX) -> [G684](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} (apoleia, noun form). This forms a single lexical chain from the OT through the LXX to the NT. The semantic field is consistent: perish, destroy, destruction, ruin, loss. Does this chain support the idea that the fate of the wicked is destruction (cessation) or does it support ongoing torment?
 
-8. **Destruction vocabulary vs. torment vocabulary in eschatological contexts:** Prior study etc-05 found that gehenna passages use apollymi (destroy), not basanizo (torment). This study examines ALL six destruction words in eschatological contexts to determine whether the Bible's primary vocabulary for the fate of the wicked is destruction-language or torment-language.
+8. **Destruction vocabulary vs. torment vocabulary in eschatological contexts:** Prior study etc-05 found that [gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} passages use [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (destroy), not [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (torment). This study examines ALL six destruction words in eschatological contexts to determine whether the Bible's primary vocabulary for the fate of the wicked is destruction-language or torment-language.
 
-9. **The "everlasting" + destruction word combinations:** Several key verses combine aionios/olam with destruction words: "everlasting destruction" (2 Thess 1:9), "destroyed for ever" (Psa 92:7), "perish from the way" (Psa 2:12). How do these combinations function? Does "everlasting destruction" mean "destruction that lasts forever" (ECT: ongoing process) or "destruction whose result is everlasting" (Conditionalist: permanent cessation)?
+9. **The "everlasting" + destruction word combinations:** Several key verses combine [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}/[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} with destruction words: "everlasting destruction" (2 Thess 1:9), "destroyed for ever" (Psa 92:7), "perish from the way" (Psa 2:12). How do these combinations function? Does "everlasting destruction" mean "destruction that lasts forever" (ECT: ongoing process) or "destruction whose result is everlasting" (Conditionalist: permanent cessation)?
 
 10. **Destruction similes -- what do the images depict?** Scripture compares the fate of the wicked to: chaff burned (Psa 1:4; Matt 3:12), wax melting (Psa 68:2), smoke dissipating (Psa 37:20; Hos 13:3), stubble consumed (Mal 4:1; Nah 1:10), ashes under feet (Mal 4:3), morning clouds passing away (Hos 13:3). Do these similes depict an ongoing process or a completed result?
 
@@ -561,52 +561,52 @@ You are the Research Agent. Execute this study following the answer-question wor
 
 ### Cross-Testament Parallels (MANDATORY)
 Run BOTH --hybrid-ot AND --hybrid-nt for these key verses:
-- Psa 1:6 (the way of the ungodly shall perish -- abad)
-- Psa 37:20 (wicked perish, consume into smoke -- abad + kalah)
-- Psa 68:2 (wicked perish as wax -- abad)
-- Psa 92:7 (destroyed for ever -- shamad)
-- Psa 145:20 (all the wicked will he destroy -- shamad)
-- Psa 104:35 (sinners consumed out of the earth -- kalah)
-- Isa 1:28 (transgressors consumed -- kalah)
-- Isa 26:14 (dead shall not live, destroyed -- abad + shamad)
-- Matt 7:13 (broad way leads to destruction -- apoleia)
-- Matt 10:28 (destroy soul and body in gehenna -- apollymi)
-- John 3:16 (should not perish -- apollymi)
-- 2 Thess 1:9 (everlasting destruction -- olethros)
-- 2 Pet 3:7 (perdition of ungodly men -- apoleia)
-- Rom 9:22 (vessels of wrath fitted to destruction -- apoleia)
+- Psa 1:6 (the way of the ungodly shall perish -- [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"})
+- Psa 37:20 (wicked perish, consume into smoke -- [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} + [kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"})
+- Psa 68:2 (wicked perish as wax -- [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"})
+- Psa 92:7 (destroyed for ever -- [shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"})
+- Psa 145:20 (all the wicked will he destroy -- [shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"})
+- Psa 104:35 (sinners consumed out of the earth -- [kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"})
+- Isa 1:28 (transgressors consumed -- [kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"})
+- Isa 26:14 (dead shall not live, destroyed -- [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} + [shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"})
+- Matt 7:13 (broad way leads to destruction -- [apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"})
+- Matt 10:28 (destroy soul and body in [gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} -- [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"})
+- John 3:16 (should not perish -- [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"})
+- 2 Thess 1:9 (everlasting destruction -- [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"})
+- 2 Pet 3:7 (perdition of ungodly men -- [apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"})
+- Rom 9:22 (vessels of wrath fitted to destruction -- [apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"})
 - Mal 4:1-3 (stubble burned up, ashes under feet)
 
 ### Verse Retrieval (02-verses.md)
 - Retrieve EVERY verse listed in sections A, B, and C above
 - Include surrounding context (at least 1 verse before and after) for key eschatological passages
 - Total approximately 100-120 verses
-- Pay special attention to verses where multiple destruction words appear together (e.g., Isa 26:14 uses both abad and shamad; 1 Tim 6:9 uses both olethros and apoleia; Psa 37:20 uses both abad and kalah)
+- Pay special attention to verses where multiple destruction words appear together (e.g., Isa 26:14 uses both [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} and [shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}; 1 Tim 6:9 uses both [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} and [apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}; Psa 37:20 uses both [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} and [kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"})
 
 ### Word Studies (04-word-studies.md)
 **Core words (full treatment):**
-- H6 (abad) -- full lookup, lexicon, ALL eschatological verses, LXX map
-- G622 (apollymi) -- full lookup, lexicon, ALL eschatological verses
-- H8045 (shamad) -- full lookup, lexicon, ALL eschatological verses, LXX map
-- H3615 (kalah) -- full lookup, lexicon, ALL eschatological verses, LXX map
-- H7843 (shachath) -- full lookup, lexicon, ALL eschatological verses, LXX map
-- G684 (apoleia) -- full lookup, lexicon, ALL verses (only ~20)
-- G3639 (olethros) -- full lookup, lexicon, ALL 4 verses
+- [H6](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} (abad) -- full lookup, lexicon, ALL eschatological verses, LXX map
+- [G622](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (apollymi) -- full lookup, lexicon, ALL eschatological verses
+- [H8045](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"} (shamad) -- full lookup, lexicon, ALL eschatological verses, LXX map
+- [H3615](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"} (kalah) -- full lookup, lexicon, ALL eschatological verses, LXX map
+- [H7843](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"} (shachath) -- full lookup, lexicon, ALL eschatological verses, LXX map
+- [G684](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} (apoleia) -- full lookup, lexicon, ALL verses (only ~20)
+- [G3639](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} (olethros) -- full lookup, lexicon, ALL 4 verses
 
 **Related words (brief treatment):**
-- H3617 (kalah, noun form) -- completion, consumption, destruction
-- H8 (obed, participle of H6) -- perishing
-- H4889 (mashchiyth) -- destruction, destroying
-- G4881 (synapollymi) -- to destroy together (Heb 11:31; Jude)
-- G355 (analisko) -- to consume (Luke 9:54; 2 Thess 2:8; Gal 5:15)
-- G1311 (diaphtheiro) -- to rot thoroughly, destroy (primary LXX translation of shachath)
-- G5351 (phtheiro) -- to corrupt, destroy (1 Cor 3:17; 15:33; 2 Pet 2:12)
+- [H3617](https://www.blueletterbible.org/lexicon/h3617/kjv/wlc/0-1/){:target="_blank"} (kalah, noun form) -- completion, consumption, destruction
+- [H8](https://www.blueletterbible.org/lexicon/h8/kjv/wlc/0-1/){:target="_blank"} (obed, participle of H6) -- perishing
+- [H4889](https://www.blueletterbible.org/lexicon/h4889/kjv/wlc/0-1/){:target="_blank"} (mashchiyth) -- destruction, destroying
+- [G4881](https://www.blueletterbible.org/lexicon/g4881/kjv/tr/0-1/){:target="_blank"} (synapollymi) -- to destroy together (Heb 11:31; Jude)
+- [G355](https://www.blueletterbible.org/lexicon/g355/kjv/tr/0-1/){:target="_blank"} (analisko) -- to consume (Luke 9:54; 2 Thess 2:8; Gal 5:15)
+- [G1311](https://www.blueletterbible.org/lexicon/g1311/kjv/tr/0-1/){:target="_blank"} (diaphtheiro) -- to rot thoroughly, destroy (primary LXX translation of shachath)
+- [G5351](https://www.blueletterbible.org/lexicon/g5351/kjv/tr/0-1/){:target="_blank"} (phtheiro) -- to corrupt, destroy (1 Cor 3:17; 15:33; 2 Pet 2:12)
 
 **Supporting words (cross-reference from etc-05):**
-- G929 (basanismos/torment) -- how does torment vocabulary compare to destruction vocabulary?
-- G928 (basanizo/to torment) -- torment verb
-- G2851 (kolasis/punishment) -- Matt 25:46
-- G166 (aionios/everlasting) -- duration modifier (cross-ref etc-08 when written)
+- [G929](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} (basanismos/torment) -- how does torment vocabulary compare to destruction vocabulary?
+- [G928](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (basanizo/to torment) -- torment verb
+- [G2851](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} (kolasis/punishment) -- Matt 25:46
+- [G166](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} (aionios/everlasting) -- duration modifier (cross-ref etc-08 when written)
 
 ### Topic Entries (01-topics.md)
 Retrieve full Nave's entries for:
@@ -618,15 +618,15 @@ Retrieve full Nave's entries for:
 
 ### Specific Research Questions to Answer
 1. What is the combined semantic range of all six destruction words? Do they share a common meaning (cessation of existence) or do they span a range that includes ongoing torment?
-2. How does the LXX translation pattern (abad -> apollymi 141x, shamad -> apollymi 23x, shachath -> diaphtheiro 48x) establish cross-testament vocabulary continuity?
-3. In how many eschatological uses does abad/apollymi mean "ongoing conscious torment" vs. "perish/be destroyed"? (Compare: wineskins "perish" in Matt 9:17 -- they cease to function, not tormented)
-4. How does the abad-apollymi-apoleia chain function in the life/destruction contrast pattern? (John 3:16: perish vs. everlasting life; Matt 7:13-14: destruction vs. life; Phil 3:19: destruction vs. citizenship in heaven)
-5. What does "everlasting destruction" (olethros aionios, 2 Thess 1:9) mean lexically? Does olethros anywhere mean "ongoing torment"?
+2. How does the LXX translation pattern ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} -> [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} 141x, [shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"} -> [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} 23x, [shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"} -> diaphtheiro 48x) establish cross-testament vocabulary continuity?
+3. In how many eschatological uses does [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}/[apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} mean "ongoing conscious torment" vs. "perish/be destroyed"? (Compare: wineskins "perish" in Matt 9:17 -- they cease to function, not tormented)
+4. How does the [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}-[apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}-[apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} chain function in the life/destruction contrast pattern? (John 3:16: perish vs. everlasting life; Matt 7:13-14: destruction vs. life; Phil 3:19: destruction vs. citizenship in heaven)
+5. What does "everlasting destruction" ([olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}, 2 Thess 1:9) mean lexically? Does [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} anywhere mean "ongoing torment"?
 6. How do the destruction similes (chaff, wax, smoke, stubble, ashes, morning clouds) depict the fate of the wicked? Do ANY of these images depict ongoing existence?
-7. How do destruction vocabulary passages relate to the torment vocabulary passages (basanizo/basanismos in Rev 14:10-11; 20:10)? Are these describing the same event in different terms, or different events?
-8. Does any Hebrew destruction word (abad, shamad, kalah, shachath) EVER mean "torment" or "ongoing conscious existence in suffering" in any OT passage?
-9. What is the significance of Psa 37:20 using BOTH abad (perish) and kalah (consume into smoke) in one verse? What about Isa 26:14 using BOTH abad and shamad?
-10. How does the observation that gehenna uses apollymi (Matt 10:28) but NOT basanizo (established in etc-05, E197) connect to the broader pattern of destruction vocabulary?
+7. How do destruction vocabulary passages relate to the torment vocabulary passages ([basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}/[basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} in Rev 14:10-11; 20:10)? Are these describing the same event in different terms, or different events?
+8. Does any Hebrew destruction word ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}, [shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}, [kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}, [shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}) EVER mean "torment" or "ongoing conscious existence in suffering" in any OT passage?
+9. What is the significance of Psa 37:20 using BOTH [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} (perish) and [kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"} (consume into smoke) in one verse? What about Isa 26:14 using BOTH [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} and [shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}?
+10. How does the observation that [gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} uses [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (Matt 10:28) but NOT [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (established in etc-05, E197) connect to the broader pattern of destruction vocabulary?
 
 ### Output Files
 Write research files to `D:/Bible/bible-studies/etc-06-destruction-vocabulary/`:
@@ -660,15 +660,15 @@ Follow the full methodology in `D:/Bible/bible-studies/etc-series-methodology.md
 ### Critical Notes for This Study
 1. **The life/destruction contrast is THE central pattern.** John 3:16 (perish vs. everlasting life), Matt 7:13-14 (destruction vs. life), Rom 6:23 (death vs. eternal life), Phil 3:19 (destruction vs. citizenship in heaven). Track this contrast through ALL six destruction words.
 
-2. **Do not conflate destruction vocabulary with torment vocabulary.** Apollymi (destroy) and basanizo (torment) are different Greek words with different meanings. The question is which vocabulary the Bible predominantly uses for the fate of the wicked.
+2. **Do not conflate destruction vocabulary with torment vocabulary.** [Apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (destroy) and [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (torment) are different Greek words with different meanings. The question is which vocabulary the Bible predominantly uses for the fate of the wicked.
 
-3. **The LXX connections are primary evidence.** When the OT uses abad (perish) and the LXX translates it as apollymi (destroy), and the NT uses apollymi for the fate of the wicked, this is a verified textual connection (#4a SIS).
+3. **The LXX connections are primary evidence.** When the OT uses [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} (perish) and the LXX translates it as [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (destroy), and the NT uses [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} for the fate of the wicked, this is a verified textual connection (#4a SIS).
 
 4. **"Everlasting" modifies the NOUN it modifies.** "Everlasting destruction" (2 Thess 1:9) -- what does "destruction" mean? "Everlasting life" -- what does "life" mean? The adjective modifies the noun. Examine what each noun means lexically before deciding what the combination means.
 
 5. **ECT must be treated fairly.** The ECT position argues that destruction vocabulary is metaphorical (spiritual ruin, not physical annihilation), that "perish" means "ruined" not "cease to exist," and that the torment passages (Rev 14:10-11; 20:10; Matt 25:41,46) provide the interpretive context for the destruction passages. Document this position without dismissing it. The methodology requires reporting what each side infers from the text.
 
-6. **Prior study connections matter.** etc-05 established that gehenna uses apollymi (E028, E189, E197). etc-03 established that "the wages of sin is death" (E087) and "the second death" (E123, E124). etc-02 established that immortality is conditional (E024, E026). These form the broader framework. Note where destruction vocabulary reinforces or complicates these prior findings.
+6. **Prior study connections matter.** etc-05 established that [gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} uses [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (E028, E189, E197). etc-03 established that "the wages of sin is death" (E087) and "the second death" (E123, E124). etc-02 established that immortality is conditional (E024, E026). These form the broader framework. Note where destruction vocabulary reinforces or complicates these prior findings.
 
 ## Workflow
 answer-question

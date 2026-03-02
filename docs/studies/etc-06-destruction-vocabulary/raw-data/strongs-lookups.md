@@ -1,6 +1,6 @@
 # Raw Strong's Lookup Data for etc-06
 
-## H6 (abad) -- 219 total occurrences, 87 unique translations
+## [H6](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} (abad) -- 219 total occurrences, 87 unique translations
 Top translations:
 - "shall perish" (23x, 10.5%)
 - "perish" (16x, 7.3%)
@@ -19,7 +19,7 @@ BLB Count: 184
 
 ---
 
-## G622 (apollymi) -- 84 total occurrences, 40 unique translations
+## [G622](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (apollymi) -- 84 total occurrences, 40 unique translations
 Top translations:
 - "perish" (10x, 11.9%)
 - "to destroy" (7x, 8.3%)
@@ -32,13 +32,13 @@ Top translations:
 - "we perish" (3x, 3.6%)
 - "lose" (3x, 3.6%)
 
-Lexicon: From apo and the base of olethros; to destroy fully (reflexively, to perish, or lose).
+Lexicon: From apo and the base of [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}; to destroy fully (reflexively, to perish, or lose).
 
 BLB Count: 92
 
 ---
 
-## H8045 (shamad) -- 101 total occurrences, 50 unique translations
+## [H8045](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"} (shamad) -- 101 total occurrences, 50 unique translations
 Top translations:
 - "to destroy" (8x, 7.9%)
 - "thou be destroyed" (5x, 5.0%)
@@ -54,7 +54,7 @@ BLB Count: 90
 
 ---
 
-## H3615 (kalah) -- 254 total occurrences, 125 unique translations
+## [H3615](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"} (kalah) -- 254 total occurrences, 125 unique translations
 Top translations:
 - "had made an end" (13x, 5.1%)
 - "finished" (6x, 2.4%)
@@ -71,7 +71,7 @@ BLB Count: 206
 
 ---
 
-## H7843 (shachath) -- 163 total occurrences, 103 unique translations
+## [H7843](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"} (shachath) -- 163 total occurrences, 103 unique translations
 Top translations:
 - "destroy" (14x, 8.6%)
 - "to destroy" (13x, 8.0%)
@@ -92,7 +92,7 @@ Biblical Usage includes: Gen 6:11-17; 9:11,15; 13:10; 18:28; 19:13-29; Exo 8:20;
 
 ---
 
-## G684 (apoleia) -- 17 total occurrences, 9 unique translations
+## [G684](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} (apoleia) -- 17 total occurrences, 9 unique translations
 Top translations:
 - "perdition" (5x, 29.4%)
 - "destruction" (4x, 23.5%)
@@ -104,7 +104,7 @@ Top translations:
 - "pernicious ways" (1x, 5.9%)
 - "damnation" (1x, 5.9%)
 
-Lexicon: From a presumed derivative of apollymi; ruin or loss (physical, spiritual or eternal).
+Lexicon: From a presumed derivative of [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}; ruin or loss (physical, spiritual or eternal).
 
 BLB Count: 20
 
@@ -112,7 +112,7 @@ All verses: Mat 7:13; 26:8; Mrk 14:4; Jhn 17:12; Act 8:20; 25:16; Rom 9:22; Php 
 
 ---
 
-## G3639 (olethros) -- 4 total occurrences, 2 unique translations
+## [G3639](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} (olethros) -- 4 total occurrences, 2 unique translations
 - "destruction" (3x, 75.0%)
 - "the destruction" (1x, 25.0%)
 
@@ -126,34 +126,34 @@ Verses: 1Co 5:5; 1Th 5:3; 2Th 1:9
 
 ## Related Words
 
-### H3617 (kalah, noun) -- 24 occurrences
+### [H3617](https://www.blueletterbible.org/lexicon/h3617/kjv/wlc/0-1/){:target="_blank"} (kalah, noun) -- 24 occurrences
 - "a full end" (8x, 33.3%)
 - "altogether" (3x, 12.5%)
 - "a consumption" (2x, 8.3%)
 - "an utter end" (2x, 8.3%)
-Definition: From H3615; a completion; adverb, completely; also destruction.
+Definition: From [H3615](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}; a completion; adverb, completely; also destruction.
 
-### H8 (obed) -- 2 occurrences
+### [H8](https://www.blueletterbible.org/lexicon/h8/kjv/wlc/0-1/){:target="_blank"} (obed) -- 2 occurrences
 - "he perish" (1x), "shall perish" (1x)
-Definition: Active participle of H6; wretched or destruction.
+Definition: Active participle of [H6](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}; wretched or destruction.
 
-### H4889 (mashchiyth) -- 13 occurrences
+### [H4889](https://www.blueletterbible.org/lexicon/h4889/kjv/wlc/0-1/){:target="_blank"} (mashchiyth) -- 13 occurrences
 - "to destroy" (4x, 30.8%), "destruction" (2x, 15.4%)
-Definition: From H7843; destructive, destruction, corruption, trap.
+Definition: From [H7843](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}; destructive, destruction, corruption, trap.
 
-### G4881 (synapollymi) -- 1 occurrence
+### [G4881](https://www.blueletterbible.org/lexicon/g4881/kjv/tr/0-1/){:target="_blank"} (synapollymi) -- 1 occurrence
 - "perished" (Heb 11:31)
-Definition: From syn + apollymi; to destroy together.
+Definition: From syn + [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}; to destroy together.
 
-### G355 (analisko) -- 4 occurrences
+### [G355](https://www.blueletterbible.org/lexicon/g355/kjv/tr/0-1/){:target="_blank"} (analisko) -- 4 occurrences
 - "consume" (1x), "consumed" (1x), "shall consume" (1x)
 Definition: From ana + alternate form of halisko; to consume.
 
-### G1311 (diaphtheiro) -- 6 occurrences
+### [G1311](https://www.blueletterbible.org/lexicon/g1311/kjv/tr/0-1/){:target="_blank"} (diaphtheiro) -- 6 occurrences
 - "corrupteth" (1x), "perish" (1x), "of corrupt" (1x), "were destroyed" (1x), "shouldest destroy" (1x), "which destroy" (1x)
-Definition: From dia + phtheiro; to rot thoroughly, to ruin.
+Definition: From dia + [phtheiro](https://www.blueletterbible.org/lexicon/g5351/kjv/tr/0-1/){:target="_blank"}; to rot thoroughly, to ruin.
 
-### G5351 (phtheiro) -- 9 occurrences
+### [G5351](https://www.blueletterbible.org/lexicon/g5351/kjv/tr/0-1/){:target="_blank"} (phtheiro) -- 9 occurrences
 - "defile" (1x), "destroy" (1x), "corrupt" (1x), others
 Definition: Properly, to pine or waste; to corrupt, destroy.
 
@@ -161,41 +161,41 @@ Definition: Properly, to pine or waste; to corrupt, destroy.
 
 ## LXX Translation Maps
 
-### H6 (abad) -> Greek
+### [H6](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} (abad) -> Greek
 | Greek | Count | PMI Score |
 |-------|-------|-----------|
-| G622 apollymi | 141 | 30.45 |
-| G684 apoleia | 11 | 10.82 |
-| G5437 phyge | 3 | 7.36 |
-| G1680 elpis | 6 | 6.65 |
-| G765 asebeis | 9 | 6.19 |
+| [G622](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} | 141 | 30.45 |
+| [G684](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} [apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} | 11 | 10.82 |
+| [G5437](https://www.blueletterbible.org/lexicon/g5437/kjv/tr/0-1/){:target="_blank"} phyge | 3 | 7.36 |
+| [G1680](https://www.blueletterbible.org/lexicon/g1680/kjv/tr/0-1/){:target="_blank"} elpis | 6 | 6.65 |
+| [G765](https://www.blueletterbible.org/lexicon/g765/kjv/tr/0-1/){:target="_blank"} asebeis | 9 | 6.19 |
 
-### H8045 (shamad) -> Greek
+### [H8045](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"} (shamad) -> Greek
 | Greek | Count | PMI Score |
 |-------|-------|-----------|
-| G622 apollymi | 23 | 14.39 |
-| G1808 exairo | 12 | 11.04 |
-| G684 apoleia | 5 | 7.55 |
-| G4105 planao | 4 | 6.02 |
-| G268 hamartoloi | 4 | 5.79 |
+| [G622](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} | 23 | 14.39 |
+| [G1808](https://www.blueletterbible.org/lexicon/g1808/kjv/tr/0-1/){:target="_blank"} exairo | 12 | 11.04 |
+| [G684](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} [apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} | 5 | 7.55 |
+| [G4105](https://www.blueletterbible.org/lexicon/g4105/kjv/tr/0-1/){:target="_blank"} planao | 4 | 6.02 |
+| [G268](https://www.blueletterbible.org/lexicon/g268/kjv/tr/0-1/){:target="_blank"} hamartoloi | 4 | 5.79 |
 
-### H3615 (kalah) -> Greek
+### [H3615](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"} (kalah) -> Greek
 | Greek | Count | PMI Score |
 |-------|-------|-----------|
-| G4931 synteleo | 85 | 27.17 |
-| G1587 ekleipo | 30 | 15.96 |
-| G3973 pauo | 15 | 13.71 |
-| G3709 orge | 19 | 10.05 |
-| G5055 teleo | 5 | 9.84 |
-| G355 analisko | 3 | 6.75 |
+| [G4931](https://www.blueletterbible.org/lexicon/g4931/kjv/tr/0-1/){:target="_blank"} [synteleo](https://www.blueletterbible.org/lexicon/g4931/kjv/tr/0-1/){:target="_blank"} | 85 | 27.17 |
+| [G1587](https://www.blueletterbible.org/lexicon/g1587/kjv/tr/0-1/){:target="_blank"} ekleipo | 30 | 15.96 |
+| [G3973](https://www.blueletterbible.org/lexicon/g3973/kjv/tr/0-1/){:target="_blank"} pauo | 15 | 13.71 |
+| [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} orge | 19 | 10.05 |
+| [G5055](https://www.blueletterbible.org/lexicon/g5055/kjv/tr/0-1/){:target="_blank"} teleo | 5 | 9.84 |
+| [G355](https://www.blueletterbible.org/lexicon/g355/kjv/tr/0-1/){:target="_blank"} analisko | 3 | 6.75 |
 
-### H7843 (shachath) -> Greek
+### [H7843](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"} (shachath) -> Greek
 | Greek | Count | PMI Score |
 |-------|-------|-----------|
-| G1311 diaphtheiro | 48 | 27.24 |
-| G5351 phtheiro | 6 | 12.44 |
-| G2627 kataklusmos | 4 | 8.83 |
-| G1813 exaleipho | 5 | 8.29 |
-| G459 anomos | 7 | 7.58 |
-| G1312 diaphthora | 3 | 6.26 |
-| G622 apollymi | 9 | 5.81 |
+| [G1311](https://www.blueletterbible.org/lexicon/g1311/kjv/tr/0-1/){:target="_blank"} diaphtheiro | 48 | 27.24 |
+| [G5351](https://www.blueletterbible.org/lexicon/g5351/kjv/tr/0-1/){:target="_blank"} [phtheiro](https://www.blueletterbible.org/lexicon/g5351/kjv/tr/0-1/){:target="_blank"} | 6 | 12.44 |
+| [G2627](https://www.blueletterbible.org/lexicon/g2627/kjv/tr/0-1/){:target="_blank"} kataklusmos | 4 | 8.83 |
+| [G1813](https://www.blueletterbible.org/lexicon/g1813/kjv/tr/0-1/){:target="_blank"} exaleipho | 5 | 8.29 |
+| [G459](https://www.blueletterbible.org/lexicon/g459/kjv/tr/0-1/){:target="_blank"} anomos | 7 | 7.58 |
+| [G1312](https://www.blueletterbible.org/lexicon/g1312/kjv/tr/0-1/){:target="_blank"} diaphthora | 3 | 6.26 |
+| [G622](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} | 9 | 5.81 |

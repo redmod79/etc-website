@@ -37,40 +37,40 @@ What does 2 Corinthians 5:1-8 teach about the intermediate state? Does "unclothe
 
 > **5:1** For we know that if our earthly house of [this] tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.
 
-**Greek:** οἴδαμεν γὰρ ὅτι ἐὰν ἡ ἐπίγειος ἡμῶν οἰκία τοῦ σκήνους καταλυθῇ, οἰκοδομὴν ἐκ Θεοῦ ἔχομεν, οἰκίαν ἀχειροποίητον αἰώνιον ἐν τοῖς οὐρανοῖς.
+**Greek:** οἴδαμεν γὰρ ὅτι ἐὰν ἡ ἐπίγειος ἡμῶν οἰκία τοῦ [σκήνους](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"} [καταλυθῇ](https://www.blueletterbible.org/lexicon/g2647/kjv/tr/0-1/){:target="_blank"}, οἰκοδομὴν ἐκ Θεοῦ ἔχομεν, οἰκίαν ἀχειροποίητον [αἰώνιον](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} ἐν τοῖς οὐρανοῖς.
 
 | Word | Lemma | Strong's | Parsing | Translation |
 |------|-------|----------|---------|-------------|
-| οἴδαμεν | οἶδα | G1492 | Perf Act Ind 1P | we know |
-| γὰρ | γάρ | G1063 | CONJ | for |
-| ὅτι | ὅτι | G3754 | CONJ | that |
-| ἐὰν | ἐάν | G1437 | COND | if [3rd class] |
-| ἡ ἐπίγειος | ἐπίγειος | G1919 | Adj Nom Sg F | the earthly |
-| ἡμῶν | ἐγώ | G1473 | Pron Gen 1P | our |
-| οἰκία | οἰκία | G3614 | Noun Nom Sg F | house |
-| τοῦ σκήνους | σκῆνος | G4636 | Noun Gen Sg N | of the tent |
-| καταλυθῇ | καταλύω | G2647 | **Aor Pass Subj 3S** | should be destroyed |
-| οἰκοδομὴν | οἰκοδομή | G3619 | Noun Acc Sg F | a building |
-| ἐκ Θεοῦ | θεός | G2316 | Noun Gen Sg M | from God |
-| ἔχομεν | ἔχω | G2192 | **Pres Act Ind 1P** | we have |
-| οἰκίαν | οἰκία | G3614 | Noun Acc Sg F | a house |
-| ἀχειροποίητον | ἀχειροποίητος | G886 | Adj Acc Sg F | not made with hands |
-| αἰώνιον | αἰώνιος | G166 | Adj Acc Sg F | eternal |
-| ἐν τοῖς οὐρανοῖς | οὐρανός | G3772 | Noun Dat Pl M | in the heavens |
+| οἴδαμεν | οἶδα | [G1492](https://www.blueletterbible.org/lexicon/g1492/kjv/tr/0-1/){:target="_blank"} | Perf Act Ind 1P | we know |
+| γὰρ | γάρ | [G1063](https://www.blueletterbible.org/lexicon/g1063/kjv/tr/0-1/){:target="_blank"} | CONJ | for |
+| ὅτι | ὅτι | [G3754](https://www.blueletterbible.org/lexicon/g3754/kjv/tr/0-1/){:target="_blank"} | CONJ | that |
+| ἐὰν | ἐάν | [G1437](https://www.blueletterbible.org/lexicon/g1437/kjv/tr/0-1/){:target="_blank"} | COND | if [3rd class] |
+| ἡ ἐπίγειος | ἐπίγειος | [G1919](https://www.blueletterbible.org/lexicon/g1919/kjv/tr/0-1/){:target="_blank"} | Adj Nom Sg F | the earthly |
+| ἡμῶν | ἐγώ | [G1473](https://www.blueletterbible.org/lexicon/g1473/kjv/tr/0-1/){:target="_blank"} | Pron Gen 1P | our |
+| οἰκία | οἰκία | [G3614](https://www.blueletterbible.org/lexicon/g3614/kjv/tr/0-1/){:target="_blank"} | Noun Nom Sg F | house |
+| τοῦ [σκήνους](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"} | [σκῆνος](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"} | [G4636](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"} | Noun Gen Sg N | of the tent |
+| [καταλυθῇ](https://www.blueletterbible.org/lexicon/g2647/kjv/tr/0-1/){:target="_blank"} | [καταλύω](https://www.blueletterbible.org/lexicon/g2647/kjv/tr/0-1/){:target="_blank"} | [G2647](https://www.blueletterbible.org/lexicon/g2647/kjv/tr/0-1/){:target="_blank"} | **Aor Pass Subj 3S** | should be destroyed |
+| οἰκοδομὴν | οἰκοδομή | [G3619](https://www.blueletterbible.org/lexicon/g3619/kjv/tr/0-1/){:target="_blank"} | Noun Acc Sg F | a building |
+| ἐκ Θεοῦ | θεός | [G2316](https://www.blueletterbible.org/lexicon/g2316/kjv/tr/0-1/){:target="_blank"} | Noun Gen Sg M | from God |
+| ἔχομεν | ἔχω | [G2192](https://www.blueletterbible.org/lexicon/g2192/kjv/tr/0-1/){:target="_blank"} | **Pres Act Ind 1P** | we have |
+| οἰκίαν | οἰκία | [G3614](https://www.blueletterbible.org/lexicon/g3614/kjv/tr/0-1/){:target="_blank"} | Noun Acc Sg F | a house |
+| ἀχειροποίητον | ἀχειροποίητος | [G886](https://www.blueletterbible.org/lexicon/g886/kjv/tr/0-1/){:target="_blank"} | Adj Acc Sg F | not made with hands |
+| [αἰώνιον](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} | [αἰώνιος](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} | [G166](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} | Adj Acc Sg F | eternal |
+| ἐν τοῖς οὐρανοῖς | οὐρανός | [G3772](https://www.blueletterbible.org/lexicon/g3772/kjv/tr/0-1/){:target="_blank"} | Noun Dat Pl M | in the heavens |
 
 **Key grammar:** ean + kataluthE = 3rd class conditional (real possibility). echomen = present tense "we have" (not "we will have").
 
 > **5:2** For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven:
 
-**Greek:** καὶ γὰρ ἐν τούτῳ στενάζομεν, τὸ οἰκητήριον ἡμῶν τὸ ἐξ οὐρανοῦ ἐπενδύσασθαι ἐπιποθοῦντες,
+**Greek:** καὶ γὰρ ἐν τούτῳ στενάζομεν, τὸ οἰκητήριον ἡμῶν τὸ ἐξ οὐρανοῦ [ἐπενδύσασθαι](https://www.blueletterbible.org/lexicon/g1902/kjv/tr/0-1/){:target="_blank"} ἐπιποθοῦντες,
 
 | Word | Lemma | Strong's | Parsing | Translation |
 |------|-------|----------|---------|-------------|
-| στενάζομεν | στενάζω | G4727 | Pres Act Ind 1P | we groan |
-| τὸ οἰκητήριον | οἰκητήριον | G3613 | Noun Acc Sg N | the dwelling-place |
+| στενάζομεν | στενάζω | [G4727](https://www.blueletterbible.org/lexicon/g4727/kjv/tr/0-1/){:target="_blank"} | Pres Act Ind 1P | we groan |
+| τὸ οἰκητήριον | οἰκητήριον | [G3613](https://www.blueletterbible.org/lexicon/g3613/kjv/tr/0-1/){:target="_blank"} | Noun Acc Sg N | the dwelling-place |
 | ἡμῶν τὸ ἐξ οὐρανοῦ | | | | our [dwelling] from heaven |
-| ἐπενδύσασθαι | ἐπενδύω | **G1902** | **Aor Mid Inf** | **to clothe upon ourselves** |
-| ἐπιποθοῦντες | ἐπιποθέω | G1971 | Pres Act Ptcp Nom Pl M | longing/earnestly desiring |
+| [ἐπενδύσασθαι](https://www.blueletterbible.org/lexicon/g1902/kjv/tr/0-1/){:target="_blank"} | [ἐπενδύω](https://www.blueletterbible.org/lexicon/g1902/kjv/tr/0-1/){:target="_blank"} | **[G1902](https://www.blueletterbible.org/lexicon/g1902/kjv/tr/0-1/){:target="_blank"}** | **Aor Mid Inf** | **to clothe upon ourselves** |
+| ἐπιποθοῦντες | ἐπιποθέω | [G1971](https://www.blueletterbible.org/lexicon/g1971/kjv/tr/0-1/){:target="_blank"} | Pres Act Ptcp Nom Pl M | longing/earnestly desiring |
 
 **Key grammar:** ependysasthai = Aorist Middle Infinitive. The middle voice indicates the subject acting upon itself -- "to clothe ourselves upon." The compound ep- (upon) + endyO (clothe) = to put on over what is already worn. This is NOT simple endyO (put on) but ependyO (put on OVER).
 
@@ -80,12 +80,12 @@ What does 2 Corinthians 5:1-8 teach about the intermediate state? Does "unclothe
 
 | Word | Lemma | Strong's | Parsing | Translation |
 |------|-------|----------|---------|-------------|
-| εἴ γε | εἰ / γέ | G1487/G1065 | COND/PRT | if indeed |
-| καὶ | καί | G2532 | CONJ | also/even |
-| ἐνδυσάμενοι | ἐνδύω | **G1746** | **Aor Mid Ptcp Nom Pl M** | **having clothed ourselves** |
-| οὐ | οὐ | G3756 | NEG | not |
-| γυμνοὶ | γυμνός | **G1131** | Adj Nom Pl M | **naked** |
-| εὑρεθησόμεθα | εὑρίσκω | G2147 | **Fut Pass Ind 1P** | **we shall be found** |
+| εἴ γε | εἰ / γέ | [G1487](https://www.blueletterbible.org/lexicon/g1487/kjv/tr/0-1/){:target="_blank"}/G1065 | COND/PRT | if indeed |
+| καὶ | καί | [G2532](https://www.blueletterbible.org/lexicon/g2532/kjv/tr/0-1/){:target="_blank"} | CONJ | also/even |
+| ἐνδυσάμενοι | [ἐνδύω](https://www.blueletterbible.org/lexicon/g1746/kjv/tr/0-1/){:target="_blank"} | **[G1746](https://www.blueletterbible.org/lexicon/g1746/kjv/tr/0-1/){:target="_blank"}** | **Aor Mid Ptcp Nom Pl M** | **having clothed ourselves** |
+| οὐ | οὐ | [G3756](https://www.blueletterbible.org/lexicon/g3756/kjv/tr/0-1/){:target="_blank"} | NEG | not |
+| γυμνοὶ | γυμνός | **[G1131](https://www.blueletterbible.org/lexicon/g1131/kjv/tr/0-1/){:target="_blank"}** | Adj Nom Pl M | **naked** |
+| εὑρεθησόμεθα | εὑρίσκω | [G2147](https://www.blueletterbible.org/lexicon/g2147/kjv/tr/0-1/){:target="_blank"} | **Fut Pass Ind 1P** | **we shall be found** |
 
 **Key grammar:** endysamenoi = Aorist Middle Participle of endyO (G1746, simple "clothe" -- NOT the compound ependyO). gymnoi = "naked/bare."
 
@@ -93,23 +93,23 @@ What does 2 Corinthians 5:1-8 teach about the intermediate state? Does "unclothe
 
 > **5:4** For we that are in [this] tabernacle do groan, being burdened: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life.
 
-**Greek:** καὶ γὰρ οἱ ὄντες ἐν τῷ σκήνει στενάζομεν βαρούμενοι ἐφ' ᾧ οὐ θέλομεν ἐκδύσασθαι ἀλλ' ἐπενδύσασθαι, ἵνα καταποθῇ τὸ θνητὸν ὑπὸ τῆς ζωῆς.
+**Greek:** καὶ γὰρ οἱ ὄντες ἐν τῷ σκήνει στενάζομεν βαρούμενοι ἐφ' ᾧ οὐ θέλομεν [ἐκδύσασθαι](https://www.blueletterbible.org/lexicon/g1562/kjv/tr/0-1/){:target="_blank"} ἀλλ' [ἐπενδύσασθαι](https://www.blueletterbible.org/lexicon/g1902/kjv/tr/0-1/){:target="_blank"}, ἵνα καταποθῇ τὸ [θνητὸν](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} ὑπὸ τῆς [ζωῆς](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"}.
 
 | Word | Lemma | Strong's | Parsing | Translation |
 |------|-------|----------|---------|-------------|
-| οἱ ὄντες | εἰμί | G1510 | Pres Act Ptcp Nom Pl M | the ones being |
-| ἐν τῷ σκήνει | σκῆνος | **G4636** | Noun Dat Sg N | **in the tent** |
-| στενάζομεν | στενάζω | G4727 | Pres Act Ind 1P | we groan |
-| βαρούμενοι | βαρέω | **G916** | **Pres Pass Ptcp Nom Pl M** | **being burdened** |
-| ἐφ' ᾧ | ἐπί / ὅς | G1909/G3739 | PREP/Rel | because/on account of which |
-| οὐ θέλομεν | θέλω | G2309 | Pres Act Ind 1P | we do not wish |
-| ἐκδύσασθαι | ἐκδύω | **G1562** | **Aor Mid Inf** | **to unclothe ourselves** |
-| ἀλλ' | ἀλλά | G235 | CONJ | but |
-| ἐπενδύσασθαι | ἐπενδύω | **G1902** | **Aor Mid Inf** | **to clothe upon ourselves** |
-| ἵνα | ἵνα | G2443 | CONJ | in order that |
-| καταποθῇ | καταπίνω | **G2666** | **Aor Pass Subj 3S** | **might be swallowed up** |
-| τὸ θνητὸν | θνητός | **G2349** | Adj Nom Sg N | **the mortal** |
-| ὑπὸ τῆς ζωῆς | ζωή | G2222 | Noun Gen Sg F | by life |
+| οἱ ὄντες | εἰμί | [G1510](https://www.blueletterbible.org/lexicon/g1510/kjv/tr/0-1/){:target="_blank"} | Pres Act Ptcp Nom Pl M | the ones being |
+| ἐν τῷ σκήνει | [σκῆνος](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"} | **[G4636](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"}** | Noun Dat Sg N | **in the tent** |
+| στενάζομεν | στενάζω | [G4727](https://www.blueletterbible.org/lexicon/g4727/kjv/tr/0-1/){:target="_blank"} | Pres Act Ind 1P | we groan |
+| βαρούμενοι | βαρέω | **[G916](https://www.blueletterbible.org/lexicon/g916/kjv/tr/0-1/){:target="_blank"}** | **Pres Pass Ptcp Nom Pl M** | **being burdened** |
+| ἐφ' ᾧ | ἐπί / ὅς | [G1909](https://www.blueletterbible.org/lexicon/g1909/kjv/tr/0-1/){:target="_blank"}/G3739 | PREP/Rel | because/on account of which |
+| οὐ θέλομεν | θέλω | [G2309](https://www.blueletterbible.org/lexicon/g2309/kjv/tr/0-1/){:target="_blank"} | Pres Act Ind 1P | we do not wish |
+| [ἐκδύσασθαι](https://www.blueletterbible.org/lexicon/g1562/kjv/tr/0-1/){:target="_blank"} | [ἐκδύω](https://www.blueletterbible.org/lexicon/g1562/kjv/tr/0-1/){:target="_blank"} | **[G1562](https://www.blueletterbible.org/lexicon/g1562/kjv/tr/0-1/){:target="_blank"}** | **Aor Mid Inf** | **to unclothe ourselves** |
+| ἀλλ' | ἀλλά | [G235](https://www.blueletterbible.org/lexicon/g235/kjv/tr/0-1/){:target="_blank"} | CONJ | but |
+| [ἐπενδύσασθαι](https://www.blueletterbible.org/lexicon/g1902/kjv/tr/0-1/){:target="_blank"} | [ἐπενδύω](https://www.blueletterbible.org/lexicon/g1902/kjv/tr/0-1/){:target="_blank"} | **[G1902](https://www.blueletterbible.org/lexicon/g1902/kjv/tr/0-1/){:target="_blank"}** | **Aor Mid Inf** | **to clothe upon ourselves** |
+| ἵνα | ἵνα | [G2443](https://www.blueletterbible.org/lexicon/g2443/kjv/tr/0-1/){:target="_blank"} | CONJ | in order that |
+| καταποθῇ | καταπίνω | **[G2666](https://www.blueletterbible.org/lexicon/g2666/kjv/tr/0-1/){:target="_blank"}** | **Aor Pass Subj 3S** | **might be swallowed up** |
+| τὸ [θνητὸν](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} | [θνητός](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} | **[G2349](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"}** | Adj Nom Sg N | **the mortal** |
+| ὑπὸ τῆς [ζωῆς](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} | [ζωή](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} | [G2222](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} | Noun Gen Sg F | by life |
 
 **Key grammar:** The three infinitives are all Aorist Middle: ekdysasthai ("unclothe oneself"), ependysasthai ("clothe upon oneself"). The hina clause states purpose: "in order that the mortal might be swallowed up by life." katapothE (G2666) = same root as 1 Cor 15:54 "Death is swallowed up in victory."
 
@@ -121,17 +121,17 @@ Key: katergasamenos (G2716) = Aor Mid Ptcp "the one having worked/prepared"; arr
 
 > **5:6** Therefore [we are] always confident, knowing that, whilst we are at home in the body, we are absent from the Lord:
 
-**Greek:** Θαρροῦντες οὖν πάντοτε καὶ εἰδότες ὅτι ἐνδημοῦντες ἐν τῷ σώματι ἐκδημοῦμεν ἀπὸ τοῦ Κυρίου·
+**Greek:** Θαρροῦντες οὖν πάντοτε καὶ εἰδότες ὅτι ἐνδημοῦντες ἐν τῷ [σώματι](https://www.blueletterbible.org/lexicon/g4983/kjv/tr/0-1/){:target="_blank"} ἐκδημοῦμεν ἀπὸ τοῦ Κυρίου·
 
 | Word | Lemma | Strong's | Parsing | Translation |
 |------|-------|----------|---------|-------------|
-| Θαρροῦντες | θαρρέω | G2292 | Pres Act Ptcp Nom Pl M | being confident |
-| πάντοτε | πάντοτε | G3842 | ADV | always |
-| εἰδότες | οἶδα | G1492 | Perf Act Ptcp Nom Pl M | knowing |
-| ἐνδημοῦντες | ἐνδημέω | **G1736** | **Pres Act Ptcp Nom Pl M** | **being at home** |
-| ἐν τῷ σώματι | σῶμα | G4983 | Noun Dat Sg N | in the body |
-| ἐκδημοῦμεν | ἐκδημέω | **G1553** | **Pres Act Ind 1P** | **we are absent from home** |
-| ἀπὸ τοῦ Κυρίου | κύριος | G2962 | Noun Gen Sg M | from the Lord |
+| Θαρροῦντες | θαρρέω | [G2292](https://www.blueletterbible.org/lexicon/g2292/kjv/tr/0-1/){:target="_blank"} | Pres Act Ptcp Nom Pl M | being confident |
+| πάντοτε | πάντοτε | [G3842](https://www.blueletterbible.org/lexicon/g3842/kjv/tr/0-1/){:target="_blank"} | ADV | always |
+| εἰδότες | οἶδα | [G1492](https://www.blueletterbible.org/lexicon/g1492/kjv/tr/0-1/){:target="_blank"} | Perf Act Ptcp Nom Pl M | knowing |
+| ἐνδημοῦντες | [ἐνδημέω](https://www.blueletterbible.org/lexicon/g1736/kjv/tr/0-1/){:target="_blank"} | **[G1736](https://www.blueletterbible.org/lexicon/g1736/kjv/tr/0-1/){:target="_blank"}** | **Pres Act Ptcp Nom Pl M** | **being at home** |
+| ἐν τῷ [σώματι](https://www.blueletterbible.org/lexicon/g4983/kjv/tr/0-1/){:target="_blank"} | [σῶμα](https://www.blueletterbible.org/lexicon/g4983/kjv/tr/0-1/){:target="_blank"} | [G4983](https://www.blueletterbible.org/lexicon/g4983/kjv/tr/0-1/){:target="_blank"} | Noun Dat Sg N | in the body |
+| ἐκδημοῦμεν | [ἐκδημέω](https://www.blueletterbible.org/lexicon/g1553/kjv/tr/0-1/){:target="_blank"} | **[G1553](https://www.blueletterbible.org/lexicon/g1553/kjv/tr/0-1/){:target="_blank"}** | **Pres Act Ind 1P** | **we are absent from home** |
+| ἀπὸ τοῦ Κυρίου | κύριος | [G2962](https://www.blueletterbible.org/lexicon/g2962/kjv/tr/0-1/){:target="_blank"} | Noun Gen Sg M | from the Lord |
 
 **Key grammar:** endEmountes (Pres Ptcp) and ekdEmoumen (Pres Ind) -- present tense forms describing the current state: "while being at home in the body, we are away from home from the Lord."
 
@@ -143,17 +143,17 @@ Parenthetical: pisteOs (G4102) = "faith"; eidous (G1491) = "sight/appearance"
 
 > **5:8** We are confident, [I say], and willing rather to be absent from the body, and to be present with the Lord.
 
-**Greek:** θαρροῦμεν δὲ καὶ εὐδοκοῦμεν μᾶλλον ἐκδημῆσαι ἐκ τοῦ σώματος καὶ ἐνδημῆσαι πρὸς τὸν Κύριον.
+**Greek:** θαρροῦμεν δὲ καὶ εὐδοκοῦμεν μᾶλλον [ἐκδημῆσαι](https://www.blueletterbible.org/lexicon/g1553/kjv/tr/0-1/){:target="_blank"} ἐκ τοῦ [σώματος](https://www.blueletterbible.org/lexicon/g4983/kjv/tr/0-1/){:target="_blank"} καὶ [ἐνδημῆσαι](https://www.blueletterbible.org/lexicon/g1736/kjv/tr/0-1/){:target="_blank"} πρὸς τὸν Κύριον.
 
 | Word | Lemma | Strong's | Parsing | Translation |
 |------|-------|----------|---------|-------------|
-| θαρροῦμεν | θαρρέω | G2292 | Pres Act Ind 1P | we are confident |
-| εὐδοκοῦμεν | εὐδοκέω | G2106 | Pres Act Ind 1P | we are pleased/willing |
-| μᾶλλον | μᾶλλον | G3123 | ADV | rather/more |
-| ἐκδημῆσαι | ἐκδημέω | **G1553** | **Aor Act Inf** | **to be absent from home** |
-| ἐκ τοῦ σώματος | σῶμα | G4983 | Noun Gen Sg N | from the body |
-| ἐνδημῆσαι | ἐνδημέω | **G1736** | **Aor Act Inf** | **to be at home** |
-| πρὸς τὸν Κύριον | κύριος | G2962 | Noun Acc Sg M | with the Lord |
+| θαρροῦμεν | θαρρέω | [G2292](https://www.blueletterbible.org/lexicon/g2292/kjv/tr/0-1/){:target="_blank"} | Pres Act Ind 1P | we are confident |
+| εὐδοκοῦμεν | εὐδοκέω | [G2106](https://www.blueletterbible.org/lexicon/g2106/kjv/tr/0-1/){:target="_blank"} | Pres Act Ind 1P | we are pleased/willing |
+| μᾶλλον | μᾶλλον | [G3123](https://www.blueletterbible.org/lexicon/g3123/kjv/tr/0-1/){:target="_blank"} | ADV | rather/more |
+| [ἐκδημῆσαι](https://www.blueletterbible.org/lexicon/g1553/kjv/tr/0-1/){:target="_blank"} | [ἐκδημέω](https://www.blueletterbible.org/lexicon/g1553/kjv/tr/0-1/){:target="_blank"} | **[G1553](https://www.blueletterbible.org/lexicon/g1553/kjv/tr/0-1/){:target="_blank"}** | **Aor Act Inf** | **to be absent from home** |
+| ἐκ τοῦ [σώματος](https://www.blueletterbible.org/lexicon/g4983/kjv/tr/0-1/){:target="_blank"} | [σῶμα](https://www.blueletterbible.org/lexicon/g4983/kjv/tr/0-1/){:target="_blank"} | [G4983](https://www.blueletterbible.org/lexicon/g4983/kjv/tr/0-1/){:target="_blank"} | Noun Gen Sg N | from the body |
+| [ἐνδημῆσαι](https://www.blueletterbible.org/lexicon/g1736/kjv/tr/0-1/){:target="_blank"} | [ἐνδημέω](https://www.blueletterbible.org/lexicon/g1736/kjv/tr/0-1/){:target="_blank"} | **[G1736](https://www.blueletterbible.org/lexicon/g1736/kjv/tr/0-1/){:target="_blank"}** | **Aor Act Inf** | **to be at home** |
+| πρὸς τὸν Κύριον | κύριος | [G2962](https://www.blueletterbible.org/lexicon/g2962/kjv/tr/0-1/){:target="_blank"} | Noun Acc Sg M | with the Lord |
 
 **Key grammar:** Both infinitives are Aorist Active (not Middle as in 5:2,4). The aorist presents each action as a whole event. eudokoumen = "we are pleased/well-pleased" (stronger than "willing").
 
@@ -236,7 +236,7 @@ Parenthetical: pisteOs (G4102) = "faith"; eidous (G1491) = "sight/appearance"
 > **4:17** Then we which are alive [and] remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.
 > **4:18** Wherefore comfort one another with these words.
 
-**Key connection:** "so shall we ever be with the Lord" (4:17) -- the endEmeO "being at home with the Lord" of 2 Cor 5:8 finds its mechanism here: being caught up at the resurrection/second coming.
+**Key connection:** "so shall we ever be with the Lord" (4:17) -- the [endEmeO](https://www.blueletterbible.org/lexicon/g1736/kjv/tr/0-1/){:target="_blank"} "being at home with the Lord" of 2 Cor 5:8 finds its mechanism here: being caught up at the resurrection/second coming.
 
 ---
 
@@ -292,7 +292,7 @@ Parenthetical: pisteOs (G4102) = "faith"; eidous (G1491) = "sight/appearance"
 > **1:15** Moreover I will endeavour that ye may be able after my decease [exodon, G1841, "exodus/departure"] to have these things always in remembrance.
 
 **Greek parsing:**
-- skEnOmati/skEnOmatos (G4638) = related to skEnos (G4636) in 2 Cor 5:1,4
+- skEnOmati/skEnOmatos (G4638) = related to [skEnos](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"} (G4636) in 2 Cor 5:1,4
 - apothesis (G595) = "putting off/laying aside" -- the "taking down" of the tent
 - exodon (G1841) = literally "exodus" -- Peter's word for death
 

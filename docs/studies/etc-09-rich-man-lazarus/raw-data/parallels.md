@@ -71,7 +71,7 @@ ACT 2:31               0.369   0.67  0.10  0.00  hade
 LUK 16:22              0.358   0.58  0.20  0.00  abraham, bosom
 ACT 2:27               0.346   0.57  0.20  0.00  hade, see
 ```
-NOTE: Acts 2:27,31 (hades in context of Christ's resurrection) appear as parallels -- same author (Luke), didactic context. These are the key same-author hades passages.
+NOTE: Acts 2:27,31 ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} in context of Christ's resurrection) appear as parallels -- same author (Luke), didactic context. These are the key same-author [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} passages.
 
 ## Luke 16:26 -- OT Parallels
 ```

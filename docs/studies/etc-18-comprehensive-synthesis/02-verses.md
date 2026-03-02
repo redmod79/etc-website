@@ -12,7 +12,7 @@ The 17 studies collectively examined hundreds of biblical passages. The most fre
 - **Ecc 9:5,10** -- The dead know nothing; no work in the grave (etc-01, 03, 04, 05, 09, 10)
 - **Ps 6:5** -- In death no remembrance of God (etc-01, 03, 04, 05, 09, 10)
 - **Ps 115:17** -- The dead praise not the LORD (etc-01, 03, 04, 05, 09, 10)
-- **Matt 10:28** -- God can destroy soul and body in gehenna (etc-01, 02, 03, 05, 06)
+- **Matt 10:28** -- God can destroy soul and body in [gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} (etc-01, 02, 03, 05, 06)
 - **John 3:16** -- Not perish but have everlasting life (etc-02, 06, 08)
 - **Rom 6:23** -- Wages of sin is death; gift of God is eternal life (etc-02, 06, 08, 17)
 - **1 Tim 6:16** -- God alone has immortality (etc-01, 02)

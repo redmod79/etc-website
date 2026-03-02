@@ -1,5 +1,5 @@
 site_name: "The Final Fate of the Wicked"
-site_description: A comprehensive 19-study biblical investigation examining what Scripture teaches about the final fate of the wicked, covering human nature, immortality, death, hell words, destruction vocabulary, duration terms, key passages, and theological evaluation.
+site_description: A comprehensive 21-study biblical investigation examining what Scripture teaches about the final fate of the wicked, covering human nature, immortality, death, hell words, destruction vocabulary, duration terms, key passages, and theological evaluation.
 
 theme:
   name: material
@@ -292,6 +292,36 @@ nav:
         - "Nave's Topics": studies/etc-19-2-corinthians-5-intermediate-state/raw-data/naves-topics.md
         - "Cross-Testament Parallels": studies/etc-19-2-corinthians-5-intermediate-state/raw-data/parallels.md
         - "Strong's Lookups": studies/etc-19-2-corinthians-5-intermediate-state/raw-data/strongs-lookups.md
+
+    - "20 -- Matthew 10:28: Destroy Soul and Body":
+      - studies/etc-20-matthew-10-28/conclusion-simple.md
+      - Conclusion: studies/etc-20-matthew-10-28/CONCLUSION.md
+      - Analysis: studies/etc-20-matthew-10-28/03-analysis.md
+      - Verses: studies/etc-20-matthew-10-28/02-verses.md
+      - Word Studies: studies/etc-20-matthew-10-28/04-word-studies.md
+      - Topics: studies/etc-20-matthew-10-28/01-topics.md
+      - Research Scope: studies/etc-20-matthew-10-28/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/etc-20-matthew-10-28/raw-data/concept-context.md
+        - "Existing Studies": studies/etc-20-matthew-10-28/raw-data/existing-studies.md
+        - "Greek Parsing": studies/etc-20-matthew-10-28/raw-data/greek-parsing.md
+        - "Cross-Testament Parallels": studies/etc-20-matthew-10-28/raw-data/parallels.md
+        - "Strong's Lookups": studies/etc-20-matthew-10-28/raw-data/strongs-lookups.md
+
+    - "21 -- Jesus' Judgment Parables and Imagery":
+      - studies/etc-21-judgment-parables-imagery/conclusion-simple.md
+      - Conclusion: studies/etc-21-judgment-parables-imagery/CONCLUSION.md
+      - Analysis: studies/etc-21-judgment-parables-imagery/03-analysis.md
+      - Verses: studies/etc-21-judgment-parables-imagery/02-verses.md
+      - Word Studies: studies/etc-21-judgment-parables-imagery/04-word-studies.md
+      - Topics: studies/etc-21-judgment-parables-imagery/01-topics.md
+      - Research Scope: studies/etc-21-judgment-parables-imagery/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/etc-21-judgment-parables-imagery/raw-data/concept-context.md
+        - "Greek Parsing": studies/etc-21-judgment-parables-imagery/raw-data/greek-parsing.md
+        - "Nave's Topics": studies/etc-21-judgment-parables-imagery/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/etc-21-judgment-parables-imagery/raw-data/parallels.md
+        - "Strong's Lookups": studies/etc-21-judgment-parables-imagery/raw-data/strongs-lookups.md
 
   # ── Tier 4: Evaluation & Synthesis ──
   - "Tier 4 -- Evaluation & Synthesis":

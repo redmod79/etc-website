@@ -10,7 +10,7 @@
 7. EVERLASTING PUNISHMENT (0.43)
 8. LONGEVITY (0.42)
 9. ETERNITY (0.42)
-10. HADES (0.38)
+10. [HADES](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (0.38)
 
 ## Semantic Search: "death soul spirit eternal punishment" (top 10)
 1. ETERNAL PUNISHMENT (0.70)

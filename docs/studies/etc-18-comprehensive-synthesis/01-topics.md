@@ -3,18 +3,18 @@
 ## All 17 Studies: Questions, Key Findings, Evidence Counts
 
 ### etc-01: What Is Man? (Biblical Anthropology)
-- **Question:** What does the Bible say man IS? Nephesh (H5315), ruach (H7307), neshamah (H5397). Is man a soul having a body, or a body animated by breath?
-- **Key Finding:** Man was formed from dust + breath of life = living soul (Gen 2:7). Nephesh is applied to animals (Gen 1:20-21). Ruach returns to God at death (Ecc 12:7). No verse says the soul is immortal; nephesh dies (Ezek 18:4,20), can be destroyed (Matt 10:28).
+- **Question:** What does the Bible say man IS? [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} (H5315), [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} (H7307), [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} (H5397). Is man a soul having a body, or a body animated by breath?
+- **Key Finding:** Man was formed from dust + breath of life = living soul (Gen 2:7). [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} is applied to animals (Gen 1:20-21). [Ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} returns to God at death (Ecc 12:7). No verse says the soul is immortal; [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} dies (Ezek 18:4,20), can be destroyed (Matt 10:28).
 - **Evidence Items:** 57 E, 7 N, 8 I (72 total new items)
 
 ### etc-02: Who Has Immortality?
 - **Question:** Who possesses immortality? Is it a divine attribute or a human possession?
-- **Key Finding:** God alone has immortality (athanasia, 1 Tim 6:16). Humans seek immortality (aphtharsia, Rom 2:7) and receive it at resurrection (1 Cor 15:53-54). The phrase "immortal soul" never appears in Scripture. Immortality is conditional on being in Christ.
+- **Key Finding:** God alone has immortality ([athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"}, 1 Tim 6:16). Humans seek immortality ([aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"}, Rom 2:7) and receive it at resurrection (1 Cor 15:53-54). The phrase "immortal soul" never appears in Scripture. Immortality is conditional on being in Christ.
 - **Evidence Items:** 48 E, 5 N, 8 I (61 total new items)
 
 ### etc-03: Biblical Death
 - **Question:** What does the Bible say death IS? Reversal of creation? Cessation? Separation?
-- **Key Finding:** Death reverses creation: dust returns to earth, spirit returns to God (Ecc 12:7). Death is consistently described as sleep (7+ authors). The "separation" definition (spiritual death = separation from God) is not lexically derived from Hebrew muth or Greek thanatos.
+- **Key Finding:** Death reverses creation: dust returns to earth, spirit returns to God (Ecc 12:7). Death is consistently described as sleep (7+ authors). The "separation" definition (spiritual death = separation from God) is not lexically derived from Hebrew [muth](https://www.blueletterbible.org/lexicon/h4191/kjv/wlc/0-1/){:target="_blank"} or Greek [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}.
 - **Evidence Items:** 39 E, 4 N, 7 I (50 total new items)
 
 ### etc-04: State of the Dead
@@ -22,29 +22,29 @@
 - **Key Finding:** Didactic passages (Ecc 9:5,10; Ps 6:5; 115:17; 146:4; Job 14:12,21) consistently describe the dead as unconscious, inactive, without knowledge. Sleep metaphor used by 7+ authors. Resurrection, not continued consciousness, is presented as the hope.
 - **Evidence Items:** 31 E, 5 N, 7 I (43 total new items)
 
-### etc-05: Four Hell Words (Sheol, Hades, Gehenna, Tartaroo)
+### etc-05: Four Hell Words ([Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}, [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}, [Gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"}, [Tartaroo](https://www.blueletterbible.org/lexicon/g5020/kjv/tr/0-1/){:target="_blank"})
 - **Question:** Semantic range of the four words translated "hell." Does any inherently mean eternal torment?
-- **Key Finding:** Sheol/Hades = general abode of all dead (righteous and wicked), characterized by silence and unconsciousness. Gehenna = eschatological destruction (Matt 10:28: "destroy both soul and body"). Tartaroo = temporary prison for angels. No word inherently means "eternal torment." Gehenna uses destruction vocabulary (apollumi), not torment vocabulary (basanizo).
+- **Key Finding:** [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}/[Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} = general abode of all dead (righteous and wicked), characterized by silence and unconsciousness. [Gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} = eschatological destruction (Matt 10:28: "destroy both soul and body"). [Tartaroo](https://www.blueletterbible.org/lexicon/g5020/kjv/tr/0-1/){:target="_blank"} = temporary prison for angels. No word inherently means "eternal torment." [Gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} uses destruction vocabulary ([apollumi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}), not torment vocabulary ([basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}).
 - **Evidence Items:** 35 E, 5 N, 4 I (44 total new items)
 
 ### etc-06: Destruction Vocabulary
 - **Question:** Hebrew/Greek destruction vocabulary applied to the fate of the wicked.
-- **Key Finding:** The Bible's primary vocabulary for the wicked's fate is destruction/cessation words: abad/apollumi (~296 combined occurrences), shamad (~90), kalah (~206), shachath (~147), apoleia (~20), olethros (4). No lexicon defines any of these as "torment." Destruction similes (chaff, wax, smoke, ashes, stubble) depict substances consumed and ceasing to exist. The "perish vs. life" contrast pattern spans multiple authors.
+- **Key Finding:** The Bible's primary vocabulary for the wicked's fate is destruction/cessation words: [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}/[apollumi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (~296 combined occurrences), [shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"} (~90), [kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"} (~206), [shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"} (~147), [apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} (~20), [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} (4). No lexicon defines any of these as "torment." Destruction similes (chaff, wax, smoke, ashes, stubble) depict substances consumed and ceasing to exist. The "perish vs. life" contrast pattern spans multiple authors.
 - **Evidence Items:** 56 E, 4 N, 4 I (64 total new items)
 
-### etc-07: Does Hebrew Olam Always Mean Eternal?
-- **Question:** Does olam (H5769) inherently mean eternal/endless?
-- **Key Finding:** Olam means "concealed/hidden [time]" -- duration determined by the subject. Applied to God = genuinely eternal. Applied to institutions (priesthood, ceremonies, temple) = demonstrably ended. Applied to humans (slave service, Jonah) = limited. Two olam promises explicitly revoked (1 Sam 2:30; 13:13). LXX translates olam as aion 287x and aionios 100x.
+### etc-07: Does Hebrew [Olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} Always Mean Eternal?
+- **Question:** Does [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} (H5769) inherently mean eternal/endless?
+- **Key Finding:** [Olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} means "concealed/hidden [time]" -- duration determined by the subject. Applied to God = genuinely eternal. Applied to institutions (priesthood, ceremonies, temple) = demonstrably ended. Applied to humans (slave service, Jonah) = limited. Two [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} promises explicitly revoked (1 Sam 2:30; 13:13). LXX translates [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} as [aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} 287x and [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} 100x.
 - **Evidence Items:** 28 E, 5 N, 3 I (36 total new items)
 
-### etc-08: Does Greek Aionios Inherently Mean Eternal/Endless?
-- **Question:** All 71 NT occurrences of aionios (G166). Compare aidios (G126).
-- **Key Finding:** Aionios functions like its Hebrew source olam: duration determined by the subject. Used for past time ("before aionios times," Tit 1:2). Aidios (G126, "everduring") exists as a separate word for strictly eternal (used only twice). ~59% of aionios occurrences modify "life"; ~10% modify punishment. The "ages of ages" formula appears in judgment contexts only 3 times, all in Revelation.
+### etc-08: Does Greek [Aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} Inherently Mean Eternal/Endless?
+- **Question:** All 71 NT occurrences of [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} (G166). Compare aidios (G126).
+- **Key Finding:** [Aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} functions like its Hebrew source [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}: duration determined by the subject. Used for past time ("before [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} times," Tit 1:2). Aidios (G126, "everduring") exists as a separate word for strictly eternal (used only twice). ~59% of [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} occurrences modify "life"; ~10% modify punishment. The "ages of ages" formula appears in judgment contexts only 3 times, all in Revelation.
 - **Evidence Items:** 23 E, 5 N, 3 I (31 total new items)
 
 ### etc-09: Rich Man and Lazarus (Luke 16:19-31)
 - **Question:** Parable or literal? Genre determination, vocabulary analysis, stated teaching point.
-- **Key Finding:** Situated in a parabolic discourse (Luke 15-16, five consecutive narratives). Uses unique, uncorroborated imagery ("Abraham's bosom"). Vocabulary diverges from eschatological torment passages (odunao/basanos vs. basanizo/basanismos). Teaching point is about Moses and the prophets (vv.29,31), not afterlife geography. Fails Tree 3 Gates 1 and 3.
+- **Key Finding:** Situated in a parabolic discourse (Luke 15-16, five consecutive narratives). Uses unique, uncorroborated imagery ("Abraham's bosom"). Vocabulary diverges from eschatological torment passages (odunao/basanos vs. [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}/[basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"}). Teaching point is about Moses and the prophets (vv.29,31), not afterlife geography. Fails Tree 3 Gates 1 and 3.
 - **Evidence Items:** 17 E, 4 N, 3 I (24 total new items)
 
 ### etc-10: Souls Under the Altar (Revelation 6:9-11)
@@ -59,22 +59,22 @@
 
 ### etc-12: Tormented Forever (Rev 20:10)
 - **Question:** Who are the three named subjects? Is the formula applied to humans?
-- **Key Finding:** Three subjects: devil (non-human), beast (symbolic), false prophet (symbolic). None is a literal human. The "tormented for ever and ever" formula appears ONCE in Scripture (Rev 20:10), never applied to humans. When humans enter the lake of fire (Rev 20:14-15; 21:8), term is "second death." Basanizo has wide semantic range (7 of 12 NT uses are non-judgment).
+- **Key Finding:** Three subjects: devil (non-human), beast (symbolic), false prophet (symbolic). None is a literal human. The "tormented for ever and ever" formula appears ONCE in Scripture (Rev 20:10), never applied to humans. When humans enter the lake of fire (Rev 20:14-15; 21:8), term is "second death." [Basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} has wide semantic range (7 of 12 NT uses are non-judgment).
 - **Evidence Items:** 15 E, 2 N, 3 I (20 total new items)
 
 ### etc-13: Lake of Fire / Second Death
 - **Question:** What is the lake of fire? What does "second death" mean?
-- **Key Finding:** The text provides its own definition: "This is the second death" (Rev 20:14; 21:8). Lake of fire is unique to Revelation (5 occurrences). Torment formula applied to non-human/symbolic entities. When humans enter, the term is "second death" (death vocabulary, not torment vocabulary). Death/hades cast into lake = death itself destroyed (cf. 1 Cor 15:26). Matt 25:41: fire "prepared for the devil and his angels."
+- **Key Finding:** The text provides its own definition: "This is the second death" (Rev 20:14; 21:8). Lake of fire is unique to Revelation (5 occurrences). Torment formula applied to non-human/symbolic entities. When humans enter, the term is "second death" (death vocabulary, not torment vocabulary). Death/[hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} cast into lake = death itself destroyed (cf. 1 Cor 15:26). Matt 25:41: fire "prepared for the devil and his angels."
 - **Evidence Items:** 14 E, 3 N, 4 I (21 total new items)
 
 ### etc-14: Judgment Passages (8 major texts)
 - **Question:** E/N/I classification of Rev 20:11-15, Matt 25:31-46, Dan 12:2, Isa 66:22-24, John 5:28-29, 2 Thess 1:7-10, Heb 10:26-31, Rom 2:5-11.
-- **Key Finding:** None of the 8 judgment passages uses basanizo for the fate of human wicked. Four use destruction/death terms (second death, olethros, devour/apoleia, perish/apollymi). Four use penalty/judgment vocabulary or contempt/corpse imagery. Rom 2:7 treats immortality as sought and received, not inherent.
+- **Key Finding:** None of the 8 judgment passages uses [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} for the fate of human wicked. Four use destruction/death terms (second death, [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}, devour/[apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}, perish/[apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}). Four use penalty/judgment vocabulary or contempt/corpse imagery. Rom 2:7 treats immortality as sought and received, not inherent.
 - **Evidence Items:** 17 E, 3 N, 8 I (28 total new items)
 
 ### etc-15: ECT Strongest Case
 - **Question:** 8 strongest ECT arguments evaluated at E/N/I tier.
-- **Key Finding:** No E-item or N-item in the entire 17-study series directly states or necessarily implies human eternal conscious torment. All 12 ECT items in this study are inferences: 4 I-B (all resolved Strong toward conditionalist reading), 7 I-C (add concepts text does not contain), 1 I-D (overrides lexical meaning of olethros). ECT case rests entirely at inference level.
+- **Key Finding:** No E-item or N-item in the entire 17-study series directly states or necessarily implies human eternal conscious torment. All 12 ECT items in this study are inferences: 4 I-B (all resolved Strong toward conditionalist reading), 7 I-C (add concepts text does not contain), 1 I-D (overrides lexical meaning of [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}). ECT case rests entirely at inference level.
 - **Evidence Items:** 3 E, 0 N, 10 I (13 total new items)
 
 ### etc-16: Origins of ECT (Historical)

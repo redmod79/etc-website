@@ -36,7 +36,7 @@ ISA 34:8-10; DAN 12:2; MAT 3:12; 10:28; 18:8; 25:41,46; MRK 3:29; LUK 3:17; JHN 
 - Burk: "Every person is going to be resurrected and given a body fit for their destiny"
 
 **Argument 3: Matt 25:46 — The Parallel Argument**
-- ECT claim: Same adjective (aionios) modifies both "punishment" and "life"; if life is conscious and unending, punishment must also be
+- ECT claim: Same adjective ([aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}) modifies both "punishment" and "life"; if life is conscious and unending, punishment must also be
 - Peterson: "It strains the natural meaning of the text to see eternal life as the conscious enjoyment of eternal life forever, but eternal punishment to mean that unbelievers cease to exist forever"
 - Widely considered the single most important ECT text
 
@@ -47,7 +47,7 @@ ISA 34:8-10; DAN 12:2; MAT 3:12; 10:28; 18:8; 25:41,46; MRK 3:29; LUK 3:17; JHN 
 
 **Argument 5: Luke 16:19-31 — Rich Man in Torments**
 - ECT claim: Jesus depicts conscious post-mortem suffering with specific details (flame, thirst, memory, concern)
-- Even ECT scholars acknowledge this depicts Hades (intermediate state), not the final hell
+- Even ECT scholars acknowledge this depicts [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (intermediate state), not the final hell
 - Used more as evidence for conscious intermediate state than for ECT specifically
 
 **Argument 6: Rev 6:9-11 — Souls Under the Altar**
@@ -55,8 +55,8 @@ ISA 34:8-10; DAN 12:2; MAT 3:12; 10:28; 18:8; 25:41,46; MRK 3:29; LUK 3:17; JHN 
 - Used primarily to establish the anthropological premise (soul survives death) rather than ECT directly
 
 **Argument 7: 2 Thess 1:9 — Everlasting Destruction**
-- ECT claim: "Destruction" (olethros) means ongoing ruin, not cessation; "everlasting" modifies the ongoing state
-- Peterson: olethros conveys "ruination with its full, destructive results" rather than annihilation
+- ECT claim: "Destruction" ([olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}) means ongoing ruin, not cessation; "everlasting" modifies the ongoing state
+- Peterson: [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} conveys "ruination with its full, destructive results" rather than annihilation
 - Burk: The modifier "eternal" declares its duration
 
 **Argument 8: Dan 12:2 — Everlasting Contempt**

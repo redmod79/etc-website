@@ -13,7 +13,7 @@ The central question is whether this passage teaches that the dead are conscious
 
 ## Key Finding 1: Revelation Is a Book of Symbols
 
-Revelation 6 contains a sequence of symbolic visions: a rider on a red horse, a rider on a black horse, and -- in the very seal immediately before ours -- Death and Hades personified as riders on a pale horse (Rev 6:8). The sixth seal then depicts the sun turning black, the moon turning to blood, stars falling, and the sky rolling up like a scroll (Rev 6:12-14).
+Revelation 6 contains a sequence of symbolic visions: a rider on a red horse, a rider on a black horse, and -- in the very seal immediately before ours -- Death and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} personified as riders on a pale horse (Rev 6:8). The sixth seal then depicts the sun turning black, the moon turning to blood, stars falling, and the sky rolling up like a scroll (Rev 6:12-14).
 
 Every seal in this sequence uses symbolic imagery. Revelation 1:1 itself states that the book communicates its message "signified" -- that is, through signs and symbols. The passage must be read within this genre, where personification and symbolic figures are the normal mode of communication.
 
@@ -21,9 +21,9 @@ Every seal in this sequence uses symbolic imagery. Revelation 1:1 itself states 
 
 ## Key Finding 2: "Blood Under the Altar" Has a Specific Old Testament Background
 
-In the Old Testament sacrificial system, the blood of the sin offering was poured at the base of the altar (Lev 4:7, 18, 25, 30, 34; Exo 29:12). Scripture also establishes that the life -- the nephesh -- of a creature is in its blood: "the life of the flesh is in the blood" (Lev 17:11; see also Gen 9:4; Deut 12:23).
+In the Old Testament sacrificial system, the blood of the sin offering was poured at the base of the altar (Lev 4:7, 18, 25, 30, 34; Exo 29:12). Scripture also establishes that the life -- the [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} -- of a creature is in its blood: "the life of the flesh is in the blood" (Lev 17:11; see also Gen 9:4; Deut 12:23).
 
-When John sees "souls" (the Greek word psyche, equivalent to the Hebrew nephesh) under the altar, the Old Testament background points to a specific image: the blood-life of sacrificed victims collected at the altar base. The martyrs are presented using sacrificial language -- the same Greek word used for the slaughter of the Lamb (Rev 5:6, 9, 12) is used for the martyrs (Rev 6:9). They are sacrifice-victims, and their life-blood is at the altar.
+When John sees "souls" (the Greek word [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}, equivalent to the Hebrew [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}) under the altar, the Old Testament background points to a specific image: the blood-life of sacrificed victims collected at the altar base. The martyrs are presented using sacrificial language -- the same Greek word used for the slaughter of the Lamb (Rev 5:6, 9, 12) is used for the martyrs (Rev 6:9). They are sacrifice-victims, and their life-blood is at the altar.
 
 ---
 
@@ -57,7 +57,7 @@ Their transition to "living" happens at the first resurrection. Before that, the
 
 ## What Scripture Establishes
 
-- Revelation 6:9-11 is an apocalyptic vision surrounded on all sides by symbolic figures (colored horses, personified Death and Hades, cosmic upheaval).
+- Revelation 6:9-11 is an apocalyptic vision surrounded on all sides by symbolic figures (colored horses, personified Death and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}, cosmic upheaval).
 - "Souls under the altar" corresponds to the Old Testament image of sacrificial blood poured at the altar base, representing the blood-life of the slain.
 - The cry of the blood for vengeance follows the pattern established in Genesis 4:10 (Abel's blood crying from the ground), Hebrews 11:4, 12:24, and James 5:4 -- forensic personification, not literal consciousness.
 - The same word (sphazō) links the Lamb, the martyrs, and Abel in a shared sacrificial framework.
@@ -84,7 +84,7 @@ Their transition to "living" happens at the first resurrection. Before that, the
 
 Revelation 6:9-11 is a powerful, carefully crafted vision drawing on deep Old Testament roots. The blood of the martyrs cries from under the heavenly altar, just as Abel's blood cried from the ground -- a forensic cry for justice, personified in the same way that blood, wages, and even stones are personified across Scripture. The martyrs are told to rest. They rest until the resurrection, at which point -- as Revelation 20:4-5 confirms -- they live and reign with Christ.
 
-The eternal-torment position reads this vision as a literal description of conscious souls in heaven right now. But this requires treating apocalyptic imagery as a plain factual report while the surrounding seals (Death and Hades on horseback, the sky rolling up like a scroll) are read as symbolic. The annihilation-and-resurrection view reads the vision consistently with its genre, its Old Testament background, and the direct statement of Revelation 20:4-5 that the martyrs' "living" is the first resurrection.
+The eternal-torment position reads this vision as a literal description of conscious souls in heaven right now. But this requires treating apocalyptic imagery as a plain factual report while the surrounding seals (Death and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} on horseback, the sky rolling up like a scroll) are read as symbolic. The annihilation-and-resurrection view reads the vision consistently with its genre, its Old Testament background, and the direct statement of Revelation 20:4-5 that the martyrs' "living" is the first resurrection.
 
 The passage, read within its genre and against its scriptural background, does not establish conscious intermediate existence. It establishes that the blood of the faithful cries to God for justice, that God hears and will answer, and that the martyrs rest until the resurrection.
 

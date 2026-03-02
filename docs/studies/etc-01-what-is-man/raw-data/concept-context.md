@@ -4,7 +4,7 @@
 
 "And the LORD God formed man [of] the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul."
 
-**Concepts detected:** WRATH (H639 -- "nostrils"), SPIRIT (H5397 -- "breath"), LIFE (H2416, H5315 -- "living," "soul")
+**Concepts detected:** WRATH (H639 -- "nostrils"), SPIRIT (H5397 -- "breath"), LIFE (H2416, [H5315](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} -- "living," "soul")
 
 ### Same Chapter (Genesis 2)
 - Gen 2:19 [LIFE]: "...every living creature, that [was] the name thereof."
@@ -55,7 +55,7 @@
 
 "And so it is written, The first man Adam was made a living soul; the last Adam [was made] a quickening spirit."
 
-**Concepts detected:** LIFE (G2198 -- "living," G5590 -- "soul"), SPIRIT (G4151 -- "spirit")
+**Concepts detected:** LIFE (G2198 -- "living," [G5590](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} -- "soul"), SPIRIT (G4151 -- "spirit")
 
 ### Same Chapter (1 Corinthians 15)
 - 1 Cor 15:19 [LIFE]: "If in this life only we have hope in Christ..."

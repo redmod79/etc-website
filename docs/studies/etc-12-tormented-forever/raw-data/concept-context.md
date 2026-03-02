@@ -9,7 +9,7 @@ Note: The concept_context tool found no mapped theological concepts in Rev 20:10
 ## REV 20:14
 
 ### Concepts Found
-- **DEATH:** Maveth/thanatos - death, dying (Strong's: G2288, G86, G2288)
+- **DEATH:** [Maveth](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"}/[thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} - death, dying (Strong's: [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}, [G86](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}, G2288)
 
 ### Same Chapter (Revelation 20) -- 2 verses
 1. **Rev 20:13** -- "And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works." [DEATH]
@@ -31,7 +31,7 @@ The tool found 967 verses across the rest of Scripture with the DEATH concept. T
 
 **Key observation:** The concept_context tool identifies Rev 20:14 as fundamentally a verse about DEATH. The "second death" connects to the broader biblical death/life contrast. The most relevant same-book connections are:
 - Rev 20:6 (second death has no power over the first resurrection)
-- Rev 20:13 (death and hades deliver up the dead)
+- Rev 20:13 (death and [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} deliver up the dead)
 - Rev 2:11 (overcomers not hurt by second death)
 - Rev 21:4 (no more death in new creation)
 

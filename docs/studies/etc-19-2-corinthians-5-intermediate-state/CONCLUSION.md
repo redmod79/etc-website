@@ -4,7 +4,7 @@
 What does 2 Corinthians 5:1-8 teach about the intermediate state? Does "unclothed" (ekdysasthai) mean disembodied? What is Paul's actual preference and what does the clothing metaphor mean? Does this passage support conscious existence between death and resurrection, or is Paul expressing preference for resurrection without dying?
 
 ## Summary Answer
-2 Corinthians 5:1-8 teaches about the resurrection body, not the intermediate state. Paul's clothing metaphor expresses his preference for transformation without death (being "clothed upon," ependysasthai) over dying and being raised (being "unclothed," ekdysasthai). The passage does not teach conscious disembodied existence between death and resurrection. Paul's desire to be "absent from the body and present with the Lord" (5:8) describes the transition from mortal existence to being with Christ, which Paul elsewhere identifies as occurring at the resurrection/parousia (1 Thess 4:17). The Greek vocabulary, the parallel with 1 Corinthians 15:51-54 and Romans 8:22-23, and the broader biblical testimony about death all point to resurrection as the subject of 2 Corinthians 5, not a conscious intermediate state.
+2 Corinthians 5:1-8 teaches about the resurrection body, not the intermediate state. Paul's clothing metaphor expresses his preference for transformation without death (being "clothed upon," ependysasthai) over dying and being raised (being "unclothed," ekdysasthai). The passage does not teach conscious disembodied existence between death and resurrection. Paul's desire to be "absent from the body and present with the Lord" (5:8) describes the transition from mortal existence to being with Christ, which Paul elsewhere identifies as occurring at the resurrection/[parousia](https://www.blueletterbible.org/lexicon/g3952/kjv/tr/0-1/){:target="_blank"} (1 Thess 4:17). The Greek vocabulary, the parallel with 1 Corinthians 15:51-54 and Romans 8:22-23, and the broader biblical testimony about death all point to resurrection as the subject of 2 Corinthians 5, not a conscious intermediate state.
 
 ## Key Verses
 
@@ -14,7 +14,7 @@ This is the pivotal verse. Paul explicitly states three things: (1) believers gr
 
 **1 Corinthians 15:51-52** -- "Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed, in a moment, in the twinkling of an eye, at the last trump."
 
-This passage describes exactly what Paul desires in 2 Cor 5:4 -- to be "changed" (transformed) without sleeping (dying). The "mystery" is that some believers will be alive at the parousia and will receive immortality without passing through death. This is the "clothing upon" (ependysasthai) of 2 Cor 5.
+This passage describes exactly what Paul desires in 2 Cor 5:4 -- to be "changed" (transformed) without sleeping (dying). The "mystery" is that some believers will be alive at the [parousia](https://www.blueletterbible.org/lexicon/g3952/kjv/tr/0-1/){:target="_blank"} and will receive immortality without passing through death. This is the "clothing upon" (ependysasthai) of 2 Cor 5.
 
 **Romans 8:23** -- "And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body."
 
@@ -32,7 +32,7 @@ If the dead in Christ currently enjoy conscious bliss in an intermediate state, 
 
 ### The Greek Vocabulary Points to Resurrection
 
-The passage builds on a unique vocabulary cluster. Four words appear ONLY in 2 Corinthians 5 in the entire NT: ependyomai (G1902, "clothe upon"), skenos (G4636, "tent"), ekdemeO (G1553, "be away from home"), and endemeO (G1736, "be at home"). This concentrated uniqueness means the passage must be interpreted from its own context and from Paul's broader theological vocabulary, not by importing meanings from passages using different words.
+The passage builds on a unique vocabulary cluster. Four words appear ONLY in 2 Corinthians 5 in the entire NT: ependyomai (G1902, "clothe upon"), [skenos](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"} (G4636, "tent"), [ekdemeO](https://www.blueletterbible.org/lexicon/g1553/kjv/tr/0-1/){:target="_blank"} (G1553, "be away from home"), and [endemeO](https://www.blueletterbible.org/lexicon/g1736/kjv/tr/0-1/){:target="_blank"} (G1736, "be at home"). This concentrated uniqueness means the passage must be interpreted from its own context and from Paul's broader theological vocabulary, not by importing meanings from passages using different words.
 
 The key lexical decision is Paul's choice of ependyomai ("to put on OVER") instead of the simple endyo ("to put on"), which he uses 29 times elsewhere. The compound prefix epi- ("upon/over") indicates layering -- putting the heavenly body ON TOP OF the mortal body. This is transformation, not exchange: the mortal is absorbed by the immortal without an intervening state of nakedness. This corresponds exactly to the "mystery" of 1 Cor 15:51 -- being "changed" without sleeping.
 
@@ -66,13 +66,13 @@ From the perspective of the dead person (if death is unconscious), there is no s
 
 ### The Philippians 1:21-23 Comparison
 
-"To die is gain... to depart and be with Christ, which is far better" uses different vocabulary (analysai, G360, "to depart/loose anchor") but the same logic applies. Paul compares continued life (useful for the Philippians) with departure/being with Christ (far better for Paul personally). He does not specify WHEN he will be "with Christ" after departure. The gain of death, for one who expects resurrection, is that the next conscious experience is being with Christ in glory. The "gain" is not a conscious intermediate state but the assured outcome of resurrection.
+"To die is gain... to depart and be with Christ, which is far better" uses different vocabulary (analysai, [G360](https://www.blueletterbible.org/lexicon/g360/kjv/tr/0-1/){:target="_blank"}, "to depart/loose anchor") but the same logic applies. Paul compares continued life (useful for the Philippians) with departure/being with Christ (far better for Paul personally). He does not specify WHEN he will be "with Christ" after departure. The gain of death, for one who expects resurrection, is that the next conscious experience is being with Christ in glory. The "gain" is not a conscious intermediate state but the assured outcome of resurrection.
 
 ### Consistency with the Broader Biblical Testimony
 
 The interpretation that 2 Cor 5 teaches about resurrection (not intermediate state) is consistent with ALL the gathered evidence:
 
-1. **1 Cor 15:51-52:** Paul expects some to be alive at the parousia and transformed without dying -- this is the ependysasthai of 2 Cor 5:4.
+1. **1 Cor 15:51-52:** Paul expects some to be alive at the [parousia](https://www.blueletterbible.org/lexicon/g3952/kjv/tr/0-1/){:target="_blank"} and transformed without dying -- this is the ependysasthai of 2 Cor 5:4.
 
 2. **John 11:11-14:** Jesus calls death "sleep" and explicitly interprets this as being dead. The sleep metaphor implies unconsciousness.
 
@@ -99,11 +99,11 @@ The variant between endysamenoi ("having put on," N1904/majority) and ekdysameno
 | ependyomai (G1902) | "clothe upon" | Paul's unique compound verb (2x NT, only in 2 Cor 5:2,4). The epi- prefix indicates layering -- receiving the resurrection body OVER the mortal body. Paul's preferred option. |
 | ekdyo (G1562) | "unclothe/strip" | Every other NT use involves violent stripping (soldiers stripping Jesus, thieves stripping a man). Paul explicitly says he does NOT want this. |
 | gymnos (G1131) | "naked/bare" | Paul uses this in 1 Cor 15:37 for the "bare grain" that is sown (dies) before God gives it a new body. "Naked" = the death-state, not conscious disembodiment. |
-| skenos (G4636) | "tent" | Only in 2 Cor 5:1,4. Emphasizes the mortal body's fragility and temporariness. Related to Peter's skenoma (2 Pe 1:13-14). |
-| ekdemeO (G1553) | "away from home" | Only in 2 Cor 5:6,8,9. Describes departure from the bodily sphere, not the nature of post-death existence. |
-| endemeO (G1736) | "at home" | Only in 2 Cor 5:6,8,9. Used for being at home in the body (current state) or at home with the Lord (desired state). |
+| [skenos](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"} (G4636) | "tent" | Only in 2 Cor 5:1,4. Emphasizes the mortal body's fragility and temporariness. Related to Peter's [skenoma](https://www.blueletterbible.org/lexicon/g4638/kjv/tr/0-1/){:target="_blank"} (2 Pe 1:13-14). |
+| [ekdemeO](https://www.blueletterbible.org/lexicon/g1553/kjv/tr/0-1/){:target="_blank"} (G1553) | "away from home" | Only in 2 Cor 5:6,8,9. Describes departure from the bodily sphere, not the nature of post-death existence. |
+| [endemeO](https://www.blueletterbible.org/lexicon/g1736/kjv/tr/0-1/){:target="_blank"} (G1736) | "at home" | Only in 2 Cor 5:6,8,9. Used for being at home in the body (current state) or at home with the Lord (desired state). |
 | katapinO (G2666) | "swallow up" | In 2 Cor 5:4 (katapothE) and 1 Cor 15:54 (katepothE). Same root, same event: mortality consumed by life/victory at the resurrection. |
-| thnEtos (G2349) | "mortal" | In 2 Cor 5:4 and 1 Cor 15:53-54. "The mortal" must "put on" immortality -- identical concept in both passages, referring to the resurrection transformation. |
+| [thnEtos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} (G2349) | "mortal" | In 2 Cor 5:4 and 1 Cor 15:53-54. "The mortal" must "put on" immortality -- identical concept in both passages, referring to the resurrection transformation. |
 | stenazO (G4727) | "groan" | In 2 Cor 5:2,4 and Rom 8:23. In Romans, the groaning is explicitly for "the redemption of our body" -- the resurrection. Same groaning, same object. |
 
 ## Conclusion
@@ -116,7 +116,7 @@ The "absent from the body, present with the Lord" language of 5:8 describes Paul
 
 The textual variant in 5:3 (endysamenoi vs. ekdysamenoi) does not alter this conclusion. Whether Paul says "having been clothed, we shall not be found naked" or "having been stripped, we shall not be found naked," the affirmation is the same: God's purpose is that believers will not remain in the death-state permanently. The resurrection is the answer.
 
-This reading is consistent with the entire biblical testimony about death: the OT passages that describe death as unconsciousness (Ps 6:5; 115:17; 146:4; Ecc 9:5-6,10), Jesus' description of death as "sleep" (John 11:11-14), Paul's statement that the dead in Christ "are perished" without resurrection (1 Cor 15:18), and Paul's placement of "being with the Lord" at the parousia (1 Thess 4:17). It is also consistent with Paul's own vocabulary chain: the thnEton/katapinO/endyo language shared between 2 Cor 5:4 and 1 Cor 15:53-54 confirms that both passages describe the same event -- the resurrection transformation when mortality is swallowed up by immortality.
+This reading is consistent with the entire biblical testimony about death: the OT passages that describe death as unconsciousness (Ps 6:5; 115:17; 146:4; Ecc 9:5-6,10), Jesus' description of death as "sleep" (John 11:11-14), Paul's statement that the dead in Christ "are perished" without resurrection (1 Cor 15:18), and Paul's placement of "being with the Lord" at the [parousia](https://www.blueletterbible.org/lexicon/g3952/kjv/tr/0-1/){:target="_blank"} (1 Thess 4:17). It is also consistent with Paul's own vocabulary chain: the thnEton/katapinO/endyo language shared between 2 Cor 5:4 and 1 Cor 15:53-54 confirms that both passages describe the same event -- the resurrection transformation when mortality is swallowed up by immortality.
 
 ---
 *Study completed: 2026-02-20*

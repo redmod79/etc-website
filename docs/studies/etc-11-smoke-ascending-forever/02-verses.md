@@ -112,7 +112,7 @@ Rev 14:9-11, 19:3 -- OT source imagery (Isa 34:9-10, Gen 19:28, Mal 4:1-3). Ongo
 >
 > **18:21** And a mighty angel took up a stone like a great millstone, and cast [it] into the sea, saying, Thus with violence shall that great city Babylon be thrown down, and shall be found no more at all.
 
-**Notes:** Basanismos (G929, "torment") appears in 18:7,10,15 for Babylon. But Babylon's "torment" IS her destruction: "utterly burned with fire" (v.8), "in one hour" (v.10), "thrown down, and shall be found no more at all" (v.21). The same word describes a completed destruction event.
+**Notes:** [Basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} (G929, "torment") appears in 18:7,10,15 for Babylon. But Babylon's "torment" IS her destruction: "utterly burned with fire" (v.8), "in one hour" (v.10), "thrown down, and shall be found no more at all" (v.21). The same word describes a completed destruction event.
 
 ---
 
@@ -225,7 +225,7 @@ Rev 14:9-11, 19:3 -- OT source imagery (Isa 34:9-10, Gen 19:28, Mal 4:1-3). Ongo
 >
 > **1:8** Likewise also these [filthy] dreamers defile the flesh, despise dominion, and speak evil of dignities.
 
-**Notes:** Sodom is the "example" (deigma) of "eternal fire." The fire is "eternal" (aionios) in its effect, not in its duration as an active process -- Sodom is not still burning.
+**Notes:** Sodom is the "example" (deigma) of "eternal fire." The fire is "eternal" ([aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}) in its effect, not in its duration as an active process -- Sodom is not still burning.
 
 ---
 
@@ -273,7 +273,7 @@ Rev 14:9-11, 19:3 -- OT source imagery (Isa 34:9-10, Gen 19:28, Mal 4:1-3). Ongo
 >
 > **68:3** But let the righteous be glad; let them rejoice before God: yea, let them exceedingly rejoice.
 
-**Notes:** Smoke = driven away, dispersed, vanishing. Wax = melted, consumed. Both images describe disappearance and cessation, not ongoing existence. The wicked "perish" (abad).
+**Notes:** Smoke = driven away, dispersed, vanishing. Wax = melted, consumed. Both images describe disappearance and cessation, not ongoing existence. The wicked "perish" ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}).
 
 ---
 
@@ -466,7 +466,7 @@ These evidence items from prior etc studies bear directly on this study:
 | E254 | Rev 20:9: fire devoured human enemies | Neutral | etc-06 |
 | E265 | Rev 14:10-11: tormented with fire and brimstone; smoke ascends | Neutral | etc-08 |
 | E266 | Isa 34:10: identical smoke language; Edom not still burning | Neutral | etc-08 |
-| E282 | Edom's smoke goes up olam; animals inhabit territory | Cond. | etc-07 |
+| E282 | Edom's smoke goes up [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}; animals inhabit territory | Cond. | etc-07 |
 | E293 | Strongest "forever" form = Edom's ended judgment | Cond. | etc-07 |
 | E314 | Ages of ages: ~19x for God, 3x judgment | Neutral | etc-08 |
 | E315 | Rev 14:11 echoes Isa 34:10 | Neutral | etc-08 |

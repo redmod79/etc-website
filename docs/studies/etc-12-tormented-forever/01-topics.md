@@ -1,7 +1,7 @@
 # Topics Research
 
 ## Question
-What does Revelation 20:10 mean by "tormented day and night for ever and ever"? Who are the three named subjects? Is the "tormented for ever and ever" formula applied to human beings anywhere in Scripture, or only to the devil, beast, and false prophet? What does basanizo (G928) mean across its full NT usage? When humans enter the lake of fire (Rev 20:14-15; 21:8), what term does the text use? How does the text distinguish between the fate of the three named entities (Rev 20:10) and the fate of human beings (Rev 20:9, 14-15; 21:8)?
+What does Revelation 20:10 mean by "tormented day and night for ever and ever"? Who are the three named subjects? Is the "tormented for ever and ever" formula applied to human beings anywhere in Scripture, or only to the devil, beast, and false prophet? What does [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (G928) mean across its full NT usage? When humans enter the lake of fire (Rev 20:14-15; 21:8), what term does the text use? How does the text distinguish between the fate of the three named entities (Rev 20:10) and the fate of human beings (Rev 20:9, 14-15; 21:8)?
 
 ## Topics
 
@@ -10,14 +10,14 @@ What does Revelation 20:10 mean by "tormented day and night for ever and ever"? 
 - The accuser of our brethren REV 12:10
 - The adversary 1PE 5:8
 - The angel of the bottomless pit REV 9:11
-- Apollyon (Greek: Destroyer) REV 9:11
+- [Apollyon](https://www.blueletterbible.org/lexicon/g623/kjv/tr/0-1/){:target="_blank"} (Greek: Destroyer) REV 9:11
 - Beelzebul MAT 12:24; MRK 3:22; LUK 11:15
 - Belial 2CO 6:15
 - The Devil MAT 4:1; LUK 4:2,6; REV 20:2
 - Our common enemy MAT 13:39
 - Evil spirit 1SA 16:14
 - The father of all lies JHN 8:44
-- Gates of hell (Hades) MAT 16:18
+- Gates of hell ([Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}) MAT 16:18
 - Great red dragon REV 12:3
 - The liar JHN 8:44
 - Lying spirit 1KI 22:22

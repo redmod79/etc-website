@@ -6,7 +6,7 @@ All texts retrieved from D:/bible/tools/data/kjv.txt.
 
 ## A. KEY ESCHATOLOGICAL DESTRUCTION PASSAGES
 
-### H6 (abad) -- "perish, destroy"
+### [H6](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} (abad) -- "perish, destroy"
 
 **Psalm 1:6**
 > The LORD knoweth the way of the righteous: but the way of the ungodly shall perish.
@@ -14,7 +14,7 @@ All texts retrieved from D:/bible/tools/data/kjv.txt.
 **Psalm 2:12**
 > Kiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him.
 
-**Psalm 37:20** (also H3615/kalah)
+**Psalm 37:20** (also [H3615](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}/[kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"})
 > But the wicked shall perish, and the enemies of the LORD shall be as the fat of lambs: they shall consume; into smoke shall they consume away.
 
 **Psalm 37:9-10** (context)
@@ -44,7 +44,7 @@ All texts retrieved from D:/bible/tools/data/kjv.txt.
 **Proverbs 28:28**
 > When the wicked rise, men hide themselves: but when they perish, the righteous increase.
 
-**Isaiah 26:14** (also H8045/shamad)
+**Isaiah 26:14** (also [H8045](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}/[shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"})
 > They are dead, they shall not live; they are deceased, they shall not rise: therefore hast thou visited and destroyed them, and made all their memory to perish.
 
 **Jeremiah 51:18**
@@ -85,7 +85,7 @@ All texts retrieved from D:/bible/tools/data/kjv.txt.
 
 ---
 
-### G622 (apollymi) -- "to destroy, to perish"
+### [G622](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (apollymi) -- "to destroy, to perish"
 
 **Matthew 5:29-30**
 > And if thy right eye offend thee, pluck it out, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell. And if thy right hand offend thee, cut it off, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell.
@@ -140,7 +140,7 @@ All texts retrieved from D:/bible/tools/data/kjv.txt.
 
 ---
 
-### H8045 (shamad) -- "to destroy, to be destroyed"
+### [H8045](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"} (shamad) -- "to destroy, to be destroyed"
 
 **Psalm 37:38**
 > But the transgressors shall be destroyed together: the end of the wicked shall be cut off.
@@ -165,7 +165,7 @@ All texts retrieved from D:/bible/tools/data/kjv.txt.
 
 ---
 
-### H3615 (kalah) -- "to consume, to finish"
+### [H3615](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"} (kalah) -- "to consume, to finish"
 
 **Psalm 37:20** (see above for full text)
 > But the wicked shall perish, and the enemies of the LORD shall be as the fat of lambs: they shall consume; into smoke shall they consume away.
@@ -202,7 +202,7 @@ All texts retrieved from D:/bible/tools/data/kjv.txt.
 
 ---
 
-### H7843 (shachath) -- "to destroy, to corrupt, to ruin"
+### [H7843](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"} (shachath) -- "to destroy, to corrupt, to ruin"
 
 **Genesis 6:17**
 > And, behold, I, even I, do bring a flood of waters upon the earth, to destroy all flesh, wherein is the breath of life, from under heaven; and every thing that is in the earth shall die.
@@ -233,7 +233,7 @@ All texts retrieved from D:/bible/tools/data/kjv.txt.
 
 ---
 
-### G684 (apoleia) -- "destruction, perdition"
+### [G684](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} (apoleia) -- "destruction, perdition"
 
 **Matthew 7:13-14**
 > Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.
@@ -270,7 +270,7 @@ All texts retrieved from D:/bible/tools/data/kjv.txt.
 
 ---
 
-### G3639 (olethros) -- "destruction, ruin" (ALL 4 VERSES)
+### [G3639](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} (olethros) -- "destruction, ruin" (ALL 4 VERSES)
 
 **1 Corinthians 5:5**
 > To deliver such an one unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus.
@@ -281,7 +281,7 @@ All texts retrieved from D:/bible/tools/data/kjv.txt.
 **2 Thessalonians 1:7-9**
 > And to you who are troubled rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels, In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ: Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;
 
-**1 Timothy 6:9** (also G684 apoleia; see above)
+**1 Timothy 6:9** (also [G684](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} [apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}; see above)
 > But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition.
 
 ---

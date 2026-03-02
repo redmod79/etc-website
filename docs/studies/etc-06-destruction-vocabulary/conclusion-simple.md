@@ -12,20 +12,20 @@ The Bible's vocabulary for the fate of the wicked is dominated by destruction an
 
 In the Old Testament, four Hebrew words carry most of the weight:
 
-- **abad** -- to perish, to be destroyed (roughly 184 occurrences)
-- **shamad** -- to destroy utterly, to exterminate (roughly 90 occurrences)
-- **kalah** -- to consume, to finish, to use up (roughly 206 occurrences)
-- **shachath** -- to corrupt, to ruin, to decay (roughly 147 occurrences)
+- **[abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}** -- to perish, to be destroyed (roughly 184 occurrences)
+- **[shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}** -- to destroy utterly, to exterminate (roughly 90 occurrences)
+- **[kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}** -- to consume, to finish, to use up (roughly 206 occurrences)
+- **[shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}** -- to corrupt, to ruin, to decay (roughly 147 occurrences)
 
 In the New Testament, three Greek words continue the same pattern:
 
-- **apollymi** -- to destroy fully, to perish (roughly 92 occurrences)
-- **apoleia** -- destruction, ruin, perdition (roughly 20 occurrences)
-- **olethros** -- destruction, ruin (4 occurrences)
+- **[apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}** -- to destroy fully, to perish (roughly 92 occurrences)
+- **[apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}** -- destruction, ruin, perdition (roughly 20 occurrences)
+- **[olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}** -- destruction, ruin (4 occurrences)
 
 No standard lexicon defines any of these words as "torment" or "ongoing conscious suffering." They are destruction words. Their plain meaning, across every dictionary and lexicon, points to ruin and cessation.
 
-One important finding confirms that these Old and New Testament words are directly linked: the ancient Greek translation of the Hebrew Old Testament (called the Septuagint, or LXX) translates the Hebrew word abad as the Greek word apollymi 141 times. This means that when New Testament authors like John and Paul use apollymi for the fate of the wicked, they are using the exact same word that Jewish translators had long used to render the Old Testament's primary word for perishing. The vocabulary chain is unbroken across both testaments.
+One important finding confirms that these Old and New Testament words are directly linked: the ancient Greek translation of the Hebrew Old Testament (called the Septuagint, or LXX) translates the Hebrew word [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} as the Greek word [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} 141 times. This means that when New Testament authors like John and Paul use [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} for the fate of the wicked, they are using the exact same word that Jewish translators had long used to render the Old Testament's primary word for perishing. The vocabulary chain is unbroken across both testaments.
 
 ---
 
@@ -97,13 +97,13 @@ A handful of passages go beyond destruction vocabulary and state the result plai
 
 The eternal torment view holds that the Bible's destruction vocabulary is metaphorical -- that "perish" means "exist in a ruined spiritual state," and "destroy" means "inflict irreparable loss" rather than actual cessation. Three passages are most often cited in support of this reading:
 
-- **Matthew 25:46** -- "everlasting punishment" (the word here is *kolasis*, a punishment word, not a destruction word)
-- **Revelation 14:10-11** -- "the smoke of their torment ascendeth up for ever and ever" (the word here is *basanizo*, a torment word, in an apocalyptic vision)
+- **Matthew 25:46** -- "everlasting punishment" (the word here is *[kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"}*, a punishment word, not a destruction word)
+- **Revelation 14:10-11** -- "the smoke of their torment ascendeth up for ever and ever" (the word here is *[basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}*, a torment word, in an apocalyptic vision)
 - **Matthew 13:42** -- "there shall be wailing and gnashing of teeth" in a furnace of fire (from the parable of the tares)
 
 These passages deserve careful attention, but several observations limit how much weight they can carry against the destruction vocabulary:
 
-First, Matthew 25:46 and Revelation 14:10-11 use torment and punishment words (*kolasis*, *basanizo*), not the destruction words this study examines. These are different Greek words with different definitions. The question at issue is what the *destruction* words mean, and passages using different words do not directly answer that question.
+First, Matthew 25:46 and Revelation 14:10-11 use torment and punishment words (*[kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"}*, *[basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}*), not the destruction words this study examines. These are different Greek words with different definitions. The question at issue is what the *destruction* words mean, and passages using different words do not directly answer that question.
 
 Second, on the phrase "everlasting destruction" (2 Thessalonians 1:9), the Bible itself provides a clear interpretive guide. Jude 1:7 says Sodom and Gomorrah suffered "the vengeance of eternal fire" -- yet those cities are not still burning. The eternal fire accomplished a permanent destruction; the destruction is complete, its result is irreversible. "Everlasting destruction" follows the same pattern: not an endless process of being destroyed, but a destruction whose result lasts forever. The Old Testament supports this reading: "destroyed for ever" (Psalm 92:7) and "perish for ever" (Job 20:7) use the same structure.
 

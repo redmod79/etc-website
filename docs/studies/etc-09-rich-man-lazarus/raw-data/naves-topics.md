@@ -40,7 +40,7 @@
      -Plotted against by the chief priests JHN 12:10,11
 ```
 
-## HADES
+## [HADES](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}
 ```
 === [H] HADES ===
   -1. The unseen world, translated "hell" in A. V., but in the R. V. the word "Hades" is retained MAT 10:28; 11:23; 16:18; LUK 10:15; 16:23; ACT 2:27,31; REV 1:18; 6:8; 20:13,14

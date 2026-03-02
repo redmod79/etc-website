@@ -1,7 +1,7 @@
 # Verses
 
 ## Question
-What does Scripture explicitly say about the nature and composition of human beings (biblical anthropology)? Focus on nephesh (soul), ruach (spirit), neshamah (breath), the creation of man, whether humans ARE souls or HAVE souls, and what happens at death.
+What does Scripture explicitly say about the nature and composition of human beings (biblical anthropology)? Focus on [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} (soul), [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} (spirit), [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} (breath), the creation of man, whether humans ARE souls or HAVE souls, and what happens at death.
 
 ---
 
@@ -15,8 +15,8 @@ What does Scripture explicitly say about the nature and composition of human bei
 > **1:27** So God created man in his [own] image, in the image of God created he him; male and female created he them.
 > **1:30** And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein [there is] life, [I have given] every green herb for meat: and it was so.
 
-*Note: "living creature" in 1:20,21,24 is nephesh chayyah -- the SAME term used for man in 2:7.*
-*Note: "life" in 1:30 is nephesh -- applied to animals.*
+*Note: "living creature" in 1:20,21,24 is [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} [chayyah](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"} -- the SAME term used for man in 2:7.*
+*Note: "life" in 1:30 is [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} -- applied to animals.*
 
 ### Genesis 2:7 (The Creation Formula)
 > **2:7** And the LORD God formed man [of] the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
@@ -50,7 +50,7 @@ What does Scripture explicitly say about the nature and composition of human bei
 ### Genesis 7:22 (Breath of life -- all creatures)
 > **7:22** All in whose nostrils [was] the breath of life, of all that [was] in the dry [land], died.
 
-*Note: "breath of life" (neshamah of ruach of chayyim) applied to ALL creatures, not just humans.*
+*Note: "breath of life" ([neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} of [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} of chayyim) applied to ALL creatures, not just humans.*
 
 ### Genesis 9:6 (Image of God)
 > **9:6** Whoso sheddeth man's blood, by man shall his blood be shed: for in the image of God made he man.
@@ -62,12 +62,12 @@ What does Scripture explicitly say about the nature and composition of human bei
 ### Job 32:8 (Spirit in man)
 > **32:8** But [there is] a spirit in man: and the inspiration of the Almighty giveth them understanding.
 
-*Note: "spirit" = ruach; "inspiration" = neshamah. Both terms together.*
+*Note: "spirit" = [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}; "inspiration" = [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"}. Both terms together.*
 
 ### Job 33:4 (God's breath gives life)
 > **33:4** The Spirit of God hath made me, and the breath of the Almighty hath given me life.
 
-*Note: "Spirit" = ruach; "breath" = neshamah. Parallel construction: God's ruach/neshamah is the source of life.*
+*Note: "Spirit" = [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}; "breath" = [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"}. Parallel construction: God's [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}/[neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} is the source of life.*
 
 ### Psalm 8:5 (Lower than the angels)
 > **8:5** For thou hast made him a little lower than the angels, and hast crowned him with glory and honour.
@@ -78,7 +78,7 @@ What does Scripture explicitly say about the nature and composition of human bei
 ### Isaiah 42:5 (God gives breath and spirit)
 > **42:5** Thus saith God the LORD, he that created the heavens, and stretched them out; he that spread forth the earth, and that which cometh out of it; he that giveth breath unto the people upon it, and spirit to them that walk therein:
 
-*Note: "breath" = neshamah; "spirit" = ruach. Both are GIVEN by God, not inherent.*
+*Note: "breath" = [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"}; "spirit" = [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}. Both are GIVEN by God, not inherent.*
 
 ### Isaiah 43:7 (Created for God's glory)
 > **43:7** [Even] every one that is called by my name: for I have created him for my glory, I have formed him; yea, I have made him.
@@ -94,72 +94,72 @@ What does Scripture explicitly say about the nature and composition of human bei
 
 ---
 
-## Priority 2 -- Nephesh/Ruach/Neshamah Key Verses
+## Priority 2 -- [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}/[Ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}/[Neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} Key Verses
 
 ### Leviticus 17:11,14 (Life is in the blood)
 > **17:11** For the life of the flesh [is] in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it [is] the blood [that] maketh an atonement for the soul.
 > **17:14** For [it is] the life of all flesh; the blood of it [is] for the life thereof: therefore I said unto the children of Israel, Ye shall eat the blood of no manner of flesh: for the life of all flesh [is] the blood thereof: whosoever eateth it shall be cut off.
 
-*Note: "life" in both verses = nephesh. The blood IS the nephesh/soul.*
+*Note: "life" in both verses = [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}. The blood IS the [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}/soul.*
 
-### Leviticus 21:11 (Nephesh = dead body)
+### Leviticus 21:11 ([Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} = dead body)
 > **21:11** Neither shall he go in to any dead body, nor defile himself for his father, or for his mother;
 
-*Note: "dead body" = nephesh meth. Nephesh here means CORPSE.*
+*Note: "dead body" = [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} meth. [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} here means CORPSE.*
 
-### Numbers 6:6 (Nephesh = dead body)
+### Numbers 6:6 ([Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} = dead body)
 > **6:6** All the days that he separateth [himself] unto the LORD he shall come at no dead body.
 
-*Note: "dead body" = nephesh meth. Same usage as Lev 21:11.*
+*Note: "dead body" = [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} meth. Same usage as Lev 21:11.*
 
 ### Job 27:3 (Breath and spirit in nostrils)
 > **27:3** All the while my breath [is] in me, and the spirit of God [is] in my nostrils;
 
-*Note: "breath" = neshamah; "spirit" = ruach. Both are present in the living person.*
+*Note: "breath" = [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"}; "spirit" = [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}. Both are present in the living person.*
 
 ### Job 34:14-15 (God gathers spirit and breath, man returns to dust)
 > **34:14** If he set his heart upon man, [if] he gather unto himself his spirit and his breath;
 > **34:15** All flesh shall perish together, and man shall turn again unto dust.
 
-*Note: "spirit" = ruach; "breath" = neshamah. If God withdraws them, man perishes and returns to dust. Reversal of Gen 2:7.*
+*Note: "spirit" = [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}; "breath" = [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"}. If God withdraws them, man perishes and returns to dust. Reversal of Gen 2:7.*
 
 ### Proverbs 20:27 (Spirit of man is candle of the LORD)
 > **20:27** The spirit of man [is] the candle of the LORD, searching all the inward parts of the belly.
 
-*Note: "spirit" = neshamah (NOT ruach). God-given consciousness/understanding.*
+*Note: "spirit" = [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} (NOT [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}). God-given consciousness/understanding.*
 
 ### Isaiah 26:9 (Soul and spirit)
 > **26:9** With my soul have I desired thee in the night; yea, with my spirit within me will I seek thee early: for when thy judgments [are] in the earth, the inhabitants of the world will learn righteousness.
 
-*Note: "soul" = nephesh; "spirit" = ruach. Parallel usage (not necessarily distinct entities).*
+*Note: "soul" = [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}; "spirit" = [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}. Parallel usage (not necessarily distinct entities).*
 
 ### Ecclesiastes 3:19-21 (One breath for man and beast)
 > **3:19** For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no preeminence above a beast: for all [is] vanity.
 > **3:20** All go unto one place; all are of the dust, and all turn to dust again.
 > **3:21** Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth?
 
-*Note: "breath" in 3:19 = ruach. Same ruach for man and beast. Same death. Same dust. 3:21 is a rhetorical question (lit. "who knows whether...").*
+*Note: "breath" in 3:19 = [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}. Same [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} for man and beast. Same death. Same dust. 3:21 is a rhetorical question (lit. "who knows whether...").*
 
 ### Ecclesiastes 12:7 (Spirit returns to God)
 > **12:7** Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it.
 
-*Note: "spirit" = ruach. Dust returns to earth; ruach returns to God. Direct reversal of Gen 2:7 creation formula.*
+*Note: "spirit" = [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}. Dust returns to earth; [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} returns to God. Direct reversal of Gen 2:7 creation formula.*
 
 ### Psalm 104:29 (Breath taken, they die)
 > **104:29** Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust.
 
-*Note: "breath" = ruach. Universal: applies to all creatures (context: Ps 104:27-30).*
+*Note: "breath" = [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}. Universal: applies to all creatures (context: Ps 104:27-30).*
 
 ### Psalm 146:4 (Thoughts perish at death)
 > **146:4** His breath goeth forth, he returneth to his earth; in that very day his thoughts perish.
 
-*Note: "breath" = ruach. When ruach departs, the person returns to earth and thoughts PERISH "in that very day."*
+*Note: "breath" = [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}. When [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} departs, the person returns to earth and thoughts PERISH "in that very day."*
 
 ### Ezekiel 18:4,20 (Soul that sins shall die)
 > **18:4** Behold, all souls are mine; as the soul of the father, so also the soul of the son is mine: the soul that sinneth, it shall die.
 > **18:20** The soul that sinneth, it shall die. The son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son: the righteousness of the righteous shall be upon him, and the wickedness of the wicked shall be upon him.
 
-*Note: "soul" = nephesh throughout. The nephesh DIES -- it is not inherently immortal.*
+*Note: "soul" = [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} throughout. The [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} DIES -- it is not inherently immortal.*
 
 ---
 
@@ -228,7 +228,7 @@ What does Scripture explicitly say about the nature and composition of human bei
 ### Romans 2:7 (Seek for immortality)
 > **2:7** To them who by patient continuance in well doing seek for glory and honour and immortality, eternal life:
 
-*Note: "immortality" = aphtharsia. If humans already possessed it, why must it be SOUGHT?*
+*Note: "immortality" = [aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"}. If humans already possessed it, why must it be SOUGHT?*
 
 ### 1 Corinthians 15:42-55 (Resurrection and immortality)
 > **15:42** So also [is] the resurrection of the dead. It is sown in corruption; it is raised in incorruption:
@@ -251,12 +251,12 @@ What does Scripture explicitly say about the nature and composition of human bei
 ### 2 Timothy 1:10 (Christ brought immortality to light)
 > **1:10** But is now made manifest by the appearing of our Saviour Jesus Christ, who hath abolished death, and hath brought life and immortality to light through the gospel:
 
-*Note: "immortality" = aphtharsia. It was BROUGHT TO LIGHT -- not already in human possession.*
+*Note: "immortality" = [aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"}. It was BROUGHT TO LIGHT -- not already in human possession.*
 
 ### Matthew 10:28 (God can destroy soul and body)
 > **10:28** And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell.
 
-*Note: "soul" = psyche. "destroy" = apollymi. God is ABLE to destroy the psyche -- it is not indestructible.*
+*Note: "soul" = [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}. "destroy" = [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}. God is ABLE to destroy the [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} -- it is not indestructible.*
 
 ---
 
@@ -265,7 +265,7 @@ What does Scripture explicitly say about the nature and composition of human bei
 ### 1 Thessalonians 5:23 (Spirit, soul, body)
 > **5:23** And the very God of peace sanctify you wholly; and [I pray God] your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ.
 
-*Note: Lists three components (pneuma, psyche, soma). The context is preservation unto Christ's COMING -- not a technical anatomy lesson.*
+*Note: Lists three components ([pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"}, [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}, [soma](https://www.blueletterbible.org/lexicon/g4983/kjv/tr/0-1/){:target="_blank"}). The context is preservation unto Christ's COMING -- not a technical anatomy lesson.*
 
 ### 1 Thessalonians 4:13-17 (The dead in Christ)
 > **4:13** But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope.
@@ -279,7 +279,7 @@ What does Scripture explicitly say about the nature and composition of human bei
 ### Hebrews 4:12 (Dividing soul and spirit)
 > **4:12** For the word of God [is] quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and [is] a discerner of the thoughts and intents of the heart.
 
-*Note: "soul" = psyche; "spirit" = pneuma. The point is the Word's penetrating power, not anatomical division.*
+*Note: "soul" = [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}; "spirit" = [pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"}. The point is the Word's penetrating power, not anatomical division.*
 
 ### Hebrews 9:27 (Appointed to die)
 > **9:27** And as it is appointed unto men once to die, but after this the judgment:
@@ -288,7 +288,7 @@ What does Scripture explicitly say about the nature and composition of human bei
 > **1:46** And Mary said, My soul doth magnify the Lord,
 > **1:47** And my spirit hath rejoiced in God my Saviour.
 
-*Note: "soul" = psyche; "spirit" = pneuma. Hebrew poetic parallelism: same idea expressed two ways.*
+*Note: "soul" = [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}; "spirit" = [pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"}. Hebrew poetic parallelism: same idea expressed two ways.*
 
 ### Luke 12:4-5 (Parallel to Matt 10:28)
 > **12:4** And I say unto you my friends, Be not afraid of them that kill the body, and after that have no more that they can do.
@@ -302,7 +302,7 @@ What does Scripture explicitly say about the nature and composition of human bei
 ### Luke 23:46 (Father, into thy hands)
 > **23:46** And when Jesus had cried with a loud voice, he said, Father, into thy hands I commend my spirit: and having said thus, he gave up the ghost.
 
-*Note: "spirit" = pneuma. Jesus commits his pneuma to God (echoing Ecc 12:7; Ps 31:5).*
+*Note: "spirit" = [pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"}. Jesus commits his [pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} to God (echoing Ecc 12:7; Ps 31:5).*
 
 ### John 11:11,14 (Death as sleep)
 > **11:11** These things said he: and after that he saith unto them, Our friend Lazarus sleepeth; but I go, that I may awake him out of sleep.
@@ -319,12 +319,12 @@ What does Scripture explicitly say about the nature and composition of human bei
 > **7:59** And they stoned Stephen, calling upon [God], and saying, Lord Jesus, receive my spirit.
 > **7:60** And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.
 
-*Note: Stephen commits his pneuma (7:59) and then "fell asleep" (7:60). His death is described as sleep.*
+*Note: Stephen commits his [pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} (7:59) and then "fell asleep" (7:60). His death is described as sleep.*
 
 ### Acts 17:25 (God gives life and breath)
 > **17:25** Neither is worshipped with men's hands, as though he needed any thing, seeing he giveth to all life, and breath, and all things;
 
-*Note: "life" = zoe; "breath" = pnoe. God GIVES both. Echoes Gen 2:7 and Isa 42:5.*
+*Note: "life" = [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"}; "breath" = pnoe. God GIVES both. Echoes Gen 2:7 and Isa 42:5.*
 
 ### 2 Corinthians 5:1-9 (Earthly tabernacle / absent from body)
 > **5:1** For we know that if our earthly house of [this] tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.
@@ -347,7 +347,7 @@ What does Scripture explicitly say about the nature and composition of human bei
 ### James 2:26 (Body without spirit is dead)
 > **2:26** For as the body without the spirit is dead, so faith without works is dead also.
 
-*Note: "spirit" = pneuma. The body-spirit relationship illustrates faith-works. The body without pneuma = dead.*
+*Note: "spirit" = [pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"}. The body-spirit relationship illustrates faith-works. The body without [pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} = dead.*
 
 ### Deuteronomy 31:16 (Sleep with fathers)
 > **31:16** And the LORD said unto Moses, Behold, thou shalt sleep with thy fathers; and this people will rise up, and go a whoring after the gods of the strangers of the land...
@@ -372,7 +372,7 @@ Paul quotes Gen 2:7 in 1 Cor 15:45, adding the interpretive contrast:
 - **First Adam** = "a living soul [psyche]" (from Gen 2:7 LXX)
 - **Last Adam** = "a quickening spirit [pneuma]" (Paul's addition)
 
-The first Adam was MADE (ginomai) a living soul; the last Adam was made a life-GIVING spirit. The contrast is between natural/psychikos (soul-powered) and spiritual/pneumatikos (spirit-powered) existence.
+The first Adam was MADE (ginomai) a living soul; the last Adam was made a life-GIVING spirit. The contrast is between natural/psychikos (soul-powered) and spiritual/[pneumatikos](https://www.blueletterbible.org/lexicon/g4152/kjv/tr/0-1/){:target="_blank"} (spirit-powered) existence.
 
 ---
 

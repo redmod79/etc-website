@@ -12,24 +12,24 @@ Each of the 8 major judgment passages is analyzed individually for what the text
 - "The dead, small and great, stand before God" (v.12)
 - Books are opened; "another book" is the book of life (v.12)
 - The dead are "judged out of those things which were written in the books, according to their works" (v.12)
-- The sea, death, and hades deliver up their dead; judged "every man according to their works" (v.13)
+- The sea, death, and [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} deliver up their dead; judged "every man according to their works" (v.13)
 - "Death and hell were cast into the lake of fire. This is the second death." (v.14)
 - "Whosoever was not found written in the book of life was cast into the lake of fire." (v.15)
 
 ### Vocabulary Analysis
 - The judgment process: "judged" (krino) "according to their works" — judgment by works, not by belief system
-- The outcome for death/hades: "cast into the lake of fire" — death itself is destroyed *(Examined in depth in etc-13-lake-of-fire-second-death.)*
-- The outcome for humans not in the book of life: "cast into the lake of fire" — the same destination as death/hades
-- The text's identification: "This is the second death" (thanatos vocabulary)
+- The outcome for death/[hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}: "cast into the lake of fire" — death itself is destroyed *(Examined in depth in etc-13-lake-of-fire-second-death.)*
+- The outcome for humans not in the book of life: "cast into the lake of fire" — the same destination as death/[hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}
+- The text's identification: "This is the second death" ([thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} vocabulary)
 - No torment vocabulary is used for human subjects in vv.11-15
 - The torment formula (Rev 20:10) is in a separate verse applied to the devil, beast, and false prophet *(Examined in depth in etc-12-devil-beast-false-prophet.)*
 
 ### What Each Side Infers
-- **Conditionalist inference:** Humans cast into the lake of fire experience "the second death" (thanatos) — death, not torment. The text's own vocabulary identifies the outcome as death.
+- **Conditionalist inference:** Humans cast into the lake of fire experience "the second death" ([thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}) — death, not torment. The text's own vocabulary identifies the outcome as death.
 - **ECT inference:** Being cast into the lake of fire means eternal conscious torment because Rev 20:10 describes torment in the same lake. The claim requires importing the torment formula from v.10 (non-human subjects) to v.15 (human subjects), despite the text using different vocabulary.
 
 ### Genre Note
-This passage is apocalyptic vision literature. The genre includes symbolic imagery (books, thrones, sea/death/hades personified). The text provides its own interpretation of the lake: "This is the second death."
+This passage is apocalyptic vision literature. The genre includes symbolic imagery (books, thrones, sea/death/[hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} personified). The text provides its own interpretation of the lake: "This is the second death."
 
 ---
 
@@ -43,16 +43,16 @@ This passage is apocalyptic vision literature. The genre includes symbolic image
 - "These shall go away into everlasting punishment [kolasin aionion]: but the righteous into life eternal [zoen aionion]" (v.46)
 
 ### Vocabulary Analysis
-- "everlasting fire" (pur aionion) — fire described as aionios; fire's primary designation is for the devil and his angels
-- "everlasting punishment" (kolasin aionion) — G2851 kolasis, appearing only here and 1 John 4:18 in the entire NT. kolasis = penal infliction/punishment. Derived from kolazo (to curtail, prune, restrain).
-- "life eternal" (zoen aionion) — G2222 zoe + G166 aionios
-- The same adjective aionios modifies both kolasis (punishment) and zoe (life) *(aionios examined in depth in etc-08-greek-aionios-aion.)*
-- The text does not specify the nature of the punishment — it does not say "everlasting torment" (basanismos) or "everlasting suffering." It says kolasis (punishment/penalty).
-- The text does not define what form the kolasis takes.
+- "everlasting fire" (pur aionion) — fire described as [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}; fire's primary designation is for the devil and his angels
+- "everlasting punishment" (kolasin aionion) — [G2851](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} [kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"}, appearing only here and 1 John 4:18 in the entire NT. [kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} = penal infliction/punishment. Derived from kolazo (to curtail, prune, restrain).
+- "life eternal" (zoen aionion) — [G2222](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} + [G166](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}
+- The same adjective [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} modifies both [kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} (punishment) and [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} (life) *([aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} examined in depth in etc-08-greek-[aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}-[aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"}.)*
+- The text does not specify the nature of the punishment — it does not say "everlasting torment" ([basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"}) or "everlasting suffering." It says [kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} (punishment/penalty).
+- The text does not define what form the [kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} takes.
 
 ### What Each Side Infers
-- **ECT inference:** Since the same adjective (aionios) modifies both punishment and life, both must have the same duration. If life is unending, punishment is unending. This requires: (a) interpreting aionios as "unending in duration" uniformly (criterion #2 — choosing a reading); (b) inferring that the kolasis is conscious torment rather than the penalty of death (criterion #1 — adding a concept the text does not state).
-- **Conditionalist inference:** The kolasis (punishment) is the "second death" — the penalty for sin is death (Rom 6:23), and the punishment is everlasting in its effect (permanent/irrevocable), not necessarily in its process. This requires: systematizing kolasis with thanatos vocabulary from other passages (criterion #5, #4a).
+- **ECT inference:** Since the same adjective ([aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}) modifies both punishment and life, both must have the same duration. If life is unending, punishment is unending. This requires: (a) interpreting [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} as "unending in duration" uniformly (criterion #2 — choosing a reading); (b) inferring that the [kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} is conscious torment rather than the penalty of death (criterion #1 — adding a concept the text does not state).
+- **Conditionalist inference:** The [kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} (punishment) is the "second death" — the penalty for sin is death (Rom 6:23), and the punishment is everlasting in its effect (permanent/irrevocable), not necessarily in its process. This requires: systematizing [kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} with [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} vocabulary from other passages (criterion #5, #4a).
 
 ### Genre Note
 This passage is parabolic — Jesus uses the imagery of a shepherd separating sheep and goats to teach about judgment. The subjects are human ("all nations"), but the literary form is parabolic/teaching discourse. The fire was "prepared for the devil and his angels" — its primary designation is for non-human entities, though humans are sent there.
@@ -63,15 +63,15 @@ This passage is parabolic — Jesus uses the imagery of a shepherd separating sh
 
 ### What the Text Says
 - "Many of them that sleep in the dust of the earth shall awake" — death described as sleep in dust
-- "Some to everlasting life" (chayyey olam)
-- "Some to shame [and] everlasting contempt" (charaphah u-dera'on olam)
+- "Some to everlasting life" (chayyey [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"})
+- "Some to shame [and] everlasting contempt" (charaphah u-dera'on [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"})
 - The wise "shall shine as the brightness of the firmament" and "as the stars for ever and ever" (v.3)
 
 ### Vocabulary Analysis
 - "sleep in the dust" — death as unconscious state in the earth (consistent with etc-03, etc-04 death-state studies)
-- "everlasting life" (chayyey olam) — H2416 chay + H5769 olam *(olam examined in etc-07-hebrew-olam-ad.)*
+- "everlasting life" (chayyey [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}) — [H2416](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"} [chay](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"} + [H5769](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} *(olam examined in etc-07-hebrew-olam-ad.)*
 - "shame" (charaphah, H2781) — disgrace, reproach
-- "everlasting contempt" (dera'on olam) — H1860 dera'on, appearing only here and Isa 66:24 in all of Scripture. The word means "object of aversion/abhorrence."
+- "everlasting contempt" (dera'on [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}) — [H1860](https://www.blueletterbible.org/lexicon/h1860/kjv/wlc/0-1/){:target="_blank"} dera'on, appearing only here and Isa 66:24 in all of Scripture. The word means "object of aversion/abhorrence."
 - The text does not say "everlasting torment" or "everlasting suffering." It says "contempt/abhorrence" — a word that describes how the subjects are viewed, not what they experience.
 - The parallel with Isa 66:24 (the only other use of dera'on) is notable: there the word describes the reaction of the living to "carcases" (peger — dead bodies).
 
@@ -113,18 +113,18 @@ The Hebrew peger is determinative for this passage. Worms and fire act upon corp
 ### What the Text Says
 - "All that are in the graves shall hear his voice" (v.28)
 - "And shall come forth" — a literal resurrection from death (v.29)
-- "They that have done good, unto the resurrection of life" (anastasis zoes)
-- "They that have done evil, unto the resurrection of damnation" (anastasis kriseos)
+- "They that have done good, unto the resurrection of life" ([anastasis](https://www.blueletterbible.org/lexicon/g386/kjv/tr/0-1/){:target="_blank"} zoes)
+- "They that have done evil, unto the resurrection of damnation" ([anastasis](https://www.blueletterbible.org/lexicon/g386/kjv/tr/0-1/){:target="_blank"} kriseos)
 
 ### Vocabulary Analysis
-- "resurrection of life" (anastasis zoes) — resurrection leading to life
-- "resurrection of damnation" — KJV translates krisis as "damnation," but the word is G2920 krisis = judgment/decision. The same word appears in v.22 ("all judgment"), v.24 ("condemnation"), v.27 ("execute judgment"), v.30 ("my judgment is just"). It is a judgment word, not a torment word.
+- "resurrection of life" ([anastasis](https://www.blueletterbible.org/lexicon/g386/kjv/tr/0-1/){:target="_blank"} zoes) — resurrection leading to life
+- "resurrection of damnation" — KJV translates [krisis](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} as "damnation," but the word is [G2920](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} [krisis](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} = judgment/decision. The same word appears in v.22 ("all judgment"), v.24 ("condemnation"), v.27 ("execute judgment"), v.30 ("my judgment is just"). It is a judgment word, not a torment word.
 - The text describes two outcomes of resurrection: life or judgment. It does not describe the nature of the judgment — whether it is torment, destruction, or something else.
-- Context: v.24 states "He that heareth my word...hath everlasting life, and shall not come into condemnation [krisis]; but is passed from death unto life." The opposite of life is death, and the opposite of escaping krisis is coming into krisis.
+- Context: v.24 states "He that heareth my word...hath everlasting life, and shall not come into condemnation [krisis]; but is passed from death unto life." The opposite of life is death, and the opposite of escaping [krisis](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} is coming into [krisis](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"}.
 - v.26: "The Father hath life in himself; so hath he given to the Son to have life in himself." Life as a divine attribute.
 
 ### What Each Side Infers
-- **ECT inference:** The "resurrection of damnation" implies eternal conscious torment after resurrection. This requires adding torment to a text that says only "judgment" (krisis).
+- **ECT inference:** The "resurrection of damnation" implies eternal conscious torment after resurrection. This requires adding torment to a text that says only "judgment" ([krisis](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"}).
 - **Conditionalist inference:** The "resurrection of judgment" leads to the execution of the penalty for sin (death — Rom 6:23). The passage contrasts life with judgment, and v.24 contrasts life with death. This requires systematizing John 5:29 with Rom 6:23 (criterion #5, #4a).
 
 ---
@@ -138,16 +138,41 @@ The Hebrew peger is determinative for this passage. Worms and fire act upon corp
 - "When he shall come to be glorified in his saints" (v.10)
 
 ### Vocabulary Analysis
-- "everlasting destruction" (olethron aionion) — G3639 olethros = destruction/ruin (from ollymi, to destroy). The word appears 4 times in the NT (1 Cor 5:5; 1 Thess 5:3; 2 Thess 1:9; 1 Tim 6:9). In every occurrence it means destruction/ruin. *(Examined in etc-06-destruction-words.)*
+- "everlasting destruction" (olethron aionion) — [G3639](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} = destruction/ruin (from ollymi, to destroy). The word appears 4 times in the NT (1 Cor 5:5; 1 Thess 5:3; 2 Thess 1:9; 1 Tim 6:9). In every occurrence it means destruction/ruin. *(Examined in etc-06-destruction-words.)*
 - "from the presence of the Lord" (apo prosopou tou kuriou) — "away from the face of the Lord." The preposition apo = away from, separation from.
 - "from the glory of his power" — separated from God's glorious power
-- Paul's chosen word is olethros (destruction), not basanismos (torment), not kolasis (punishment), not timoria (penalty). He specifically chose a destruction word.
+- Paul's chosen word is [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} (destruction), not [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} (torment), not [kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} (punishment), not timoria (penalty). He specifically chose a destruction word.
 - "flaming fire taking vengeance" — fire as instrument of judgment
 - Genre: Didactic epistle — Paul directly teaching a church about eschatological events
 
 ### What Each Side Infers
-- **ECT inference:** "Everlasting destruction from the presence of the Lord" means eternal separation from God in a state of ongoing conscious ruin. "Destruction" is reinterpreted as a state of being destroyed but never actually perishing. This requires redefining olethros from its lexical meaning (ruin/destruction) to mean "ongoing existence in ruined state" (criterion #1 — adding a concept) and treating "from the presence of the Lord" as defining the nature of punishment rather than its source/origin (criterion #2 — choosing a reading).
-- **Conditionalist inference:** "Everlasting destruction" is permanent destruction — they are destroyed and the destruction is irreversible (the result endures forever). "From the presence of the Lord" indicates the destruction comes from God's presence/power. This reads olethros at its lexical value and apo prosopou as indicating source.
+- **ECT inference:** "Everlasting destruction from the presence of the Lord" means eternal separation from God in a state of ongoing conscious ruin. "Destruction" is reinterpreted as a state of being destroyed but never actually perishing. This requires redefining [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} from its lexical meaning (ruin/destruction) to mean "ongoing existence in ruined state" (criterion #1 — adding a concept) and treating "from the presence of the Lord" as defining the nature of punishment rather than its source/origin (criterion #2 — choosing a reading).
+- **Conditionalist inference:** "Everlasting destruction" is permanent destruction — they are destroyed and the destruction is irreversible (the result endures forever). "From the presence of the Lord" indicates the destruction comes from God's presence/power. This reads [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} at its lexical value and apo prosopou as indicating source.
+
+#### Source Text: Isaiah 2:10,19,21 (LXX)
+
+**The Connection:** Paul's language in 2 Thess 1:9 closely echoes Isaiah 2:
+
+| 2 Thess 1:9 | Isaiah 2:10,19,21 (LXX) |
+|---|---|
+| "punished with everlasting destruction **from** [*apo*] **the presence** [*prosōpou*] of the Lord" | "enter into the rock, and hide thee in the dust, **from before** [*apo prosōpou*] the fear of the LORD" |
+| "and **from the glory of his power** [*tes doxēs tēs ischyos autou*]" | "and **from the glory of his majesty** [*tēs doxēs tēs ischyos autou*]" |
+
+The verbal parallels are nearly exact: *apo prosōpou* (from the face/presence of) and *tēs doxēs tēs ischyos* (of the glory of the strength/power) appear in both texts. Paul appears to be quoting or deliberately alluding to Isaiah 2.
+
+**Significance for the *apo* debate:** The central exegetical question in 2 Thess 1:9 is whether *apo* means "away from" (separation — the ECT reading: eternal separation from God's presence) or "proceeding from" (source — the conditionalist reading: destruction that comes from God's presence).
+
+In the Isaiah 2 source text, people flee FROM (*apo*) the manifestation of God's terrifying glory. They are not "separated from" God's presence as a permanent state — they are fleeing because God's glorious appearance brings destructive judgment. The destruction COMES FROM God's presence; his manifested glory is the *source* of the judgment, not something they are banished from. Isaiah 2:19 — "they shall go into the holes of the rocks, and into the caves of the earth, for fear of the LORD, and for the glory of his majesty, when he ariseth to shake terribly the earth."
+
+**The full Isaiah 2 context:** The passage describes the "day of the LORD" (Isa 2:12) when God arises to judge:
+- v.12: "the day of the LORD of hosts shall be upon every one that is proud and lofty"
+- v.17: "the loftiness of man shall be bowed down, and the haughtiness of men shall be made low"
+- v.18: "the idols he shall utterly abolish"
+- v.19: people flee into caves "when he ariseth to shake terribly the earth"
+
+The imagery is of God's manifested presence bringing destructive judgment upon the earth — not of people being permanently exiled to a place of separation from God. The *apo prosōpou* in Isaiah 2 means "from before" (i.e., from the face of) as a source of terror and destruction.
+
+**Assessment:** Both readings (source and separation) remain grammatically possible for *apo* in 2 Thess 1:9. However, the Isaiah 2 allusion — which provides the specific verbal parallels Paul uses — supports the "proceeding from" (source) reading. In the source text, God's presence is the origin of destructive judgment, not a location from which people are banished. This does not eliminate the "separation" reading, but it demonstrates that the "source" reading has strong OT support in the very text Paul echoes.
 
 ---
 
@@ -164,16 +189,16 @@ The Hebrew peger is determinative for this passage. Worms and fire act upon corp
 - "We are not of them who draw back unto perdition [apoleia]; but of them that believe to the saving of the soul" (v.39)
 
 ### Vocabulary Analysis
-- "fiery indignation, which shall devour" (v.27) — "devour" (esthio/katesthio) is consumption/destruction vocabulary. Fire that devours consumes what it burns.
+- "fiery indignation, which shall devour" (v.27) — "devour" (esthio/[katesthio](https://www.blueletterbible.org/lexicon/g2719/kjv/tr/0-1/){:target="_blank"}) is consumption/destruction vocabulary. Fire that devours consumes what it burns.
 - "sorer punishment" (timoria, G5098) — 1 NT occurrence. The only use of this noun form. Emphasizes retributive penalty/vindication.
 - "died without mercy" (v.28) — The paradigm of punishment under Moses' law was death. The author uses this as the lesser penalty, then argues the penalty for rejecting Christ's sacrifice is "sorer."
-- "perdition" (apoleia, G684) — destruction/ruin (from apollymi). The author contrasts "perdition" (destruction) with "saving of the soul" (v.39). The binary is destruction vs. salvation, not torment vs. salvation.
+- "perdition" ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}, G684) — destruction/ruin (from [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}). The author contrasts "perdition" (destruction) with "saving of the soul" (v.39). The binary is destruction vs. salvation, not torment vs. salvation.
 - The passage's own comparisons: (a) fire that "devours" adversaries; (b) death as paradigm from Mosaic law; (c) perdition vs. saving the soul. All three use destruction/death vocabulary.
 - "Vengeance" and "judge" — from Deut 32:35-36, God's response to covenant breaking
 
 ### What Each Side Infers
 - **ECT inference:** "Sorer punishment" than death implies something worse than death, which is eternal conscious torment. This requires interpreting "sorer" as "more prolonged" rather than "more severe" or "more complete," and overriding the passage's own destruction vocabulary (devour, perdition, death paradigm).
-- **Conditionalist inference:** "Sorer punishment" than physical death under the Mosaic law is the second death — permanent, total destruction of soul and body (Matt 10:28). The passage's vocabulary consistently uses destruction terminology: fire devours, the alternative to salvation is perdition (apoleia). This systematizes the passage's own terms.
+- **Conditionalist inference:** "Sorer punishment" than physical death under the Mosaic law is the second death — permanent, total destruction of soul and body (Matt 10:28). The passage's vocabulary consistently uses destruction terminology: fire devours, the alternative to salvation is perdition ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}). This systematizes the passage's own terms.
 
 ---
 
@@ -189,17 +214,44 @@ The Hebrew peger is determinative for this passage. Worms and fire act upon corp
 - "For as many as have sinned without law shall also perish without law" (v.12)
 
 ### Vocabulary Analysis
-- "seek for...immortality" (aphtharsia, G861) — Immortality is something humans must seek, not something they inherently possess. The righteous are given immortality as a gift with eternal life. *(Examined in etc-02-who-has-immortality.)*
-- "eternal life" (zoe aionios) — given to seekers of immortality
+- "seek for...immortality" ([aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"}, G861) — Immortality is something humans must seek, not something they inherently possess. The righteous are given immortality as a gift with eternal life. *(Examined in etc-02-who-has-immortality.)*
+- "eternal life" ([zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}) — given to seekers of immortality
 - "indignation and wrath" (thumos kai orge) — These are divine emotional responses, not descriptions of what the wicked experience eternally. They describe God's attitude in judgment.
 - "tribulation and anguish" (thlipsis kai stenochoria) — These terms describe the experience of judgment. The text states these come "upon every soul of man that doeth evil." The passage does not specify the duration or nature beyond the experience of the judgment process.
-- "perish" (apollymi, G622) — v.12 uses destruction vocabulary for the final outcome: "sinned without law shall also perish without law." This is the same word used throughout the NT for destruction/loss of life.
+- "perish" ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}, G622) — v.12 uses destruction vocabulary for the final outcome: "sinned without law shall also perish without law." This is the same word used throughout the NT for destruction/loss of life.
 - The structure contrasts: seekers of immortality → eternal life; disobedient → wrath, then perish
 - Genre: Didactic epistle — Paul directly teaching about God's judgment principles
 
 ### What Each Side Infers
 - **ECT inference:** "Tribulation and anguish" on every evil soul implies eternal conscious torment. The wrath and indignation continue forever. This requires: extending "tribulation and anguish" (which the text uses for the judgment experience) into an eternal state (criterion #1 — adding duration the text does not specify).
-- **Conditionalist inference:** The passage's structure shows the righteous seek and receive immortality + eternal life, while the wicked face wrath and "perish" (v.12). If the wicked had inherent immortality, seeking immortality would be unnecessary. The final outcome stated in v.12 is that they "perish." This reads the passage's own concluding vocabulary (apollymi).
+- **Conditionalist inference:** The passage's structure shows the righteous seek and receive immortality + eternal life, while the wicked face wrath and "perish" (v.12). If the wicked had inherent immortality, seeking immortality would be unnecessary. The final outcome stated in v.12 is that they "perish." This reads the passage's own concluding vocabulary ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}).
+
+---
+
+## Weeping and Gnashing of Teeth: Exclusion-Grief Reading
+
+### NT Occurrences
+The phrase "weeping and gnashing of teeth" (klauthmos kai brygmos tōn odontōn) appears seven times in the NT: Matt 8:12; 13:42,50; 22:13; 24:51; 25:30; Luke 13:28.
+
+### Traditional Reading
+The traditional interpretation treats "weeping and gnashing of teeth" as a description of physical pain experienced by the wicked in hell — an indicator of ongoing conscious torment.
+
+### Alternative Reading: Exclusion-Grief
+An alternative reading, developed by Kim Papaioannou ("The Geography of Hell") and others, interprets the phrase as expressing anger, rage, and grief at being excluded from the kingdom — not physical pain of torment.
+
+**"Gnashing of teeth" (brygmos tōn odontōn) in OT contexts consistently expresses anger and rage, not pain:**
+- Ps 35:16: "They gnashed upon me with their teeth" — enemies expressing hostility
+- Ps 37:12: "The wicked... gnasheth upon him with his teeth" — rage at the righteous
+- Ps 112:10: "The wicked shall see it, and be grieved; he shall gnash with his teeth, and melt away" — anger followed by destruction
+- Job 16:9: "He teareth me in his wrath, who hateth me: he gnasheth upon me with his teeth" — an adversary's rage
+- Lam 2:16: "All thine enemies... hiss and gnash the teeth" — hostile rage
+- Acts 7:54: The Sanhedrin "gnashed on him with their teeth" — the Jewish council grinding their teeth in fury at Stephen's speech. This is clearly anger, not physical pain.
+
+**Luke 13:28 provides the key context:** "There shall be weeping and gnashing of teeth, when ye shall see Abraham, and Isaac, and Jacob, and all the prophets, in the kingdom of God, and you yourselves thrust out." Here the text explicitly identifies the cause of the gnashing: seeing others in the kingdom while being excluded. The gnashing is a response to *exclusion*, not to physical torment.
+
+**Assessment:** The OT usage of "gnashing teeth" consistently points to anger and rage. Acts 7:54 confirms this meaning in a NT context (the Sanhedrin was furious, not in pain). Luke 13:28 identifies the trigger as exclusion from the kingdom. The weeping/gnashing language more naturally expresses anger and grief at being excluded from the kingdom than ongoing physical pain in torment.
+
+**Note on I038 (ECT-direction inference):** The inference that "wailing and gnashing = eternal conscious torment" should be read alongside this alternative. The text itself describes the gnashing as a response to exclusion (Luke 13:28), and the OT background consistently associates gnashing with anger rather than pain. The ECT reading requires adding "physical pain in torment" to a phrase that the biblical usage associates with rage and grief.
 
 ---
 
@@ -207,33 +259,21 @@ The Hebrew peger is determinative for this passage. Worms and fire act upon corp
 
 | Passage | Vocabulary Used for Wicked's Fate | Vocabulary NOT Used |
 |---------|----------------------------------|---------------------|
-| Rev 20:11-15 | "cast into the lake of fire," "second death" (thanatos) | basanizo (torment) — for human subjects |
-| Matt 25:31-46 | kolasis (punishment), pur aionion (everlasting fire) | basanizo (torment), thanatos (death) |
-| Dan 12:2 | dera'on (contempt/abhorrence), charaphah (shame) | basanizo, death, destruction |
+| Rev 20:11-15 | "cast into the lake of fire," "second death" ([thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}) | [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (torment) — for human subjects |
+| Matt 25:31-46 | [kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} (punishment), pur aionion (everlasting fire) | [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (torment), [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (death) |
+| Dan 12:2 | dera'on (contempt/abhorrence), charaphah (shame) | [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}, death, destruction |
 | Isa 66:24 | peger (carcasses/dead bodies), worm, fire, dera'on (abhorring) | any consciousness vocabulary |
-| John 5:28-29 | krisis (judgment) | basanizo (torment), death, destruction |
-| 2 Thess 1:9 | olethros (destruction) | basanizo (torment) |
-| Heb 10:26-31 | devour, timoria (punishment), apoleia (perdition/destruction) | basanizo (torment) |
-| Rom 2:5-11 | wrath, indignation, tribulation, anguish, apollymi (perish) | basanizo (torment), immortality for wicked |
+| John 5:28-29 | [krisis](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} (judgment) | [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (torment), death, destruction |
+| 2 Thess 1:9 | [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} (destruction) | [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (torment) |
+| Heb 10:26-31 | devour, timoria (punishment), [apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} (perdition/destruction) | [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (torment) |
+| Rom 2:5-11 | wrath, indignation, tribulation, anguish, [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (perish) | [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (torment), immortality for wicked |
 
 ### Pattern Observed
-- 0 of 8 passages use basanizo (torment) for the wicked's fate
-- 4 of 8 passages use destruction/death vocabulary (Rev 20: second death; 2 Thess 1: olethros; Heb 10: devour/perdition; Rom 2: perish)
-- 2 of 8 passages use penalty/judgment vocabulary without specifying nature (Matt 25: kolasis; John 5: krisis)
+- 0 of 8 passages use [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (torment) for the wicked's fate
+- 4 of 8 passages use destruction/death vocabulary (Rev 20: second death; 2 Thess 1: [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}; Heb 10: devour/perdition; Rom 2: perish)
+- 2 of 8 passages use penalty/judgment vocabulary without specifying nature (Matt 25: [kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"}; John 5: [krisis](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"})
 - 2 of 8 passages describe the state/reputation of the dead (Dan 12: contempt; Isa 66: carcasses with abhorring)
 - 1 passage (Rom 2:7) treats immortality as something seekers receive — not an inherent human attribute
 
 ---
 *Analysis completed: 2026-02-20*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

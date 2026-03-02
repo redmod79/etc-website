@@ -12,8 +12,8 @@
 
 ### Concepts Found
 - **FAITH:** Emunah/pistis - trust, belief, faithfulness (G4100: "we believe")
-- **DEATH:** Maveth/thanatos - death, dying (G599: "died")
-- **RESURRECTION:** Qum/anastasis - rising, standing up (G450: "rose again")
+- **DEATH:** [Maveth](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"}/[thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} - death, dying (G599: "died")
+- **RESURRECTION:** Qum/[anastasis](https://www.blueletterbible.org/lexicon/g386/kjv/tr/0-1/){:target="_blank"} - rising, standing up (G450: "rose again")
 
 ### Same Chapter (1 Thess 4)
 1. **1 Thess 4:16** [RESURRECTION] -- "For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first"

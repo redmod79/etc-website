@@ -4,7 +4,7 @@
 
 ### Concepts Found
 - **GLORY** (G1391): Kabod/doxa - weight, honor, splendor
-- **LIFE** (G2222): Chay/zoe - living, alive, life
+- **LIFE** (G2222): [Chay](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"}/[zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} - living, alive, life
 
 ### Same Chapter (Romans 2)
 - Rom 2:10 [GLORY] -- "But glory, honour, and peace, to every man that worketh good, to the Jew first, and also to the Gentile"
@@ -25,8 +25,8 @@
 ## Romans 8:11
 
 ### Concepts Found
-- **SPIRIT** (G4151): Ruach/pneuma - wind, breath, spirit
-- **RESURRECTION** (G1453): Qum/anastasis - rising, standing up
+- **SPIRIT** (G4151): [Ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}/[pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} - wind, breath, spirit
+- **RESURRECTION** (G1453): Qum/[anastasis](https://www.blueletterbible.org/lexicon/g386/kjv/tr/0-1/){:target="_blank"} - rising, standing up
 - **MESSIAH** (G5547): Mashiach/Christos - anointed one
 
 ### Same Chapter (Romans 8) -- selected
@@ -47,7 +47,7 @@
 ## 2 Corinthians 5:4
 
 ### Concepts Found
-- **LIFE** (G2222): Chay/zoe - living, alive, life
+- **LIFE** (G2222): [Chay](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"}/[zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} - living, alive, life
 
 ### Same Chapter (2 Cor 5)
 - 2 Cor 5:15 [LIFE] -- "he died for all, that they which live should not henceforth live unto themselves"

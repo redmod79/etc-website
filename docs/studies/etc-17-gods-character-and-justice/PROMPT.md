@@ -37,7 +37,7 @@ God's love, justice, holiness, mercy, wrath. Proportionality of punishment. Cons
 **B. Proportional Punishment Passages**
 - Luke 12:47-48 (beaten with many stripes vs. few stripes, according to knowledge)
 - Matt 10:15; 11:22,24 (more tolerable for Sodom than for rejecting cities)
-- Matt 23:14 (greater damnation/krisis)
+- Matt 23:14 (greater damnation/[krisis](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"})
 - Heb 2:2-3 (every transgression received just recompense; how much more)
 - Heb 10:28-29 (sorer punishment for treading underfoot Son of God)
 - Rom 2:5-6 (treasurest up wrath; render to every man according to deeds)
@@ -76,7 +76,7 @@ God's love, justice, holiness, mercy, wrath. Proportionality of punishment. Cons
 - John 3:16-17 (God so loved the world; not to condemn but save)
 
 **F. Key Destruction/Death Vocabulary (from prior studies)**
-- Matt 10:28 (destroy soul and body in gehenna)
+- Matt 10:28 (destroy soul and body in [gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"})
 - 2 Thess 1:9 (everlasting destruction)
 - John 3:16 (perish vs. eternal life)
 - Mal 4:1-3 (burn up, ashes underfoot)
@@ -86,25 +86,25 @@ God's love, justice, holiness, mercy, wrath. Proportionality of punishment. Cons
 ### Strong's Numbers Found (from semantic_strongs.py)
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| H4941 | mishpat (judgment, justice, ordinance) | Core concept -- God's justice |
-| G1349 | dike (justice, right, punishment) | NT justice/vengeance |
-| G1341 | dikaiokrasia (righteous judgment) | God's righteous judgment |
-| G2851 | kolasis (punishment) | Matt 25:46 punishment word |
-| G5098 | timoria (punishment, penalty) | Heb 10:29 sorer punishment |
-| H7349 | rachum (compassionate, merciful) | God's character - mercy |
-| G1656 | eleos (mercy, compassion) | NT mercy vocabulary |
-| G1653 | eleeo (to show mercy) | NT mercy verb |
-| H2617 | chesed (lovingkindness, mercy) | Key OT attribute of God |
-| G3405 | misthapodosia (recompense, reward) | Proportional reward/punishment |
-| G3408 | misthos (wages, reward) | Wages/reward concept |
-| H1576 | gemul (recompense, treatment) | OT proportional recompense |
-| G684 | apoleia (destruction, perdition) | Destruction vocabulary |
-| G622 | apollymi (to destroy, to perish) | Core destruction verb |
+| [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} | mishpat (judgment, justice, ordinance) | Core concept -- God's justice |
+| [G1349](https://www.blueletterbible.org/lexicon/g1349/kjv/tr/0-1/){:target="_blank"} | dike (justice, right, punishment) | NT justice/vengeance |
+| [G1341](https://www.blueletterbible.org/lexicon/g1341/kjv/tr/0-1/){:target="_blank"} | dikaiokrasia (righteous judgment) | God's righteous judgment |
+| [G2851](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} | [kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} (punishment) | Matt 25:46 punishment word |
+| [G5098](https://www.blueletterbible.org/lexicon/g5098/kjv/tr/0-1/){:target="_blank"} | timoria (punishment, penalty) | Heb 10:29 sorer punishment |
+| [H7349](https://www.blueletterbible.org/lexicon/h7349/kjv/wlc/0-1/){:target="_blank"} | rachum (compassionate, merciful) | God's character - mercy |
+| [G1656](https://www.blueletterbible.org/lexicon/g1656/kjv/tr/0-1/){:target="_blank"} | eleos (mercy, compassion) | NT mercy vocabulary |
+| [G1653](https://www.blueletterbible.org/lexicon/g1653/kjv/tr/0-1/){:target="_blank"} | eleeo (to show mercy) | NT mercy verb |
+| [H2617](https://www.blueletterbible.org/lexicon/h2617/kjv/wlc/0-1/){:target="_blank"} | chesed (lovingkindness, mercy) | Key OT attribute of God |
+| [G3405](https://www.blueletterbible.org/lexicon/g3405/kjv/tr/0-1/){:target="_blank"} | misthapodosia (recompense, reward) | Proportional reward/punishment |
+| [G3408](https://www.blueletterbible.org/lexicon/g3408/kjv/tr/0-1/){:target="_blank"} | misthos (wages, reward) | Wages/reward concept |
+| [H1576](https://www.blueletterbible.org/lexicon/h1576/kjv/wlc/0-1/){:target="_blank"} | gemul (recompense, treatment) | OT proportional recompense |
+| [G684](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} | [apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} (destruction, perdition) | Destruction vocabulary |
+| [G622](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} | [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (to destroy, to perish) | Core destruction verb |
 
 ### Related Existing Studies
 | Study | Question | Relevance |
 |-------|----------|-----------|
-| etc-14-judgment-passages | Major judgment passages E/N/I classification | Directly relevant: kolasis, olethros, krisis vocabulary in judgment |
+| etc-14-judgment-passages | Major judgment passages E/N/I classification | Directly relevant: [kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"}, [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}, [krisis](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} vocabulary in judgment |
 | etc-06-destruction-vocabulary | Destruction vocabulary lexical study | Directly relevant: biblical vocabulary for fate of wicked |
 | etc-03-biblical-death | What does death mean? | Relevant: death as penalty, wages of sin |
 | etc-02-who-has-immortality | Who has immortality? | Relevant: conditional immortality, eternal life as gift |
@@ -112,10 +112,10 @@ God's love, justice, holiness, mercy, wrath. Proportionality of punishment. Cons
 | etc-16-origins-of-ect | Historical origins of ECT | Relevant: Platonic influence on infinite punishment concept |
 
 **Key findings from prior studies:**
-- etc-14: None of 8 major judgment passages uses basanizo for human wicked; 4 of 8 use destruction/death vocabulary
+- etc-14: None of 8 major judgment passages uses [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} for human wicked; 4 of 8 use destruction/death vocabulary
 - etc-15: "Sin against infinite God warrants infinite punishment" classified I-C (external reasoning, not from text)
 - etc-06: Bible's primary vocabulary for wicked's fate = destruction/cessation, not torment
-- etc-03: "Wages of sin is death" uses thanatos -- same word as "second death"
+- etc-03: "Wages of sin is death" uses [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} -- same word as "second death"
 - etc-16: ECT requires Platonic premise of inherent soul immortality
 
 ### Focus Areas
@@ -141,7 +141,7 @@ You are the Research Agent. Execute this study by:
    - `raw-data/` - Raw tool output organized by category
 5. Do NOT write `03-analysis.md` or `CONCLUSION.md` -- those are for the analysis agent
 6. Run BOTH --hybrid-ot AND --hybrid-nt for key verses (Ex 34:6-7, Rom 6:23, Luke 12:47-48, 2 Pet 3:9, Ezek 18:23, Matt 10:15)
-7. Key Strong's to research: H4941, G2851, G5098, H7349, G1656, H2617, G3405, G3408
+7. Key Strong's to research: [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"}, [G2851](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"}, [G5098](https://www.blueletterbible.org/lexicon/g5098/kjv/tr/0-1/){:target="_blank"}, [H7349](https://www.blueletterbible.org/lexicon/h7349/kjv/wlc/0-1/){:target="_blank"}, [G1656](https://www.blueletterbible.org/lexicon/g1656/kjv/tr/0-1/){:target="_blank"}, [H2617](https://www.blueletterbible.org/lexicon/h2617/kjv/wlc/0-1/){:target="_blank"}, [G3405](https://www.blueletterbible.org/lexicon/g3405/kjv/tr/0-1/){:target="_blank"}, [G3408](https://www.blueletterbible.org/lexicon/g3408/kjv/tr/0-1/){:target="_blank"}
 
 ## Workflow
 answer-question

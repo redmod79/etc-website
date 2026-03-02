@@ -1,6 +1,6 @@
 # Raw Concept Context Data
 
-## 2 Cor 5:4 -- Concept: LIFE (G2222 zOE) -- Scope: Author (Paul)
+## 2 Cor 5:4 -- Concept: LIFE (G2222 [zOE](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"}) -- Scope: Author (Paul)
 
 ### Same Chapter (2 Corinthians 5)
 1. **2 Cor 5:15** [LIFE] -- "And [that] he died for all, that they which live should not henceforth live unto themselves, but unto him which died for them, and rose again."
@@ -28,4 +28,4 @@
 **Key observation:** The concept context for 2 Cor 5:4 connects most strongly to the death/life contrast running through 2 Cor 4:10-12 and to the resurrection/transformation passages in 1 Cor 15 and 1 Th 4:15-17.
 
 ## 2 Cor 5:1 -- No theological concepts found
-The tool did not identify mapped theological concepts in this verse (the vocabulary -- oikia, skEnos, oikodomE -- is not in the standard concept mapping).
+The tool did not identify mapped theological concepts in this verse (the vocabulary -- oikia, [skEnos](https://www.blueletterbible.org/lexicon/g4636/kjv/tr/0-1/){:target="_blank"}, oikodomE -- is not in the standard concept mapping).

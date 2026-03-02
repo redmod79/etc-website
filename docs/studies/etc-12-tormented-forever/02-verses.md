@@ -31,10 +31,10 @@
 > 20:12 And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is [the book] of life: and the dead were judged out of those things which were written in the books, according to their works.
 > 20:13 And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works.
 
-### Revelation 20:14 (Death and Hades Cast In -- "Second Death" Identity)
+### Revelation 20:14 (Death and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} Cast In -- "Second Death" Identity)
 > 20:14 And death and hell were cast into the lake of fire. This is the second death.
 
-**Key: When death and hades are cast into the lake of fire, the text names the lake "the second death." No torment language.**
+**Key: When death and [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} are cast into the lake of fire, the text names the lake "the second death." No torment language.**
 
 ### Revelation 20:15 (Human Wicked Cast In -- NO Torment Language)
 > 20:15 And whosoever was not found written in the book of life was cast into the lake of fire.
@@ -110,7 +110,7 @@
 ### Revelation 12:9 (Dragon = Devil = Satan = Old Serpent)
 > 12:9 And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.
 
-### Revelation 12:2 (Woman "Pained" -- basanizo for childbirth)
+### Revelation 12:2 (Woman "Pained" -- [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} for childbirth)
 > 12:2 And she being with child cried, travailing in birth, and pained to be delivered.
 
 ---
@@ -122,7 +122,7 @@
 
 ---
 
-## G928 basanizo -- All 12 Occurrences (Full Verse Text)
+## [G928](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} -- All 12 Occurrences (Full Verse Text)
 
 ### Non-Judgment Uses (7 of 12)
 
@@ -166,7 +166,7 @@
 
 ---
 
-## G929 basanismos -- All 6 Occurrences (All in Revelation)
+## [G929](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} -- All 6 Occurrences (All in Revelation)
 
 **Revelation 9:5** -- 5-month time limit
 > And to them it was given that they should not kill them, but that they should be tormented five months: and their torment [was] as the torment of a scorpion, when he striketh a man.
@@ -189,11 +189,11 @@
 > 18:22 And the voice of harpers, and musicians, and of pipers, and trumpeters, shall be heard no more at all in thee; and no craftsman, of whatsoever craft [he be], shall be found any more in thee; and the sound of a millstone shall be heard no more at all in thee;
 > 18:23 And the light of a candle shall shine no more at all in thee; and the voice of the bridegroom and of the bride shall be heard no more at all in thee
 
-**Key: Three of six basanismos occurrences describe Babylon's "torment" -- which IS Babylon's completed destruction. Babylon is "utterly burned," "found no more at all," "heard no more at all."**
+**Key: Three of six [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} occurrences describe Babylon's "torment" -- which IS Babylon's completed destruction. Babylon is "utterly burned," "found no more at all," "heard no more at all."**
 
 ---
 
-## G931 basanos -- All 3 Occurrences (NOT in eschatological judgment)
+## [G931](https://www.blueletterbible.org/lexicon/g931/kjv/tr/0-1/){:target="_blank"} basanos -- All 3 Occurrences (NOT in eschatological judgment)
 
 **Matthew 4:24** -- Physical diseases/pains
 > And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them.
@@ -214,7 +214,7 @@
 **Matthew 25:46**
 > And these shall go away into everlasting punishment: but the righteous into life eternal.
 
-**Key: Matt 25:41 states the everlasting fire was "prepared for the devil and his angels" -- not originally for human beings. Humans are sent there secondarily. The punishment is described as "everlasting punishment" (kolasis aionios), not "everlasting torment."**
+**Key: Matt 25:41 states the everlasting fire was "prepared for the devil and his angels" -- not originally for human beings. Humans are sent there secondarily. The punishment is described as "everlasting punishment" ([kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}), not "everlasting torment."**
 
 ---
 

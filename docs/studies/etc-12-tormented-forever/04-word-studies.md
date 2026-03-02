@@ -1,13 +1,13 @@
 # Word Studies
 
-## G928 basanizo -- "to test/torment/torture/distress"
+## [G928](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} -- "to test/torment/torture/distress"
 
 ### Lexicon Data
-- **Original:** basanizo (betaalphasigmaalphanuiota-zeta-omega)
-- **Transliteration:** basanizo
+- **Original:** [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (betaalphasigmaalphanuiota-zeta-omega)
+- **Transliteration:** [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}
 - **Pronunciation:** bas-an-id'-zo
 - **Part of Speech:** verb
-- **Definition:** From G931 (basanos); to torture: pain, toil, torment, toss, vex
+- **Definition:** From [G931](https://www.blueletterbible.org/lexicon/g931/kjv/tr/0-1/){:target="_blank"} (basanos); to torture: pain, toil, torment, toss, vex
 - **Total Occurrences:** 12
 
 ### Translation Distribution
@@ -57,21 +57,21 @@
 1. **Semantic range is wide:** pain, toil, torment, toss, vex -- NOT a technical eschatological term
 2. **7 of 12 uses are non-judgment contexts** (illness, waves, rowing, emotional distress, childbirth, demonic fear)
 3. **All 5 judgment uses are in Revelation's apocalyptic framework** (plus Matt 8:29 where demons speak of their own future judgment)
-4. **When humans use basanizo for eschatological fear, the speakers are demons** (Matt 8:29; Mark 5:7; Luke 8:28) -- supernatural entities, not humans
-5. **Rev 9:5 uses basanizo with an explicit 5-month time limit** -- the word itself does not inherently mean eternal
-6. **Rev 11:10 uses basanizo for prophetic witness causing distress** -- the "torment" is the prophets' testimony, not fire
-7. **No epistle, no Gospel, and no OT passage uses basanizo for the final fate of generic human wicked**
+4. **When humans use [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} for eschatological fear, the speakers are demons** (Matt 8:29; Mark 5:7; Luke 8:28) -- supernatural entities, not humans
+5. **Rev 9:5 uses [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} with an explicit 5-month time limit** -- the word itself does not inherently mean eternal
+6. **Rev 11:10 uses [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} for prophetic witness causing distress** -- the "torment" is the prophets' testimony, not fire
+7. **No epistle, no Gospel, and no OT passage uses [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} for the final fate of generic human wicked**
 
 ---
 
-## G929 basanismos -- "torment/torture"
+## [G929](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} -- "torment/torture"
 
 ### Lexicon Data
-- **Original:** basanismos
-- **Transliteration:** basanismos
+- **Original:** [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"}
+- **Transliteration:** [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"}
 - **Pronunciation:** bas-an-is-mos'
 - **Part of Speech:** masculine noun
-- **Definition:** From G928 (basanizo); torture: torment
+- **Definition:** From [G928](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (basanizo); torture: torment
 - **Total Occurrences:** 6
 
 ### Translation Distribution
@@ -95,14 +95,14 @@
 
 ---
 
-## G931 basanos -- "touchstone/torment"
+## [G931](https://www.blueletterbible.org/lexicon/g931/kjv/tr/0-1/){:target="_blank"} basanos -- "touchstone/torment"
 
 ### Lexicon Data
 - **Original:** basanos
 - **Transliteration:** basanos
 - **Pronunciation:** bas'-an-os
 - **Part of Speech:** masculine noun
-- **Definition:** Perhaps remotely from the same as G939; a touchstone
+- **Definition:** Perhaps remotely from the same as [G939](https://www.blueletterbible.org/lexicon/g939/kjv/tr/0-1/){:target="_blank"}; a touchstone
 - **Total Occurrences:** 3
 
 ### Translation Distribution
@@ -118,19 +118,19 @@
 
 ### Key Observations
 1. **NOT used in any eschatological judgment passage**
-2. **Luke 16 is parabolic** -- uses basanos, NOT basanizo/basanismos
+2. **Luke 16 is parabolic** -- uses basanos, NOT [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}/[basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"}
 3. **Matt 4:24 is physical illness** -- not judgment
 
 ---
 
-## G2342 therion -- "wild beast/dangerous animal"
+## [G2342](https://www.blueletterbible.org/lexicon/g2342/kjv/tr/0-1/){:target="_blank"} therion -- "wild beast/dangerous animal"
 
 ### Lexicon Data
 - **Original:** therion
 - **Transliteration:** therion
 - **Pronunciation:** thay-ree'-on
 - **Part of Speech:** neuter noun
-- **Definition:** Diminutive from the same as G2339; a dangerous animal: (venomous, wild) beast
+- **Definition:** Diminutive from the same as [G2339](https://www.blueletterbible.org/lexicon/g2339/kjv/tr/0-1/){:target="_blank"}; a dangerous animal: (venomous, wild) beast
 - **Total Occurrences:** 45-46 (BLB count 46)
 
 ### Translation Distribution
@@ -157,14 +157,14 @@
 
 ---
 
-## G5578 pseudoprophetes -- "false prophet"
+## [G5578](https://www.blueletterbible.org/lexicon/g5578/kjv/tr/0-1/){:target="_blank"} pseudoprophetes -- "false prophet"
 
 ### Lexicon Data
 - **Original:** pseudoprophetes
 - **Transliteration:** pseudoprophetes
 - **Pronunciation:** psyoo-dop-rof-ay'-tace
 - **Part of Speech:** masculine noun
-- **Definition:** From G5571 and G4396; a spurious prophet, i.e. pretended foreteller
+- **Definition:** From [G5571](https://www.blueletterbible.org/lexicon/g5571/kjv/tr/0-1/){:target="_blank"} and [G4396](https://www.blueletterbible.org/lexicon/g4396/kjv/tr/0-1/){:target="_blank"}; a spurious prophet, i.e. pretended foreteller
 - **Total Occurrences:** 11 (BLB count 11)
 
 ### Translation Distribution
@@ -189,14 +189,14 @@
 
 ---
 
-## G1228 diabolos -- "slanderer/devil"
+## [G1228](https://www.blueletterbible.org/lexicon/g1228/kjv/tr/0-1/){:target="_blank"} diabolos -- "slanderer/devil"
 
 ### Lexicon Data
 - **Original:** diabolos
 - **Transliteration:** diabolos
 - **Pronunciation:** dee-ab'-ol-os
 - **Part of Speech:** adjective
-- **Definition:** From G1225; a traducer; specially, Satan
+- **Definition:** From [G1225](https://www.blueletterbible.org/lexicon/g1225/kjv/tr/0-1/){:target="_blank"}; a traducer; specially, Satan
 - **Total Occurrences:** 38 (BLB count 38)
 
 ### Translation Distribution
@@ -223,7 +223,7 @@
 
 ---
 
-## G1404 drakon -- "dragon"
+## [G1404](https://www.blueletterbible.org/lexicon/g1404/kjv/tr/0-1/){:target="_blank"} drakon -- "dragon"
 
 ### Lexicon Data
 - **Original:** drakon
@@ -252,24 +252,61 @@
 
 ---
 
+## [G2673](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"}: [katargeo](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} — Full Semantic Range
+
+### Lexicon Data
+- **Original:** [katargeo](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} (kataalpha-rho-gammaepsilonomega)
+- **Transliteration:** [katargeo](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"}
+- **Pronunciation:** kat-ar-geh'-o
+- **Part of Speech:** verb
+- **Definition:** From [G2596](https://www.blueletterbible.org/lexicon/g2596/kjv/tr/0-1/){:target="_blank"} (kata) and [G691](https://www.blueletterbible.org/lexicon/g691/kjv/tr/0-1/){:target="_blank"} (argeo); to render idle, to make ineffective, to abolish, to do away with
+- **Louw-Nida:** Includes "cause to cease to exist" as one of several definitions
+- **Total Occurrences:** 27
+
+### NT Usage Distribution
+
+**"Abolish/destroy" (clear cessation):**
+- 1 Cor 15:24 — "when he shall have put down [katargese] all rule and all authority and power"
+- 1 Cor 15:26 — "The last enemy that shall be destroyed [katargeitai] is death"
+- 2 Tim 1:10 — Christ "hath abolished [katargesantos] death"
+- Heb 2:14 — "that through death he might destroy [katargese] him that had the power of death, that is, the devil"
+
+**"Set aside/nullify" (invalidate, make void):**
+- Rom 3:3 — "shall their unbelief make the faith of God without effect [katargesei]?"
+- Rom 3:31 — "Do we then make void [katargoumen] the law through faith?"
+- Rom 4:14 — "faith is made void [kekenōtai]... promise made of none effect [katērgētai]"
+- Gal 3:17 — the law cannot "make the promise of none effect [katargesai]"
+- Gal 5:4 — "Christ is become of no effect [katērgēthēte] unto you"
+- Gal 5:11 — "then is the offence of the cross ceased [katērgētai]"
+- Eph 2:15 — "having abolished [katargēsas] in his flesh the enmity"
+
+**"Cease/pass away" (come to an end):**
+- 1 Cor 2:6 — "the princes of this world, that come to nought [katargoumenōn]"
+- 1 Cor 13:8 — "whether there be prophecies, they shall fail [katargēthēsontai]"
+- 1 Cor 13:10 — "that which is in part shall be done away [katargēthēsetai]"
+- 1 Cor 13:11 — "I put away [katērgēka] childish things"
+- 2 Cor 3:7,11,13,14 — "that which is done away [katargoumenon]" (the old covenant glory)
+
+### Key Observations
+
+1. **The word has genuine lexical ambiguity.** [Katargeo](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} does not exclusively mean "annihilate" or "destroy completely." Its semantic range includes "render powerless," "abolish," "nullify," "make ineffective," "do away with," and "cause to cease." Context determines which meaning applies.
+
+2. **For Heb 2:14 specifically:** Both "destroy" and "render powerless" are lexically possible readings. "That through death he might destroy [katargese] him that had the power of death, that is, the devil." Conditionalists read this as the actual destruction/annihilation of the devil. ECT proponents read this as rendering the devil's power ineffective. Both readings are within the word's documented semantic range.
+
+3. **E386 classifies Heb 2:14 as Neutral** — not Conditionalist. This is methodologically sound because of the genuine lexical ambiguity. The word's other uses include "nullify" (Rom 3:3,31), "make void" (Rom 4:14), "become of no effect" (Gal 5:4) — none of which mean annihilation. The Heb 2:14 usage must be interpreted in light of this full range.
+
+4. **However:** When [katargeo](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} is applied to death (1 Cor 15:26; 2 Tim 1:10), the meaning is clear — death is abolished/destroyed. Death ceases to exist (confirmed by Rev 21:4: "no more death"). This establishes that [katargeo](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} CAN mean complete cessation. Whether it means this when applied to the devil in Heb 2:14 depends on contextual interpretation.
+
+5. **The honest assessment:** Heb 2:14 alone does not prove the devil's annihilation because [katargeo](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} has too wide a semantic range. But it is consistent with the devil's destruction, especially when combined with Ezek 28:18-19 ("ashes... never shalt thou be any more") and the broader pattern of destruction vocabulary in the NT.
+
+---
+
 ## Summary: The Nature of Rev 20:10's Three Subjects
 
 | Subject | Strong's | Nature | Evidence |
 |---------|----------|--------|----------|
-| The devil | G1228 diabolos | Non-human supernatural spirit being | 38 NT occurrences; consistently a spirit being; Rev 12:9 = dragon/serpent/Satan |
-| The beast | G2342 therion | Symbolic apocalyptic entity | Rises from sea, 7 heads, 10 horns, identified by number; "was, and is not" (Rev 17:8) |
-| The false prophet | G5578 pseudoprophetes | Symbolic apocalyptic entity | = second beast of Rev 13:11-17; singular, specific Revelation figure; works miracles, gives life to image |
+| The devil | [G1228](https://www.blueletterbible.org/lexicon/g1228/kjv/tr/0-1/){:target="_blank"} diabolos | Non-human supernatural spirit being | 38 NT occurrences; consistently a spirit being; Rev 12:9 = dragon/serpent/Satan |
+| The beast | [G2342](https://www.blueletterbible.org/lexicon/g2342/kjv/tr/0-1/){:target="_blank"} therion | Symbolic apocalyptic entity | Rises from sea, 7 heads, 10 horns, identified by number; "was, and is not" (Rev 17:8) |
+| The false prophet | [G5578](https://www.blueletterbible.org/lexicon/g5578/kjv/tr/0-1/){:target="_blank"} pseudoprophetes | Symbolic apocalyptic entity | = second beast of Rev 13:11-17; singular, specific Revelation figure; works miracles, gives life to image |
 
 **None of the three subjects of Rev 20:10 is a literal human being.** The torment formula ("tormented day and night for ever and ever") is predicated of these three non-human/symbolic entities, not of human beings.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

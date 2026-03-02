@@ -1,6 +1,6 @@
 # Raw Strong's Lookup Data
 
-## G5590 -- psyche (ψυχή)
+## [G5590](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} -- [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} (ψυχή)
 ```
 G5590 - 87 total occurrences, 12 unique translations:
     32 ( 36.8%) soul
@@ -30,14 +30,14 @@ LEXICON:
   Rev 6:9; 8:9; 12:11; 16:3; 18:13; 18:14; 20:4
 ```
 
-### G5590 translated as "souls" (18 verses):
+### [G5590](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} translated as "souls" (18 verses):
 Mat 11:29, Luk 21:19, Act 2:41, Act 7:14, Act 14:22, Act 15:24, Act 27:37,
 1Th 2:8, Heb 13:17, 1Pe 1:9, 1Pe 1:22, 1Pe 2:25, 1Pe 3:20, 1Pe 4:19,
 2Pe 2:14, **Rev 6:9**, Rev 18:13, **Rev 20:4**
 
 ---
 
-## G2379 -- thysiastērion (θυσιαστήριον)
+## [G2379](https://www.blueletterbible.org/lexicon/g2379/kjv/tr/0-1/){:target="_blank"} -- thysiastērion (θυσιαστήριον)
 ```
 G2379 - 22 total occurrences, 3 unique translations:
     20 ( 90.9%) altar
@@ -58,7 +58,7 @@ LEXICON:
 
 ---
 
-## G4969 -- sphazō (σφάζω)
+## [G4969](https://www.blueletterbible.org/lexicon/g4969/kjv/tr/0-1/){:target="_blank"} -- sphazō (σφάζω)
 ```
 G4969 - 8 total occurrences, 7 unique translations:
      2 ( 25.0%) that were slain
@@ -79,7 +79,7 @@ LEXICON:
   Outline: 1Jn 3:12; Rev 5:6; 5:9; 5:12; 6:4; 6:4; 6:9; 13:3; 13:8; 18:24
 ```
 
-### G4969 translated as "slain" (1 verse with this exact translation):
+### [G4969](https://www.blueletterbible.org/lexicon/g4969/kjv/tr/0-1/){:target="_blank"} translated as "slain" (1 verse with this exact translation):
 Rev 13:8
 
 ### All sphazō occurrences:
@@ -95,7 +95,7 @@ Rev 13:8
 
 ---
 
-## G2896 -- krazō (κράζω)
+## [G2896](https://www.blueletterbible.org/lexicon/g2896/kjv/tr/0-1/){:target="_blank"} -- krazō (κράζω)
 ```
 G2896 - 52 total occurrences, 19 unique translations:
     13 ( 25.0%) cried
@@ -122,7 +122,7 @@ LEXICON:
 
 ---
 
-## G373 -- anapauō (ἀναπαύω)
+## [G373](https://www.blueletterbible.org/lexicon/g373/kjv/tr/0-1/){:target="_blank"} -- anapauō (ἀναπαύω)
 ```
 G373 - 13 total occurrences, 10 unique translations:
      4 ( 30.8%) rest
@@ -150,7 +150,7 @@ LEXICON:
 
 ---
 
-## G1556 -- ekdikeō (ἐκδικέω)
+## [G1556](https://www.blueletterbible.org/lexicon/g1556/kjv/tr/0-1/){:target="_blank"} -- ekdikeō (ἐκδικέω)
 ```
 G1556 - 6 total occurrences, 5 unique translations:
      2 ( 33.3%) avenge

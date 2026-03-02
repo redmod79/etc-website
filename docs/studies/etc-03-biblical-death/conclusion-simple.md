@@ -45,9 +45,9 @@ The Bible consistently presents death and life as the only two alternatives, wit
 - "The wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord." (Romans 6:23)
 - "He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life." (John 5:24)
 - "The soul that sinneth, it shall die... the wicked man shall die for his iniquity." (Ezekiel 18:4, 20)
-- "God is able to destroy both soul and body in gehenna." (Matthew 10:28)
+- "God is able to destroy both soul and body in [gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"}." (Matthew 10:28)
 
-The same word — thanatos in Greek, maveth in Hebrew — is used for physical death, for the spiritual condition of the lost, and for the second death in Revelation. The Bible does not use separate vocabulary for these categories.
+The same word — [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} in Greek, [maveth](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"} in Hebrew — is used for physical death, for the spiritual condition of the lost, and for the second death in Revelation. The Bible does not use separate vocabulary for these categories.
 
 ### 5. "Spiritual Death" Borrows From the Literal Meaning
 
@@ -65,7 +65,7 @@ The phrase "second death" appears four times in Revelation (2:11; 20:6; 20:14; 2
 
 > "The fearful, and unbelieving... shall have their part in the lake which burneth with fire and brimstone: which is the second death." (Revelation 21:8)
 
-The word used is thanatos — the same word defined throughout Scripture as cessation and return to dust. The text calls the fate of the wicked "death," not "torment."
+The word used is [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} — the same word defined throughout Scripture as cessation and return to dust. The text calls the fate of the wicked "death," not "torment."
 
 Revelation 20:10 does describe torment "day and night for ever and ever" — but its subjects are the devil, the beast, and the false prophet, which are either a non-human spirit being or symbolic figures from Revelation's apocalyptic imagery. The text separately describes the human fate in the next verses, and calls it "the second death."
 
@@ -95,7 +95,7 @@ When Scripture says "the wages of sin is death" (Romans 6:23), and the gift of G
 
 ---
 
-*Based on the full technical study of etc-03, examining the Hebrew words maveth and mut and the Greek words thanatos and apothnesko across the whole Bible.*
+*Based on the full technical study of etc-03, examining the Hebrew words [maveth](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"} and mut and the Greek words [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} and [apothnesko](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} across the whole Bible.*
 
 *Study completed: 2026-02-20*
 

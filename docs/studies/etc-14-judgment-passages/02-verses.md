@@ -51,7 +51,7 @@ Key terms: "everlasting fire" (pur aionion), "everlasting punishment" (kolasin a
 **Dan 12:3** And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever.
 **Dan 12:4** But thou, O Daniel, shut up the words, and seal the book, [even] to the time of the end: many shall run to and fro, and knowledge shall be increased.
 
-Key terms: "sleep in the dust" (death as sleep), "everlasting life" (chayyey olam), "shame and everlasting contempt" (charaphah/dera'on olam), H1860 dera'on (2 occurrences: Dan 12:2, Isa 66:24)
+Key terms: "sleep in the dust" (death as sleep), "everlasting life" (chayyey [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}), "shame and everlasting contempt" (charaphah/dera'on [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}), [H1860](https://www.blueletterbible.org/lexicon/h1860/kjv/wlc/0-1/){:target="_blank"} dera'on (2 occurrences: Dan 12:2, Isa 66:24)
 
 ---
 
@@ -66,7 +66,7 @@ Key terms: "sleep in the dust" (death as sleep), "everlasting life" (chayyey ola
 **Isa 66:23** And it shall come to pass, [that] from one new moon to another, and from one sabbath to another, shall all flesh come to worship before me, saith the LORD.
 **Isa 66:24** And they shall go forth, and look upon the carcases of the men that have transgressed against me: for their worm shall not die, neither shall their fire be quenched; and they shall be an abhorring unto all flesh.
 
-Key terms: "slain" (v.16), "consumed" (v.17), "carcases" (peger, H6297 — dead bodies, not living beings), "worm shall not die" (unquenchable decomposition), "abhorring" (dera'on, H1860 — same word as Dan 12:2 "contempt"), "new heavens and new earth" (v.22)
+Key terms: "slain" (v.16), "consumed" (v.17), "carcases" (peger, [H6297](https://www.blueletterbible.org/lexicon/h6297/kjv/wlc/0-1/){:target="_blank"} — dead bodies, not living beings), "worm shall not die" (unquenchable decomposition), "abhorring" (dera'on, [H1860](https://www.blueletterbible.org/lexicon/h1860/kjv/wlc/0-1/){:target="_blank"} — same word as Dan 12:2 "contempt"), "new heavens and new earth" (v.22)
 
 ---
 
@@ -82,7 +82,7 @@ Key terms: "slain" (v.16), "consumed" (v.17), "carcases" (peger, H6297 — dead 
 **John 5:29** And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.
 **John 5:30** I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because I seek not mine own will, but the will of the Father which hath sent me.
 
-Key terms: "resurrection of life" (anastasis zoes), "resurrection of damnation" (anastasis kriseos — G2920, krisis = judgment/decision, not basanizo/torment), "from death unto life" (v.24), "condemnation" (krisis, same word)
+Key terms: "resurrection of life" ([anastasis](https://www.blueletterbible.org/lexicon/g386/kjv/tr/0-1/){:target="_blank"} zoes), "resurrection of damnation" ([anastasis](https://www.blueletterbible.org/lexicon/g386/kjv/tr/0-1/){:target="_blank"} kriseos — [G2920](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"}, [krisis](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} = judgment/decision, not [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}/torment), "from death unto life" (v.24), "condemnation" ([krisis](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"}, same word)
 
 ---
 
@@ -97,7 +97,7 @@ Key terms: "resurrection of life" (anastasis zoes), "resurrection of damnation" 
 **2 Thess 1:10** When he shall come to be glorified in his saints, and to be admired in all them that believe (because our testimony among you was believed) in that day.
 **2 Thess 1:11-12** [Prayer for worthiness, glorification]
 
-Key terms: "everlasting destruction" (olethron aionion — G3639 olethros = destruction/ruin, 4 NT uses), "from the presence of the Lord" (apo prosopou tou kuriou — "away from" the Lord's face), "flaming fire," "vengeance" (ekdikesis)
+Key terms: "everlasting destruction" (olethron aionion — [G3639](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} = destruction/ruin, 4 NT uses), "from the presence of the Lord" (apo prosopou tou kuriou — "away from" the Lord's face), "flaming fire," "vengeance" (ekdikesis)
 
 ---
 
@@ -114,7 +114,7 @@ Key terms: "everlasting destruction" (olethron aionion — G3639 olethros = dest
 **Heb 10:38** Now the just shall live by faith: but if [any man] draw back, my soul shall have no pleasure in him.
 **Heb 10:39** But we are not of them who draw back unto perdition; but of them that believe to the saving of the soul.
 
-Key terms: "fiery indignation which shall devour" (v.27 — devour/consume vocabulary), "sorer punishment" (G5098 timoria — 1 NT use), "perdition" (G684 apoleia — destruction/perdition, v.39), "died without mercy" (v.28 — death as punishment paradigm), "saving of the soul" vs. "perdition"
+Key terms: "fiery indignation which shall devour" (v.27 — devour/consume vocabulary), "sorer punishment" (G5098 timoria — 1 NT use), "perdition" (G684 [apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} — destruction/perdition, v.39), "died without mercy" (v.28 — death as punishment paradigm), "saving of the soul" vs. "perdition"
 
 ---
 
@@ -131,7 +131,7 @@ Key terms: "fiery indignation which shall devour" (v.27 — devour/consume vocab
 **Rom 2:12** For as many as have sinned without law shall also perish without law: and as many as have sinned in the law shall be judged by the law;
 **Rom 2:13-16** [Doers of the law justified; Gentiles do by nature; God judges secrets by Jesus Christ]
 
-Key terms: "seek for immortality" (aphtharsia — immortality as something sought, not inherently possessed), "eternal life" (for seekers of immortality), "indignation and wrath" (for disobedient), "tribulation and anguish" (thlipsis and stenochoria), "perish" (apollumi — G622, destruction vocabulary v.12)
+Key terms: "seek for immortality" ([aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"} — immortality as something sought, not inherently possessed), "eternal life" (for seekers of immortality), "indignation and wrath" (for disobedient), "tribulation and anguish" (thlipsis and stenochoria), "perish" ([apollumi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} — [G622](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}, destruction vocabulary v.12)
 
 ---
 

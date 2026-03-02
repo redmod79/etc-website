@@ -2,7 +2,7 @@
 
 ## Overview
 
-This study examines two categories of vocabulary: (1) the sleep vocabulary used to describe death, and (2) the sheol/hades vocabulary for the abode of the dead. These word studies were completed using search_strongs.py (--lookup, --lexicon) on the Strong's database.
+This study examines two categories of vocabulary: (1) the sleep vocabulary used to describe death, and (2) the [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}/[hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} vocabulary for the abode of the dead. These word studies were completed using search_strongs.py (--lookup, --lexicon) on the Strong's database.
 
 ---
 
@@ -10,7 +10,7 @@ This study examines two categories of vocabulary: (1) the sleep vocabulary used 
 
 ### Hebrew Sleep Terms
 
-#### H7901 -- shakab (שָׁכַב) -- "to lie down"
+#### [H7901](https://www.blueletterbible.org/lexicon/h7901/kjv/wlc/0-1/){:target="_blank"} -- [shakab](https://www.blueletterbible.org/lexicon/h7901/kjv/wlc/0-1/){:target="_blank"} (שָׁכַב) -- "to lie down"
 - **Definition:** A primitive root; to lie down (for rest, sexual connection, decease, or any other purpose)
 - **Occurrences:** 254 total (212 in BLB), the most common Hebrew word for "lie down"
 - **Part of Speech:** Verb
@@ -20,10 +20,10 @@ This study examines two categories of vocabulary: (1) the sleep vocabulary used 
   - Deut 31:16: "Behold, thou shalt **sleep** [shakab] with thy fathers" -- God speaking to Moses
   - Job 7:21: "Now shall I **sleep** [shakab] in the dust"
   - Job 14:12: "So man **lieth down** [shakab] and riseth not: till the heavens be no more, they shall not awake, nor be raised out of their sleep"
-  - Isa 14:8,18: The kings of the nations "**lie** [shakab] in glory" in sheol
-- **Significance:** Shakab is used for both literal sleep and death, establishing the biblical pattern where death = lying down in rest/sleep. The formulaic "slept with his fathers" became the standard death notice for Israelite kings, implying death was understood as a kind of sleep awaiting future awakening.
+  - Isa 14:8,18: The kings of the nations "**lie** [shakab] in glory" in [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}
+- **Significance:** [Shakab](https://www.blueletterbible.org/lexicon/h7901/kjv/wlc/0-1/){:target="_blank"} is used for both literal sleep and death, establishing the biblical pattern where death = lying down in rest/sleep. The formulaic "slept with his fathers" became the standard death notice for Israelite kings, implying death was understood as a kind of sleep awaiting future awakening.
 
-#### H3462 -- yashen (יָשֵׁן) -- "to sleep"
+#### [H3462](https://www.blueletterbible.org/lexicon/h3462/kjv/wlc/0-1/){:target="_blank"} -- [yashen](https://www.blueletterbible.org/lexicon/h3462/kjv/wlc/0-1/){:target="_blank"} (יָשֵׁן) -- "to sleep"
 - **Definition:** A primitive root; properly, to be slack or languid; by implication, sleep (figuratively, to die); also to grow old, stale, or inveterate
 - **Occurrences:** 20 total (19 in BLB)
 - **Part of Speech:** Verb
@@ -33,10 +33,10 @@ This study examines two categories of vocabulary: (1) the sleep vocabulary used 
   - Jer 51:57: "They shall **sleep** [yashen] a perpetual sleep, and not wake"
   - Job 3:13: "I should have **slept** [yashen]: then had I been at rest"
   - Dan 12:2 uses the related adjective form: "Many of them that **sleep** in the dust of the earth shall awake"
-- **Significance:** Yashen explicitly ties sleep to death ("figuratively, to die" is in the lexical definition). Jeremiah's "perpetual sleep" is the strongest OT connection between death and permanent unconsciousness until awakening (cf. Dan 12:2).
+- **Significance:** [Yashen](https://www.blueletterbible.org/lexicon/h3462/kjv/wlc/0-1/){:target="_blank"} explicitly ties sleep to death ("figuratively, to die" is in the lexical definition). Jeremiah's "perpetual sleep" is the strongest OT connection between death and permanent unconsciousness until awakening (cf. Dan 12:2).
 
-#### H8639 -- tardemah (תַּרְדֵּמָה) -- "deep sleep"
-- **Definition:** From H7290; a lethargy or (by implication) trance: deep sleep
+#### [H8639](https://www.blueletterbible.org/lexicon/h8639/kjv/wlc/0-1/){:target="_blank"} -- [tardemah](https://www.blueletterbible.org/lexicon/h8639/kjv/wlc/0-1/){:target="_blank"} (תַּרְדֵּמָה) -- "deep sleep"
+- **Definition:** From [H7290](https://www.blueletterbible.org/lexicon/h7290/kjv/wlc/0-1/){:target="_blank"}; a lethargy or (by implication) trance: deep sleep
 - **Occurrences:** 7
 - **Part of Speech:** Feminine noun
 - **All occurrences:**
@@ -47,9 +47,9 @@ This study examines two categories of vocabulary: (1) the sleep vocabulary used 
   5. Job 33:15 -- "When deep sleep falleth upon men" (God speaks in dreams)
   6. Prov 19:15 -- Slothfulness casts into deep sleep
   7. Isa 29:10 -- "The LORD hath poured out upon you the spirit of deep sleep"
-- **Significance:** This is the supernatural, God-induced deep sleep. The creation tardemah (Gen 2:21) is the archetype: God causes unconsciousness, performs a creative work, then awakens. This pattern maps onto death and resurrection: God allows death-sleep, performs the creative work of resurrection, then awakens the sleeper. All 7 uses involve complete unconsciousness.
+- **Significance:** This is the supernatural, God-induced deep sleep. The creation [tardemah](https://www.blueletterbible.org/lexicon/h8639/kjv/wlc/0-1/){:target="_blank"} (Gen 2:21) is the archetype: God causes unconsciousness, performs a creative work, then awakens. This pattern maps onto death and resurrection: God allows death-sleep, performs the creative work of resurrection, then awakens the sleeper. All 7 uses involve complete unconsciousness.
 
-#### H7290 -- radam (רָדַם) -- "to stun, stupefy"
+#### [H7290](https://www.blueletterbible.org/lexicon/h7290/kjv/wlc/0-1/){:target="_blank"} -- [radam](https://www.blueletterbible.org/lexicon/h7290/kjv/wlc/0-1/){:target="_blank"} (רָדַם) -- "to stun, stupefy"
 - **Definition:** A primitive root; to stun, i.e. stupefy (with sleep or death)
 - **Occurrences:** 7
 - **Part of Speech:** Verb
@@ -65,7 +65,7 @@ This study examines two categories of vocabulary: (1) the sleep vocabulary used 
 
 ### Greek Sleep Terms
 
-#### G2837 -- koimao (κοιμάω) -- "to put to sleep / to die"
+#### [G2837](https://www.blueletterbible.org/lexicon/g2837/kjv/tr/0-1/){:target="_blank"} -- [koimao](https://www.blueletterbible.org/lexicon/g2837/kjv/tr/0-1/){:target="_blank"} (κοιμάω) -- "to put to sleep / to die"
 - **Definition:** To put to sleep; passively/reflexively: to slumber, to decease
 - **Occurrences:** 18 (17 in search, 18 in BLB)
 - **Part of Speech:** Verb
@@ -76,8 +76,8 @@ This study examines two categories of vocabulary: (1) the sleep vocabulary used 
   - **Death used by Jesus:** John 11:11 ("Our friend Lazarus sleepeth")
 - **Significance:** This is THE dominant NT term for death-as-sleep. Of 18 uses, at least 13 clearly refer to death. Paul uses it consistently for the Christian dead (1 Cor 15:6,18,20,51; 1 Thess 4:13,14,15). Jesus deliberately chooses this word for Lazarus's death (John 11:11), then clarifies "plainly" that Lazarus is dead (11:14). The euphemism is so standard that the disciples initially take it literally.
 
-#### G2518 -- katheudo (καθεύδω) -- "to lie down to rest / to sleep"
-- **Definition:** From G2596 and heudo; to lie down to rest, i.e. (by implication) to fall asleep (literally or figuratively)
+#### [G2518](https://www.blueletterbible.org/lexicon/g2518/kjv/tr/0-1/){:target="_blank"} -- [katheudo](https://www.blueletterbible.org/lexicon/g2518/kjv/tr/0-1/){:target="_blank"} (καθεύδω) -- "to lie down to rest / to sleep"
+- **Definition:** From [G2596](https://www.blueletterbible.org/lexicon/g2596/kjv/tr/0-1/){:target="_blank"} and heudo; to lie down to rest, i.e. (by implication) to fall asleep (literally or figuratively)
 - **Occurrences:** 22 (23 in search)
 - **Part of Speech:** Verb
 - **KJV translations:** "asleep" (4x), "sleep" (4x), "sleepeth" (3x), "slept" (2x), "Sleep on" (2x), "sleeping" (2x)
@@ -88,10 +88,10 @@ This study examines two categories of vocabulary: (1) the sleep vocabulary used 
   - Eph 5:14: "Awake thou that **sleepest** [katheudo], and arise from the dead"
   - 1 Thess 5:10: "Whether we wake or **sleep** [katheudo], we should live together with him"
 - **Figurative spiritual lethargy:** 1 Thess 5:6,7; Mark 13:36; Matt 25:5
-- **Significance:** Jesus uses katheudo three times (Matt 9:24; Mark 5:39; Luke 8:52) to describe the dead girl, and people "laughed him to scorn, knowing that she was dead" (Luke 8:53). Jesus deliberately called death "sleep" knowing full well the girl was dead. This is the most direct evidence that Jesus himself endorsed the sleep-death metaphor. Eph 5:14 quotes what appears to be an early Christian hymn that equates sleep with death and awakening with resurrection.
+- **Significance:** Jesus uses [katheudo](https://www.blueletterbible.org/lexicon/g2518/kjv/tr/0-1/){:target="_blank"} three times (Matt 9:24; Mark 5:39; Luke 8:52) to describe the dead girl, and people "laughed him to scorn, knowing that she was dead" (Luke 8:53). Jesus deliberately called death "sleep" knowing full well the girl was dead. This is the most direct evidence that Jesus himself endorsed the sleep-death metaphor. Eph 5:14 quotes what appears to be an early Christian hymn that equates sleep with death and awakening with resurrection.
 
-### Comparative Summary: koimao vs. katheudo
-| Feature | koimao (G2837) | katheudo (G2518) |
+### Comparative Summary: [koimao](https://www.blueletterbible.org/lexicon/g2837/kjv/tr/0-1/){:target="_blank"} vs. [katheudo](https://www.blueletterbible.org/lexicon/g2518/kjv/tr/0-1/){:target="_blank"}
+| Feature | [koimao](https://www.blueletterbible.org/lexicon/g2837/kjv/tr/0-1/){:target="_blank"} (G2837) | [katheudo](https://www.blueletterbible.org/lexicon/g2518/kjv/tr/0-1/){:target="_blank"} (G2518) |
 |---------|---------------|-----------------|
 | Primary death usage | Paul's standard term for dead believers | Jesus' term for Jairus' daughter |
 | Total occurrences | 18 | 22 |
@@ -100,60 +100,60 @@ This study examines two categories of vocabulary: (1) the sleep vocabulary used 
 | Used by Paul for death | 1 Cor 15:6,18,20,51; 1 Thess 4:13-15 | 1 Thess 5:10 |
 | Literal sleep usage | 4-5 times | ~17 times |
 
-**Key observation:** koimao is primarily a death-euphemism (used for death 72% of the time), while katheudo is primarily literal sleep but is used for death by Jesus in all three Synoptic accounts of Jairus' daughter. Both words carry the same metaphorical implication: the dead are in a state analogous to sleep -- unconscious, inactive, awaiting awakening.
+**Key observation:** [koimao](https://www.blueletterbible.org/lexicon/g2837/kjv/tr/0-1/){:target="_blank"} is primarily a death-euphemism (used for death 72% of the time), while [katheudo](https://www.blueletterbible.org/lexicon/g2518/kjv/tr/0-1/){:target="_blank"} is primarily literal sleep but is used for death by Jesus in all three Synoptic accounts of Jairus' daughter. Both words carry the same metaphorical implication: the dead are in a state analogous to sleep -- unconscious, inactive, awaiting awakening.
 
 ---
 
-## II. Sheol / Hades Vocabulary
+## II. [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} / [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} Vocabulary
 
-### H7585 -- sheol (שְׁאוֹל) -- "the underworld / grave"
-- **Definition:** From H7592; hades or the world of the dead (as if a subterranean retreat), including its accessories and inmates: grave, hell, pit
+### [H7585](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} -- [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} (שְׁאוֹל) -- "the underworld / grave"
+- **Definition:** From [H7592](https://www.blueletterbible.org/lexicon/h7592/kjv/wlc/0-1/){:target="_blank"}; [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} or the world of the dead (as if a subterranean retreat), including its accessories and inmates: grave, hell, pit
 - **Occurrences:** 67 (65 in BLB)
 - **Part of Speech:** Feminine noun
 - **KJV translation breakdown:**
   - Translated "grave": Gen 37:35; 42:38; 44:29,31; 1 Sam 2:6; 1 Ki 2:6,9; Job 7:9; 14:13; 17:13; 21:13; 24:19; Ps 6:5; 30:3; 31:17; 49:14,15; 88:3; 89:48; 141:7; Prov 1:12; 30:16; Ecc 9:10; Song 8:6; Hos 13:14 (~31x)
   - Translated "hell": Deut 32:22; 2 Sam 22:6; Job 11:8; 26:6; Ps 9:17; 16:10; 18:5; 55:15; 86:13; 116:3; 139:8; Prov 5:5; 7:27; 9:18; 15:11,24; 23:14; 27:20; Isa 5:14; 14:9,15; 28:15,18; 57:9; Ezek 31:16,17; 32:21,27; Amos 9:2; Jonah 2:2; Hab 2:5 (~31x)
   - Translated "pit": Num 16:30,33; Job 17:16 (~3x)
-- **Characteristics of sheol from Scripture:**
+- **Characteristics of [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} from Scripture:**
   1. **Both righteous and wicked go there:** Jacob (Gen 37:35), the wicked (Ps 9:17), David (Ps 16:10), Korah (Num 16:33)
   2. **A place of unconsciousness:** "No work, device, knowledge, wisdom" (Ecc 9:10); no praise (Ps 6:5; 115:17; Isa 38:18); no remembrance (Ps 6:5)
   3. **Associated with dust:** Job 17:16; 7:21
   4. **Associated with darkness:** Job 10:21-22; 17:13
   5. **Associated with silence:** Ps 115:17; 94:17
   6. **God's power reaches there:** Ps 139:8; Amos 9:2; 1 Sam 2:6
-  7. **Deliverance from sheol = resurrection:** Ps 16:10; 49:15; Hos 13:14; 1 Sam 2:6
+  7. **Deliverance from [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} = resurrection:** Ps 16:10; 49:15; Hos 13:14; 1 Sam 2:6
   8. **Personified poetically:** Isa 5:14 (enlarges herself); 14:9 (moved to meet); Prov 27:20 (never full); Song 8:6 (cruel as the grave)
 
-### G86 -- hades (ᾅδης) -- "the unseen world"
-- **Definition:** From G1 (alpha privative) and G1492 (to see); properly, unseen, i.e. "Hades" or the place (state) of departed souls
+### [G86](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} -- [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (ᾅδης) -- "the unseen world"
+- **Definition:** From [G1](https://www.blueletterbible.org/lexicon/g1/kjv/tr/0-1/){:target="_blank"} (alpha privative) and [G1492](https://www.blueletterbible.org/lexicon/g1492/kjv/tr/0-1/){:target="_blank"} (to see); properly, unseen, i.e. "[Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}" or the place (state) of departed souls
 - **Occurrences:** 11
 - **Part of Speech:** Proper locative noun
 - **All 11 occurrences:**
-  1. Matt 11:23: Capernaum "brought down to hell (hades)"
-  2. Matt 16:18: "The gates of hell (hades) shall not prevail"
-  3. Luke 10:15: Capernaum "thrust down to hell (hades)"
-  4. Luke 16:23: Rich man "in hell (hades) he lift up his eyes, being in torments"
-  5. Acts 2:27: "Thou wilt not leave my soul in hell (hades)" -- quoting Ps 16:10 (H7585 sheol)
-  6. Acts 2:31: "His soul was not left in hell (hades)" -- explaining Ps 16:10
-  7. 1 Cor 15:55: "O grave (hades), where is thy victory?"
-  8. Rev 1:18: "I have the keys of hell (hades) and of death"
-  9. Rev 6:8: "Death, and Hell (hades) followed with him"
-  10. Rev 20:13: "Death and hell (hades) delivered up the dead"
-  11. Rev 20:14: "Death and hell (hades) were cast into the lake of fire"
-- **LXX equivalence:** The Septuagint consistently translates H7585 (sheol) as G86 (hades), confirming they refer to the same concept. Acts 2:27,31 explicitly demonstrates this: Peter quotes Ps 16:10 (sheol in Hebrew) using hades in Greek.
+  1. Matt 11:23: Capernaum "brought down to hell ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"})"
+  2. Matt 16:18: "The gates of hell ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}) shall not prevail"
+  3. Luke 10:15: Capernaum "thrust down to hell ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"})"
+  4. Luke 16:23: Rich man "in hell ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}) he lift up his eyes, being in torments"
+  5. Acts 2:27: "Thou wilt not leave my soul in hell ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"})" -- quoting Ps 16:10 (H7585 [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"})
+  6. Acts 2:31: "His soul was not left in hell ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"})" -- explaining Ps 16:10
+  7. 1 Cor 15:55: "O grave ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}), where is thy victory?"
+  8. Rev 1:18: "I have the keys of hell ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}) and of death"
+  9. Rev 6:8: "Death, and Hell ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}) followed with him"
+  10. Rev 20:13: "Death and hell ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}) delivered up the dead"
+  11. Rev 20:14: "Death and hell ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}) were cast into the lake of fire"
+- **LXX equivalence:** The Septuagint consistently translates [H7585](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} (sheol) as [G86](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (hades), confirming they refer to the same concept. Acts 2:27,31 explicitly demonstrates this: Peter quotes Ps 16:10 (sheol in Hebrew) using [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} in Greek.
 - **Key observations:**
-  1. **Hades is temporary:** Rev 20:13-14 shows hades delivering up the dead and then being destroyed (cast into the lake of fire). Hades is not the final destination but a holding state.
-  2. **Hades paired with death:** In 4 of 11 uses (Rev 1:18; 6:8; 20:13; 20:14), hades is paired with "death" as a hendiadys (two words expressing one concept).
-  3. **Hades as the grave of Christ:** Acts 2:27,31 uses hades for where Jesus was between death and resurrection -- in the grave, not conscious.
-  4. **Only Luke 16:23 depicts consciousness in hades** -- and this is within a parable using contemporary Jewish imagery.
+  1. **[Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} is temporary:** Rev 20:13-14 shows [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} delivering up the dead and then being destroyed (cast into the lake of fire). [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} is not the final destination but a holding state.
+  2. **[Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} paired with death:** In 4 of 11 uses (Rev 1:18; 6:8; 20:13; 20:14), [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} is paired with "death" as a hendiadys (two words expressing one concept).
+  3. **[Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} as the grave of Christ:** Acts 2:27,31 uses [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} for where Jesus was between death and resurrection -- in the grave, not conscious.
+  4. **Only Luke 16:23 depicts consciousness in [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}** -- and this is within a parable using contemporary Jewish imagery.
 
-### Sheol-Hades Equivalence Table
-| Feature | Sheol (H7585) | Hades (G86) |
+### [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}-[Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} Equivalence Table
+| Feature | [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} (H7585) | [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (G86) |
 |---------|--------------|-------------|
 | Occurrences | 67 OT | 11 NT |
-| LXX translation | sheol translated as hades | hades translates sheol |
+| LXX translation | [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} translated as [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} | [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} translates [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} |
 | Both righteous/wicked | Gen 37:35; Ps 9:17 | Acts 2:27 (Christ); Luke 16:23 (rich man) |
-| Unconsciousness | Ecc 9:10; Ps 6:5; 115:17 | (Inherited from sheol) |
+| Unconsciousness | Ecc 9:10; Ps 6:5; 115:17 | (Inherited from [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}) |
 | Deliverance = resurrection | Ps 16:10; 49:15; Hos 13:14 | Acts 2:27,31; Rev 20:13 |
 | Temporary, not final | Hos 13:14; Ps 49:15 | Rev 20:13-14 (destroyed) |
 | Personified | Isa 5:14; 14:9 | Rev 6:8; 20:13 |
@@ -162,7 +162,7 @@ This study examines two categories of vocabulary: (1) the sleep vocabulary used 
 
 ## III. Additional Relevant Terms
 
-### G3857 -- paradeisos (παράδεισος) -- "paradise"
+### [G3857](https://www.blueletterbible.org/lexicon/g3857/kjv/tr/0-1/){:target="_blank"} -- [paradeisos](https://www.blueletterbible.org/lexicon/g3857/kjv/tr/0-1/){:target="_blank"} (παράδεισος) -- "paradise"
 - **Occurrences:** 3 in NT
   1. Luke 23:43: "Today shalt thou be with me in paradise"
   2. 2 Cor 12:4: "Caught up into paradise, and heard unspeakable words"
@@ -170,10 +170,10 @@ This study examines two categories of vocabulary: (1) the sleep vocabulary used 
 - **Origin:** Persian loanword (pairidaeza = enclosed garden/park). Used in LXX for the Garden of Eden (Gen 2:8).
 - **Significance:** The word occurs only 3 times and in three different contexts (Jesus' promise to the thief, Paul's vision, and the eschatological new earth). Rev 2:7 places the "tree of life" in paradise, echoing Gen 2:9 and Rev 22:2, suggesting paradise is the restored Eden in the new earth, not a current intermediate state.
 
-### H7496 -- rephaim (רְפָאִים) -- "shades of the dead"
+### [H7496](https://www.blueletterbible.org/lexicon/h7496/kjv/wlc/0-1/){:target="_blank"} -- [rephaim](https://www.blueletterbible.org/lexicon/h7496/kjv/wlc/0-1/){:target="_blank"} (רְפָאִים) -- "shades of the dead"
 - **Occurrences:** ~8 (as "shades of the dead," distinct from the ethnic group)
 - **Death passages:** Job 26:5; Ps 88:10; Prov 2:18; 9:18; 21:16; Isa 14:9; 26:14,19
-- **Significance:** The rephaim are the dead inhabitants of sheol. They are described as "weak" (Isa 14:10), unable to rise (Isa 26:14 -- until God raises them, v19), and in the "land of forgetfulness" (Ps 88:12). The rephaim passages never describe the dead as actively conscious; rather, they emphasize weakness, helplessness, and inactivity.
+- **Significance:** The [rephaim](https://www.blueletterbible.org/lexicon/h7496/kjv/wlc/0-1/){:target="_blank"} are the dead inhabitants of [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}. They are described as "weak" (Isa 14:10), unable to rise (Isa 26:14 -- until God raises them, v19), and in the "land of forgetfulness" (Ps 88:12). The [rephaim](https://www.blueletterbible.org/lexicon/h7496/kjv/wlc/0-1/){:target="_blank"} passages never describe the dead as actively conscious; rather, they emphasize weakness, helplessness, and inactivity.
 
 ---
 
@@ -182,23 +182,23 @@ This study examines two categories of vocabulary: (1) the sleep vocabulary used 
 ### Pattern 1: Sleep = Death across all biblical periods
 | Period | Author | Term | Passage |
 |--------|--------|------|---------|
-| Mosaic | Moses/God | H7901 shakab | Deut 31:16 |
-| Patriarchal | Job | H7901 shakab | Job 7:21; 14:12 |
-| Prophetic | Jeremiah | H3462 yashen | Jer 51:39 |
-| Prophetic | Daniel | H3462 yashen | Dan 12:2 |
-| Gospel | Jesus | G2837 koimao | John 11:11 |
-| Gospel | Jesus | G2518 katheudo | Matt 9:24; Mark 5:39; Luke 8:52 |
-| Apostolic | Luke | G2837 koimao | Acts 7:60 |
-| Apostolic | Paul | G2837 koimao | 1 Cor 15:6,18,20,51; 1 Thess 4:13-15 |
+| Mosaic | Moses/God | [H7901](https://www.blueletterbible.org/lexicon/h7901/kjv/wlc/0-1/){:target="_blank"} [shakab](https://www.blueletterbible.org/lexicon/h7901/kjv/wlc/0-1/){:target="_blank"} | Deut 31:16 |
+| Patriarchal | Job | [H7901](https://www.blueletterbible.org/lexicon/h7901/kjv/wlc/0-1/){:target="_blank"} [shakab](https://www.blueletterbible.org/lexicon/h7901/kjv/wlc/0-1/){:target="_blank"} | Job 7:21; 14:12 |
+| Prophetic | Jeremiah | [H3462](https://www.blueletterbible.org/lexicon/h3462/kjv/wlc/0-1/){:target="_blank"} [yashen](https://www.blueletterbible.org/lexicon/h3462/kjv/wlc/0-1/){:target="_blank"} | Jer 51:39 |
+| Prophetic | Daniel | [H3462](https://www.blueletterbible.org/lexicon/h3462/kjv/wlc/0-1/){:target="_blank"} [yashen](https://www.blueletterbible.org/lexicon/h3462/kjv/wlc/0-1/){:target="_blank"} | Dan 12:2 |
+| Gospel | Jesus | [G2837](https://www.blueletterbible.org/lexicon/g2837/kjv/tr/0-1/){:target="_blank"} [koimao](https://www.blueletterbible.org/lexicon/g2837/kjv/tr/0-1/){:target="_blank"} | John 11:11 |
+| Gospel | Jesus | [G2518](https://www.blueletterbible.org/lexicon/g2518/kjv/tr/0-1/){:target="_blank"} [katheudo](https://www.blueletterbible.org/lexicon/g2518/kjv/tr/0-1/){:target="_blank"} | Matt 9:24; Mark 5:39; Luke 8:52 |
+| Apostolic | Luke | [G2837](https://www.blueletterbible.org/lexicon/g2837/kjv/tr/0-1/){:target="_blank"} [koimao](https://www.blueletterbible.org/lexicon/g2837/kjv/tr/0-1/){:target="_blank"} | Acts 7:60 |
+| Apostolic | Paul | [G2837](https://www.blueletterbible.org/lexicon/g2837/kjv/tr/0-1/){:target="_blank"} [koimao](https://www.blueletterbible.org/lexicon/g2837/kjv/tr/0-1/){:target="_blank"} | 1 Cor 15:6,18,20,51; 1 Thess 4:13-15 |
 
-### Pattern 2: Sheol/Hades = the unconscious grave
-- Sheol is described as a place of NO work, NO device, NO knowledge, NO wisdom (Ecc 9:10)
-- The dead in sheol do NOT praise God (Ps 6:5; 115:17; Isa 38:18)
-- The dead in sheol have NO remembrance (Ps 6:5)
-- Sheol is darkness (Job 10:21-22; 17:13)
-- Sheol is silence (Ps 115:17; 94:17)
-- Sheol is dust (Job 17:16; 7:21)
-- Sheol is rest (Job 3:17; Isa 57:2)
+### Pattern 2: [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}/[Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} = the unconscious grave
+- [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} is described as a place of NO work, NO device, NO knowledge, NO wisdom (Ecc 9:10)
+- The dead in [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} do NOT praise God (Ps 6:5; 115:17; Isa 38:18)
+- The dead in [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} have NO remembrance (Ps 6:5)
+- [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} is darkness (Job 10:21-22; 17:13)
+- [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} is silence (Ps 115:17; 94:17)
+- [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} is dust (Job 17:16; 7:21)
+- [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} is rest (Job 3:17; Isa 57:2)
 
 ### Pattern 3: Resurrection = awakening from sleep
 - Dan 12:2: "Many that **sleep** in the dust shall **awake**"

@@ -1,6 +1,6 @@
 # Raw Strong's Lookup Data
 
-## G928 basanizo
+## [G928](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}
 
 ### --lookup
 ```
@@ -38,7 +38,7 @@ Occurrences: Matt 8:6; 8:29; 14:24; Mark 5:7; 6:48; Luke 8:28; 2 Pet 2:8; Rev 9:
 
 ---
 
-## G929 basanismos
+## [G929](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"}
 
 ### --lookup
 ```
@@ -63,7 +63,7 @@ Occurrences: Rev 9:5; 14:11; 18:7; 18:10; 18:15
 
 ---
 
-## G931 basanos
+## [G931](https://www.blueletterbible.org/lexicon/g931/kjv/tr/0-1/){:target="_blank"} basanos
 
 ### --lookup
 ```
@@ -85,7 +85,7 @@ Occurrences: Matt 4:24; Luke 16:23; 16:28
 
 ---
 
-## G2342 therion
+## [G2342](https://www.blueletterbible.org/lexicon/g2342/kjv/tr/0-1/){:target="_blank"} therion
 
 ### --lookup
 ```
@@ -114,7 +114,7 @@ Acts 28:4,5; Rev 11:7; 13:2,3,4(x2),4,11,12(x2),14(x2),15(x3),17,18; 14:9,11; 15
 
 ---
 
-## G5578 pseudoprophetes
+## [G5578](https://www.blueletterbible.org/lexicon/g5578/kjv/tr/0-1/){:target="_blank"} pseudoprophetes
 
 ### --lookup
 ```
@@ -142,7 +142,7 @@ NT occurrences: Matt 7:15; 24:11,24; Mark 13:22; Luke 6:26; Acts 13:6; 2 Pet 2:1
 
 ---
 
-## G1228 diabolos
+## [G1228](https://www.blueletterbible.org/lexicon/g1228/kjv/tr/0-1/){:target="_blank"} diabolos
 
 ### --lookup
 ```
@@ -172,7 +172,7 @@ Matt 4:1,5,8,11; 13:39; 25:41; Luke 4:2,3,5,6,13; 8:12; Acts 10:38; Eph 4:27; 6:
 
 ---
 
-## G1404 drakon
+## [G1404](https://www.blueletterbible.org/lexicon/g1404/kjv/tr/0-1/){:target="_blank"} drakon
 
 ### --lookup
 ```

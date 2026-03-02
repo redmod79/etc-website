@@ -30,7 +30,7 @@
 > 15:56 The sting of death is sin; and the strength of sin is the law.
 > 15:57 But thanks be to God, which giveth us the victory through our Lord Jesus Christ.
 
-**Word-study density:** This single passage contains G110 (athanasia) x2, G861 (aphtharsia) x4, G2349 (thnetos) x2, G862 (aphthartos) x1, G5356 (phthora) x2.
+**Word-study density:** This single passage contains [G110](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} (athanasia) x2, [G861](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"} (aphtharsia) x4, [G2349](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} (thnetos) x2, [G862](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"} (aphthartos) x1, [G5356](https://www.blueletterbible.org/lexicon/g5356/kjv/tr/0-1/){:target="_blank"} (phthora) x2.
 
 ---
 
@@ -136,7 +136,7 @@ Note: The contrast structure: seek immortality -> receive eternal life (v.7) vs.
 > 1:23 And changed the glory of the uncorruptible [G862 aphthartos] God into an image made like to corruptible man, and to birds, and fourfooted beasts, and creeping things.
 > 1:25 Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen.
 
-Note: God is "uncorruptible" (aphthartos); man is "corruptible" (phthartos). The text places these in direct contrast.
+Note: God is "uncorruptible" ([aphthartos](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"}); man is "corruptible" ([phthartos](https://www.blueletterbible.org/lexicon/g5349/kjv/tr/0-1/){:target="_blank"}). The text places these in direct contrast.
 
 ---
 
@@ -189,7 +189,7 @@ Note: God is "uncorruptible" (aphthartos); man is "corruptible" (phthartos). The
 
 ---
 
-### 17. Psalm 16:10-11 -- Not Left in Sheol
+### 17. Psalm 16:10-11 -- Not Left in [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}
 
 > 16:9 Therefore my heart is glad, and my glory rejoiceth: my flesh also shall rest in hope.
 > 16:10 For thou wilt not leave my soul in hell [sheol]; neither wilt thou suffer thine Holy One to see corruption.
@@ -535,13 +535,13 @@ Note: The contrast: "not perish, but have everlasting life." This implies that w
 
 ### Additional Supporting Passages
 
-**Titus 2:7 -- Sincerity (G861 aphtharsia used as "uncorruptness"):**
+**Titus 2:7 -- Sincerity (G861 [aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"} used as "uncorruptness"):**
 > 2:7 In all things shewing thyself a pattern of good works: in doctrine shewing uncorruptness, gravity, sincerity,
 
-**Ephesians 6:24 -- Grace in Sincerity (G861 aphtharsia):**
+**Ephesians 6:24 -- Grace in Sincerity (G861 [aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"}):**
 > 6:24 Grace be with all them that love our Lord Jesus Christ in sincerity. Amen.
 
-Note: These two uses of aphtharsia (G861) translated "sincerity/uncorruptness" rather than "immortality/incorruption" show the word's range of meaning: genuineness, purity, that which is untainted by decay or corruption.
+Note: These two uses of [aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"} (G861) translated "sincerity/uncorruptness" rather than "immortality/incorruption" show the word's range of meaning: genuineness, purity, that which is untainted by decay or corruption.
 
 **Titus 3:5-7 -- Heirs According to Hope of Eternal Life:**
 > 3:5 Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;
@@ -550,7 +550,7 @@ Note: These two uses of aphtharsia (G861) translated "sincerity/uncorruptness" r
 **Jude 1:21 -- Looking for Eternal Life:**
 > 1:21 Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life.
 
-**Colossians 2:22 -- Perish with the Using (G5356 phthora):**
+**Colossians 2:22 -- Perish with the Using (G5356 [phthora](https://www.blueletterbible.org/lexicon/g5356/kjv/tr/0-1/){:target="_blank"}):**
 > 2:22 Which all are to perish with the using; after the commandments and doctrines of men?
 
 ---
@@ -559,7 +559,7 @@ Note: These two uses of aphtharsia (G861) translated "sincerity/uncorruptness" r
 
 ### Notable Parallel Connections
 
-1. **1 Tim 6:16 <-> 1 Tim 1:17** (Hybrid 0.448): Both are doxologies to God using immortality/incorruptibility language. 1:17 calls God "immortal" (aphthartos); 6:16 says God "only hath immortality" (athanasia).
+1. **1 Tim 6:16 <-> 1 Tim 1:17** (Hybrid 0.448): Both are doxologies to God using immortality/incorruptibility language. 1:17 calls God "immortal" ([aphthartos](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"}); 6:16 says God "only hath immortality" ([athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"}).
 
 2. **1 Tim 6:16 <-> 1 Cor 15:50** (Hybrid 0.425): Both share "immortality" keyword. 1 Cor 15:50 adds that flesh and blood cannot inherit the kingdom of God.
 

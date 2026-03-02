@@ -31,7 +31,7 @@
 | Heb 2:17 | 0.322 | priest |
 | Heb 8:3 | 0.321 | priest |
 
-**SIGNIFICANCE**: Hebrews 7 explicitly argues that the Aaronic priesthood (called "everlasting" in Exo 40:15) was superseded by a different priesthood order. This proves olam did not mean "endless" for this institution.
+**SIGNIFICANCE**: Hebrews 7 explicitly argues that the Aaronic priesthood (called "everlasting" in Exo 40:15) was superseded by a different priesthood order. This proves [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} did not mean "endless" for this institution.
 
 ---
 
@@ -57,7 +57,7 @@
 | 2 Pet 1:11 | 0.332 | age |
 | 2 Tim 4:18 | 0.332 | age |
 
-**SIGNIFICANCE**: Deut 15:17 is the direct parallel — same institution, same olam. The slave serves "forever" but clearly only for his natural lifetime. This is the clearest finite-duration use of olam.
+**SIGNIFICANCE**: Deut 15:17 is the direct parallel — same institution, same [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}. The slave serves "forever" but clearly only for his natural lifetime. This is the clearest finite-duration use of [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}.
 
 ---
 
@@ -81,7 +81,7 @@
 | Mat 14:28 | 0.249 | water |
 | 2 Pet 3:6 | 0.244 | water |
 
-**SIGNIFICANCE**: Jonah was in the fish's belly "forever" — three days. This is the most dramatic finite-duration use of olam, reducing "forever" to approximately 72 hours. The word here means "the time seemed interminable" — a subjective/experiential use.
+**SIGNIFICANCE**: Jonah was in the fish's belly "forever" — three days. This is the most dramatic finite-duration use of [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}, reducing "forever" to approximately 72 hours. The word here means "the time seemed interminable" — a subjective/experiential use.
 
 ---
 
@@ -131,7 +131,7 @@
 | Mat 25:46 | 0.335 | age |
 | Mat 25:41 | 0.333 | age |
 
-**SIGNIFICANCE**: When olam modifies God ("the eternal God"), it carries maximal duration. The NT parallel to 2 Thess 1:9 and Mat 25:46 connects this to eschatological judgment terminology.
+**SIGNIFICANCE**: When [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} modifies God ("the eternal God"), it carries maximal duration. The NT parallel to 2 Thess 1:9 and Mat 25:46 connects this to eschatological judgment terminology.
 
 ---
 
@@ -154,7 +154,7 @@
 | Jn 3:16 | 0.307 | age, world |
 | 1 Jn 2:17 | 0.304 | age, world |
 
-**SIGNIFICANCE**: "From olam to olam" is the superlative construction applied to God's existence. This is the benchmark for olam at its most absolute.
+**SIGNIFICANCE**: "From [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} to [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}" is the superlative construction applied to God's existence. This is the benchmark for [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} at its most absolute.
 
 ---
 
@@ -181,7 +181,7 @@
 | Rev 22:5 | 0.347 | age [forever] |
 | **Rev 20:10** | **0.332** | **age, burn [continual, forever]** |
 
-**SIGNIFICANCE**: This is a critical test case. Isaiah says Edom's smoke goes up "forever" (olam) and the land lies waste "for ever and ever" (netsach + olam). Yet the same prophecy describes animals inhabiting the desolate land (34:11-17). The NT parallels to Rev 14:11 and 20:10 show the same imagery reused for final judgment — raising the question of whether the same figurative/hyperbolic dynamic applies.
+**SIGNIFICANCE**: This is a critical test case. Isaiah says Edom's smoke goes up "forever" ([olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}) and the land lies waste "for ever and ever" (netsach + [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}). Yet the same prophecy describes animals inhabiting the desolate land (34:11-17). The NT parallels to Rev 14:11 and 20:10 show the same imagery reused for final judgment — raising the question of whether the same figurative/hyperbolic dynamic applies.
 
 ---
 
@@ -233,7 +233,7 @@
 | Jn 6:47,58 | 0.305 | age, alive |
 | Rom 6:22 | 0.302 | age, alive |
 
-**SIGNIFICANCE**: This is the key OT passage paralleling Mat 25:46. The Hebrew uses olam for both "life" and "contempt." The parallel structure ("some to X and some to Y") uses the same word for both outcomes. The question is whether "everlasting contempt" (deraon) describes an ongoing state of being despised or the permanent result of destruction.
+**SIGNIFICANCE**: This is the key OT passage paralleling Mat 25:46. The Hebrew uses [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} for both "life" and "contempt." The parallel structure ("some to X and some to Y") uses the same word for both outcomes. The question is whether "everlasting contempt" ([deraon](https://www.blueletterbible.org/lexicon/h1860/kjv/wlc/0-1/){:target="_blank"}) describes an ongoing state of being despised or the permanent result of destruction.
 
 ---
 
@@ -277,4 +277,4 @@
 | Lk 18:30 | 0.319 | age |
 | Mat 25:46 | 0.311 | age |
 
-**SIGNIFICANCE**: Here olam describes mountains as "everlasting" — yet the same verse says God "scattered" them. The "everlasting" mountains are not actually everlasting when God acts. This demonstrates that olam describes perceived permanence from a human perspective, not absolute ontological endlessness.
+**SIGNIFICANCE**: Here [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} describes mountains as "everlasting" — yet the same verse says God "scattered" them. The "everlasting" mountains are not actually everlasting when God acts. This demonstrates that [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} describes perceived permanence from a human perspective, not absolute ontological endlessness.

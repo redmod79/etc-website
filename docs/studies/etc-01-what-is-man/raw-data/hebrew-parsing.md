@@ -34,11 +34,11 @@ Hebrew          Lemma        Parsing                   Gloss
 Key observations:
 - יצר (yatsar) = "shape/form" -- Qal Wayyiqtol 3ms (narrative sequence)
 - עפר (aphar) = "dust" -- accusative of material
-- נפח (naphach) = "blow/breathe" -- Qal Wayyiqtol 3ms
-- נשׁמה (neshamah) = "breath" -- feminine construct state with חיים (life)
+- נפח ([naphach](https://www.blueletterbible.org/lexicon/h5301/kjv/wlc/0-1/){:target="_blank"}) = "blow/breathe" -- Qal Wayyiqtol 3ms
+- [נשׁמה](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} ([neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"}) = "breath" -- feminine construct state with חיים (life)
 - היה (hayah) = "be/become" -- Qal Wayyiqtol 3ms -- man BECAME (not received)
-- נפשׁ (nephesh) = "soul" -- what man became
-- חי (chay) = "alive/living" -- adjective modifying nephesh
+- [נפשׁ](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} ([nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}) = "soul" -- what man became
+- חי ([chay](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"}) = "alive/living" -- adjective modifying [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}
 
 ## Genesis 3:19
 ```
@@ -100,9 +100,9 @@ Hebrew          Lemma        Parsing                   Gloss
 ```
 
 Key observations:
-- Two parallel returns: dust returns to earth; ruach returns to God
-- רוח (ruach) = "wind/breath/spirit" -- what returns to God; note: NOT neshamah, but ruach
-- נתן (natan) = "give" -- Qal perfect 3ms with 3fs suffix: "who gave it" (feminine, referring to ruach)
+- Two parallel returns: dust returns to earth; [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} returns to God
+- [רוח](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} ([ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}) = "wind/breath/spirit" -- what returns to God; note: NOT [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"}, but [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}
+- נתן (natan) = "give" -- Qal perfect 3ms with 3fs suffix: "who gave it" (feminine, referring to [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"})
 - שׁוב (shub) used for both components: complete reversal of creation
 
 ## Psalm 146:4
@@ -125,9 +125,9 @@ Hebrew          Lemma        Parsing                   Gloss
 ```
 
 Key observations:
-- יצא (yatsa) = "go out" -- ruach (breath/spirit) goes out
-- שׁוב (shub) = "return" -- he returns to his soil (adamah)
-- אבד (abad) = "perish" -- Qal perfect 3p: his thoughts PERISH
+- יצא (yatsa) = "go out" -- [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} (breath/spirit) goes out
+- שׁוב (shub) = "return" -- he returns to his soil ([adamah](https://www.blueletterbible.org/lexicon/h127/kjv/wlc/0-1/){:target="_blank"})
+- אבד ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}) = "perish" -- Qal perfect 3p: his thoughts PERISH
 - עשׁתנת (eshtanot) = "thoughts" -- plural with 3ms suffix: "his thoughts"
 - "In that very day" -- emphatic temporal marker; thoughts perish at the moment of death
 
@@ -157,7 +157,7 @@ Hebrew          Lemma        Parsing                   Gloss
 
 Key observations:
 - מקרה (miqreh) = "accident/fate/what happens" -- same fate for man and beast
-- רוח אחד (ruach echad) = "one breath/spirit" -- shared between all
+- [רוח](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} אחד ([ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} echad) = "one breath/spirit" -- shared between all
 - מותר (motar) = "advantage/preeminence" -- man has NO preeminence over beast (in death)
 - הבל (hevel) = "vapor/vanity" -- all is vapor
 
@@ -182,8 +182,8 @@ Hebrew          Lemma        Parsing                   Gloss
 ```
 
 Key observations:
-- נפשׁ (nephesh) = "soul" -- used 4x: "all the souls," "the soul of the father," "the soul of the son," "THE soul"
+- [נפשׁ](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} ([nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}) = "soul" -- used 4x: "all the souls," "the soul of the father," "the soul of the son," "THE soul"
 - חטא (chata) = "sin/miss the mark" -- Qal participle: "the sinning [soul]"
 - מות (mut) = "die" -- Qal imperfect 3fs: "IT SHALL DIE"
-- The nephesh that sins -- it (she, feminine matching nephesh) shall die
-- Nephesh is subject of death, not something that escapes death
+- The [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} that sins -- it (she, feminine matching [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}) shall die
+- [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} is subject of death, not something that escapes death

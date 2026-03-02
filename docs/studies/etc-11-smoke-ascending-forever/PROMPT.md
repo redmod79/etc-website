@@ -26,15 +26,15 @@ Rev 14:9-11, 19:3 -- OT source imagery (Isa 34:9-10, Gen 19:28, Mal 4:1-3). Ongo
 
 **Key prior findings directly relevant to this study:**
 
-1. **etc-07 (olam study):** Olam (H5769) does not inherently mean "endless"; duration is determined by context and subject (N031). Olam fire/smoke judgments (Edom Isa 34:10, Jerusalem Jer 17:4) have demonstrably ended (N035). Strongest "forever" form (netsach netsachim) applied to Edom's judgment, which has ended (E293). God's wrath is explicitly denied to be perpetual (E292, netsach in Ps 103:9; Isa 57:16; Jer 3:5).
+1. **etc-07 ([olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} study):** [Olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} (H5769) does not inherently mean "endless"; duration is determined by context and subject (N031). [Olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} fire/smoke judgments (Edom Isa 34:10, Jerusalem Jer 17:4) have demonstrably ended (N035). Strongest "forever" form (netsach netsachim) applied to Edom's judgment, which has ended (E293). God's wrath is explicitly denied to be perpetual (E292, netsach in Ps 103:9; Isa 57:16; Jer 3:5).
 
-2. **etc-08 (aionios study):** Aionios (G166) does not inherently mean "eternal/endless" (N036; past-time uses in Rom 16:25, 2 Tim 1:9, Tit 1:2). "Ages of ages" formula in judgment contexts (Rev 14:11; 19:3; 20:10) uses the same idiom as OT olam/netsach smoke language for completed judgments (N039). Rev 14:11 echoes Isa 34:10 (E315). Rev 19:3 describes symbolic Babylon (E316). Rev 20:10 subjects are devil, beast, false prophet -- latter two symbolic (E125). Rev 20:9 uses "devoured" for human enemies (E254). Three I-B items resolved Strong: I043, I044, I045.
+2. **etc-08 ([aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} study):** [Aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} (G166) does not inherently mean "eternal/endless" (N036; past-time uses in Rom 16:25, 2 Tim 1:9, Tit 1:2). "Ages of ages" formula in judgment contexts (Rev 14:11; 19:3; 20:10) uses the same idiom as OT [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}/netsach smoke language for completed judgments (N039). Rev 14:11 echoes Isa 34:10 (E315). Rev 19:3 describes symbolic Babylon (E316). Rev 20:10 subjects are devil, beast, false prophet -- latter two symbolic (E125). Rev 20:9 uses "devoured" for human enemies (E254). Three I-B items resolved Strong: I043, I044, I045.
 
 3. **etc-06 (destruction vocabulary):** Destruction vocabulary and torment vocabulary are distinct word families (N030, E260). No lexicon defines any of the seven destruction words as "torment" or "ongoing conscious suffering" (E264).
 
 4. **etc-10 (souls under the altar):** Revelation classified as VISION by Nave's (E349). Rev 1:1 communicates through signs/semainO (E350). Tree 3 applied to Rev 6:9-11: Gate 1 FAIL (symbolic vision-figure), Gate 3 FAIL (apocalyptic genre). Reclassified Neutral.
 
-5. **etc-05 (four hell words):** Beast and false prophet are symbolic entities (E205). No gehenna passage uses torment vocabulary for human beings (E197). Isaiah 66:24 describes corpses (E192).
+5. **etc-05 (four hell words):** Beast and false prophet are symbolic entities (E205). No [gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} passage uses torment vocabulary for human beings (E197). Isaiah 66:24 describes corpses (E192).
 
 **Master evidence items already registered on these passages:**
 - E125: Rev 20:10 subjects are devil, beast, false prophet (Neutral)
@@ -42,7 +42,7 @@ Rev 14:9-11, 19:3 -- OT source imagery (Isa 34:9-10, Gen 19:28, Mal 4:1-3). Ongo
 - E254: Rev 20:9 fire devoured human enemies (Neutral)
 - E265: Rev 14:10-11 torment with fire and brimstone; smoke ascends for ever and ever (Neutral)
 - E266: Isa 34:10 identical smoke-ascending language; Edom not still burning (Neutral)
-- E282: Edom's smoke goes up olam; animals inhabit the territory (Isa 34:10-17) (Cond.)
+- E282: Edom's smoke goes up [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}; animals inhabit the territory (Isa 34:10-17) (Cond.)
 - E293: Strongest "forever" form applied to Edom's ended judgment (Cond.)
 - E314: "Ages of ages" formula used ~19x for God/Christ, only 3x in judgment (Neutral)
 - E315: Rev 14:11 echoes Isa 34:10 -- Edom's ended judgment (Neutral)
@@ -50,7 +50,7 @@ Rev 14:9-11, 19:3 -- OT source imagery (Isa 34:9-10, Gen 19:28, Mal 4:1-3). Ongo
 - E349: Nave's classifies Revelation under VISION (Neutral)
 - E350: Rev 1:1 communicates through signs (Neutral)
 - N035: OT "forever" fire/smoke language describes completed, irreversible judgments (Cond.)
-- N039: "Ages of ages" in judgment contexts uses same idiom as OT olam smoke language (Cond.)
+- N039: "Ages of ages" in judgment contexts uses same idiom as OT [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} smoke language (Cond.)
 - I045: "Ages of ages" in Rev 14:11 and 20:10 teaches literal endless torment of all the wicked (I-B, ECT-direction, resolved Strong toward Conditionalist reading in etc-08)
 
 ---
@@ -111,7 +111,7 @@ Rev 14:9-11, 19:3 -- OT source imagery (Isa 34:9-10, Gen 19:28, Mal 4:1-3). Ongo
 - Rev 14:11: "they have no rest day nor night" (beast-worshippers)
 - Rev 20:10: "tormented day and night for ever and ever" (devil, beast, false prophet)
 
-#### "For ever and ever" (eis aionas aionon) occurrences in Revelation (G165 aion)
+#### "For ever and ever" (eis aionas aionon) occurrences in Revelation (G165 [aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"})
 - Rev 1:6; 4:9; 5:13; 7:12; 10:6; 11:15; 14:11; 15:3; 15:7; 19:3; 20:10; 22:5
 - Note: Rev 11:15 ("he shall reign for ever and ever") and Rev 22:5 ("they shall reign for ever and ever") use the same phrase for divine/redeemed reign. All three judgment uses (14:11; 19:3; 20:10) use the same formula as these doxological uses.
 
@@ -176,24 +176,24 @@ Rev 14:9-11, 19:3 -- OT source imagery (Isa 34:9-10, Gen 19:28, Mal 4:1-3). Ongo
 
 | Strong's | Word | Form | Relevance | Occurrences |
 |----------|------|------|-----------|-------------|
-| G2586 | kapnos (smoke) | masc. noun | The key noun in Rev 14:11 and Rev 19:3 | 13 (KJV): "smoke" 9x, "of smoke" 1x, "a smoke" 1x, "the smoke" 1x, "with smoke" 1x |
-| G929 | basanismos (torment) | masc. noun | Torment noun in Rev 14:11; also Rev 18:7,10,15 (Babylon) | 6: "torment" 5x, "the torment" 1x |
-| G928 | basanizo (to torment) | verb | Torment verb; also means pain, vex, toss | 12: "tormented" 2x, "to torment" 1x, "tossed" 1x, "toiling" 1x, "vexed" 1x, "pained" 1x, etc. |
-| G931 | basanos (torment) | fem. noun | Related noun; appears in Matt 4:24 (diseases) and Luke 16:23,28 (parable) | 3: "torments" 2x, "of torment" 1x |
-| G372 | anapausis (rest/cessation) | fem. noun | "No rest" in Rev 14:11; "rest not" in Rev 4:8 | 5: "rest" 4x, "they rest" 1x |
-| G2303 | theion (brimstone) | neut. noun | "Brimstone" -- all NT occurrences | 7: "brimstone" 7x (Rev 9:17,18; 14:10; 19:20; 20:10; 21:8; Luke 17:29) |
-| G2306 | theiodes (sulphurous) | adj. | Brimstone-like; 1 occurrence only | 1: "brimstone" (Rev 9:17) |
-| G305 | anabaino (ascend/go up) | verb | "ascendeth up" in Rev 14:11 | 65 total: various translations (went up, ascending, ascended, etc.) |
-| G165 | aion (age/ever) | masc. noun | In "eis aionas aionon" (for ever and ever) | ~109 total; judgment uses: Rev 14:11; 19:3; 20:10 |
-| H6227 | ashan (smoke) | masc. noun | OT "smoke" -- Isa 34:10, Gen 19:28, Ps 37:20, Isa 51:6, Hos 13:3 | 24 total: various translations |
-| H1614 | gophriyth (brimstone) | fem. noun | OT "brimstone" -- Gen 19:24; Isa 34:9; Deut 29:23 | 7: "brimstone" 3x, "and brimstone" 2x, "of brimstone" 1x, "into brimstone" 1x |
-| H5769 | olam (for ever) | masc. noun | "For ever" in Isa 34:10; semantic range proven in etc-07 | 432 total |
+| [G2586](https://www.blueletterbible.org/lexicon/g2586/kjv/tr/0-1/){:target="_blank"} | kapnos (smoke) | masc. noun | The key noun in Rev 14:11 and Rev 19:3 | 13 (KJV): "smoke" 9x, "of smoke" 1x, "a smoke" 1x, "the smoke" 1x, "with smoke" 1x |
+| [G929](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} | [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} (torment) | masc. noun | Torment noun in Rev 14:11; also Rev 18:7,10,15 (Babylon) | 6: "torment" 5x, "the torment" 1x |
+| [G928](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} | [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (to torment) | verb | Torment verb; also means pain, vex, toss | 12: "tormented" 2x, "to torment" 1x, "tossed" 1x, "toiling" 1x, "vexed" 1x, "pained" 1x, etc. |
+| [G931](https://www.blueletterbible.org/lexicon/g931/kjv/tr/0-1/){:target="_blank"} | basanos (torment) | fem. noun | Related noun; appears in Matt 4:24 (diseases) and Luke 16:23,28 (parable) | 3: "torments" 2x, "of torment" 1x |
+| [G372](https://www.blueletterbible.org/lexicon/g372/kjv/tr/0-1/){:target="_blank"} | anapausis (rest/cessation) | fem. noun | "No rest" in Rev 14:11; "rest not" in Rev 4:8 | 5: "rest" 4x, "they rest" 1x |
+| [G2303](https://www.blueletterbible.org/lexicon/g2303/kjv/tr/0-1/){:target="_blank"} | theion (brimstone) | neut. noun | "Brimstone" -- all NT occurrences | 7: "brimstone" 7x (Rev 9:17,18; 14:10; 19:20; 20:10; 21:8; Luke 17:29) |
+| [G2306](https://www.blueletterbible.org/lexicon/g2306/kjv/tr/0-1/){:target="_blank"} | theiodes (sulphurous) | adj. | Brimstone-like; 1 occurrence only | 1: "brimstone" (Rev 9:17) |
+| [G305](https://www.blueletterbible.org/lexicon/g305/kjv/tr/0-1/){:target="_blank"} | anabaino (ascend/go up) | verb | "ascendeth up" in Rev 14:11 | 65 total: various translations (went up, ascending, ascended, etc.) |
+| [G165](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} | [aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} (age/ever) | masc. noun | In "eis aionas aionon" (for ever and ever) | ~109 total; judgment uses: Rev 14:11; 19:3; 20:10 |
+| [H6227](https://www.blueletterbible.org/lexicon/h6227/kjv/wlc/0-1/){:target="_blank"} | ashan (smoke) | masc. noun | OT "smoke" -- Isa 34:10, Gen 19:28, Ps 37:20, Isa 51:6, Hos 13:3 | 24 total: various translations |
+| [H1614](https://www.blueletterbible.org/lexicon/h1614/kjv/wlc/0-1/){:target="_blank"} | gophriyth (brimstone) | fem. noun | OT "brimstone" -- Gen 19:24; Isa 34:9; Deut 29:23 | 7: "brimstone" 3x, "and brimstone" 2x, "of brimstone" 1x, "into brimstone" 1x |
+| [H5769](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} | [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} (for ever) | masc. noun | "For ever" in Isa 34:10; semantic range proven in etc-07 | 432 total |
 
-**Key lexical note on G372 anapausis ("no rest"):** Rev 4:8 uses this exact word for the living creatures who "rest not day and night" in ceaseless divine praise. Rev 14:11 uses it negatively for beast-worshippers who have "no rest day nor night." Same word, same book, same author. The research agent should investigate whether the anapausis parallel illuminates Rev 14:11 -- and whether "no rest" describes an eternal state or characterizes the judgment event as admitting no respite during its execution.
+**Key lexical note on [G372](https://www.blueletterbible.org/lexicon/g372/kjv/tr/0-1/){:target="_blank"} anapausis ("no rest"):** Rev 4:8 uses this exact word for the living creatures who "rest not day and night" in ceaseless divine praise. Rev 14:11 uses it negatively for beast-worshippers who have "no rest day nor night." Same word, same book, same author. The research agent should investigate whether the anapausis parallel illuminates Rev 14:11 -- and whether "no rest" describes an eternal state or characterizes the judgment event as admitting no respite during its execution.
 
-**Key lexical note on G929 basanismos ("torment"):** This noun appears 6 times, ALL in Revelation: Rev 9:5 (scorpion-sting torment -- 5 months, limited); Rev 14:11 (torment of beast-worshippers); Rev 18:7,10,15 (Babylon's torment = her judgment/destruction). In Rev 18, basanismos describes Babylon's judgment -- a clearly finite, completed destruction event. Same book, same context. The research agent should examine whether basanismos in Rev 18 illuminates its use in Rev 14:11.
+**Key lexical note on [G929](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} ("torment"):** This noun appears 6 times, ALL in Revelation: Rev 9:5 (scorpion-sting torment -- 5 months, limited); Rev 14:11 (torment of beast-worshippers); Rev 18:7,10,15 (Babylon's torment = her judgment/destruction). In Rev 18, [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} describes Babylon's judgment -- a clearly finite, completed destruction event. Same book, same context. The research agent should examine whether [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} in Rev 18 illuminates its use in Rev 14:11.
 
-**Key lexical note on G2303 theion ("brimstone"):** All 7 NT occurrences are in Luke-Revelation (Luke 17:29 -- Sodom; Rev 9:17,18; 14:10; 19:20; 20:10; 21:8). The only non-Revelation use (Luke 17:29) describes Sodom's destruction -- a completed, ended judgment. The OT brimstone (H1614 gophriyth) appears in Gen 19:24 (Sodom), Deut 29:23 (Sodom aftermath), Isa 34:9 (Edom), Job 18:15, Ps 11:6, Isa 30:33 (Tophet), Ezek 38:22. In every OT case, brimstone is an agent of destruction, not of ongoing torment.
+**Key lexical note on [G2303](https://www.blueletterbible.org/lexicon/g2303/kjv/tr/0-1/){:target="_blank"} theion ("brimstone"):** All 7 NT occurrences are in Luke-Revelation (Luke 17:29 -- Sodom; Rev 9:17,18; 14:10; 19:20; 20:10; 21:8). The only non-Revelation use (Luke 17:29) describes Sodom's destruction -- a completed, ended judgment. The OT brimstone (H1614 gophriyth) appears in Gen 19:24 (Sodom), Deut 29:23 (Sodom aftermath), Isa 34:9 (Edom), Job 18:15, Ps 11:6, Isa 30:33 (Tophet), Ezek 38:22. In every OT case, brimstone is an agent of destruction, not of ongoing torment.
 
 ---
 
@@ -229,7 +229,7 @@ Derived from tool discoveries, prior study findings, and the study question:
 
 7. **The "no rest day nor night" phrase (Rev 14:11):** Same word (anapausis, G372) as Rev 4:8 where living creatures "rest not day and night" in praising God. Rev 14:13, two verses after 14:11, says the blessed dead "rest" (anapauomai, cognate of anapausis) from their labors. The contrast: beast-worshippers have "no rest"; the faithful dead DO rest. What does "no rest" mean -- an eternal conscious state, or the nature of the judgment event itself (no reprieve during execution)?
 
-8. **G929 basanismos in Babylon context (Rev 18:7,10,15):** Basanismos appears 6 times total, all in Revelation. Three of those describe Babylon's "torment" -- but Babylon's "torment" is her destruction (Rev 18:8 "utterly burned with fire"; 18:17 "in one hour so great riches is come to nought"; 18:21 "thrown down, and shall be found no more at all"). If basanismos describes a completed destruction event for Babylon, it may carry the same meaning in Rev 14:11.
+8. **[G929](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} in Babylon context (Rev 18:7,10,15):** [Basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} appears 6 times total, all in Revelation. Three of those describe Babylon's "torment" -- but Babylon's "torment" is her destruction (Rev 18:8 "utterly burned with fire"; 18:17 "in one hour so great riches is come to nought"; 18:21 "thrown down, and shall be found no more at all"). If [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} describes a completed destruction event for Babylon, it may carry the same meaning in Rev 14:11.
 
 9. **The OT smoke vocabulary (H6227 ashan):** In the OT, smoke imagery is consistently associated with transience and consumption, not permanence: wicked consume into smoke (Ps 37:20, E217); smoke = transience/vanishing (Hos 13:3, E248; Isa 51:6); Sodom's smoke ascended as from a furnace (Gen 19:28 -- a completed event Abraham observed).
 
@@ -261,7 +261,7 @@ You are the Research Agent. Execute this study by:
 - Rev 7:15 ("serve him day and night" -- parallel construction)
 - Rev 11:15 ("reign for ever and ever" -- same eis aionas aionon formula)
 - Rev 22:5 ("reign for ever and ever" -- same formula, for the redeemed)
-- Rev 18:7-10,15,18,21 (basanismos and smoke in Babylon context)
+- Rev 18:7-10,15,18,21 ([basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} and smoke in Babylon context)
 - Rev 17:16 (Babylon burned with fire)
 - Rev 20:14-15 (lake of fire = second death)
 - Rev 21:8 (lake of fire and brimstone = second death)
@@ -285,17 +285,17 @@ You are the Research Agent. Execute this study by:
 - Luke 17:29 (fire and brimstone on Sodom -- NT)
 
 **Strong's word studies:**
-- G2586 kapnos (smoke) -- full lexicon + all verses
-- G929 basanismos (torment noun) -- full lexicon + all verses (especially the Babylon uses)
-- G928 basanizo (torment verb) -- full lexicon + all verses
-- G931 basanos (torment/touchstone) -- full lexicon + all verses
-- G372 anapausis (rest/no rest) -- full lexicon + all verses (especially Rev 4:8 vs 14:11)
-- G2303 theion (brimstone) -- full lexicon + all 7 verses
-- G305 anabaino (ascend/go up) -- lexicon entry; usage in Rev 14:11
-- G165 aion (age/ever) -- lexicon entry; "eis aionas aionon" formula
-- H6227 ashan (smoke) -- full lexicon + verses where it appears with "for ever" language
-- H1614 gophriyth (brimstone) -- full lexicon + all 7 OT verses
-- H5769 olam (for ever) -- lexicon entry (already studied in etc-07; reference for Isa 34:10)
+- [G2586](https://www.blueletterbible.org/lexicon/g2586/kjv/tr/0-1/){:target="_blank"} kapnos (smoke) -- full lexicon + all verses
+- [G929](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} (torment noun) -- full lexicon + all verses (especially the Babylon uses)
+- [G928](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (torment verb) -- full lexicon + all verses
+- [G931](https://www.blueletterbible.org/lexicon/g931/kjv/tr/0-1/){:target="_blank"} basanos (torment/touchstone) -- full lexicon + all verses
+- [G372](https://www.blueletterbible.org/lexicon/g372/kjv/tr/0-1/){:target="_blank"} anapausis (rest/no rest) -- full lexicon + all verses (especially Rev 4:8 vs 14:11)
+- [G2303](https://www.blueletterbible.org/lexicon/g2303/kjv/tr/0-1/){:target="_blank"} theion (brimstone) -- full lexicon + all 7 verses
+- [G305](https://www.blueletterbible.org/lexicon/g305/kjv/tr/0-1/){:target="_blank"} anabaino (ascend/go up) -- lexicon entry; usage in Rev 14:11
+- [G165](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} [aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} (age/ever) -- lexicon entry; "eis aionas aionon" formula
+- [H6227](https://www.blueletterbible.org/lexicon/h6227/kjv/wlc/0-1/){:target="_blank"} ashan (smoke) -- full lexicon + verses where it appears with "for ever" language
+- [H1614](https://www.blueletterbible.org/lexicon/h1614/kjv/wlc/0-1/){:target="_blank"} gophriyth (brimstone) -- full lexicon + all 7 OT verses
+- [H5769](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} (for ever) -- lexicon entry (already studied in etc-07; reference for Isa 34:10)
 
 **Cross-testament parallels (run ALL of these):**
 - Rev 14:10 -- hybrid-ot and hybrid-nt
@@ -325,7 +325,7 @@ You are the Research Agent. Execute this study by:
 - E254 (Rev 20:9: fire devoured human enemies) -- Neutral
 - E265 (Rev 14:10-11: tormented with fire and brimstone; smoke ascends) -- Neutral
 - E266 (Isa 34:10: identical smoke language; Edom not still burning) -- Neutral
-- E282 (Edom's smoke goes up olam; animals inhabit) -- Cond.
+- E282 (Edom's smoke goes up [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}; animals inhabit) -- Cond.
 - E293 (strongest "forever" form = Edom's ended judgment) -- Cond.
 - E314 (ages of ages: ~19x for God, 3x judgment) -- Neutral
 - E315 (Rev 14:11 echoes Isa 34:10) -- Neutral
@@ -342,7 +342,7 @@ The etc-08 study resolved I045 ("Ages of ages" in Rev 14:11 and 20:10 teaches li
 - AGAINST: E315 (echoes Isa 34:10 -- Plain); E316 (Babylon is symbolic -- Plain); E125 (subjects non-human/symbolic -- Plain); E254 (devoured for humans -- Plain); N039 (OT pattern = completed judgment -- Plain); E205 (beast/false prophet symbolic -- Plain)
 - Resolution: Strong toward Conditionalist reading. 6 Plain items vs 2 Ambiguous items.
 
-The etc-11 study should deepen this analysis by examining the specific passages in detail, analyzing the fire-and-brimstone vocabulary chain from Gen 19 through Isa 34 to Revelation, the basanismos usage in Rev 18 (Babylon), the anapausis parallel in Rev 4:8, and the Mal 4:1-3 eschatological destruction imagery. It should NOT merely repeat the etc-08 I-B resolution but should build on it with fresh exegetical evidence.
+The etc-11 study should deepen this analysis by examining the specific passages in detail, analyzing the fire-and-brimstone vocabulary chain from Gen 19 through Isa 34 to Revelation, the [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} usage in Rev 18 (Babylon), the anapausis parallel in Rev 4:8, and the Mal 4:1-3 eschatological destruction imagery. It should NOT merely repeat the etc-08 I-B resolution but should build on it with fresh exegetical evidence.
 
 ### Methodology
 

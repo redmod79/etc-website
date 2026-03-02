@@ -1,8 +1,8 @@
 # Word Studies — Lake of Fire / Second Death
 
-## G3041 — limne (lake)
+## [G3041](https://www.blueletterbible.org/lexicon/g3041/kjv/tr/0-1/){:target="_blank"} — [limne](https://www.blueletterbible.org/lexicon/g3041/kjv/tr/0-1/){:target="_blank"} (lake)
 
-**Transliteration:** limne
+**Transliteration:** [limne](https://www.blueletterbible.org/lexicon/g3041/kjv/tr/0-1/){:target="_blank"}
 **Pronunciation:** lim-nay
 **Part of Speech:** feminine noun
 **Definition:** Probably from (through the idea of nearness of shore); a pond, lake
@@ -28,13 +28,13 @@
 | Rev 21:8 | "the lake which burneth with fire and brimstone" |
 
 ### Analysis
-- The word limne simply means "lake" or "pond" — a body of standing water.
+- The word [limne](https://www.blueletterbible.org/lexicon/g3041/kjv/tr/0-1/){:target="_blank"} simply means "lake" or "pond" — a body of standing water.
 - Five uses are literal (Lake of Gennesaret in Luke).
-- Five uses are in Revelation for the "lake of fire" (limne tou puros).
+- Five uses are in Revelation for the "lake of fire" ([limne](https://www.blueletterbible.org/lexicon/g3041/kjv/tr/0-1/){:target="_blank"} tou puros).
 - The "lake of fire" is a construct unique to Revelation. It does not appear in the OT, the Gospels, the Epistles, or any other NT book.
-- The phrase "lake of fire" is not identical to "gehenna" (G1067), "sheol/hades" (G86), or "fire" generally (G4442). It is a distinct image in Revelation's apocalyptic framework.
+- The phrase "lake of fire" is not identical to "[gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"}" (G1067), "[sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}/[hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}" (G86), or "fire" generally (G4442). It is a distinct image in Revelation's apocalyptic framework.
 
-## G4442 — pur (fire)
+## [G4442](https://www.blueletterbible.org/lexicon/g4442/kjv/tr/0-1/){:target="_blank"} — pur (fire)
 
 **Transliteration:** pur
 **Pronunciation:** poor
@@ -54,10 +54,10 @@
 ### Key Observations
 - 74 NT occurrences — extensive usage across many contexts.
 - Used for literal fire (Luke 22:55), theophany fire (Acts 2:3; Heb 12:29), judgment fire (Matt 25:41; Rev 20:14), and metaphorical fire (Luke 12:49; Jas 3:5-6).
-- In the "lake of fire" construct, pur modifies limne — the fire characterizes the lake.
+- In the "lake of fire" construct, pur modifies [limne](https://www.blueletterbible.org/lexicon/g3041/kjv/tr/0-1/){:target="_blank"} — the fire characterizes the lake.
 - The same word appears in "everlasting fire" (Matt 25:41) and "unquenchable fire" (Matt 3:12; Mark 9:43).
 
-## G1208 — deuteros (second)
+## [G1208](https://www.blueletterbible.org/lexicon/g1208/kjv/tr/0-1/){:target="_blank"} — deuteros (second)
 
 **Transliteration:** deuteros
 **Pronunciation:** dyoo-ter-os
@@ -77,14 +77,14 @@
 
 ### Key Observations
 - Standard ordinal adjective meaning "second."
-- In the "second death" (deuteros thanatos) construct: deuteros modifies thanatos.
+- In the "second death" (deuteros [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}) construct: deuteros modifies [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}.
 - The term "second death" implies a first death exists — physical death.
 - The "second death" is distinguished from ordinary death by the adjective.
 - All four "second death" occurrences are in Revelation (2:11; 20:6; 20:14; 21:8).
 
-## G2288 — thanatos (death)
+## [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} — [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (death)
 
-**Transliteration:** thanatos
+**Transliteration:** [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}
 **Pronunciation:** than-at-os
 **Part of Speech:** masculine noun
 **Definition:** From (properly, an adjective used as a noun) death (literally or figuratively)
@@ -103,11 +103,11 @@
 ### Key Observations
 - The most common NT word for death — 119 occurrences.
 - Used for: physical death (Matt 10:21), spiritual death (Rom 5:12), death as a power/enemy (1 Cor 15:26), the death of Christ (Phil 2:8), and the second death (Rev 2:11; 20:6,14; 21:8).
-- In Rev 20:14, thanatos appears three times: "death (thanatos) and hell (hades) were cast into the lake of fire. This is the second death (thanatos)."
+- In Rev 20:14, [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} appears three times: "death ([thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}) and hell ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}) were cast into the lake of fire. This is the second death ([thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"})."
 - Death is personified in Revelation: riding a horse (6:8), holding keys (1:18), giving up the dead (20:13), being cast into the lake (20:14).
 - The casting of death itself into the lake of fire parallels Paul's statement that "the last enemy that shall be destroyed is death" (1 Cor 15:26) and Isaiah's prophecy that God will "swallow up death in victory" (Isa 25:8).
 
-### Thanatos in Revelation
+### [Thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} in Revelation
 | Verse | Usage |
 |-------|-------|
 | Rev 1:18 | Christ has "the keys of hell and of death" |

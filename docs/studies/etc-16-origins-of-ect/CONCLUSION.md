@@ -25,9 +25,9 @@ The doctrine of ECT entered Christian theology through identifiable historical c
 
 ### 1. The Biblical Foundation (c. 1400 BC - 90 AD)
 
-The OT presents a consistent anthropology: man BECAME a living soul (Gen 2:7); the same term (nephesh chayyah) applies to animals (Gen 1:20-21, 24); death reverses the creation formula (Ecc 12:7); thoughts perish at death (Ps 146:4); the dead know nothing (Ecc 9:5); the soul dies (Ezek 18:4). Man was barred from the tree of life to prevent him from living forever (Gen 3:22-24), presupposing that he is not inherently immortal.
+The OT presents a consistent anthropology: man BECAME a living soul (Gen 2:7); the same term ([nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} [chayyah](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"}) applies to animals (Gen 1:20-21, 24); death reverses the creation formula (Ecc 12:7); thoughts perish at death (Ps 146:4); the dead know nothing (Ecc 9:5); the soul dies (Ezek 18:4). Man was barred from the tree of life to prevent him from living forever (Gen 3:22-24), presupposing that he is not inherently immortal.
 
-The NT maintains this framework. God ONLY has immortality (athanasia, 1 Tim 6:16). Immortality must be sought (aphtharsia, Rom 2:7), put on at resurrection (1 Cor 15:53-54), and was brought to light through the gospel (2 Tim 1:10). God can destroy both soul and body (Matt 10:28). The NT never uses the phrase "immortal soul." The word athanasia appears only 3 times and is never applied to the human psyche. The NT explicitly calls the human condition thnetos -- mortal (Rom 6:12; 8:11; 1 Cor 15:53; 2 Cor 4:11; 5:4).
+The NT maintains this framework. God ONLY has immortality ([athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"}, 1 Tim 6:16). Immortality must be sought ([aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"}, Rom 2:7), put on at resurrection (1 Cor 15:53-54), and was brought to light through the gospel (2 Tim 1:10). God can destroy both soul and body (Matt 10:28). The NT never uses the phrase "immortal soul." The word [athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} appears only 3 times and is never applied to the human [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}. The NT explicitly calls the human condition [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} -- mortal (Rom 6:12; 8:11; 1 Cor 15:53; 2 Cor 4:11; 5:4).
 
 *(Established in etc-01-what-is-man, etc-02-who-has-immortality, etc-03-biblical-death, etc-04-state-of-the-dead.)*
 
@@ -48,11 +48,13 @@ These claims are fundamentally incompatible with the biblical text. Plato says t
 
 Between the OT and NT, Hellenistic culture penetrated Jewish thought:
 
-**1 Enoch 22 (c. 3rd century BC):** Describes four compartments for conscious souls after death -- righteous separated from wicked. This departs from the OT concept of sheol as an undifferentiated place of silence and introduces the idea of differentiated, conscious afterlife waiting rooms.
+**1 Enoch 22 (c. 3rd century BC):** Describes four compartments for conscious souls after death -- righteous separated from wicked. This departs from the OT concept of [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} as an undifferentiated place of silence and introduces the idea of differentiated, conscious afterlife waiting rooms.
 
 **Wisdom of Solomon (c. 1st century BC, Alexandria):** Written by a Hellenized Jew, this text affirms: "God created man for incorruption" (2:23); "The souls of the righteous are in the hand of God" (3:1); "They have the full hope of immortality" (3:4). Scholars identify this as "one of the earliest and most forceful Jewish affirmations of the Platonic idea of the immortality of the soul." However, immortality here remains conditional (tied to a life of justice).
 
-**4 Maccabees (c. 1st century BC/AD):** Takes the final step the Wisdom of Solomon did not: ALL souls are immortal, including the wicked. The author "believes in the immortality of the soul, but never mentions the resurrection of the dead." Bodily resurrection is entirely replaced by Platonic soul survival.
+**Judith 16:17 (c. 150-100 BC):** The first text to apply Isaiah 66:24 to living persons. Isaiah's original describes worms and fire on "carcasses" (peger — dead bodies); Judith rewrites this as "fire and worms into their flesh; they shall weep in pain forever." This transformation from post-mortem decomposition to conscious suffering represents the earliest identifiable shift toward ECT imagery in Jewish literature. (See analysis section III for full discussion.)
+
+**4 Maccabees (c. 1st century BC/AD):** Takes the final step the Wisdom of Solomon did not: ALL souls are immortal, including the wicked. The author "believes in the immortality of the soul, but never mentions the resurrection of the dead." Contains the most explicit pre-Christian eternal torment language: "eternal torment by fire" (9:9), "unceasing torments" (10:11). However, 17:12 says immortality is the exclusive prize of the righteous — exhibiting internal tension. Bodily resurrection is entirely replaced by Platonic soul survival. (See analysis section III for full quotations and discussion.)
 
 **Josephus (c. 75 AD):** Reports that by the 1st century, the Pharisees taught that "souls have an immortal vigor in them" with rewards and punishments after death. The Essenes taught souls "are immortal, and continue for ever... united to their bodies as to prisons" -- language virtually identical to Plato. The Sadducees alone rejected this: "souls die with the bodies."
 
@@ -60,7 +62,7 @@ Between the OT and NT, Hellenistic culture penetrated Jewish thought:
 
 The progression from conditional to innate immortality within Christianity follows a documented chronological sequence:
 
-**Apostolic Fathers (c. 90-150 AD):** "From beginning to end of them there is not one word said of that immortality of the soul which is so prominent in the writings of the later fathers. Immortality is asserted by them to be peculiar to the redeemed."
+**Apostolic Fathers (c. 90-150 AD):** "From beginning to end of them there is not one word said of that immortality of the soul which is so prominent in the writings of the later fathers. Immortality is asserted by them to be peculiar to the redeemed." Specific quotations confirm this: Clement of Rome frames immortality as a "gift" (1 Clement 35:1-2); Ignatius calls the Eucharist "the medicine of immortality" and says without God's grace "we should cease to be" (Eph 20; Mag 10); Theophilus of Antioch provides the most explicit conditionalist statement: man was made "capable of both" immortality and death, with immortality as a reward (Ad Aut 2.27); Irenaeus says all things "endure as long as God wills" and the wicked are "deprived of continuance" (AH 2.34.2-3). Justin Martyr is genuinely ambiguous — a transitional figure quoted by both sides. (See analysis section IV for full quotations and references.)
 
 **Tatian (c. 160 AD):** "The soul is not in itself immortal... If, indeed, it knows not the truth, it dies, and is dissolved with the body."
 
@@ -110,7 +112,7 @@ Note on E1: Colossians 2:8 has not been registered as a standalone E-item in the
 
 ### 2. Necessary Implications Table
 
-No new necessary implications are added by this historical study. All relevant N-items (N002: man does not inherently possess immortality; N005: the nephesh is mortal; etc.) are already registered from prior studies.
+No new necessary implications are added by this historical study. All relevant N-items (N002: man does not inherently possess immortality; N005: the [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} is mortal; etc.) are already registered from prior studies.
 
 ---
 
@@ -118,7 +120,7 @@ No new necessary implications are added by this historical study. All relevant N
 
 | # | Claim | Type | Position | What the Bible Actually Says | Why This Is an Inference | Criteria |
 |---|---|---|---|---|---|---|
-| I1 | The doctrine of the inherently immortal soul entered Christianity from Platonic philosophy, not from Scripture | I-A | Neutral | The Bible states God only has immortality (E024/1 Tim 6:16), humans must seek it (E025/Rom 2:7), put it on at resurrection (E026/1 Cor 15:53-54). The phrase "immortal soul" never appears in Scripture. The NT never applies athanasia to the human psyche. Paul warns against philosophy (Col 2:8). | This systematizes multiple E/N items with historical evidence into a historical claim. All biblical components are in the E/N tables. The historical component (Plato, church fathers, councils) is documented in this study's narrative. This is an inference because it draws a comprehensive conclusion from both biblical and historical data. | #5 (systematizing) |
+| I1 | The doctrine of the inherently immortal soul entered Christianity from Platonic philosophy, not from Scripture | I-A | Neutral | The Bible states God only has immortality (E024/1 Tim 6:16), humans must seek it (E025/Rom 2:7), put it on at resurrection (E026/1 Cor 15:53-54). The phrase "immortal soul" never appears in Scripture. The NT never applies [athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} to the human [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}. Paul warns against philosophy (Col 2:8). | This systematizes multiple E/N items with historical evidence into a historical claim. All biblical components are in the E/N tables. The historical component (Plato, church fathers, councils) is documented in this study's narrative. This is an inference because it draws a comprehensive conclusion from both biblical and historical data. | #5 (systematizing) |
 
 ---
 
@@ -159,7 +161,7 @@ Note: This study intentionally has a minimal evidence table. It is a historical 
 ## What CAN Be Said (from this study's historical investigation)
 
 1. The concept of an inherently immortal soul originates with Plato (c. 360 BC), not with the Bible.
-2. The Bible never uses the phrase "immortal soul." The word athanasia appears 3 times and is never applied to the human psyche.
+2. The Bible never uses the phrase "immortal soul." The word [athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} appears 3 times and is never applied to the human [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}.
 3. The intertestamental period shows a documented progression from OT soul mortality to Hellenistic soul immortality in Jewish literature (1 Enoch, Wisdom of Solomon, 4 Maccabees).
 4. The earliest Christian writers (Apostolic Fathers, c. 90-150 AD) taught conditional immortality -- immortality only for the redeemed.
 5. The first Christian writer to teach natural soul immortality (Athenagoras, c. 177 AD) was a former Platonist philosopher.

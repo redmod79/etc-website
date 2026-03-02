@@ -5,8 +5,8 @@
 ### Verse Text
 "And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell."
 
-### Concepts Found: LIFE (Chay/zoe - living, alive, life)
-Strong's in verse: G5590 (soul, psuche)
+### Concepts Found: LIFE ([Chay](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"}/[zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} - living, alive, life)
+Strong's in verse: [G5590](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} (soul, psuche)
 
 ### Same Chapter (Matthew 10)
 1. Matthew 10:39 [LIFE] -- "He that findeth his life shall lose it: and he that loseth his life for my sake shall find it."
@@ -28,7 +28,7 @@ Strong's in verse: G5590 (soul, psuche)
 - 1 Cor 15:19 [LIFE] -- "If in this life only we have hope in Christ"
 - 1 Cor 3:22 [LIFE] -- "life, or death, or things present, or things to come"
 
-**Key observation:** The concept_context tool identifies LIFE (psuche/soul) as the primary concept in Matt 10:28. The same-book parallels connect to the life/death, save/lose, enter life/be cast into gehenna patterns throughout Matthew. The concept of "soul" (psuche) in Matt 10:28 connects to the broader question of whether the soul can be destroyed.
+**Key observation:** The concept_context tool identifies LIFE (psuche/soul) as the primary concept in Matt 10:28. The same-book parallels connect to the life/death, save/lose, enter life/be cast into [gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} patterns throughout Matthew. The concept of "soul" (psuche) in Matt 10:28 connects to the broader question of whether the soul can be destroyed.
 
 ---
 
@@ -38,7 +38,7 @@ Strong's in verse: G5590 (soul, psuche)
 "Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;"
 
 ### Concepts Found: GLORY (Kabod/doxa - weight, honor, splendor)
-Strong's in verse: G1391 (glory, doxa)
+Strong's in verse: [G1391](https://www.blueletterbible.org/lexicon/g1391/kjv/tr/0-1/){:target="_blank"} (glory, doxa)
 
 ### Same Chapter (2 Thessalonians 1)
 1. 2 Thessalonians 1:10 [GLORY] -- "When he shall come to be glorified in his saints"
@@ -63,6 +63,6 @@ Strong's in verse: G1391 (glory, doxa)
 ### Result
 "No theological concepts found in JHN 3:16"
 
-**Note:** The concept_context tool did not identify tagged theological concepts in this verse. However, John 3:16 contains the core "perish (apollymi) vs. everlasting life" contrast. Cross-testament parallels (see parallels.md) connect it to John 6:40 (0.518), John 3:15 (0.517), John 3:36 (0.478), and John 12:25 (0.474) -- all life/death contrasts.
+**Note:** The concept_context tool did not identify tagged theological concepts in this verse. However, John 3:16 contains the core "perish ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}) vs. everlasting life" contrast. Cross-testament parallels (see parallels.md) connect it to John 6:40 (0.518), John 3:15 (0.517), John 3:36 (0.478), and John 12:25 (0.474) -- all life/death contrasts.
 
-The perish/life binary in John 3:16 functions as the paradigmatic destruction vocabulary passage: the alternative to everlasting life is not everlasting torment but perishing (apollymi).
+The perish/life binary in John 3:16 functions as the paradigmatic destruction vocabulary passage: the alternative to everlasting life is not everlasting torment but perishing ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}).

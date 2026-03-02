@@ -1,6 +1,6 @@
 # Raw Strong's Lookups — etc-07
 
-## H5769: olam (עוֹלָם)
+## [H5769](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}: [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} (עוֹלָם)
 
 ### Lookup Summary
 - **Total occurrences**: 432
@@ -31,19 +31,19 @@
 
 ### LXX Mapping (Greek translations)
 Top translations in the Septuagint:
-1. **G165 αἰών (aion)** — count: 287, PMI: 5.55 — "an age; by extension, perpetuity"
-2. **G166 αἰώνιος (aionios)** — count: 100, PMI: 5.67 — "perpetual (also used of past time)"
-3. **G1074 γενεά (genea)** — count: 51, PMI: 4.37 — "a generation"
-4. **G3545 νομίμως (nomimos)** — count: 30, PMI: 4.96 — "legitimately"
-5. **G1656 ἔλεος (eleos)** — count: 57, PMI: 3.85 — "compassion"
-6. **G1519 εἰς (eis)** — count: 255, PMI: 1.73 — "to, into"
-7. **G1242 διαθήκη (diatheke)** — count: 30, PMI: 2.62 — "a covenant, disposition"
+1. **[G165](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} [αἰών](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} (aion)** — count: 287, PMI: 5.55 — "an age; by extension, perpetuity"
+2. **[G166](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} [αἰώνιος](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} (aionios)** — count: 100, PMI: 5.67 — "perpetual (also used of past time)"
+3. **[G1074](https://www.blueletterbible.org/lexicon/g1074/kjv/tr/0-1/){:target="_blank"} γενεά (genea)** — count: 51, PMI: 4.37 — "a generation"
+4. **[G3545](https://www.blueletterbible.org/lexicon/g3545/kjv/tr/0-1/){:target="_blank"} νομίμως (nomimos)** — count: 30, PMI: 4.96 — "legitimately"
+5. **[G1656](https://www.blueletterbible.org/lexicon/g1656/kjv/tr/0-1/){:target="_blank"} ἔλεος (eleos)** — count: 57, PMI: 3.85 — "compassion"
+6. **[G1519](https://www.blueletterbible.org/lexicon/g1519/kjv/tr/0-1/){:target="_blank"} εἰς (eis)** — count: 255, PMI: 1.73 — "to, into"
+7. **[G1242](https://www.blueletterbible.org/lexicon/g1242/kjv/tr/0-1/){:target="_blank"} διαθήκη (diatheke)** — count: 30, PMI: 2.62 — "a covenant, disposition"
 
-**KEY OBSERVATION**: The LXX primarily translates olam with aion (287x) and aionios (100x), both of which carry the same semantic ambiguity — "age" or "age-lasting" rather than strictly "eternal." The 51 translations as "generation" confirm the finite-duration sense.
+**KEY OBSERVATION**: The LXX primarily translates [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} with [aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} (287x) and [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} (100x), both of which carry the same semantic ambiguity — "age" or "age-lasting" rather than strictly "eternal." The 51 translations as "generation" confirm the finite-duration sense.
 
 ---
 
-## H5703: ad (עַד)
+## [H5703](https://www.blueletterbible.org/lexicon/h5703/kjv/wlc/0-1/){:target="_blank"}: ad (עַד)
 
 ### Lookup Summary
 - **Total occurrences**: 51
@@ -66,14 +66,14 @@ Top translations in the Septuagint:
 **KEY NOTE**: The root meaning includes "terminus" (endpoint), suggesting duration advancing toward a goal rather than absolute endlessness.
 
 ### LXX Mapping
-1. **G165 αἰών (aion)** — count: 33, PMI: 5.57
-2. **G3306 μένω (meno)** — count: 4, PMI: 5.30 — "to stay, remain"
-3. **G622 ἀπόλλυμι (apollymi)** — count: 6, PMI: 3.52 — "to destroy fully"
-4. **G1519 εἰς (eis)** — count: 33, PMI: 1.92
+1. **[G165](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} [αἰών](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} (aion)** — count: 33, PMI: 5.57
+2. **[G3306](https://www.blueletterbible.org/lexicon/g3306/kjv/tr/0-1/){:target="_blank"} μένω (meno)** — count: 4, PMI: 5.30 — "to stay, remain"
+3. **[G622](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} [ἀπόλλυμι](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (apollymi)** — count: 6, PMI: 3.52 — "to destroy fully"
+4. **[G1519](https://www.blueletterbible.org/lexicon/g1519/kjv/tr/0-1/){:target="_blank"} εἰς (eis)** — count: 33, PMI: 1.92
 
 ---
 
-## H5331: netsach (נֶצַח)
+## [H5331](https://www.blueletterbible.org/lexicon/h5331/kjv/wlc/0-1/){:target="_blank"}: netsach (נֶצַח)
 
 ### Lookup Summary
 - **Total occurrences**: 44
@@ -97,17 +97,17 @@ Top translations in the Septuagint:
 **KEY NOTE**: Root meaning is "a goal" — the bright object at a distance. This is explicitly about perspective and distance, not mathematical infinity. "To the most distant point of view" = as far as one can see.
 
 ### LXX Mapping
-1. **G5056 τέλος (telos)** — count: 19, PMI: 6.41 — "an end, goal"
-2. **G4219 πότε (pote)** — count: 5, PMI: 6.22 — "when?"
-3. **G165 αἰών (aion)** — count: 10, PMI: 4.05
-4. **G1950 ἐπιλανθάνομαι (epilanthanomai)** — count: 5, PMI: 4.89 — "to forget"
-5. **G622 ἀπόλλυμι (apollymi)** — count: 6, PMI: 3.73 — "to destroy fully"
+1. **[G5056](https://www.blueletterbible.org/lexicon/g5056/kjv/tr/0-1/){:target="_blank"} τέλος (telos)** — count: 19, PMI: 6.41 — "an end, goal"
+2. **[G4219](https://www.blueletterbible.org/lexicon/g4219/kjv/tr/0-1/){:target="_blank"} πότε (pote)** — count: 5, PMI: 6.22 — "when?"
+3. **[G165](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} [αἰών](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} (aion)** — count: 10, PMI: 4.05
+4. **[G1950](https://www.blueletterbible.org/lexicon/g1950/kjv/tr/0-1/){:target="_blank"} ἐπιλανθάνομαι (epilanthanomai)** — count: 5, PMI: 4.89 — "to forget"
+5. **[G622](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} [ἀπόλλυμι](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (apollymi)** — count: 6, PMI: 3.73 — "to destroy fully"
 
 **KEY OBSERVATION**: The LXX most frequently translates netsach as telos ("end/goal"), reinforcing the "goal/endpoint" rather than "endlessness" semantics.
 
 ---
 
-## H8548: tamid (תָּמִיד)
+## [H8548](https://www.blueletterbible.org/lexicon/h8548/kjv/wlc/0-1/){:target="_blank"}: tamid (תָּמִיד)
 
 ### Lookup Summary
 - **Total occurrences**: 105
@@ -131,16 +131,16 @@ Top translations in the Septuagint:
 **KEY NOTE**: Most commonly used for the daily/continual sacrifice, not for ontological eternity. The root means "to stretch" — indefinite extension, not absolute endlessness.
 
 ### LXX Mapping
-1. **G1223 διά (dia)** — count: 84, PMI: 4.43 — "through, by means of"
-2. **G2378 θυσία (thysia)** — count: 19, PMI: 3.86 — "sacrifice"
-3. **G3646 ὁλοκαύτωμα (holokautoma)** — count: 13, PMI: 4.02 — "burnt offering"
-4. **G3956 πᾶς (pas)** — count: 87, PMI: 2.25 — "all, every"
+1. **[G1223](https://www.blueletterbible.org/lexicon/g1223/kjv/tr/0-1/){:target="_blank"} διά (dia)** — count: 84, PMI: 4.43 — "through, by means of"
+2. **[G2378](https://www.blueletterbible.org/lexicon/g2378/kjv/tr/0-1/){:target="_blank"} θυσία (thysia)** — count: 19, PMI: 3.86 — "sacrifice"
+3. **[G3646](https://www.blueletterbible.org/lexicon/g3646/kjv/tr/0-1/){:target="_blank"} ὁλοκαύτωμα (holokautoma)** — count: 13, PMI: 4.02 — "burnt offering"
+4. **[G3956](https://www.blueletterbible.org/lexicon/g3956/kjv/tr/0-1/){:target="_blank"} πᾶς (pas)** — count: 87, PMI: 2.25 — "all, every"
 
 **KEY OBSERVATION**: The overwhelming association with sacrifice/offering confirms tamid as a liturgical/temporal term, not an ontological eternity term.
 
 ---
 
-## H5957: alam (עָלַם) — Aramaic
+## [H5957](https://www.blueletterbible.org/lexicon/h5957/kjv/wlc/0-1/){:target="_blank"}: alam (עָלַם) — Aramaic
 
 ### Lookup Summary
 - **Total occurrences**: 20
@@ -159,7 +159,7 @@ Top translations in the Septuagint:
 - **BLB Count**: 20
 - **Definition**: (Aramaic) corresponding to; remote time, i.e. the future or past indefinitely; often adverb, forever: — for (n-)ever (lasting), old.
 
-**KEY NOTE**: The Aramaic form directly corresponds to Hebrew olam and carries the same semantic range — "remote time" past or future, "indefinitely." Used primarily in Daniel.
+**KEY NOTE**: The Aramaic form directly corresponds to Hebrew [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} and carries the same semantic range — "remote time" past or future, "indefinitely." Used primarily in Daniel.
 
 ### Key Occurrences in Daniel
 - Dan 2:4 — "O king, live for ever" (courtly greeting)

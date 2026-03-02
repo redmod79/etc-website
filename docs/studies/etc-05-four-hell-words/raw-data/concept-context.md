@@ -3,7 +3,7 @@
 ## Matthew 10:28
 "And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell."
 
-**Concepts Found:** LIFE (Chay/zoe) -- Strong's G5590 (psyche/soul)
+**Concepts Found:** LIFE ([Chay](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"}/[zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"}) -- Strong's [G5590](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} (psyche/soul)
 
 ### Same Chapter (Matthew 10)
 - **Matt 10:39** "He that findeth his life shall lose it: and he that loseth his life for my sake shall find it."
@@ -23,7 +23,7 @@
 ### Other Books -- Key Results
 - **1 Cor 15:45** "The first man Adam was made a living soul; the last Adam was made a quickening spirit."
 - **John 12:25** "He that loveth his life shall lose it; and he that hateth his life in this world shall keep it unto life eternal."
-- **Rev 16:3** "...every living soul died in the sea." (psyche used of physical life that can end)
+- **Rev 16:3** "...every living soul died in the sea." ([psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} used of physical life that can end)
 
 ---
 
@@ -32,7 +32,7 @@
 
 **Concepts Found:** No theological concepts identified by the tool.
 
-**Note:** The concept_context tool did not identify mapped theological concepts in Mark 9:43. However, the verse's content links to the LIFE concept (entering into life vs. being cast into gehenna) and to the FIRE/DESTRUCTION motif. The OT source text for the "worm/fire" language is Isaiah 66:24, which describes corpses (peger), not living beings.
+**Note:** The concept_context tool did not identify mapped theological concepts in Mark 9:43. However, the verse's content links to the LIFE concept (entering into life vs. being cast into [gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"}) and to the FIRE/DESTRUCTION motif. The OT source text for the "worm/fire" language is Isaiah 66:24, which describes corpses (peger), not living beings.
 
 ---
 
@@ -40,8 +40,8 @@
 "Because thou wilt not leave my soul in hell, neither wilt thou suffer thine Holy One to see corruption."
 
 **Concepts Found:**
-- LIFE (Chay/zoe) -- Strong's G5590 (psyche/soul)
-- DEATH (Maveth/thanatos) -- Strong's G86 (hades)
+- LIFE ([Chay](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"}/[zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"}) -- Strong's [G5590](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} (psyche/soul)
+- DEATH ([Maveth](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"}/[thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}) -- Strong's [G86](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (hades)
 
 ### Same Chapter (Acts 2)
 - **Acts 2:31** "He seeing this before spake of the resurrection of Christ, that his soul was not left in hell [hades], neither his flesh did see corruption." [DEATH, LIFE]
@@ -65,4 +65,4 @@
 - **John 5:24** "He that heareth my word, and believeth... is passed from death unto life." [DEATH, LIFE]
 - **Rev 20:14** "And death and hell [hades] were cast into the lake of fire. This is the second death." [DEATH]
 
-**Key Finding from Concept Context:** The concept_context tool categorizes hades (G86) under the DEATH concept, not as a separate theological category. This confirms that hades is understood within the biblical semantic field as part of the death/dying domain, not as a distinct "place of torment."
+**Key Finding from Concept Context:** The concept_context tool categorizes [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (G86) under the DEATH concept, not as a separate theological category. This confirms that [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} is understood within the biblical semantic field as part of the death/dying domain, not as a distinct "place of torment."

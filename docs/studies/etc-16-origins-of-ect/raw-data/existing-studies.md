@@ -11,18 +11,18 @@
 
 ### etc-01-what-is-man
 - Man BECAME a living soul (Gen 2:7) -- not "received an immortal soul"
-- Nephesh chayyah applies equally to animals
+- [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} [chayyah](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"} applies equally to animals
 - God ONLY has immortality (1 Tim 6:16)
 - Thoughts perish at death (Ps 146:4)
 - Dead know nothing (Ecc 9:5)
 - The "immortal soul" claim classified I-D (requires overriding multiple E/N statements)
 
 ### etc-02-who-has-immortality
-- Immortality belongs to God alone (athanasia -- 1 Tim 6:16)
-- Must be sought (aphtharsia -- Rom 2:7)
+- Immortality belongs to God alone ([athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} -- 1 Tim 6:16)
+- Must be sought ([aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"} -- Rom 2:7)
 - Put on at resurrection (1 Cor 15:53-54)
 - Brought to light through the gospel (2 Tim 1:10)
-- Not inherent in humans; humans are thnetos (mortal)
+- Not inherent in humans; humans are [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} (mortal)
 
 ### etc-04-state-of-the-dead
 - Death = unconscious sleep (7+ biblical authors)

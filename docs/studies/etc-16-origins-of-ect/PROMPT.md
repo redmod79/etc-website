@@ -15,7 +15,7 @@ Historical investigation (not doctrinal): What are the historical channels throu
 | SOUL | 0.50 | (See SPIRIT, IMMORTALITY, MAN A SPIRIT) |
 | PHILOSOPHY | 0.44 | Ecc 1-7; Job 28; Acts 17:18; Col 2:8; 1 Cor 1:17,19,21 |
 | ETERNITY | 0.42 | Isa 57:15; Mic 5:2; Jer 10:10 |
-| HADES | 0.38 | Matt 10:28; Luke 16:23; Acts 2:27,31; Rev 20:13-14 |
+| [HADES](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} | 0.38 | Matt 10:28; Luke 16:23; Acts 2:27,31; Rev 20:13-14 |
 | ETERNAL PUNISHMENT | 0.70 | (See PUNISHMENT, ETERNAL) |
 | TORMENTS | 0.48 | Luke 16:23-28; Rev 14:10-11 |
 
@@ -46,26 +46,26 @@ These verses are relevant because they are the biblical texts through which ECT 
 ### Strong's Numbers Found (from semantic_strongs.py)
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| G110 | athanasia (immortality) | Core concept -- appears only 3x, attributed to God |
-| G861 | aphtharsia (incorruptibility) | Conditional immortality term |
-| G862 | aphthartos (incorruptible) | Applied to God; humans must become |
-| G2288 | thanatos (death) | Death as the penalty |
-| G2222 | zoe (life) | Eternal life as a gift |
-| G2349 | thnetos (mortal) | Human mortality |
+| [G110](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} | [athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} (immortality) | Core concept -- appears only 3x, attributed to God |
+| [G861](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"} | [aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"} (incorruptibility) | Conditional immortality term |
+| [G862](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"} | [aphthartos](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"} (incorruptible) | Applied to God; humans must become |
+| [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} | [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (death) | Death as the penalty |
+| [G2222](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} | [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} (life) | Eternal life as a gift |
+| [G2349](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} | [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} (mortal) | Human mortality |
 
 ### Related Existing Studies
 | Study | Question | Relevance |
 |-------|----------|-----------|
-| etc-01-what-is-man | Biblical anthropology, nephesh/ruach/neshamah | Establishes biblical framework: man IS a soul, not HAS a soul |
+| etc-01-what-is-man | Biblical anthropology, [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}/[ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}/[neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} | Establishes biblical framework: man IS a soul, not HAS a soul |
 | etc-02-who-has-immortality | Who possesses immortality? | Key finding: God ONLY has immortality; humans must seek it |
 | etc-04-state-of-the-dead | What happens between death and resurrection? | Establishes death = unconscious sleep |
-| etc-05-four-hell-words | Sheol, Hades, Gehenna, Tartaroo | Word study of "hell" words |
-| etc-08-aionios-forever-in-nt | Greek aionios study | Shows "eternal" is age-related, not necessarily endless |
+| etc-05-four-hell-words | [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}, [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}, [Gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"}, [Tartaroo](https://www.blueletterbible.org/lexicon/g5020/kjv/tr/0-1/){:target="_blank"} | Word study of "hell" words |
+| etc-08-[aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}-forever-in-nt | Greek [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} study | Shows "eternal" is age-related, not necessarily endless |
 | etc-09-rich-man-lazarus | Is it a parable or literal? | Genre analysis of key ECT proof-text |
 | etc-15-ect-strongest-case | Strongest case for ECT | ECT evidence evaluated |
 
 Key findings from prior studies:
-- etc-01: Man BECAME a living soul (not received one). Nephesh applies to animals too. God ONLY has immortality. Thoughts perish at death. The "immortal soul" concept (I-D) requires overriding multiple E/N statements.
+- etc-01: Man BECAME a living soul (not received one). [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} applies to animals too. God ONLY has immortality. Thoughts perish at death. The "immortal soul" concept (I-D) requires overriding multiple E/N statements.
 - etc-02: Immortality belongs to God alone. Must be sought, put on at resurrection.
 
 ### Historical Focus Areas (from web research)
@@ -77,7 +77,7 @@ Key findings from prior studies:
 - Key concept: soul is divine, pre-existent, imprisoned in the body, naturally immortal
 
 **2. Intertestamental Literature (3rd century BC - 1st century AD)**
-- 1 Enoch 22: four compartments of Sheol for different categories of dead (conscious souls)
+- 1 Enoch 22: four compartments of [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} for different categories of dead (conscious souls)
 - Wisdom of Solomon 2:23, 3:1-4: first Jewish text to affirm soul immortality (Hellenistic influence)
 - 4 Maccabees: martyrs' souls immortal, Stoic philosophical framework
 - 2 Maccabees: prayers for the dead, bodily resurrection
@@ -107,7 +107,7 @@ You are the Research Agent. Execute this study by:
 4. Write research files to this folder:
    - `01-topics.md` - Nave's topics on immortality, soul, philosophy
    - `02-verses.md` - Key verses establishing the biblical framework vs. verses used for ECT
-   - `04-word-studies.md` - Strong's research on athanasia, aphtharsia, thnetos, psyche
+   - `04-word-studies.md` - Strong's research on [athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"}, [aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"}, [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"}, [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}
    - `raw-data/` - Raw tool output organized by category
 5. **Use WebSearch extensively** to gather historical data on:
    - Plato's specific arguments in the Phaedo

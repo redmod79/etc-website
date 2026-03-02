@@ -2,9 +2,9 @@
 
 All verse texts retrieved from kjv.txt tool output.
 
-## Category A: Aionios Applied to God and His Nature
+## Category A: [Aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} Applied to God and His Nature
 
-### Romans 1:20 (NOTE: uses aidios G126, not aionios)
+### Romans 1:20 (NOTE: uses aidios [G126](https://www.blueletterbible.org/lexicon/g126/kjv/tr/0-1/){:target="_blank"}, not [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"})
 > For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his **eternal** power and Godhead; so that they are without excuse:
 
 ### Romans 16:25-27
@@ -12,7 +12,7 @@ All verse texts retrieved from kjv.txt tool output.
 > 26 But now is made manifest, and by the scriptures of the prophets, according to the commandment of the **everlasting** God, made known to all nations for the obedience of faith:
 > 27 To God only wise, be glory through Jesus Christ for ever. Amen.
 
-**Note:** v.25 uses aionios for past time ("since the world began" = chronois aioniois); v.26 uses aionios for God ("everlasting God")
+**Note:** v.25 uses [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} for past time ("since the world began" = chronois aioniois); v.26 uses [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} for God ("everlasting God")
 
 ### 1 Peter 5:10-11
 > 10 But the God of all grace, who hath called us unto his **eternal** glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you.
@@ -23,7 +23,7 @@ All verse texts retrieved from kjv.txt tool output.
 
 ---
 
-## Category B: Aionios Applied to Life/Salvation
+## Category B: [Aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} Applied to Life/Salvation
 
 ### Matthew 19:16, 29
 > 16 And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have **eternal** life?
@@ -101,7 +101,7 @@ All verse texts retrieved from kjv.txt tool output.
 ### Titus 1:2
 > In hope of **eternal** life, which God, that cannot lie, promised before the world began;
 
-**Note:** Same verse uses aionios for "eternal life" and the phrase "before the world began" is literally "before aionios times" (pro chronon aionion) -- aionios used for BOTH future life and past time.
+**Note:** Same verse uses [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} for "eternal life" and the phrase "before the world began" is literally "before [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} times" (pro chronon aionion) -- [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} used for BOTH future life and past time.
 
 ### Titus 3:7
 > That being justified by his grace, we should be made heirs according to the hope of **eternal** life.
@@ -144,7 +144,7 @@ All verse texts retrieved from kjv.txt tool output.
 
 ---
 
-## Category C: Aionios Applied to Punishment/Judgment
+## Category C: [Aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} Applied to Punishment/Judgment
 
 ### Matthew 18:8 (with context vv.7-9)
 > 7 Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!
@@ -173,32 +173,32 @@ All verse texts retrieved from kjv.txt tool output.
 
 ### Jude 1:7 (with context vv.5-8)
 > 5 I will therefore put you in remembrance, though ye once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not.
-> 6 And the angels which kept not their first estate, but left their own habitation, he hath reserved in **everlasting** chains under darkness unto the judgment of the great day. (NOTE: v.6 uses aidios G126, not aionios)
+> 6 And the angels which kept not their first estate, but left their own habitation, he hath reserved in **everlasting** chains under darkness unto the judgment of the great day. (NOTE: v.6 uses aidios [G126](https://www.blueletterbible.org/lexicon/g126/kjv/tr/0-1/){:target="_blank"}, not [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"})
 > 7 Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of **eternal** fire.
 > 8 Likewise also these filthy dreamers defile the flesh, despise dominion, and speak evil of dignities.
 
 ---
 
-## Category D: Aionios Applied to Past Time
+## Category D: [Aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} Applied to Past Time
 
 ### Romans 16:25
 > Now to him that is of power to stablish you according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret **since the world began**,
 
-Literally: "in aionios times" (chronois aioniois). Aionios refers to past ages.
+Literally: "in [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} times" (chronois aioniois). [Aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} refers to past ages.
 
 ### 2 Timothy 1:9
 > Who hath saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus **before the world began**,
 
-Literally: "before aionios times" (pro chronon aionion). Aionios refers to past ages.
+Literally: "before [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} times" (pro chronon aionion). [Aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} refers to past ages.
 
 ### Titus 1:2
 > In hope of eternal life, which God, that cannot lie, promised **before the world began**;
 
-Literally: "before aionios times" (pro chronon aionion). Same verse uses aionios for BOTH "eternal life" (future) and "before the world began" (past).
+Literally: "before [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} times" (pro chronon aionion). Same verse uses [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} for BOTH "eternal life" (future) and "before the world began" (past).
 
 ---
 
-## Category E: Aionios Applied to Other Subjects
+## Category E: [Aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} Applied to Other Subjects
 
 ### Luke 16:9
 > And I say unto you, Make to yourselves friends of the mammon of unrighteousness; that, when ye fail, they may receive you into **everlasting** habitations.
@@ -279,7 +279,7 @@ Literally: "before aionios times" (pro chronon aionion). Same verse uses aionios
 
 ---
 
-## Key Aion (G165) "World/Age" Passages
+## Key [Aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} (G165) "World/Age" Passages
 
 ### Matthew 12:32
 > And whosoever speaketh a word against the Son of man, it shall be forgiven him: but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this **world**, neither in the world to come.
@@ -329,7 +329,7 @@ Literally: "before aionios times" (pro chronon aionion). Same verse uses aionios
 
 ## OT Context Verses (from prior studies)
 
-### Isaiah 34:8-10 (olam smoke -- cf. Rev 14:11)
+### Isaiah 34:8-10 ([olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} smoke -- cf. Rev 14:11)
 > 8 For it is the day of the LORD's vengeance, and the year of recompences for the controversy of Zion.
 > 9 And the streams thereof shall be turned into pitch, and the dust thereof into brimstone, and the land thereof shall become burning pitch.
 > 10 It shall not be quenched night nor day; the smoke thereof shall go up **for ever**: from generation to generation it shall lie waste; none shall pass through it **for ever and ever**.
@@ -337,19 +337,19 @@ Literally: "before aionios times" (pro chronon aionion). Same verse uses aionios
 ### Isaiah 66:24 (corpses with worm/fire -- cf. Mark 9:48)
 > And they shall go forth, and look upon the **carcases** of the men that have transgressed against me: for their worm shall not die, neither shall their fire be quenched; and they shall be an abhorring unto all flesh.
 
-### Daniel 12:2 (olam life and olam contempt)
+### Daniel 12:2 ([olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} life and [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} contempt)
 > And many of them that sleep in the dust of the earth shall awake, some to **everlasting** life, and some to shame and **everlasting** contempt.
 
-### Exodus 21:6 (olam slave = lifetime)
+### Exodus 21:6 ([olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} slave = lifetime)
 > Then his master shall bring him unto the judges; he shall also bring him to the door, or unto the door post; and his master shall bore his ear through with an aul; and he shall serve him **for ever**.
 
-### Jonah 2:6 (olam = three days)
+### Jonah 2:6 ([olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} = three days)
 > I went down to the bottoms of the mountains; the earth with her bars was about me **for ever**: yet hast thou brought up my life from corruption, O LORD my God.
 
-### 1 Samuel 2:30 (olam revoked)
+### 1 Samuel 2:30 ([olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} revoked)
 > Wherefore the LORD God of Israel saith, I said indeed that thy house, and the house of thy father, should walk before me **for ever**: but now the LORD saith, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed.
 
-### Genesis 3:22 (tree of life prevents living le-olam)
+### Genesis 3:22 (tree of life prevents living le-[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"})
 > And the LORD God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live **for ever**:
 
 ---

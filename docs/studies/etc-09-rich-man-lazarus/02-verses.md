@@ -100,7 +100,7 @@
 
 ---
 
-## Same-Author Hades Passages (Luke-Acts)
+## Same-Author [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} Passages (Luke-Acts)
 
 > **Luke 10:15** And thou, Capernaum, which art exalted to heaven, shalt be thrust down to hell.
 
@@ -114,7 +114,7 @@
 
 ---
 
-## Other NT Hades Passages
+## Other NT [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} Passages
 
 > **Matthew 11:23** And thou, Capernaum, which art exalted unto heaven, shalt be brought down to hell: for if the mighty works, which have been done in thee, had been done in Sodom, it would have remained until this day.
 
@@ -177,7 +177,7 @@
 
 ---
 
-## Personification and Mashal Parallels
+## Personification and [Mashal](https://www.blueletterbible.org/lexicon/h4912/kjv/wlc/0-1/){:target="_blank"} Parallels
 
 > **Genesis 4:10** And he said, What hast thou done? the voice of thy brother's blood crieth unto me from the ground.
 
@@ -187,18 +187,18 @@
 > **Isaiah 14:9** Hell from beneath is moved for thee to meet [thee] at thy coming: it stirreth up the dead for thee, [even] all the chief ones of the earth; it hath raised up from their thrones all the kings of the nations.
 > **Isaiah 14:10** All they shall speak and say unto thee, Art thou also become weak as we? art thou become like unto us?
 
-**Note:** Isaiah 14 is explicitly labeled a mashal (proverb/taunt) in v.4. The dead kings "speak" in sheol -- a personification in prophetic poetry. The dead are depicted as seated on thrones and conversing. No one takes this literally.
+**Note:** Isaiah 14 is explicitly labeled a [mashal](https://www.blueletterbible.org/lexicon/h4912/kjv/wlc/0-1/){:target="_blank"} (proverb/taunt) in v.4. The dead kings "speak" in [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} -- a personification in prophetic poetry. The dead are depicted as seated on thrones and conversing. No one takes this literally.
 
 > **Ezekiel 32:21** The strong among the mighty shall speak to him out of the midst of hell with them that help him: they are gone down, they lie uncircumcised, slain by the sword.
 > **Ezekiel 32:27** And they shall not lie with the mighty [that are] fallen of the uncircumcised, which are gone down to hell with their weapons of war: and they have laid their swords under their heads, but their iniquities shall be upon their bones, though [they were] the terror of the mighty in the land of the living.
 
-**Note:** Ezekiel 32 is a prophetic lamentation where dead warriors "speak" and lie with swords under their heads. The dead are depicted as lying down, slain -- yet they also "speak." This illustrates the literary convention of personification in figurative descriptions of sheol/hades.
+**Note:** Ezekiel 32 is a prophetic lamentation where dead warriors "speak" and lie with swords under their heads. The dead are depicted as lying down, slain -- yet they also "speak." This illustrates the literary convention of personification in figurative descriptions of [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}/[hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}.
 
 ---
 
 ## Torment Vocabulary Comparison Passages
 
-### basanizo (G928) -- the standard NT torment verb (NOT used in Luke 16)
+### [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (G928) -- the standard NT torment verb (NOT used in Luke 16)
 > **Revelation 14:10** The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb:
 > **Revelation 14:11** And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name.
 > **Revelation 20:10** And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet [are], and shall be tormented day and night for ever and ever.
@@ -227,7 +227,7 @@
 
 ---
 
-## Paradise (paradeisos, G3857) -- NOT used in Luke 16
+## Paradise ([paradeisos](https://www.blueletterbible.org/lexicon/g3857/kjv/tr/0-1/){:target="_blank"}, G3857) -- NOT used in Luke 16
 
 > **Luke 23:43** And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise.
 > **2 Corinthians 12:2** I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knoweth;) such an one caught up to the third heaven.
@@ -235,7 +235,7 @@
 > **2 Corinthians 12:4** How that he was caught up into paradise, and heard unspeakable words, which it is not lawful for a man to utter.
 > **Revelation 2:7** He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God.
 
-**Note:** Luke 16:19-31 does NOT use paradeisos for the location of the righteous dead. It uses "Abraham's bosom" (kolpos Abraam) -- a phrase found nowhere else in Scripture. If the passage were teaching literal afterlife geography, the absence of the standard term "paradise" is notable.
+**Note:** Luke 16:19-31 does NOT use [paradeisos](https://www.blueletterbible.org/lexicon/g3857/kjv/tr/0-1/){:target="_blank"} for the location of the righteous dead. It uses "Abraham's bosom" (kolpos Abraam) -- a phrase found nowhere else in Scripture. If the passage were teaching literal afterlife geography, the absence of the standard term "paradise" is notable.
 
 ---
 

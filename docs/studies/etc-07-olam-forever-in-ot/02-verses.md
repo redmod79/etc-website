@@ -1,12 +1,12 @@
-# etc-07: Olam/Forever in OT — Verse Collection
+# etc-07: [Olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}/Forever in OT — Verse Collection
 
 All texts KJV from D:/bible/tools/data/kjv.txt. Organized by usage category.
 
 ---
 
-## Category A: God and His Attributes (Olam = Truly Unending)
+## Category A: God and His Attributes ([Olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} = Truly Unending)
 
-These passages use olam to describe God Himself or His essential, unchanging attributes. Since God is genuinely eternal, olam here carries its maximal semantic force.
+These passages use [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} to describe God Himself or His essential, unchanging attributes. Since God is genuinely eternal, [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} here carries its maximal semantic force.
 
 ### A1. God's Eternal Being
 
@@ -88,9 +88,9 @@ These passages use olam to describe God Himself or His essential, unchanging att
 
 ---
 
-## Category B: Covenants, Institutions, and Laws (Olam = Age-lasting, Eventually Ended)
+## Category B: Covenants, Institutions, and Laws ([Olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} = Age-lasting, Eventually Ended)
 
-These passages use olam for institutions that have demonstrably ended or been superseded, proving olam need not mean "endless."
+These passages use [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} for institutions that have demonstrably ended or been superseded, proving [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} need not mean "endless."
 
 ### B1. Abrahamic Covenant and Land
 
@@ -204,7 +204,7 @@ These passages use olam for institutions that have demonstrably ended or been su
 
 > **1 Samuel 13:13** — And Samuel said to Saul, Thou hast done foolishly: thou hast not kept the commandment of the LORD thy God, which he commanded thee: for now would the LORD have established thy kingdom upon Israel **for ever**.
 
-*NOTE: Saul's kingdom "forever" was conditional and immediately revoked. This proves olam + human institution = conditional/limited.*
+*NOTE: Saul's kingdom "forever" was conditional and immediately revoked. This proves [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} + human institution = conditional/limited.*
 
 ### B7. Covenant Promises
 
@@ -220,7 +220,7 @@ These passages use olam for institutions that have demonstrably ended or been su
 
 ---
 
-## Category C: Human/Finite Subjects (Olam = Limited Duration)
+## Category C: Human/Finite Subjects ([Olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} = Limited Duration)
 
 ### C1. Slave Service (The Clearest Finite Use)
 
@@ -228,7 +228,7 @@ These passages use olam for institutions that have demonstrably ended or been su
 
 > **Deuteronomy 15:17** — Then thou shalt take an aul, and thrust [it] through his ear unto the door, and he shall be thy servant **for ever**. And also unto thy maidservant thou shalt do likewise.
 
-*NOTE: "Forever" = the slave's remaining lifetime. Death terminates the service. This is universally acknowledged as a limited olam.*
+*NOTE: "Forever" = the slave's remaining lifetime. Death terminates the service. This is universally acknowledged as a limited [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}.*
 
 ### C2. Jonah's Three Days
 
@@ -240,13 +240,13 @@ These passages use olam for institutions that have demonstrably ended or been su
 
 > **Genesis 3:22** — And the LORD God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and **live for ever**:
 
-*NOTE: God prevented humans from living olam. This passage uses olam for a potential human duration that God specifically blocked.*
+*NOTE: God prevented humans from living [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}. This passage uses [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} for a potential human duration that God specifically blocked.*
 
 ### C4. Human Mortality
 
 > **Zechariah 1:5** — Your fathers, where [are] they? and the prophets, do they live **for ever**?
 
-*NOTE: Rhetorical question expecting "no." Humans do not live olam — even prophets die.*
+*NOTE: Rhetorical question expecting "no." Humans do not live [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} — even prophets die.*
 
 > **Ecclesiastes 1:4** — [One] generation passeth away, and [another] generation cometh: but the earth abideth **for ever**.
 
@@ -270,7 +270,7 @@ These passages use olam for institutions that have demonstrably ended or been su
 
 > **1 Samuel 2:30** — Wherefore the LORD God of Israel saith, I said indeed [that] thy house, and the house of thy father, should walk before me **for ever**: but now the LORD saith, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed.
 
-*NOTE: God explicitly revokes an "olam" promise due to unfaithfulness. The "forever" was conditional all along.*
+*NOTE: God explicitly revokes an "[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}" promise due to unfaithfulness. The "forever" was conditional all along.*
 
 > **1 Samuel 13:13-14** — And Samuel said to Saul, Thou hast done foolishly: thou hast not kept the commandment of the LORD thy God, which he commanded thee: for now would the LORD have established thy kingdom upon Israel **for ever**. But now thy kingdom shall not continue.
 
@@ -300,7 +300,7 @@ These passages use olam for institutions that have demonstrably ended or been su
 
 ## Category D: Past Time ("Of Old")
 
-When olam looks backward, it means "ancient time" or "long ago."
+When [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} looks backward, it means "ancient time" or "long ago."
 
 > **Genesis 6:4** — There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare [children] to them, the same [became] mighty men which [were] **of old**, men of renown.
 
@@ -336,7 +336,7 @@ When olam looks backward, it means "ancient time" or "long ago."
 
 > **Ecclesiastes 1:10** — Is there [any] thing whereof it may be said, See, this [is] new? it hath been already **of old time**, which was before us.
 
-*NOTE: Olam looking backward is never rendered "eternally past" but rather "ancient times" or "long ago" — a finite, indefinite past period.*
+*NOTE: [Olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} looking backward is never rendered "eternally past" but rather "ancient times" or "long ago" — a finite, indefinite past period.*
 
 ---
 
@@ -440,11 +440,11 @@ When olam looks backward, it means "ancient time" or "long ago."
 
 ---
 
-## Category F: Combined Forms (Le-olam Va-ed)
+## Category F: Combined Forms (Le-[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} Va-ed)
 
-The intensified construction using both H5769 (olam) and H5703 (ad).
+The intensified construction using both [H5769](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} (olam) and [H5703](https://www.blueletterbible.org/lexicon/h5703/kjv/wlc/0-1/){:target="_blank"} (ad).
 
-> **Exodus 15:18** — The LORD shall reign **for ever and ever** (le-olam va-ed).
+> **Exodus 15:18** — The LORD shall reign **for ever and ever** (le-[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} va-ed).
 
 > **Psalm 9:5** — Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name **for ever and ever**.
 
@@ -472,7 +472,7 @@ The intensified construction using both H5769 (olam) and H5703 (ad).
 
 > **Psalm 148:6** — He hath also stablished them **for ever and ever**: he hath made a decree which shall not pass.
 
-> **Isaiah 34:10** — It shall not be quenched night nor day; the smoke thereof shall go up for ever: from generation to generation it shall lie waste; none shall pass through it **for ever and ever** (netsach + olam).
+> **Isaiah 34:10** — It shall not be quenched night nor day; the smoke thereof shall go up for ever: from generation to generation it shall lie waste; none shall pass through it **for ever and ever** (netsach + [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}).
 
 > **Daniel 12:3** — And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars **for ever and ever**.
 
@@ -482,7 +482,7 @@ The intensified construction using both H5769 (olam) and H5703 (ad).
 
 ## Comparison Word Verses
 
-### H5331 (netsach) — Selected Key Verses
+### [H5331](https://www.blueletterbible.org/lexicon/h5331/kjv/wlc/0-1/){:target="_blank"} (netsach) — Selected Key Verses
 
 > **1 Samuel 15:29** — And also **the Strength** of Israel will not lie nor repent: for he [is] not a man, that he should repent.
 
@@ -524,7 +524,7 @@ The intensified construction using both H5769 (olam) and H5703 (ad).
 
 > **Habakkuk 1:4** — Therefore the law is slacked, and judgment doth **never** go forth.
 
-### H5703 (ad) — Selected Key Verses
+### [H5703](https://www.blueletterbible.org/lexicon/h5703/kjv/wlc/0-1/){:target="_blank"} (ad) — Selected Key Verses
 
 > **Psalm 19:9** — The fear of the LORD [is] clean, enduring **for ever**.
 
@@ -556,7 +556,7 @@ The intensified construction using both H5769 (olam) and H5703 (ad).
 
 > **Daniel 12:3** — And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars **for ever and ever**.
 
-### H5957 (alam, Aramaic) — Key Daniel Verses
+### [H5957](https://www.blueletterbible.org/lexicon/h5957/kjv/wlc/0-1/){:target="_blank"} (alam, Aramaic) — Key Daniel Verses
 
 > **Daniel 2:44** — And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, [but] it shall break in pieces and consume all these kingdoms, and it shall stand **for ever**.
 

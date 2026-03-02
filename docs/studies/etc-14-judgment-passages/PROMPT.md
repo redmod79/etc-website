@@ -30,41 +30,41 @@ Study etc-14 in "Final Fate of the Wicked" series. Prior studies have establishe
 ### Strong's Numbers Found (from semantic_strongs.py)
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| G2920 | krisis (judgment, decision) — 48 NT uses | Core judgment term in John 5:29 |
-| G2917 | krima (judgment, sentence) — 28 NT uses | Judgment decision term |
-| G2851 | kolasis (punishment, penal infliction) — 2 NT uses | Key term in Matt 25:46 |
-| G3639 | olethros (destruction, ruin) — 4 NT uses | Key term in 2 Thess 1:9 |
-| G1349 | dike (justice, vengeance, punishment) — 4 uses | Judgment/penalty term |
-| G5098 | timoria (punishment, vindication) — 1 use | Key term in Heb 10:29 |
-| H1779 | diyn (judgment, cause, plea) — 20 uses | Hebrew judgment noun |
-| H4941 | mishpat (judgment, verdict, sentence) — frequent | Core Hebrew judgment term |
-| G2632 | katakrino (condemn, sentence) — 12 uses | Condemnation verb |
+| [G2920](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} | [krisis](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} (judgment, decision) — 48 NT uses | Core judgment term in John 5:29 |
+| [G2917](https://www.blueletterbible.org/lexicon/g2917/kjv/tr/0-1/){:target="_blank"} | krima (judgment, sentence) — 28 NT uses | Judgment decision term |
+| [G2851](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} | [kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} (punishment, penal infliction) — 2 NT uses | Key term in Matt 25:46 |
+| [G3639](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} | [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} (destruction, ruin) — 4 NT uses | Key term in 2 Thess 1:9 |
+| [G1349](https://www.blueletterbible.org/lexicon/g1349/kjv/tr/0-1/){:target="_blank"} | dike (justice, vengeance, punishment) — 4 uses | Judgment/penalty term |
+| [G5098](https://www.blueletterbible.org/lexicon/g5098/kjv/tr/0-1/){:target="_blank"} | timoria (punishment, vindication) — 1 use | Key term in Heb 10:29 |
+| [H1779](https://www.blueletterbible.org/lexicon/h1779/kjv/wlc/0-1/){:target="_blank"} | diyn (judgment, cause, plea) — 20 uses | Hebrew judgment noun |
+| [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} | mishpat (judgment, verdict, sentence) — frequent | Core Hebrew judgment term |
+| [G2632](https://www.blueletterbible.org/lexicon/g2632/kjv/tr/0-1/){:target="_blank"} | katakrino (condemn, sentence) — 12 uses | Condemnation verb |
 
 ### Related Existing Studies
 | Study | Question | Relevance |
 |-------|----------|-----------|
-| etc-06 | Destruction/perishing vocabulary | Covers apollumi, olethros vocabulary in some of these passages |
-| etc-07 | Hebrew olam/ad | Covers Dan 12:2 olam usage |
-| etc-08 | Greek aionios/aion | Covers Matt 25:46 aionios usage |
+| etc-06 | Destruction/perishing vocabulary | Covers [apollumi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}, [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} vocabulary in some of these passages |
+| etc-07 | Hebrew [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}/ad | Covers Dan 12:2 [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} usage |
+| etc-08 | Greek [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}/[aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} | Covers Matt 25:46 [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} usage |
 | etc-10 | Ecclesiastes/Psalms death consciousness | Background on death state |
 | etc-11 | Revelation torment passages | Covers Rev 14:10-11 |
 | etc-12 | Devil, beast, false prophet | Covers Rev 20:10 torment formula |
 | etc-13 | Lake of fire / second death | Covers Rev 20:14-15 identification |
 
 Key prior findings:
-- etc-13: Lake of fire IS "second death" (thanatos vocabulary, not basanizo). Torment formula applied to non-human/symbolic entities. Humans at the lake = "second death."
+- etc-13: Lake of fire IS "second death" ([thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} vocabulary, not [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}). Torment formula applied to non-human/symbolic entities. Humans at the lake = "second death."
 - etc-12: Rev 20:10 torment formula subjects are devil, beast, false prophet (non-human/symbolic). Gate 1 and Gate 3 failures.
-- etc-08: aionios in Matt 25:46 modifies both "punishment" and "life." The adjective is the same; what it modifies differs. kolasis = 2 NT uses (Matt 25:46, 1 John 4:18).
-- etc-06: olethros (destruction) in 2 Thess 1:9. apollumi/apolia destruction vocabulary study.
-- etc-07: Dan 12:2 olam in "everlasting life" and "everlasting contempt." Hebrew olam duration study.
+- etc-08: [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} in Matt 25:46 modifies both "punishment" and "life." The adjective is the same; what it modifies differs. [kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} = 2 NT uses (Matt 25:46, 1 John 4:18).
+- etc-06: [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} (destruction) in 2 Thess 1:9. [apollumi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}/apolia destruction vocabulary study.
+- etc-07: Dan 12:2 [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} in "everlasting life" and "everlasting contempt." Hebrew [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} duration study.
 
 ### Focus Areas
 1. **Rev 20:11-15** — Great White Throne judgment. What does the text actually say about the process and outcome? What vocabulary is used for human subjects?
-2. **Matt 25:31-46** — Sheep and goats. What is "everlasting punishment" (kolasis aionios)? What does kolasis mean? How does it compare to "everlasting life"?
+2. **Matt 25:31-46** — Sheep and goats. What is "everlasting punishment" ([kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"})? What does [kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} mean? How does it compare to "everlasting life"?
 3. **Dan 12:2** — "Everlasting life" and "everlasting contempt." What is dera'on (H1860, contempt)? What does the text actually say vs. what is inferred?
 4. **Isa 66:22-24** — Carcasses, worm, fire. What is the subject of the passage? Living or dead bodies?
-5. **John 5:28-29** — "Resurrection of damnation" (krisis). What does the text say about the nature of this resurrection?
-6. **2 Thess 1:7-10** — "Everlasting destruction" (olethros aionios). What does olethros mean? What is "from the presence of the Lord"?
+5. **John 5:28-29** — "Resurrection of damnation" ([krisis](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"}). What does the text say about the nature of this resurrection?
+6. **2 Thess 1:7-10** — "Everlasting destruction" ([olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}). What does [olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} mean? What is "from the presence of the Lord"?
 7. **Heb 10:26-31** — "Fearful looking for of judgment." What is the punishment described? What is timoria?
 8. **Rom 2:5-11** — Wrath, indignation, tribulation, anguish. What does the passage say about the nature and outcome?
 
@@ -97,14 +97,14 @@ Run BOTH directions for key verses from each passage:
 
 ### Strong's Word Studies
 Complete lookups for:
-- G2851 (kolasis — punishment): Full lookup, all translations, all verses
-- G2920 (krisis — judgment): Full lookup, all translations
-- G3639 (olethros — destruction): Full lookup, all verses
-- G5098 (timoria — punishment): Full lookup, all verses
-- H1860 (dera'on — contempt/abhorrence): Full lookup for Dan 12:2
-- H6297 (peger — carcass): Full lookup for Isa 66:24
-- G684 (apoleia — destruction/perdition): Full lookup
-- H8441 (to'ebah — abomination/abhorrence): Related to dera'on
+- [G2851](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} (kolasis — punishment): Full lookup, all translations, all verses
+- [G2920](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} (krisis — judgment): Full lookup, all translations
+- [G3639](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} (olethros — destruction): Full lookup, all verses
+- [G5098](https://www.blueletterbible.org/lexicon/g5098/kjv/tr/0-1/){:target="_blank"} (timoria — punishment): Full lookup, all verses
+- [H1860](https://www.blueletterbible.org/lexicon/h1860/kjv/wlc/0-1/){:target="_blank"} (dera'on — contempt/abhorrence): Full lookup for Dan 12:2
+- [H6297](https://www.blueletterbible.org/lexicon/h6297/kjv/wlc/0-1/){:target="_blank"} (peger — carcass): Full lookup for Isa 66:24
+- [G684](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} (apoleia — destruction/perdition): Full lookup
+- [H8441](https://www.blueletterbible.org/lexicon/h8441/kjv/wlc/0-1/){:target="_blank"} (to'ebah — abomination/abhorrence): Related to dera'on
 
 ### Concept Context
 Run concept_context for:

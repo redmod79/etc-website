@@ -1,7 +1,7 @@
 # Bible Study: What Is Man? -- Biblical Anthropology and Human Constitution (etc-01)
 
 ## Question
-What does Scripture explicitly say about the nature and composition of human beings (biblical anthropology)? Focus on nephesh (soul), ruach (spirit), neshamah (breath), the creation of man, whether humans ARE souls or HAVE souls, and what happens at death.
+What does Scripture explicitly say about the nature and composition of human beings (biblical anthropology)? Focus on [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} (soul), [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} (spirit), [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} (breath), the creation of man, whether humans ARE souls or HAVE souls, and what happens at death.
 
 ## Methodology
 This study follows the **etc series methodology** defined in `D:/Bible/bible-studies/etc-series-methodology.md`. The analysis agent MUST:
@@ -18,7 +18,7 @@ This study follows the **etc series methodology** defined in `D:/Bible/bible-stu
 
 ### Topics Found (from naves_semantic.py)
 
-**Search 1: "human constitution body soul spirit nephesh ruach"**
+**Search 1: "human constitution body soul spirit [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}"**
 
 | Topic | Score | Key Verse References |
 |-------|-------|---------------------|
@@ -146,44 +146,44 @@ This study follows the **etc series methodology** defined in `D:/Bible/bible-stu
 
 | Strong's | Word | Definition | Relevance |
 |----------|------|-----------|-----------|
-| H5315 | nephesh (נֶפֶשׁ) | A breathing creature, animal, vitality | Core concept -- "soul," "living being," "person," "creature" |
-| H7307 | ruach (רוּחַ) | Wind, breath, spirit | Core concept -- "spirit," "wind," "breath" |
-| H5397 | neshamah (נְשָׁמָה) | A puff, vital breath, divine inspiration | Core concept -- "breath of life" in Gen 2:7 |
-| H5301 | naphach (נָפַח) | To puff, blow hard, inflate | "breathed" into nostrils in Gen 2:7 |
-| G5590 | psyche (ψυχή) | Breath, spirit, life | NT equivalent of nephesh -- "soul," "life" |
-| G4151 | pneuma (πνεῦμα) | Current of air, breath, spirit | NT equivalent of ruach -- "spirit," "Ghost" |
-| G2222 | zoe (ζωή) | Life (literally or figuratively) | "life," "eternal life" |
-| G4157 | pnoe (πνοή) | Respiration, breeze | "breath" -- Acts 17:25 |
-| G674 | apopsycho (ἀποψύχω) | To breathe out, faint | "hearts failing" |
-| G5594 | psycho (ψύχω) | To breathe gently | Root of psyche |
-| G4152 | pneumatikos (πνευματικός) | Non-carnal, spiritual | "spiritual" -- related to pneuma |
-| H6315 | puwach (פּוּחַ) | To puff, blow with breath | Breath-related |
-| H5396 | nishma (נִשְׁמָא) | Vital breath (Aramaic) | Aramaic form of neshamah |
+| [H5315](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} | [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} (נֶפֶשׁ) | A breathing creature, animal, vitality | Core concept -- "soul," "living being," "person," "creature" |
+| [H7307](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} | [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} (רוּחַ) | Wind, breath, spirit | Core concept -- "spirit," "wind," "breath" |
+| [H5397](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} | [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} (נְשָׁמָה) | A puff, vital breath, divine inspiration | Core concept -- "breath of life" in Gen 2:7 |
+| [H5301](https://www.blueletterbible.org/lexicon/h5301/kjv/wlc/0-1/){:target="_blank"} | [naphach](https://www.blueletterbible.org/lexicon/h5301/kjv/wlc/0-1/){:target="_blank"} (נָפַח) | To puff, blow hard, inflate | "breathed" into nostrils in Gen 2:7 |
+| [G5590](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} | [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} (ψυχή) | Breath, spirit, life | NT equivalent of [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} -- "soul," "life" |
+| [G4151](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} | [pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} (πνεῦμα) | Current of air, breath, spirit | NT equivalent of [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} -- "spirit," "Ghost" |
+| [G2222](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} | [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} (ζωή) | Life (literally or figuratively) | "life," "eternal life" |
+| [G4157](https://www.blueletterbible.org/lexicon/g4157/kjv/tr/0-1/){:target="_blank"} | pnoe (πνοή) | Respiration, breeze | "breath" -- Acts 17:25 |
+| [G674](https://www.blueletterbible.org/lexicon/g674/kjv/tr/0-1/){:target="_blank"} | apopsycho (ἀποψύχω) | To breathe out, faint | "hearts failing" |
+| [G5594](https://www.blueletterbible.org/lexicon/g5594/kjv/tr/0-1/){:target="_blank"} | [psycho](https://www.blueletterbible.org/lexicon/g5594/kjv/tr/0-1/){:target="_blank"} (ψύχω) | To breathe gently | Root of [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} |
+| [G4152](https://www.blueletterbible.org/lexicon/g4152/kjv/tr/0-1/){:target="_blank"} | [pneumatikos](https://www.blueletterbible.org/lexicon/g4152/kjv/tr/0-1/){:target="_blank"} (πνευματικός) | Non-carnal, spiritual | "spiritual" -- related to [pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} |
+| [H6315](https://www.blueletterbible.org/lexicon/h6315/kjv/wlc/0-1/){:target="_blank"} | puwach (פּוּחַ) | To puff, blow with breath | Breath-related |
+| [H5396](https://www.blueletterbible.org/lexicon/h5396/kjv/wlc/0-1/){:target="_blank"} | nishma (נִשְׁמָא) | Vital breath (Aramaic) | Aramaic form of [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} |
 
 **Immortality/Death/Mortal Concepts:**
 
 | Strong's | Word | Definition | Relevance |
 |----------|------|-----------|-----------|
-| G2349 | thnetos (θνητός) | Liable to die, mortal | "mortal," "mortality" (5x mortal, 1x mortality) |
-| G2288 | thanatos (θάνατος) | Death (literally or figuratively) | "death" (55x+) |
-| G599 | apothnesko (ἀποθνήσκω) | To die off | "died," "die," "dead" |
-| G861 | aphtharsia (ἀφθαρσία) | Incorruptibility, unending existence | "incorruption" (4x), "immortality" (2x) |
-| G110 | athanasia (ἀθανασία) | Deathlessness, immortality | "immortality" (3x) -- 1 Tim 6:16; 1 Cor 15:53,54 |
-| H4194 | maveth (מָוֶת) | Death (natural or violent) | "death" (78x+) |
-| H2421 | chayah (חָיָה) | To live, revive | "lived," "live," "alive" |
-| G1935 | epithanatios (ἐπιθανάτιος) | Doomed to death | "appointed to death" |
-| G3500 | nekrosis (νέκρωσις) | Decease, impotency | "deadness," "dying" |
-| H8546 | temuwthah (תְּמוּתָה) | Execution, doom | "appointed to die," "death" |
-| H4463 | mamowth (מָמוֹת) | Mortal disease, corpse | "deaths" |
+| [G2349](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} | [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} (θνητός) | Liable to die, mortal | "mortal," "mortality" (5x mortal, 1x mortality) |
+| [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} | [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (θάνατος) | Death (literally or figuratively) | "death" (55x+) |
+| [G599](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} | [apothnesko](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} (ἀποθνήσκω) | To die off | "died," "die," "dead" |
+| [G861](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"} | [aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"} (ἀφθαρσία) | Incorruptibility, unending existence | "incorruption" (4x), "immortality" (2x) |
+| [G110](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} | [athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} (ἀθανασία) | Deathlessness, immortality | "immortality" (3x) -- 1 Tim 6:16; 1 Cor 15:53,54 |
+| [H4194](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"} | [maveth](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"} (מָוֶת) | Death (natural or violent) | "death" (78x+) |
+| [H2421](https://www.blueletterbible.org/lexicon/h2421/kjv/wlc/0-1/){:target="_blank"} | chayah (חָיָה) | To live, revive | "lived," "live," "alive" |
+| [G1935](https://www.blueletterbible.org/lexicon/g1935/kjv/tr/0-1/){:target="_blank"} | epithanatios (ἐπιθανάτιος) | Doomed to death | "appointed to death" |
+| [G3500](https://www.blueletterbible.org/lexicon/g3500/kjv/tr/0-1/){:target="_blank"} | [nekrosis](https://www.blueletterbible.org/lexicon/g3500/kjv/tr/0-1/){:target="_blank"} (νέκρωσις) | Decease, impotency | "deadness," "dying" |
+| [H8546](https://www.blueletterbible.org/lexicon/h8546/kjv/wlc/0-1/){:target="_blank"} | temuwthah (תְּמוּתָה) | Execution, doom | "appointed to die," "death" |
+| [H4463](https://www.blueletterbible.org/lexicon/h4463/kjv/wlc/0-1/){:target="_blank"} | mamowth (מָמוֹת) | Mortal disease, corpse | "deaths" |
 
 **Dust/Ground/Creation Concepts (Hebrew):**
 
 | Strong's | Word | Definition | Relevance |
 |----------|------|-----------|-----------|
-| H6083 | aphar (עָפָר) | Dust, clay, earth | "dust" -- Gen 2:7 "dust of the ground"; Gen 3:19 "unto dust shalt thou return" |
-| H6080 | aphar (עָפַר) | To be gray, pulverize | Verb form of dust |
-| H80 | abaq (אָבָק) | Light particles, small dust | Fine dust/powder |
-| H2563 | chomer (חֹמֶר) | Clay, mire | "clay" -- related to formation |
+| [H6083](https://www.blueletterbible.org/lexicon/h6083/kjv/wlc/0-1/){:target="_blank"} | aphar (עָפָר) | Dust, clay, earth | "dust" -- Gen 2:7 "dust of the ground"; Gen 3:19 "unto dust shalt thou return" |
+| [H6080](https://www.blueletterbible.org/lexicon/h6080/kjv/wlc/0-1/){:target="_blank"} | aphar (עָפַר) | To be gray, pulverize | Verb form of dust |
+| [H80](https://www.blueletterbible.org/lexicon/h80/kjv/wlc/0-1/){:target="_blank"} | abaq (אָבָק) | Light particles, small dust | Fine dust/powder |
+| [H2563](https://www.blueletterbible.org/lexicon/h2563/kjv/wlc/0-1/){:target="_blank"} | chomer (חֹמֶר) | Clay, mire | "clay" -- related to formation |
 
 ### Related Existing Studies
 
@@ -192,8 +192,8 @@ This study follows the **etc series methodology** defined in `D:/Bible/bible-stu
 | Study | Score | Question | Relevance |
 |-------|-------|----------|-----------|
 | nature-of-man | 0.595 | What does Scripture say about human constitution? Is man bipartite, tripartite, or unified whole? | Directly parallel -- synthesized phases on soul, spirit, body |
-| soul-nephesh-psyche | 0.537 | What is the biblical meaning of "soul" (nephesh/psyche)? Is it the same as the Greek philosophical concept? | Core word study on nephesh/psyche |
-| soul-nephesh-psyche-v2 | 0.517 | (No question found) | Updated version of soul word study |
+| soul-[nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}-[psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} | 0.537 | What is the biblical meaning of "soul" ([nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}/[psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"})? Is it the same as the Greek philosophical concept? | Core word study on [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}/[psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} |
+| soul-[nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}-[psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}-v2 | 0.517 | (No question found) | Updated version of soul word study |
 | etc4-16-origins-of-ect | 0.470 | Where does the concept of an inherently immortal soul come from? | Traces philosophical origins of soul immortality doctrine |
 
 **Search 2: "state of the dead death consciousness"**
@@ -207,23 +207,23 @@ This study follows the **etc series methodology** defined in `D:/Bible/bible-stu
 
 **Key Findings from Related Studies (CONCLUSION.md summaries):**
 
-1. **soul-nephesh-psyche**: Nephesh/psyche is NOT an immortal entity. Man BECAME a living soul (Gen 2:7), not received one. Same term applies to animals. Souls can die (Ezek 18:4,20). Nephesh used for dead bodies (Lev 21:11; Num 6:6). God can destroy the soul (Matt 10:28). Immortality must be "sought" (Rom 2:7) and "put on" at resurrection (1 Cor 15:53-54). God "only hath immortality" (1 Tim 6:16). The word is translated 200+ ways showing it is not a technical term for "immortal soul."
+1. **soul-[nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}-[psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}**: [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}/[psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} is NOT an immortal entity. Man BECAME a living soul (Gen 2:7), not received one. Same term applies to animals. Souls can die (Ezek 18:4,20). [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} used for dead bodies (Lev 21:11; Num 6:6). God can destroy the soul (Matt 10:28). Immortality must be "sought" (Rom 2:7) and "put on" at resurrection (1 Cor 15:53-54). God "only hath immortality" (1 Tim 6:16). The word is translated 200+ ways showing it is not a technical term for "immortal soul."
 
-2. **nature-of-man**: Man is a psychosomatic unity -- BECAME a living soul, not assembled from parts. Spirit/ruach functions as animating life principle. Genesis 2:7 uses neshamah (not ruach). Animals share nephesh and ruach. Scripture uses soul/spirit with flexibility -- sometimes synonymous, sometimes distinct. Neither dichotomy nor trichotomy is explicitly prescribed. Human uniqueness may lie in imago Dei, not in having soul/spirit.
+2. **nature-of-man**: Man is a psychosomatic unity -- BECAME a living soul, not assembled from parts. Spirit/[ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} functions as animating life principle. Genesis 2:7 uses [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} (not [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}). Animals share [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} and [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}. Scripture uses soul/spirit with flexibility -- sometimes synonymous, sometimes distinct. Neither dichotomy nor trichotomy is explicitly prescribed. Human uniqueness may lie in imago Dei, not in having soul/spirit.
 
-3. **etc4-04-state-of-the-dead**: 68 explicit statements, 11 necessary implications, 11 inferences. Death reverses creation (dust + breath = living soul reversed). At death, ruach departs and thoughts perish "in that very day" (Ps 146:4). Dead "know not any thing" (Ecc 9:5). Death is "sleep" -- used by 7+ biblical authors. Without resurrection, dead "are perished" (1 Cor 15:18). All I-B inferences (consciousness claims) resolved Strong toward unconsciousness. I-D classification for inherent soul immortality.
+3. **etc4-04-state-of-the-dead**: 68 explicit statements, 11 necessary implications, 11 inferences. Death reverses creation (dust + breath = living soul reversed). At death, [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} departs and thoughts perish "in that very day" (Ps 146:4). Dead "know not any thing" (Ecc 9:5). Death is "sleep" -- used by 7+ biblical authors. Without resurrection, dead "are perished" (1 Cor 15:18). All I-B inferences (consciousness claims) resolved Strong toward unconsciousness. I-D classification for inherent soul immortality.
 
 ### Focus Areas
 
 Derived from tool discoveries, these are the key areas to investigate:
 
-1. **The Creation Formula (Gen 2:7)**: Dust + neshamah/breath of life = living nephesh. Does this establish that man IS a soul or HAS a soul? What does "became" (hayah) mean?
+1. **The Creation Formula (Gen 2:7)**: Dust + [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"}/breath of life = living [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}. Does this establish that man IS a soul or HAS a soul? What does "became" (hayah) mean?
 
-2. **Nephesh (H5315) Usage Range**: How is nephesh used across Scripture? Applied to animals? To dead bodies? What does this semantic range tell us about the nature of the soul?
+2. **[Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} (H5315) Usage Range**: How is [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} used across Scripture? Applied to animals? To dead bodies? What does this semantic range tell us about the nature of the soul?
 
-3. **Ruach (H7307) vs. Neshamah (H5397)**: Are these synonymous or distinct? Gen 2:7 uses neshamah; Ecc 12:7 uses ruach. What is the relationship?
+3. **[Ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} (H7307) vs. [Neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} (H5397)**: Are these synonymous or distinct? Gen 2:7 uses [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"}; Ecc 12:7 uses [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}. What is the relationship?
 
-4. **Animals and Nephesh/Ruach**: Gen 1:20-24 applies nephesh chayyah to animals. Ecc 3:19 says humans and animals have "one breath" (ruach echad). What does shared terminology imply?
+4. **Animals and [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}/[Ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}**: Gen 1:20-24 applies [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} [chayyah](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"} to animals. Ecc 3:19 says humans and animals have "one breath" ([ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} echad). What does shared terminology imply?
 
 5. **What Happens at Death -- Reversal of Creation**: Gen 3:19; Ps 104:29; Ecc 12:7; Job 34:14-15. Does death reverse the creation formula?
 
@@ -231,7 +231,7 @@ Derived from tool discoveries, these are the key areas to investigate:
 
 7. **Immortality -- Inherent or Conditional?**: 1 Tim 6:16 (God ONLY has immortality); Rom 2:7 (seek immortality); 1 Cor 15:53-54 (put on immortality). Is immortality part of human nature or a gift?
 
-8. **Image of God (Imago Dei)**: Gen 1:26,27; 9:6; 1 Co 11:7; Jas 3:9. Does this distinguish humans from animals in a way that nephesh/ruach do not?
+8. **Image of God (Imago Dei)**: Gen 1:26,27; 9:6; 1 Co 11:7; Jas 3:9. Does this distinguish humans from animals in a way that [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}/[ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} do not?
 
 9. **1 Thess 5:23 and Heb 4:12**: Do these teach tripartite constitution (body, soul, spirit) or something else?
 
@@ -265,7 +265,7 @@ You are the Research Agent. Execute this study by:
 - ISA 42:5; 43:7; 64:8
 - ZEC 12:1; MAL 2:10
 
-*Priority 2 -- Nephesh/Ruach/Neshamah Key Verses:*
+*Priority 2 -- [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}/[Ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}/[Neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} Key Verses:*
 - GEN 2:7; 7:22
 - LEV 17:11; 21:11
 - NUM 6:6
@@ -332,15 +332,15 @@ Key verses for parallel searches:
 **Strong's Lookups to Complete:**
 
 For each Strong's number below, run `search_strongs.py --lookup` and `--lexicon`:
-- H5315 (nephesh), H7307 (ruach), H5397 (neshamah), H5301 (naphach)
-- G5590 (psyche), G4151 (pneuma), G2222 (zoe), G4157 (pnoe)
-- G110 (athanasia), G861 (aphtharsia), G2349 (thnetos)
-- H6083 (aphar -- dust), H4194 (maveth -- death), H2421 (chayah -- to live)
+- [H5315](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} (nephesh), [H7307](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} (ruach), [H5397](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} (neshamah), [H5301](https://www.blueletterbible.org/lexicon/h5301/kjv/wlc/0-1/){:target="_blank"} (naphach)
+- [G5590](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} (psyche), [G4151](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} (pneuma), [G2222](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} (zoe), [G4157](https://www.blueletterbible.org/lexicon/g4157/kjv/tr/0-1/){:target="_blank"} (pnoe)
+- [G110](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} (athanasia), [G861](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"} (aphtharsia), [G2349](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} (thnetos)
+- [H6083](https://www.blueletterbible.org/lexicon/h6083/kjv/wlc/0-1/){:target="_blank"} (aphar -- dust), [H4194](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"} (maveth -- death), [H2421](https://www.blueletterbible.org/lexicon/h2421/kjv/wlc/0-1/){:target="_blank"} (chayah -- to live)
 
 Also run `--lxx-map` for the Hebrew terms to find their Greek equivalents:
-- `search_strongs.py --lxx-map H5315` (how LXX renders nephesh)
-- `search_strongs.py --lxx-map H7307` (how LXX renders ruach)
-- `search_strongs.py --lxx-map H5397` (how LXX renders neshamah)
+- `search_strongs.py --lxx-map H5315` (how LXX renders [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"})
+- `search_strongs.py --lxx-map H7307` (how LXX renders [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"})
+- `search_strongs.py --lxx-map H5397` (how LXX renders [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"})
 
 ### File Output Requirements
 

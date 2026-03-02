@@ -1,4 +1,4 @@
-# ETC6 Series — Investigative Methodology
+# ETC Series — Investigative Methodology
 
 *This file defines the methodology for ALL studies in the etc-XX series (The Final Fate of the Wicked). Every analysis agent MUST follow this methodology.*
 

@@ -140,8 +140,8 @@
 | Rev 20:15 | 0.472 | 0.63 | 0.40 | burn, cast, into, lake |
 | Rev 21:8 | 0.464 | 0.62 | 0.40 | burn, death, lake, second |
 | Rev 20:10 | 0.429 | 0.54 | 0.40 | burn, cast, into, lake |
-| Rev 20:13 | 0.401 | 0.62 | 0.20 | death, hades |
-| Rev 1:18 | 0.383 | 0.63 | 0.20 | death, hades |
+| Rev 20:13 | 0.401 | 0.62 | 0.20 | death, [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} |
+| Rev 1:18 | 0.383 | 0.63 | 0.20 | death, [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} |
 | Rev 19:20 | 0.378 | 0.46 | 0.40 | burn, cast, into, lake |
 
 ---

@@ -1,7 +1,7 @@
 # Topics Research
 
 ## Question
-What does Scripture explicitly say about the nature and composition of human beings (biblical anthropology)? Focus on nephesh (soul), ruach (spirit), neshamah (breath), the creation of man, whether humans ARE souls or HAVE souls, and what happens at death.
+What does Scripture explicitly say about the nature and composition of human beings (biblical anthropology)? Focus on [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} (soul), [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} (spirit), [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} (breath), the creation of man, whether humans ARE souls or HAVE souls, and what happens at death.
 
 ## Topics
 
