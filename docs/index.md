@@ -3,10 +3,6 @@
 *A comprehensive 21-study biblical investigation examining every major text, word, and argument bearing on the final fate of the wicked.*
 
 ---
-
-!!! info "Part of the [Bible Study Series](https://redmod79.github.io/bible-study-hub/)"
-    This study is one of several series using the same tool-driven, sola scriptura research methodology. [Browse all series](https://redmod79.github.io/bible-study-hub/).
-
 ## The Question
 
 Two major positions exist in Christian theology regarding the fate of the wicked: **eternal conscious torment (ECT)** -- the traditional view that the wicked suffer forever in hell -- and **conditional immortality** -- the view that the wicked are ultimately destroyed and cease to exist. Rather than assuming either position, this series investigates the biblical evidence from the ground up.
