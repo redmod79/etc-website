@@ -38,7 +38,7 @@ The story is about whether people will heed the existing Scripture. The afterlif
 
 "Abraham's bosom" (*kolpos Abraam*) as a destination for the dead appears only in Luke 16:22-23. It is not in the Old Testament, the other Gospels, Acts, the Epistles, or Revelation. The standard New Testament term for the blessed resting place of the dead is *paradise* (*[paradeisos](https://www.blueletterbible.org/lexicon/g3857/kjv/tr/0-1/){:target="_blank"}*) — a word the same author, Luke, uses in Luke 23:43, but does not use here.
 
-Elsewhere in the New Testament, *kolpos* (bosom) means an intimate relationship (John 1:18: "the bosom of the Father"), physical closeness (John 13:23: leaning on Jesus at the table), a garment fold used to carry things (Luke 6:38), or a geographic bay (Acts 27:39). None of these uses describe a post-mortem location.
+Elsewhere in the New Testament, *kolpos* (bosom) means an intimate relationship (John 1:18: "the bosom of the Father"), physical closeness (John 13:23: leaning on Jesus at the table), a garment fold used to carry things (Luke 6:38), or a geographic creek (Acts 27:39). None of these uses describe a post-mortem location.
 
 ### 5. The Torment Language Is Different From the Eschatological Torment Passages
 

@@ -10,7 +10,7 @@ Scripture reveals God's character through an explicit, repeated self-description
 - **Exodus 34:6-7** -- "The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth, Keeping mercy for thousands, forgiving iniquity and transgression and sin, and that will by no means clear [the guilty]; visiting the iniquity of the fathers upon the children... unto the third and to the fourth [generation]."
 - **Psalm 103:8-10,14** -- "The LORD [is] merciful and gracious, slow to anger, and plenteous in mercy. He will not always chide: neither will he keep [his anger] for ever. He hath not dealt with us after our sins... For he knoweth our frame; he remembereth that we [are] dust."
 - **Micah 7:18** -- "Who [is] a God like unto thee, that pardoneth iniquity, and passeth by the transgression of the remnant of his heritage? he retaineth not his anger for ever, because he delighteth [in] mercy."
-- **Romans 2:5-6** -- "The righteous judgment [dikaiokrasia] of God; Who will render to every man according to his deeds."
+- **Romans 2:5-6** -- "The righteous judgment [dikaiokrisia] of God; Who will render to every man according to his deeds."
 - **Luke 12:47-48** -- Many stripes vs. few stripes, according to knowledge.
 - **Matthew 10:15** -- "It shall be more tolerable for the land of Sodom and Gomorrha in the day of judgment, than for that city."
 - **Hebrews 2:2** -- "Every transgression and disobedience received a just recompence of reward."
@@ -26,7 +26,7 @@ Scripture reveals God's character through an explicit, repeated self-description
 
 ## Evidence Classification
 
-*Evidence items tracked in etc-master-evidence.md*
+*Evidence items tracked in etc6-master-evidence.md*
 
 ### INVESTIGATIVE METHODOLOGY
 - This study investigates what Scripture says about God's character and whether that character is consistent with infinite torment or destruction as the fate of the wicked. The role is investigator, not advocate.
@@ -53,7 +53,7 @@ Scripture reveals God's character through an explicit, repeated self-description
 | E11 | "Every transgression and disobedience received a just recompence of reward [misthapodosia]" | Heb 2:2 | Neutral | NEW: E435 |
 | E12 | "Of how much sorer punishment, suppose ye, shall he be thought worthy" -- establishing degrees of punishment | Heb 10:29 | Neutral | NEW: E436 |
 | E13 | "Who will render to every man according to his deeds" | Rom 2:6 | Neutral | NEW: E437 |
-| E14 | "The day of wrath and revelation of the righteous judgment [dikaiokrasia] of God" | Rom 2:5 | Neutral | NEW: E438 |
+| E14 | "The day of wrath and revelation of the righteous judgment [dikaiokrisia] of God" | Rom 2:5 | Neutral | NEW: E438 |
 | E15 | "He that doeth wrong shall receive for the wrong which he hath done: and there is no respect of persons" | Col 3:25 | Neutral | NEW: E439 |
 | E16 | "The work of a man shall he render unto him, and cause every man to find according to his ways. Yea, surely God will not do wickedly, neither will the Almighty pervert judgment" | Job 34:11-12 | Neutral | NEW: E440 |
 | E17 | "Have I any pleasure at all that the wicked should die? saith the Lord GOD: [and] not that he should return from his ways, and live?" | Ezek 18:23 | Neutral | NEW: E441 |
@@ -63,7 +63,7 @@ Scripture reveals God's character through an explicit, repeated self-description
 | E21 | Every recorded divine judgment in Scripture results in death/destruction: flood (Gen 7:21-23 -- "died," "destroyed"), Sodom (Gen 19:24-25 -- "overthrew"), Korah (Num 16:31-35 -- "perished," "consumed"), Nadab/Abihu (Lev 10:1-2 -- "devoured," "died") | Multiple | Neutral | NEW: E444 |
 | E22 | "For the wages of sin [is] death; but the gift of God [is] eternal life" | Rom 6:23 | Cond. | *existing: E087* |
 | E23 | "The soul that sinneth, it shall die" | Ezek 18:4,20 | Cond. | *existing: E016* |
-| E24 | God describes His judgment of Nineveh: "he will make an utter end" ([kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}) | Nah 1:8-9 | Cond. | NEW: E445 |
+| E24 | God describes His judgment of Nineveh: "he will make an utter end" (kalah) | Nah 1:8-9 | Cond. | NEW: E445 |
 | E25 | "Who will have all men to be saved, and to come unto the knowledge of the truth" | 1 Tim 2:4 | Neutral | NEW: E446 |
 | E26 | Cain's punishment for the first murder: exile and wandering, NOT death -- God set a mark to protect him | Gen 4:11-15 | Neutral | NEW: E447 |
 
@@ -75,7 +75,7 @@ Scripture reveals God's character through an explicit, repeated self-description
 |---|---|---|---|---|---|
 | N1 | Biblical punishment is proportional to deeds, not uniform | E9 (many/few stripes), E10 (more tolerable), E11 (just recompense), E12 (sorer punishment), E13 (according to deeds), E15 (receive for the wrong done), E16 (according to ways) | All 7 passages state that punishment varies according to the offense. No reader of any position can deny that these texts teach proportional, not uniform, punishment. | Neutral | NEW: N062 |
 | N2 | God's revealed character places mercy as predominant over judgment | E1 (Ex 34:6-7: six mercy-attributes before two justice-attributes), E2 (mercy to thousands, judgment to third/fourth generation) | The text itself proportions mercy-language to judgment-language roughly 6:2. No additional framework is needed to see this. | Neutral | NEW: N063 |
-| N3 | God's anger is explicitly described as temporary, not permanent | E3 ("not always chide," "not keep anger for ever"), E6 ("retaineth not his anger for ever") | Both texts use "for ever" ([olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}/la'ad) with negation. God's anger does not persist indefinitely. Both ECT and conditionalist scholars can read this in the text. | Cond. | NEW: N064 |
+| N3 | God's anger is explicitly described as temporary, not permanent | E3 ("not always chide," "not keep anger for ever"), E6 ("retaineth not his anger for ever") | Both texts use "for ever" (olam/la'ad) with negation. God's anger does not persist indefinitely. Both ECT and conditionalist scholars can read this in the text. | Cond. | NEW: N064 |
 | N4 | God does not take pleasure in executing the death penalty on the wicked | E17 ("Have I any pleasure... that the wicked should die?"), E18 ("I have no pleasure in the death of him that dieth"), E19 ("I have no pleasure in the death of the wicked") | Three times God states this. The rhetorical question in E17 expects a "no" answer. This is what the text says. | Neutral | NEW: N065 |
 
 ---
@@ -140,7 +140,7 @@ Note: The single ECT-direction item (I3) is an I-C inference requiring an extern
 3. God has "no pleasure in the death of the wicked" (Ezek 18:23,32; 33:11) and is "not willing that any should perish" (2 Pet 3:9).
 4. Biblical punishment is explicitly proportional: "according to deeds" (Rom 2:6), "many stripes" vs. "few stripes" (Luke 12:47-48), "more tolerable" (Matt 10:15; 11:22), "just recompense" (Heb 2:2), "sorer punishment" (Heb 10:29). This is stated in at least 11 passages across 9 authors.
 5. Every recorded divine judgment in Scripture results in death/destruction, never ongoing torment.
-6. The stated penalty for sin is death (Rom 6:23; Ezek 18:4,20; Gen 2:17), using the same word ([thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}/mut) consistently.
+6. The stated penalty for sin is death (Rom 6:23; Ezek 18:4,20; Gen 2:17), using the same word (thanatos/mut) consistently.
 7. The "sin against infinite God requires infinite punishment" argument (I3) is not found in any biblical text. It is a philosophical framework originating with Anselm of Canterbury (c. 1098 AD). No verse measures punishment by the dignity of the offended party. Every verse that addresses the measure of punishment uses "according to deeds" (the offender's actions).
 
 **The Anselmian "infinite God / infinite punishment" argument:** This philosophical construct (Anselm, c. 1098; Aquinas; Edwards) is absent from Scripture. Biblical justice is explicitly proportional — "according to his deeds" (Rom 2:6), "many stripes / few stripes" (Luke 12:47-48), "greater sin" (John 19:11) — which is antithetical to "all sin is equally infinite." God declares he does NOT retain anger forever (Mic 7:18; Ps 30:5; Isa 57:16), directly contradicting the infinite-punishment premise. The argument derives from 11th-century feudal jurisprudence (offense measured by the offended party's rank), not from biblical proportional justice (offense measured by the harm done).
@@ -151,7 +151,7 @@ Note: The single ECT-direction item (I3) is an I-C inference requiring an extern
 
 ## What CANNOT Be Said
 
-1. It cannot be said that infinite torment is taught by any explicit statement in Scripture. No verse says "the wicked will be tormented forever" with human subjects in didactic genre (confirmed in etc-12, etc-14, etc-15).
+1. It cannot be said that infinite torment is taught by any explicit statement in Scripture. No verse says "the wicked will be tormented forever" with human subjects in didactic genre (confirmed in etc6-12, etc6-14, etc6-15).
 2. It cannot be said that infinite torment is consistent with the "according to deeds" principle. Infinite punishment for finite deeds violates the explicitly stated proportionality principle.
 3. It cannot be said that God retains anger forever. Two explicit passages state the opposite (Ps 103:9; Mic 7:18).
 4. It cannot be said that God takes pleasure in the death of the wicked. Three explicit passages state the opposite (Ezek 18:23,32; 33:11).
@@ -166,23 +166,10 @@ This study examines God's self-revealed character and the biblical principles of
 
 The only ECT-direction argument generated by this study (I3: sin against infinite God warrants infinite punishment) is an I-C inference -- a philosophical framework not found in any biblical text, requiring criterion #3 (external framework) to maintain. It does not cite any verse, and no verse contains its reasoning.
 
-The findings of this study are consistent with the cumulative findings of etc-01 through etc-16: the biblical text, read at the explicit and necessary implication level, consistently describes the fate of the wicked as death and destruction, not eternal conscious torment.
+The findings of this study are consistent with the cumulative findings of etc6-01b through etc6-16: the biblical text, read at the explicit and necessary implication level, consistently describes the fate of the wicked as death and destruction, not eternal conscious torment.
 
 ---
 
 *Study completed: 2026-02-20*
 *Files: 01-topics.md, 02-verses.md, 03-analysis.md, 04-word-studies.md, CONCLUSION.md*
-*Evidence items tracked in etc-master-evidence.md*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |
+*Evidence items tracked in etc6-master-evidence.md*

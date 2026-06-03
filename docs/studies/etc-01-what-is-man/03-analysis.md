@@ -1,7 +1,7 @@
 # Verse Analysis
 
 ## Question
-What does Scripture explicitly say about the nature and composition of human beings (biblical anthropology)? Focus on [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} (soul), [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} (spirit), [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} (breath), the creation of man, whether humans ARE souls or HAVE souls, and what happens at death.
+What does Scripture explicitly say about the nature and composition of human beings (biblical anthropology)? Focus on nephesh (soul), ruach (spirit), neshamah (breath), the creation of man, whether humans ARE souls or HAVE souls, and what happens at death.
 
 ---
 
@@ -9,21 +9,21 @@ What does Scripture explicitly say about the nature and composition of human bei
 
 ### A. The Creation of Man
 
-#### Genesis 1:20-21, 24, 30 ([Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} Applied to Animals)
+#### Genesis 1:20-21, 24, 30 (Nephesh Applied to Animals)
 **Context:** Day 5-6 of creation. God creates sea creatures, birds, land animals.
-**Direct statement:** Animals are called [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} [chayyah](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"} ("living creature/living soul"). The waters bring forth abundantly "the moving creature that hath life [nephesh]" (1:20). "Every living creature [nephesh chayyah] that moveth" (1:21). "The earth bring forth the living creature [nephesh chayyah]" (1:24). "Every thing that creepeth upon the earth, wherein there is life [nephesh]" (1:30).
-**Key observations:** The term [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} [chayyah](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"} is applied to sea creatures, birds, and land animals before man is created. This is the same term applied to man in Gen 2:7. Hebrew parsing confirms [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} is used as a noun meaning "soul/creature" in both animal and human contexts with identical grammatical form.
-**Cross-references:** Gen 2:19 uses the same term for animals named by Adam. Gen 9:10,12,15,16 uses [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} for animals in the Noahic covenant.
+**Direct statement:** Animals are called nephesh chayyah ("living creature/living soul"). The waters bring forth abundantly "the moving creature that hath life [nephesh]" (1:20). "Every living creature [nephesh chayyah] that moveth" (1:21). "The earth bring forth the living creature [nephesh chayyah]" (1:24). "Every thing that creepeth upon the earth, wherein there is life [nephesh]" (1:30).
+**Key observations:** The term nephesh chayyah is applied to sea creatures, birds, and land animals before man is created. This is the same term applied to man in Gen 2:7. Hebrew parsing confirms nephesh is used as a noun meaning "soul/creature" in both animal and human contexts with identical grammatical form.
+**Cross-references:** Gen 2:19 uses the same term for animals named by Adam. Gen 9:10,12,15,16 uses nephesh for animals in the Noahic covenant.
 
 #### Genesis 2:7 (The Creation Formula)
 **Context:** The detailed account of man's creation from the ground.
 **Direct statement:** "And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul."
 **Key observations:**
-1. Three components: (a) dust (aphar) from the ground ([adamah](https://www.blueletterbible.org/lexicon/h127/kjv/wlc/0-1/){:target="_blank"}), (b) breath of life ([nishmat](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} chayyim), (c) result: living soul ([nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} [chayyah](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"}).
-2. Hebrew parsing: hayah (Qal Wayyiqtol 3ms) = "became" -- man BECAME a [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} [chayyah](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"}. The text does not say man received a soul; it says he became one.
+1. Three components: (a) dust (aphar) from the ground (adamah), (b) breath of life (nishmat chayyim), (c) result: living soul (nephesh chayyah).
+2. Hebrew parsing: hayah (Qal Wayyiqtol 3ms) = "became" -- man BECAME a nephesh chayyah. The text does not say man received a soul; it says he became one.
 3. The verb yatsar ("formed/shaped") is the same verb used for forming animals in Gen 2:19.
-4. [Naphach](https://www.blueletterbible.org/lexicon/h5301/kjv/wlc/0-1/){:target="_blank"} ("blow/breathe") is the action verb -- God blew [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} into the dust-formed body.
-5. The same term [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} [chayyah](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"} is used for animals in Gen 1:20-21,24. Man is not distinguished from animals by this term.
+4. Naphach ("blow/breathe") is the action verb -- God blew neshamah into the dust-formed body.
+5. The same term nephesh chayyah is used for animals in Gen 1:20-21,24. Man is not distinguished from animals by this term.
 **Cross-references:** 1 Cor 15:45 quotes this verse: "The first man Adam was made [ginomai] a living soul [psyche]." Job 33:4: "The Spirit of God hath made me, and the breath [neshamah] of the Almighty hath given me life." Isa 42:5: God "giveth breath [neshamah] unto the people upon it, and spirit [ruach] to them that walk therein."
 
 #### Genesis 3:19 (Dust to Dust)
@@ -38,18 +38,18 @@ What does Scripture explicitly say about the nature and composition of human bei
 #### Genesis 5:1-2 (Likeness of God)
 **Context:** Genealogy heading for the line of Adam.
 **Direct statement:** "In the day that God created man, in the likeness of God made he him."
-**Key observations:** Man is made in God's likeness -- this is what distinguishes humans, not the term [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} (which is shared with animals).
+**Key observations:** Man is made in God's likeness -- this is what distinguishes humans, not the term nephesh (which is shared with animals).
 
 #### Genesis 7:22 (Breath of Life in All Creatures)
 **Context:** The flood -- death of all air-breathing creatures.
 **Direct statement:** "All in whose nostrils was the breath of life, of all that was in the dry land, died."
-**Key observations:** "Breath of life" here uses both [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} and [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} together ([nishmat](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} chayyim). This combined phrase applies to ALL creatures that died -- humans and animals alike. The [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} of the [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} of life is not unique to humans.
+**Key observations:** "Breath of life" here uses both neshamah and ruach together (nishmat ruach chayyim). This combined phrase applies to ALL creatures that died -- humans and animals alike. The neshamah of the ruach of life is not unique to humans.
 **Cross-references:** Gen 6:17: "the breath [ruach] of life" in all flesh. Gen 7:15: "two of all flesh, wherein is the breath [ruach] of life."
 
 #### Genesis 9:6 (Image of God)
 **Context:** Post-flood commandment regarding murder.
 **Direct statement:** "Whoso sheddeth man's blood, by man shall his blood be shed: for in the image of God made he man."
-**Key observations:** Human life is sacred because of the image of God (imago Dei), not because of possessing [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} (which animals also have). The distinguishing feature is imago Dei.
+**Key observations:** Human life is sacred because of the image of God (imago Dei), not because of possessing nephesh (which animals also have). The distinguishing feature is imago Dei.
 
 ---
 
@@ -58,48 +58,48 @@ What does Scripture explicitly say about the nature and composition of human bei
 #### Job 32:8 (Spirit and Inspiration in Man)
 **Context:** Elihu speaks about how wisdom comes from God, not age.
 **Direct statement:** "But there is a spirit [ruach] in man: and the inspiration [neshamah] of the Almighty giveth them understanding."
-**Key observations:** [Ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} and [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} appear together. The [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} of the Almighty gives understanding. The connection is between God's breath and human cognitive capacity.
+**Key observations:** Ruach and neshamah appear together. The neshamah of the Almighty gives understanding. The connection is between God's breath and human cognitive capacity.
 
 #### Job 33:4 (God's Breath Gives Life)
 **Context:** Elihu claims he too was made by God.
 **Direct statement:** "The Spirit [ruach] of God hath made me, and the breath [neshamah] of the Almighty hath given me life."
-**Key observations:** Parallel construction: [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} and [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} of God as the source of life. This echoes Gen 2:7.
+**Key observations:** Parallel construction: ruach and neshamah of God as the source of life. This echoes Gen 2:7.
 
 #### Job 27:3 (Breath and Spirit in the Living Person)
 **Context:** Job's oath that he will speak truth while alive.
 **Direct statement:** "All the while my breath [neshamah] is in me, and the spirit [ruach] of God is in my nostrils."
-**Key observations:** Both [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} and [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} are present in the living person. "Spirit of God in my nostrils" directly echoes Gen 2:7 where God breathed into Adam's nostrils.
+**Key observations:** Both neshamah and ruach are present in the living person. "Spirit of God in my nostrils" directly echoes Gen 2:7 where God breathed into Adam's nostrils.
 
 #### Proverbs 20:27 (Spirit as Candle)
 **Context:** A proverb about God's knowledge of the human inner life.
 **Direct statement:** "The spirit [neshamah] of man is the candle of the LORD, searching all the inward parts of the belly."
-**Key observations:** Here [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} (not [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}) is translated "spirit." The [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} functions as God's searchlight into human nature -- the God-given capacity for moral awareness.
+**Key observations:** Here neshamah (not ruach) is translated "spirit." The neshamah functions as God's searchlight into human nature -- the God-given capacity for moral awareness.
 
 #### Isaiah 42:5 (God Gives Breath and Spirit)
 **Context:** God declares his creative authority.
 **Direct statement:** "He that giveth breath [neshamah] unto the people upon it, and spirit [ruach] to them that walk therein."
-**Key observations:** Both [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} and [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} are GIVEN by God -- they are not inherent to humans. God is the ongoing source.
+**Key observations:** Both neshamah and ruach are GIVEN by God -- they are not inherent to humans. God is the ongoing source.
 **Cross-references:** Acts 17:25: God "giveth to all life [zoe], and breath [pnoe], and all things." Zec 12:1: God "formeth the spirit [ruach] of man within him."
 
 #### Isaiah 26:9 (Soul and Spirit in Parallel)
 **Context:** A song of trust in God.
 **Direct statement:** "With my soul [nephesh] have I desired thee in the night; yea, with my spirit [ruach] within me will I seek thee early."
-**Key observations:** [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} and [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} are used in poetic parallelism -- the same idea expressed two ways. This is consistent with flexible, overlapping usage rather than technical anatomical distinction.
+**Key observations:** Nephesh and ruach are used in poetic parallelism -- the same idea expressed two ways. This is consistent with flexible, overlapping usage rather than technical anatomical distinction.
 
 #### Leviticus 17:11,14 (Life/Soul is in the Blood)
 **Context:** Dietary law regarding blood.
 **Direct statement:** "For the life [nephesh] of the flesh is in the blood" (17:11). "The blood of it is for the life [nephesh] thereof" (17:14).
-**Key observations:** The [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} is identified WITH the blood -- not as a separate immaterial substance. This is a physical, embodied understanding of the soul/life.
+**Key observations:** The nephesh is identified WITH the blood -- not as a separate immaterial substance. This is a physical, embodied understanding of the soul/life.
 
-#### Leviticus 21:11; Numbers 6:6 ([Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} as Dead Body)
+#### Leviticus 21:11; Numbers 6:6 (Nephesh as Dead Body)
 **Context:** Priestly purity laws (Lev 21:11) and Nazirite vow regulations (Num 6:6).
 **Direct statement:** "Neither shall he go in to any dead body [nephesh meth]" (Lev 21:11). "He shall come at no dead body [nephesh meth]" (Num 6:6).
-**Key observations:** [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} means CORPSE here. The "soul" is used for a dead body. This is significant: [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} does not inherently denote an immortal, immaterial entity. It can refer to a lifeless body.
+**Key observations:** Nephesh means CORPSE here. The "soul" is used for a dead body. This is significant: nephesh does not inherently denote an immortal, immaterial entity. It can refer to a lifeless body.
 
 #### Ezekiel 18:4,20 (The Soul That Sins Dies)
 **Context:** God corrects a proverb about children bearing parental guilt.
 **Direct statement:** "The soul [nephesh] that sinneth, it shall die" (18:4). "The soul [nephesh] that sinneth, it shall die" (18:20, repeated).
-**Key observations:** Hebrew parsing: [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} is the subject; mut (die, Qal imperfect 3fs) is the verb. The [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} itself is what dies. The soul is not presented as inherently immortal or indestructible. This is stated twice, in identical language, for emphasis.
+**Key observations:** Hebrew parsing: nephesh is the subject; mut (die, Qal imperfect 3fs) is the verb. The nephesh itself is what dies. The soul is not presented as inherently immortal or indestructible. This is stated twice, in identical language, for emphasis.
 
 ---
 
@@ -108,27 +108,27 @@ What does Scripture explicitly say about the nature and composition of human bei
 #### Psalm 104:29 (Breath Taken, They Die)
 **Context:** A psalm about God's care for all creation -- animals and humans.
 **Direct statement:** "Thou takest away their breath [ruach], they die, and return to their dust."
-**Key observations:** When God removes [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}, creatures die and return to dust. This applies universally to all living things (context: Ps 104:27-30). The process reverses Gen 2:7.
+**Key observations:** When God removes ruach, creatures die and return to dust. This applies universally to all living things (context: Ps 104:27-30). The process reverses Gen 2:7.
 
 #### Psalm 146:4 (Thoughts Perish at Death)
 **Context:** A psalm warning against trusting in human leaders.
 **Direct statement:** "His breath [ruach] goeth forth, he returneth to his earth; in that very day his thoughts perish."
-**Key observations:** Hebrew parsing: [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} (Qal perfect 3p) = "perish" -- the thoughts perish. Eshtanot = "thoughts" (plural). The temporal marker "in that very day" (bayyom hahu) is emphatic -- cognitive activity ceases at the moment of death.
+**Key observations:** Hebrew parsing: abad (Qal perfect 3p) = "perish" -- the thoughts perish. Eshtanot = "thoughts" (plural). The temporal marker "in that very day" (bayyom hahu) is emphatic -- cognitive activity ceases at the moment of death.
 
 #### Job 34:14-15 (God Gathers Spirit and Breath)
 **Context:** Elihu speaks of God's sovereignty over life.
 **Direct statement:** "If he set his heart upon man, if he gather unto himself his spirit [ruach] and his breath [neshamah]; all flesh shall perish together, and man shall turn again unto dust."
-**Key observations:** Both [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} and [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} are what God would gather. The result: all flesh perishes, man returns to dust. This parallels Gen 2:7, Ecc 12:7, and Ps 104:29.
+**Key observations:** Both ruach and neshamah are what God would gather. The result: all flesh perishes, man returns to dust. This parallels Gen 2:7, Ecc 12:7, and Ps 104:29.
 
 #### Ecclesiastes 3:19-21 (One Breath for Man and Beast)
 **Context:** The Preacher's observation about mortality.
 **Direct statement:** "As the one dieth, so dieth the other; yea, they have all one breath [ruach]; so that a man hath no preeminence above a beast" (3:19). "All go unto one place; all are of the dust, and all turn to dust again" (3:20). "Who knoweth the spirit [ruach] of man that goeth upward, and the spirit [ruach] of the beast that goeth downward to the earth?" (3:21).
-**Key observations:** Same [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} for humans and animals. Same death. Same return to dust. Verse 3:21 is a rhetorical question -- the text does not assert that man's [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} goes upward; it questions whether anyone can discern a difference.
+**Key observations:** Same ruach for humans and animals. Same death. Same return to dust. Verse 3:21 is a rhetorical question -- the text does not assert that man's ruach goes upward; it questions whether anyone can discern a difference.
 
 #### Ecclesiastes 12:7 (Spirit Returns to God)
 **Context:** The culmination of the Preacher's reflection on aging and death.
 **Direct statement:** "Then shall the dust return to the earth as it was: and the spirit [ruach] shall return unto God who gave it."
-**Key observations:** Two parallel returns: dust to earth, [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} to God. The Hebrew parsing shows shub ("return") used for both components. The text says the [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} returns to God "who gave it" (natan, "give") -- the [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} was God's gift. This verse describes the reversal of Gen 2:7. The text does not state that the returning [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} is conscious or carries personal identity.
+**Key observations:** Two parallel returns: dust to earth, ruach to God. The Hebrew parsing shows shub ("return") used for both components. The text says the ruach returns to God "who gave it" (natan, "give") -- the ruach was God's gift. This verse describes the reversal of Gen 2:7. The text does not state that the returning ruach is conscious or carries personal identity.
 
 #### Psalm 6:5 (No Remembrance in Death)
 **Context:** David's prayer in distress.
@@ -183,17 +183,17 @@ What does Scripture explicitly say about the nature and composition of human bei
 
 **Key Observations:**
 
-1. **Hebrew construction:** `betseth nephshah ki methah` — "in the going out of her [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}, for she died." The parenthetical `ki methah` ("for she died") is the narrator's explanation — the [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} departing IS the death event, not a separate event preceding death.
+1. **Hebrew construction:** `betseth nephshah ki methah` — "in the going out of her nephesh, for she died." The parenthetical `ki methah` ("for she died") is the narrator's explanation — the nephesh departing IS the death event, not a separate event preceding death.
 
-2. **The verb `yatsa` (go out) + [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}:** The same conceptual construction appears in Ps 146:4, where breath "goes forth" and thoughts perish. This is Gen 2:7 in reverse — God breathed into man the breath of life and he became a [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} [chayyah](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"}; here the [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} departs and the person dies.
+2. **The verb `yatsa` (go out) + nephesh:** The same conceptual construction appears in Ps 146:4, where breath "goes forth" and thoughts perish. This is Gen 2:7 in reverse — God breathed into man the breath of life and he became a nephesh chayyah; here the nephesh departs and the person dies.
 
 3. **ECT reading:** The soul departs the body and continues to exist elsewhere — a dualist reading in which the immaterial soul survives bodily death.
 
-4. **Conditionalist reading:** The life-force ([nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} = life/vitality) leaves, and the person dies. This is consistent with [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} as "life" throughout the patriarchal narratives: Gen 9:5 ("your blood of your lives [nephesh]"); Gen 19:17,19 ("escape for thy life [nephesh]"); Gen 32:30 ("I have seen God face to face, and my life [nephesh] is preserved"); Gen 44:30 ("his life [nephesh] is bound up in the lad's life [nephesh]").
+4. **Conditionalist reading:** The life-force (nephesh = life/vitality) leaves, and the person dies. This is consistent with nephesh as "life" throughout the patriarchal narratives: Gen 9:5 ("your blood of your lives [nephesh]"); Gen 19:17,19 ("escape for thy life [nephesh]"); Gen 32:30 ("I have seen God face to face, and my life [nephesh] is preserved"); Gen 44:30 ("his life [nephesh] is bound up in the lad's life [nephesh]").
 
-5. **What the text does NOT say:** The text does not say where the [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} goes — it says she died. The "departing" is the dying. No destination is specified, no consciousness is described after the departure.
+5. **What the text does NOT say:** The text does not say where the nephesh goes — it says she died. The "departing" is the dying. No destination is specified, no consciousness is described after the departure.
 
-6. **Cross-reference:** In the same book, [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} is "life" (Gen 19:17 "escape for thy life [nephesh]"), not an immaterial conscious entity.
+6. **Cross-reference:** In the same book, nephesh is "life" (Gen 19:17 "escape for thy life [nephesh]"), not an immaterial conscious entity.
 
 **Classification:** E-item, **Neutral** — both readings are possible; the text does not specify conscious survival after death.
 
@@ -205,11 +205,11 @@ What does Scripture explicitly say about the nature and composition of human bei
 
 **Key Observations:**
 
-1. **Hebrew construction:** `tashov [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}-hayeled al-qirbo` — "let the [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} of the child return upon his inner-parts." The verb `shuv` (return) is used for the [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} coming back.
+1. **Hebrew construction:** `tashov nephesh-hayeled al-qirbo` — "let the nephesh of the child return upon his inner-parts." The verb `shuv` (return) is used for the nephesh coming back.
 
 2. **ECT reading:** The soul literally departed the body and returned — implying conscious existence between death and resuscitation. If the soul can depart and return, it must be a separable entity that persists during the interval.
 
-3. **Conditionalist reading:** The life-force ([nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} = vitality/breath) returned — the child's life was restored. This is consistent with [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} as "life" (cf. Gen 2:7: God breathed breath of life → man became [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} [chayyah](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"}). The life departed; God restored the life.
+3. **Conditionalist reading:** The life-force (nephesh = vitality/breath) returned — the child's life was restored. This is consistent with nephesh as "life" (cf. Gen 2:7: God breathed breath of life → man became nephesh chayyah). The life departed; God restored the life.
 
 4. **Silence on the intermediate state:** The text does not describe what the child experienced while dead — no report of consciousness, visions, paradise, or an intermediate state. The silence is significant: if the child's soul had been in a conscious state, the absence of any report is unexpected.
 
@@ -217,7 +217,7 @@ What does Scripture explicitly say about the nature and composition of human bei
 
 6. **Parallel account:** 2 Kings 4:34-35 (Elisha resuscitates the Shunammite's son) — described as the child sneezing and opening his eyes. No soul-language is used. The same type of event, different vocabulary — suggesting that the "soul" language in 1 Kings 17 is interchangeable with physical resuscitation language.
 
-7. **Cross-references:** Gen 35:18 ([nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} going out = death); Jas 2:26 ("the body without the spirit is dead" — spirit/breath as the animating principle).
+7. **Cross-references:** Gen 35:18 (nephesh going out = death); Jas 2:26 ("the body without the spirit is dead" — spirit/breath as the animating principle).
 
 **Classification:** E-item, **Neutral** — both readings are possible; the text does not describe the child's state during death.
 
@@ -228,19 +228,19 @@ What does Scripture explicitly say about the nature and composition of human bei
 #### 1 Timothy 6:16 (God Only Has Immortality)
 **Context:** Paul's charge to Timothy about the appearing of Christ.
 **Direct statement:** "Who only hath immortality, dwelling in the light which no man can approach unto."
-**Key observations:** "Only" (monos) + "hath" (echo, present active participle) + "immortality" ([athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"}). The word [athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} appears only 3 times in the NT. Here it is attributed exclusively to God. The text says God ONLY possesses deathlessness.
+**Key observations:** "Only" (monos) + "hath" (echo, present active participle) + "immortality" (athanasia). The word athanasia appears only 3 times in the NT. Here it is attributed exclusively to God. The text says God ONLY possesses deathlessness.
 
 #### Romans 2:7 (Seek for Immortality)
 **Context:** Paul describes God's righteous judgment.
 **Direct statement:** "To them who by patient continuance in well doing seek for glory and honour and immortality, eternal life."
-**Key observations:** Immortality ([aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"}) must be sought. If humans already possessed immortality, seeking it would be incoherent. The text treats immortality as a future reward, not a present possession.
+**Key observations:** Immortality (aphtharsia) must be sought. If humans already possessed immortality, seeking it would be incoherent. The text treats immortality as a future reward, not a present possession.
 
 #### 1 Corinthians 15:42-55 (Resurrection and the Putting On of Immortality)
 **Context:** Paul's extended argument for bodily resurrection.
 **Direct statement:** "It is sown in corruption; it is raised in incorruption" (15:42). "It is sown a natural body; it is raised a spiritual body" (15:44). "The first man Adam was made a living soul [psyche]; the last Adam was made a quickening spirit [pneuma]" (15:45). "This corruptible must put on incorruption, and this mortal must put on immortality" (15:53). "When this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory" (15:54).
 **Key observations:**
-1. Paul quotes Gen 2:7 in v.45 -- the first Adam was made a living [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}.
-2. The contrast is between psychikos (soul-powered, natural) and [pneumatikos](https://www.blueletterbible.org/lexicon/g4152/kjv/tr/0-1/){:target="_blank"} (spirit-powered, spiritual).
+1. Paul quotes Gen 2:7 in v.45 -- the first Adam was made a living psyche.
+2. The contrast is between psychikos (soul-powered, natural) and pneumatikos (spirit-powered, spiritual).
 3. "Must put on" (enduo + dei) -- this is an obligation/necessity. Immortality is something the mortal MUST receive; it is not already possessed.
 4. Death is swallowed up in victory WHEN immortality is put on -- at the resurrection, not before.
 5. "Flesh and blood cannot inherit the kingdom of God" (15:50) -- transformation is required.
@@ -253,12 +253,12 @@ What does Scripture explicitly say about the nature and composition of human bei
 #### Matthew 10:28 (God Can Destroy Soul and Body)
 **Context:** Jesus instructing the twelve before sending them out.
 **Direct statement:** "Fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell."
-**Key observations:** "Destroy" ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}) is applied to the soul ([psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}). God is ABLE (dunamai) to destroy the soul. The soul is not presented as indestructible. Luke 12:4-5 gives the parallel: "Fear him, which after he hath killed hath power to cast into hell." Luke's version mentions killing and casting into hell; Matthew's specifies destroying soul and body.
+**Key observations:** "Destroy" (apollymi) is applied to the soul (psyche). God is ABLE (dunamai) to destroy the soul. The soul is not presented as indestructible. Luke 12:4-5 gives the parallel: "Fear him, which after he hath killed hath power to cast into hell." Luke's version mentions killing and casting into hell; Matthew's specifies destroying soul and body.
 
 #### Job 4:17 (Mortal Man)
 **Context:** Eliphaz's first speech.
 **Direct statement:** "Shall mortal man be more just than God?"
-**Key observations:** Man is described as mortal ([enosh](https://www.blueletterbible.org/lexicon/h582/kjv/wlc/0-1/){:target="_blank"}). The term itself denotes frailty and mortality.
+**Key observations:** Man is described as mortal (enosh). The term itself denotes frailty and mortality.
 
 #### Hebrews 9:27 (Appointed to Die)
 **Context:** The finality of Christ's sacrifice compared to human death.
@@ -272,7 +272,7 @@ What does Scripture explicitly say about the nature and composition of human bei
 #### 1 Thessalonians 5:23 (Spirit, Soul, Body)
 **Context:** Paul's closing prayer for the Thessalonians.
 **Direct statement:** "And the very God of peace sanctify you wholly; and I pray God your whole spirit [pneuma] and soul [psyche] and body [soma] be preserved blameless unto the coming of our Lord Jesus Christ."
-**Key observations:** Three terms are listed: [pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"}, [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}, [soma](https://www.blueletterbible.org/lexicon/g4983/kjv/tr/0-1/){:target="_blank"}. The context is preservation unto Christ's COMING -- Paul's concern is wholeness/completeness (holokleros), not anatomical enumeration. Compare Mark 12:30 listing heart, soul, mind, strength -- four terms, not necessarily four distinct parts. Hebrews 4:12 mentions soul and spirit together, but the point is the Word's penetrating power.
+**Key observations:** Three terms are listed: pneuma, psyche, soma. The context is preservation unto Christ's COMING -- Paul's concern is wholeness/completeness (holokleros), not anatomical enumeration. Compare Mark 12:30 listing heart, soul, mind, strength -- four terms, not necessarily four distinct parts. Hebrews 4:12 mentions soul and spirit together, but the point is the Word's penetrating power.
 
 #### 1 Thessalonians 4:13-17 (Dead in Christ Rise)
 **Context:** Paul's teaching on the hope of believers who have died.
@@ -297,17 +297,17 @@ What does Scripture explicitly say about the nature and composition of human bei
 #### Luke 23:46 (Father, Into Thy Hands)
 **Context:** Jesus' final words on the cross.
 **Direct statement:** "Father, into thy hands I commend my spirit [pneuma]."
-**Key observations:** Jesus commits his [pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} to God -- echoing Ecc 12:7 and Ps 31:5. Stephen does the same in Acts 7:59. This language is consistent with the OT pattern of the [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} returning to God at death.
+**Key observations:** Jesus commits his pneuma to God -- echoing Ecc 12:7 and Ps 31:5. Stephen does the same in Acts 7:59. This language is consistent with the OT pattern of the ruach returning to God at death.
 
 #### Acts 7:59-60 (Stephen's Death)
 **Context:** The stoning of Stephen.
 **Direct statement:** "Lord Jesus, receive my spirit [pneuma]" (7:59). "And when he had said this, he fell asleep" (7:60).
-**Key observations:** Stephen commits his [pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} to Jesus. His death is then described as falling "asleep." The two statements together: spirit committed to God + described as sleeping.
+**Key observations:** Stephen commits his pneuma to Jesus. His death is then described as falling "asleep." The two statements together: spirit committed to God + described as sleeping.
 
 #### Acts 17:25 (God Gives Life and Breath)
 **Context:** Paul's address to the Athenians.
 **Direct statement:** "He giveth to all life [zoe], and breath [pnoe], and all things."
-**Key observations:** Pnoe is the NT equivalent of [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} (confirmed by LXX mappings). God is the giver of both [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} (life) and pnoe (breath) -- echoing Gen 2:7 and Isa 42:5. Life and breath are received from God, not self-generated.
+**Key observations:** Pnoe is the NT equivalent of neshamah (confirmed by LXX mappings). God is the giver of both zoe (life) and pnoe (breath) -- echoing Gen 2:7 and Isa 42:5. Life and breath are received from God, not self-generated.
 
 #### 2 Corinthians 5:1-9 (Earthly Tabernacle)
 **Context:** Paul's discussion of the hope of resurrection.
@@ -322,12 +322,12 @@ What does Scripture explicitly say about the nature and composition of human bei
 #### James 2:26 (Body Without Spirit Is Dead)
 **Context:** James's argument that faith without works is dead.
 **Direct statement:** "For as the body without the spirit [pneuma] is dead, so faith without works is dead also."
-**Key observations:** The analogy is straightforward: body minus [pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} equals death. [Pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} functions as the animating principle. When it is absent, the body is dead. This confirms the creation pattern: body + breath/spirit = life; body minus breath/spirit = death.
+**Key observations:** The analogy is straightforward: body minus pneuma equals death. Pneuma functions as the animating principle. When it is absent, the body is dead. This confirms the creation pattern: body + breath/spirit = life; body minus breath/spirit = death.
 
 #### Ezekiel 37:5-6,9-10,14 (Valley of Dry Bones)
 **Context:** Prophetic vision of Israel's restoration, depicted as resurrection.
 **Direct statement:** "I will cause breath [ruach] to enter into you, and ye shall live" (37:5). "Come from the four winds, O breath [ruach], and breathe upon these slain, that they may live" (37:9). "The breath [ruach] came into them, and they lived, and stood up upon their feet" (37:10). "I shall put my spirit [ruach] in you, and ye shall live" (37:14).
-**Key observations:** Resurrection is portrayed as re-creation: God putting breath/spirit back into dead bodies, and they live. This mirrors Gen 2:7 -- body + breath = life. The dead bones have no life until [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} enters them.
+**Key observations:** Resurrection is portrayed as re-creation: God putting breath/spirit back into dead bodies, and they live. This mirrors Gen 2:7 -- body + breath = life. The dead bones have no life until ruach enters them.
 
 #### Deuteronomy 31:16 (Sleep with Fathers)
 **Context:** God tells Moses about his coming death.
@@ -344,19 +344,19 @@ What does Scripture explicitly say about the nature and composition of human bei
 - **Resurrection:** Dead body + breath/spirit (from God again) = living soul again (Ezek 37:5-14)
 - Supported by: Gen 2:7; 3:19; Ecc 12:7; Ps 104:29; Job 34:14-15; Ezek 37:5-14; Jas 2:26
 
-### Pattern 2: [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} Applied to Animals and Humans Identically
-- Gen 1:20-21,24,30 -- animals are [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} [chayyah](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"}
-- Gen 2:7 -- man becomes [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} [chayyah](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"}
-- Gen 7:22 -- [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} of [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} of chayyim is in all creatures
-- Ecc 3:19-20 -- same [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}, same death, same dust
-- The term [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} does not distinguish humans from animals.
+### Pattern 2: Nephesh Applied to Animals and Humans Identically
+- Gen 1:20-21,24,30 -- animals are nephesh chayyah
+- Gen 2:7 -- man becomes nephesh chayyah
+- Gen 7:22 -- neshamah of ruach of chayyim is in all creatures
+- Ecc 3:19-20 -- same ruach, same death, same dust
+- The term nephesh does not distinguish humans from animals.
 
-### Pattern 3: [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} as Mortal, Physical, and Destructible
-- [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} = dead body (Lev 21:11; Num 6:6)
-- [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} = blood/life of the flesh (Lev 17:11,14)
-- [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} can die (Ezek 18:4,20)
-- [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} can be destroyed (Matt 10:28)
-- [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} is used for appetite, desire, person, self -- not a single technical concept
+### Pattern 3: Nephesh as Mortal, Physical, and Destructible
+- Nephesh = dead body (Lev 21:11; Num 6:6)
+- Nephesh = blood/life of the flesh (Lev 17:11,14)
+- Nephesh can die (Ezek 18:4,20)
+- Nephesh can be destroyed (Matt 10:28)
+- Nephesh is used for appetite, desire, person, self -- not a single technical concept
 
 ### Pattern 4: Death as Unconsciousness
 - No remembrance (Ps 6:5)
@@ -379,9 +379,9 @@ What does Scripture explicitly say about the nature and composition of human bei
 - Immortality must be "put on" at resurrection (1 Cor 15:53-54)
 - Immortality was "brought to light" through the gospel (2 Tim 1:10)
 - Man was barred from the tree of life (Gen 3:22-24)
-- Humans are called "mortal" (Job 4:17; [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} in Rom 6:12; 8:11; 1 Cor 15:53; 2 Cor 4:11; 5:4)
+- Humans are called "mortal" (Job 4:17; thnetos in Rom 6:12; 8:11; 1 Cor 15:53; 2 Cor 4:11; 5:4)
 
-### Pattern 7: [Ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} and [Neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} as God-Given, Shared Life Principle
+### Pattern 7: Ruach and Neshamah as God-Given, Shared Life Principle
 - Both are given by God (Isa 42:5; Acts 17:25; Zec 12:1)
 - Both are in animals as well as humans (Gen 7:22; Ecc 3:19)
 - Both are withdrawn at death (Ecc 12:7; Ps 104:29; Ps 146:4; Job 34:14-15)
@@ -392,7 +392,7 @@ What does Scripture explicitly say about the nature and composition of human bei
 ## Connections Between Passages
 
 ### OT-NT Continuity on the Creation Formula
-Gen 2:7 is quoted directly in 1 Cor 15:45, confirming the NT recognizes the same anthropological framework. Paul's contrast between the "living soul" ([psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}) and "quickening spirit" ([pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"}) does not deny the OT framework but builds on it: the first state is natural/soul-powered; the resurrection state is spiritual/spirit-powered. The transformation happens at resurrection (1 Cor 15:52-54), not at death.
+Gen 2:7 is quoted directly in 1 Cor 15:45, confirming the NT recognizes the same anthropological framework. Paul's contrast between the "living soul" (psyche) and "quickening spirit" (pneuma) does not deny the OT framework but builds on it: the first state is natural/soul-powered; the resurrection state is spiritual/spirit-powered. The transformation happens at resurrection (1 Cor 15:52-54), not at death.
 
 ### The Consistent "Sleep" Metaphor Across Testaments
 From Deuteronomy to 1 Thessalonians, death is called "sleep." This is not a single author's idiosyncratic usage. Jesus himself uses it (John 11:11,14), as does Paul (1 Cor 15:51; 1 Thess 4:13-15). The metaphor implies: (a) unconsciousness during the period, (b) awakening (resurrection) is the next event.
@@ -407,22 +407,22 @@ Gen 2:7 (God breathes life) -> Isa 42:5 (God gives breath and spirit) -> Acts 17
 
 ## Word Study Insights
 
-### [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} (H5315): 780 occurrences, 214 translations
-The extraordinary breadth of translation demolishes the notion that [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} is a technical term for "immortal soul." It means creature, life, person, self, appetite, dead body, and soul, depending on context. The LXX maps it to [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} (~80%), but also to [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} ("death") when used for dead bodies (25 occurrences). Animals have [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}. Dead bodies are [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}. The blood IS the [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}. The [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} dies.
+### Nephesh (H5315): 788 occurrences, 214 translations
+The extraordinary breadth of translation demolishes the notion that nephesh is a technical term for "immortal soul." It means creature, life, person, self, appetite, dead body, and soul, depending on context. The LXX maps it to psyche (~80%), but also to thanatos ("death") when used for dead bodies (25 occurrences). Animals have nephesh. Dead bodies are nephesh. The blood IS the nephesh. The nephesh dies.
 
-### [Ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} (H7307): 434 occurrences
-Three semantic domains: wind, breath/life-force, spirit/disposition. Applied to animals (Gen 6:17; 7:15,22; Ecc 3:19,21). Returns to God at death (Ecc 12:7). When it departs, thoughts perish (Ps 146:4). The LXX maps it to [pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} (~54%) and anemos ("wind," ~10%).
+### Ruach (H7307): 434 occurrences
+Three semantic domains: wind, breath/life-force, spirit/disposition. Applied to animals (Gen 6:17; 7:15,22; Ecc 3:19,21). Returns to God at death (Ecc 12:7). When it departs, thoughts perish (Ps 146:4). The LXX maps it to pneuma (~54%) and anemos ("wind," ~10%).
 
-### [Neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} (H5397): 25 occurrences
-Much rarer and more specialized. Specifically what God breathed into man (Gen 2:7). Applied to all air-breathing creatures (Gen 7:22). The LXX maps it primarily to pnoe (G4157), distinguishing it from [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}/[pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"}. The LXX translators appear to have recognized a semantic difference.
+### Neshamah (H5397): 25 occurrences
+Much rarer and more specialized. Specifically what God breathed into man (Gen 2:7). Applied to all air-breathing creatures (Gen 7:22). The LXX maps it primarily to pnoe (G4157), distinguishing it from ruach/pneuma. The LXX translators appear to have recognized a semantic difference.
 
-### [Athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} (G110): 3 occurrences
+### Athanasia (G110): 3 occurrences
 God alone possesses it (1 Tim 6:16). Humans must "put it on" (1 Cor 15:53,54). Every occurrence places immortality outside present human nature.
 
-### [Aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"} (G861): 8 occurrences
+### Aphtharsia (G861): 8 occurrences
 Must be sought (Rom 2:7). Brought to light through the gospel (2 Tim 1:10). Related to resurrection transformation (1 Cor 15:42,50,53,54).
 
-### [Thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} (G2349): 6 occurrences
+### Thnetos (G2349): 6 occurrences
 All applied to humans in their CURRENT state: mortal body (Rom 6:12; 8:11), mortal flesh (2 Cor 4:11), mortality (2 Cor 5:4), mortal (1 Cor 15:53). Humans are described as mortal.
 
 ---

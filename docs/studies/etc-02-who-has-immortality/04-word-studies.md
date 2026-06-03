@@ -1,11 +1,11 @@
 # Word Studies
 
-## [athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} -- [G110](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"}
-**Original:** [athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"}
-**Transliteration:** [athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"}
+## athanasia -- G110
+**Original:** athanasia
+**Transliteration:** athanasia
 **Pronunciation:** ath-an-as-ee
 **Part of Speech:** feminine noun (n-f)
-**Definition:** from a compound of alpha (as a negative particle) and [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (G2288, death); deathlessness
+**Definition:** from a compound of alpha (as a negative particle) and thanatos (G2288, death); deathlessness
 **BLB Count:** 3
 
 ### Translations
@@ -20,24 +20,24 @@
 | 1 Tim 6:16 | "[God] who only hath **immortality**" | God | present (inherent) |
 
 ### Key Observations
-1. [Athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} occurs only 3 times in the entire NT. It is never applied to human beings as a present possession.
-2. The only entity said to currently possess (echon) [athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} is God (1 Tim 6:16), modified by "only" (monos).
-3. In both 1 Cor 15 occurrences, [athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} is something "put on" (enduo) by mortal beings at the resurrection -- not something already possessed.
-4. The word is a direct negation of [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (death): a-thanasia = "deathlessness."
+1. Athanasia occurs only 3 times in the entire NT. It is never applied to human beings as a present possession.
+2. The only entity said to currently possess (echon) athanasia is God (1 Tim 6:16), modified by "only" (monos).
+3. In both 1 Cor 15 occurrences, athanasia is something "put on" (enduo) by mortal beings at the resurrection -- not something already possessed.
+4. The word is a direct negation of thanatos (death): a-thanasia = "deathlessness."
 
 ### Etymology
 - alpha privative (a-) = "not, without"
-- [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (G2288) = "death"
+- thanatos (G2288) = "death"
 - Result: "without death" = "deathlessness"
 
 ---
 
-## [aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"} -- [G861](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"}
-**Original:** [aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"}
-**Transliteration:** [aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"}
+## aphtharsia -- G861
+**Original:** aphtharsia
+**Transliteration:** aphtharsia
 **Pronunciation:** af-thar-see
 **Part of Speech:** feminine noun (n-f)
-**Definition:** from [aphthartos](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"} (G862); incorruptibility; genitive, unending existence
+**Definition:** from aphthartos (G862); incorruptibility; genitive, unending existence
 **BLB Count:** 8
 
 ### Translations
@@ -68,16 +68,16 @@
 | Tit 2:7 | "in doctrine shewing **uncorruptness**, gravity, sincerity" | quality of teaching |
 
 ### Key Observations
-1. When translated "immortality," [aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"} is something humans must seek (Rom 2:7) or that Christ brought to light (2 Tim 1:10) -- not something already possessed.
+1. When translated "immortality," aphtharsia is something humans must seek (Rom 2:7) or that Christ brought to light (2 Tim 1:10) -- not something already possessed.
 2. When translated "incorruption," it describes the future state of the resurrection body (1 Cor 15) -- the transformation from corruptible to incorruptible.
 3. The "sincerity" usage shows the word's root meaning: freedom from decay/corruption in any sense -- moral, physical, or ontological.
-4. In no occurrence is [aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"} said to be an inherent human possession.
+4. In no occurrence is aphtharsia said to be an inherent human possession.
 
 ---
 
-## [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} -- [G2349](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"}
-**Original:** [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"}
-**Transliteration:** [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"}
+## thnetos -- G2349
+**Original:** thnetos
+**Transliteration:** thnetos
 **Pronunciation:** thnay-tos
 **Part of Speech:** adjective (adj)
 **Definition:** from thnesko (to die); liable to die: mortal(-ity)
@@ -89,7 +89,7 @@
 
 ### All Verses (6 total -- complete list)
 
-| Verse | Text | What is called [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} |
+| Verse | Text | What is called thnetos |
 |-------|------|----------------------|
 | Rom 6:12 | "your **mortal** body" | the body |
 | Rom 8:11 | "your **mortal** bodies" | the body (future quickening promised) |
@@ -99,23 +99,23 @@
 | 2 Cor 5:4 | "**mortality** might be swallowed up of life" | the mortal condition |
 
 ### Key Observations
-1. [Thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} is applied to the human body/flesh in 4 of 6 occurrences (Rom 6:12; 8:11; 2 Cor 4:11; 5:4).
+1. Thnetos is applied to the human body/flesh in 4 of 6 occurrences (Rom 6:12; 8:11; 2 Cor 4:11; 5:4).
 2. In 1 Cor 15:53-54, "this mortal" (touto to thneton) is presented as the subject that must "put on" immortality -- the mortal puts on immortality, not a part of the human that already has it.
-3. No occurrence of [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} distinguishes between a "mortal body" and an "immortal soul." The whole person is addressed as mortal.
+3. No occurrence of thnetos distinguishes between a "mortal body" and an "immortal soul." The whole person is addressed as mortal.
 4. The word is from thnesko (to die) -- it describes that which is subject to death.
 
 ### Hebrew Sources (from Strong's cross-reference)
-- [H120](https://www.blueletterbible.org/lexicon/h120/kjv/wlc/0-1/){:target="_blank"}: adam (human being) -- count: 3, PMI: 5.05
-  This connects [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} to "adam" (humankind), reinforcing that mortality is predicated of humans as such.
+- H120: adam (human being) -- count: 3, PMI: 5.05
+  This connects thnetos to "adam" (humankind), reinforcing that mortality is predicated of humans as such.
 
 ---
 
-## [aphthartos](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"} -- [G862](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"}
-**Original:** [aphthartos](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"}
-**Transliteration:** [aphthartos](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"}
+## aphthartos -- G862
+**Original:** aphthartos
+**Transliteration:** aphthartos
 **Pronunciation:** af-thar-tos
 **Part of Speech:** adjective (adj)
-**Definition:** from alpha (as a negative particle) and a derivative of [phtheiro](https://www.blueletterbible.org/lexicon/g5351/kjv/tr/0-1/){:target="_blank"} (to corrupt/destroy); undecaying
+**Definition:** from alpha (as a negative particle) and a derivative of phtheiro (to corrupt/destroy); undecaying
 **BLB Count:** 7
 
 ### Translations
@@ -148,19 +148,19 @@
 | 1 Pet 3:4 | "the hidden man of the heart, in that which is **not corruptible**" |
 
 ### Key Observations
-1. God is called [aphthartos](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"} (1 Tim 1:17; Rom 1:23). Man is explicitly contrasted as corruptible ([phthartos](https://www.blueletterbible.org/lexicon/g5349/kjv/tr/0-1/){:target="_blank"}) in Rom 1:23.
-2. The resurrection body is called [aphthartos](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"} (1 Cor 15:52) -- the dead are raised incorruptible, meaning they were previously corruptible.
-3. The heavenly inheritance is [aphthartos](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"} (1 Pet 1:4) -- reserved in heaven, not something presently possessed on earth.
-4. The "incorruptible seed" (1 Pet 1:23) and "hidden man of the heart" (1 Pet 3:4) apply [aphthartos](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"} to spiritual qualities/new birth, not to inherent human nature.
+1. God is called aphthartos (1 Tim 1:17; Rom 1:23). Man is explicitly contrasted as corruptible (phthartos) in Rom 1:23.
+2. The resurrection body is called aphthartos (1 Cor 15:52) -- the dead are raised incorruptible, meaning they were previously corruptible.
+3. The heavenly inheritance is aphthartos (1 Pet 1:4) -- reserved in heaven, not something presently possessed on earth.
+4. The "incorruptible seed" (1 Pet 1:23) and "hidden man of the heart" (1 Pet 3:4) apply aphthartos to spiritual qualities/new birth, not to inherent human nature.
 
 ---
 
-## [phthora](https://www.blueletterbible.org/lexicon/g5356/kjv/tr/0-1/){:target="_blank"} -- [G5356](https://www.blueletterbible.org/lexicon/g5356/kjv/tr/0-1/){:target="_blank"}
-**Original:** [phthora](https://www.blueletterbible.org/lexicon/g5356/kjv/tr/0-1/){:target="_blank"}
-**Transliteration:** [phthora](https://www.blueletterbible.org/lexicon/g5356/kjv/tr/0-1/){:target="_blank"}
+## phthora -- G5356
+**Original:** phthora
+**Transliteration:** phthora
 **Pronunciation:** fthor-ah
 **Part of Speech:** feminine noun (n-f)
-**Definition:** from [phtheiro](https://www.blueletterbible.org/lexicon/g5351/kjv/tr/0-1/){:target="_blank"} (to corrupt/destroy); decay, i.e. ruin (spontaneous or inflicted, literally or figuratively)
+**Definition:** from phtheiro (to corrupt/destroy); decay, i.e. ruin (spontaneous or inflicted, literally or figuratively)
 **BLB Count:** 9
 
 ### Translations
@@ -191,17 +191,17 @@
 - Col 2:22 -- "Which all are to **perish** [phthora] with the using"
 
 ### Key Observations
-1. [Phthora](https://www.blueletterbible.org/lexicon/g5356/kjv/tr/0-1/){:target="_blank"} is the antonym of [aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"}. The corruption/incorruption contrast in 1 Cor 15 is [phthora](https://www.blueletterbible.org/lexicon/g5356/kjv/tr/0-1/){:target="_blank"} vs. [aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"}.
+1. Phthora is the antonym of aphtharsia. The corruption/incorruption contrast in 1 Cor 15 is phthora vs. aphtharsia.
 2. Creation is in "bondage of corruption" (Rom 8:21), waiting for deliverance.
 3. Corruption is linked to the flesh and sin: sowing to the flesh reaps corruption (Gal 6:8).
 4. Corruption is the present human condition from which deliverance is needed.
 
 ### Hebrew Sources
-- [H3588](https://www.blueletterbible.org/lexicon/h3588/kjv/wlc/0-1/){:target="_blank"}: ki (particle) -- count: 3, PMI: 1.83 (not conceptually significant)
+- H3588: ki (particle) -- count: 3, PMI: 1.83 (not conceptually significant)
 
 ---
 
-## diaphthora -- [G1312](https://www.blueletterbible.org/lexicon/g1312/kjv/tr/0-1/){:target="_blank"}
+## diaphthora -- G1312
 **Original:** diaphthora
 **Transliteration:** diaphthora
 **Pronunciation:** dee-af-thor-ah
@@ -230,22 +230,22 @@
 4. Diaphthora refers to physical decomposition -- the decay of the body after death.
 
 ### Hebrew Sources (top 3)
-- [H7845](https://www.blueletterbible.org/lexicon/h7845/kjv/wlc/0-1/){:target="_blank"}: [shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"} (pit, corruption) -- count: 8, PMI: 8.49, score: 18.65
-- [H7568](https://www.blueletterbible.org/lexicon/h7568/kjv/wlc/0-1/){:target="_blank"}: resheth (net) -- count: 3, PMI: 7.20
-- [H7843](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}: [shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"} (to decay, destroy) -- count: 3, PMI: 4.52
+- H7845: shachath (pit, corruption) -- count: 8, PMI: 8.49, score: 18.65
+- H7568: resheth (net) -- count: 3, PMI: 7.20
+- H7843: shachath (to decay, destroy) -- count: 3, PMI: 4.52
 
-Note: [shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"} (H7845/H7843) is the Hebrew word behind "corruption" in Psalm 16:10 that diaphthora translates in the LXX.
+Note: shachath (H7845/H7843) is the Hebrew word behind "corruption" in Psalm 16:10 that diaphthora translates in the LXX.
 
 ---
 
-## [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} + [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} -- [G2222](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} + [G166](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} ("eternal life")
+## zoe + aionios -- G2222 + G166 ("eternal life")
 
-### [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} -- [G2222](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"}
-**Original:** [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"}
-**Transliteration:** [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"}
+### zoe -- G2222
+**Original:** zoe
+**Transliteration:** zoe
 **Pronunciation:** dzo-ay
 **Part of Speech:** feminine noun (n-f)
-**Definition:** from zao (to live); life (literally or figuratively). Compare [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}.
+**Definition:** from zao (to live); life (literally or figuratively). Compare psyche.
 **BLB Count:** 134
 
 ### Translations
@@ -254,12 +254,12 @@ Note: [shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:ta
 - 1 (1.2%) "lifetime"
 - 1 (1.2%) "of the life"
 
-### [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} -- [G166](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}
-**Original:** [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}
-**Transliteration:** [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}
+### aionios -- G166
+**Original:** aionios
+**Transliteration:** aionios
 **Pronunciation:** ahee-o-nee-os
 **Part of Speech:** adjective (adj)
-**Definition:** from [aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} (age); perpetual (also used of past time, or past and future as well)
+**Definition:** from aion (age); perpetual (also used of past time, or past and future as well)
 **BLB Count:** 71
 
 ### Translations
@@ -268,9 +268,9 @@ Note: [shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:ta
 - 7 (14.6%) "of eternal"
 - Other: "since the world began," "for ever," etc.
 
-### "Eternal Life" ([zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}) -- Key Passages
+### "Eternal Life" (zoe aionios) -- Key Passages
 
-The phrase [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} (eternal life / everlasting life) appears across many NT books. Key occurrences relevant to this study:
+The phrase zoe aionios (eternal life / everlasting life) appears across many NT books. Key occurrences relevant to this study:
 
 | Verse | Text | How eternal life is described |
 |-------|------|------------------------------|
@@ -302,9 +302,9 @@ The phrase [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:tar
 
 ---
 
-## [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} -- [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}
-**Original:** [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}
-**Transliteration:** [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}
+## thanatos -- G2288
+**Original:** thanatos
+**Transliteration:** thanatos
 **Pronunciation:** than-at-os
 **Part of Speech:** masculine noun (n-m)
 **Definition:** from thnesko (to die); death (literally or figuratively)
@@ -330,22 +330,22 @@ The phrase [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:tar
 | Heb 2:14 | "him that had the power of death, that is, the devil" |
 
 ### Key Observations
-1. [Thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} is the word negated in a-thanasia (G110). [Athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} literally means "no-death."
+1. Thanatos is the word negated in a-thanasia (G110). Athanasia literally means "no-death."
 2. Death entered through Adam's sin (Rom 5:12) and passes to all humans -- it is universal.
 3. Death is called "the last enemy" that will be destroyed (1 Cor 15:26).
-4. Christ "abolished" ([katargeo](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} -- rendered inoperative) death (2 Tim 1:10).
-5. The wages of sin is [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (Rom 6:23); the gift of God is [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}.
+4. Christ "abolished" (katargeo -- rendered inoperative) death (2 Tim 1:10).
+5. The wages of sin is thanatos (Rom 6:23); the gift of God is zoe aionios.
 
 ### Hebrew Sources (top 5)
-- [H4194](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"}: [maveth](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"} (death) -- count: 97, PMI: 5.98, score: 27.43
-- [H1698](https://www.blueletterbible.org/lexicon/h1698/kjv/wlc/0-1/){:target="_blank"}: deber (pestilence) -- count: 34, PMI: 6.19, score: 22.00
-- [H4191](https://www.blueletterbible.org/lexicon/h4191/kjv/wlc/0-1/){:target="_blank"}: [muth](https://www.blueletterbible.org/lexicon/h4191/kjv/wlc/0-1/){:target="_blank"} (to die) -- count: 84, PMI: 3.56, score: 15.81
-- [H7458](https://www.blueletterbible.org/lexicon/h7458/kjv/wlc/0-1/){:target="_blank"}: ra'ab (hunger/famine) -- count: 25, PMI: 4.83
-- [H6757](https://www.blueletterbible.org/lexicon/h6757/kjv/wlc/0-1/){:target="_blank"}: [tsalmaveth](https://www.blueletterbible.org/lexicon/h6757/kjv/wlc/0-1/){:target="_blank"} (shadow of death/grave) -- count: 12, PMI: 6.09
+- H4194: maveth (death) -- count: 97, PMI: 5.98, score: 27.43
+- H1698: deber (pestilence) -- count: 34, PMI: 6.19, score: 22.00
+- H4191: muth (to die) -- count: 84, PMI: 3.56, score: 15.81
+- H7458: ra'ab (hunger/famine) -- count: 25, PMI: 4.83
+- H6757: tsalmaveth (shadow of death/grave) -- count: 12, PMI: 6.09
 
 ---
 
-## aidios -- [G126](https://www.blueletterbible.org/lexicon/g126/kjv/tr/0-1/){:target="_blank"} (Supporting)
+## aidios -- G126 (Supporting)
 **Original:** aidios
 **Transliteration:** aidios
 **Pronunciation:** ah-id-ee-os
@@ -364,7 +364,7 @@ The phrase [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:tar
 | Jude 1:6 | "in **everlasting** [aidios] chains under darkness" |
 
 ### Key Observations
-1. Aidios is much rarer than [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} (2 vs. 71 occurrences). It appears to denote permanent, everlasting duration.
+1. Aidios is much rarer than aionios (2 vs. 71 occurrences). It appears to denote permanent, everlasting duration.
 2. Applied to God's power (Rom 1:20) and to the chains binding fallen angels (Jude 1:6).
 3. Not directly applied to human immortality in any occurrence.
 
@@ -391,23 +391,10 @@ LIFE/ETERNAL FAMILY:
 ```
 
 ### Distribution Pattern
-- **Immortality/incorruption applied to God:** [athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} (1 Tim 6:16), [aphthartos](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"} (1 Tim 1:17; Rom 1:23)
-- **Immortality/incorruption as future for believers:** [athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} (1 Cor 15:53-54), [aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"} (1 Cor 15:42, 50, 53, 54), [aphthartos](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"} (1 Cor 15:52)
-- **Immortality/incorruption applied to spiritual qualities:** [aphthartos](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"} (1 Pet 1:4, 23; 3:4; 1 Cor 9:25)
-- **Immortality/incorruption as something to seek or that Christ revealed:** [aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"} (Rom 2:7; 2 Tim 1:10)
-- **Mortality/corruption applied to humans:** [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} (Rom 6:12; 8:11; 2 Cor 4:11; 5:4), [phthora](https://www.blueletterbible.org/lexicon/g5356/kjv/tr/0-1/){:target="_blank"} (1 Cor 15:42, 50; Gal 6:8)
-- **Mortality/corruption never applied to God:** God is always [aphthartos](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"}, never [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} or [phthartos](https://www.blueletterbible.org/lexicon/g5349/kjv/tr/0-1/){:target="_blank"}.
-- **Immortality/incorruption never applied to human beings as a present inherent possession:** In no NT verse is a human being or the human soul described with [athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"}, [aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"}, or [aphthartos](https://www.blueletterbible.org/lexicon/g862/kjv/tr/0-1/){:target="_blank"} as a current, inherent quality.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |
+- **Immortality/incorruption applied to God:** athanasia (1 Tim 6:16), aphthartos (1 Tim 1:17; Rom 1:23)
+- **Immortality/incorruption as future for believers:** athanasia (1 Cor 15:53-54), aphtharsia (1 Cor 15:42, 50, 53, 54), aphthartos (1 Cor 15:52)
+- **Immortality/incorruption applied to spiritual qualities:** aphthartos (1 Pet 1:4, 23; 3:4; 1 Cor 9:25)
+- **Immortality/incorruption as something to seek or that Christ revealed:** aphtharsia (Rom 2:7; 2 Tim 1:10)
+- **Mortality/corruption applied to humans:** thnetos (Rom 6:12; 8:11; 2 Cor 4:11; 5:4), phthora (1 Cor 15:42, 50; Gal 6:8)
+- **Mortality/corruption never applied to God:** God is always aphthartos, never thnetos or phthartos.
+- **Immortality/incorruption never applied to human beings as a present inherent possession:** In no NT verse is a human being or the human soul described with athanasia, aphtharsia, or aphthartos as a current, inherent quality.

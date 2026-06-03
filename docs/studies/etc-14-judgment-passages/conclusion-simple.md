@@ -30,7 +30,7 @@ Notably, the "everlasting fire" in v.41 is described as "prepared for the devil 
 
 ### Isaiah 66:24 — Worm, Fire, and Carcasses
 
-**"They shall go forth, and look upon the carcases of the men that have transgressed against me: for their worm shall not die, neither shall their fire be quenched; and they shall be an abhorring unto all flesh"** (Isa 66:24). The Hebrew word for "carcases" (*peger*) means dead body or corpse — it is used 22 times in the Old Testament and always refers to a dead body, never to a living person. The worm and fire act upon dead bodies.
+**"They shall go forth, and look upon the carcases of the men that have transgressed against me: for their worm shall not die, neither shall their fire be quenched; and they shall be an abhorring unto all flesh"** (Isa 66:24). The Hebrew word for "carcases" (*peger*) means dead body or corpse — it is used 24 times in the Old Testament and always refers to a dead body, never to a living person. The worm and fire act upon dead bodies.
 
 The context confirms this: verses 16-17 state that "the slain of the LORD shall be many" and the transgressors "shall be consumed together" — they are slain and consumed before verse 24 describes their carcasses.
 
@@ -46,7 +46,7 @@ Paul writes that those who do not obey the gospel **"shall be punished with ever
 
 ### Hebrews 10:26-31 — Fire That Devours, Perdition vs. Salvation
 
-The author writes of **"a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries"** (Heb 10:27). "Devour" (*[katesthio](https://www.blueletterbible.org/lexicon/g2719/kjv/tr/0-1/){:target="_blank"}*) means to consume or eat up — destruction vocabulary. The argument in verse 28 uses death as the standard: "He that despised Moses' law died without mercy." Verse 29 then asks about a "sorer punishment" — but the passage's own language for the outcome is "perdition" (*[apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}*, meaning destruction or ruin) in verse 39, contrasted with "saving of the soul." The binary is destruction versus salvation, not torment versus salvation.
+The author writes of **"a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries"** (Heb 10:27). "Devour" (*[esthio](https://www.blueletterbible.org/lexicon/g2068/kjv/tr/0-1/){:target="_blank"}*) means to consume or eat up — destruction vocabulary. The argument in verse 28 uses death as the standard: "He that despised Moses' law died without mercy." Verse 29 then asks about a "sorer punishment" — but the passage's own language for the outcome is "perdition" (*[apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}*, meaning destruction or ruin) in verse 39, contrasted with "saving of the soul." The binary is destruction versus salvation, not torment versus salvation.
 
 ### Romans 2:5-11 — Wrath, Tribulation, and Perishing
 

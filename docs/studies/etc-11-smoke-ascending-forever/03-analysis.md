@@ -34,11 +34,11 @@ What do Revelation 14:9-11 and 19:3 describe? What is the OT background for the 
 **Direct statement:** "The LORD rained upon Sodom and upon Gomorrah brimstone and fire from the LORD out of heaven" (v.24). "He overthrew those cities, and all the plain, and all the inhabitants of the cities" (v.25). Abraham "looked... and beheld... the smoke of the country went up as the smoke of a furnace" (v.28).
 
 **Key observations:**
-1. The vocabulary is consistently destruction: "overthrew" (v.25), "destroyed" (v.29 -- same root).
+1. The vocabulary is consistently destruction: "overthrew" (הפך, haphak, v.25), "destroyed" (שׁחת, shachath, v.29 -- a different root, though v.29 also contains the noun הפכה, haphekah, "overthrow," from the same root as v.25).
 2. Abraham observes the aftermath: ascending smoke from a completed destruction event. The cities are gone. The smoke is the evidence of what the fire did.
 3. This is the foundational type for all subsequent fire-and-brimstone imagery in Scripture. Every later reference to fire and brimstone as divine judgment draws on this paradigm.
-4. Jesus describes this event: "it rained fire and brimstone from heaven, and destroyed them all" (Luke 17:29). The vocabulary is [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} -- destruction.
-5. Jude 1:7 calls this "the vengeance of eternal fire" and says Sodom is "set forth for an example." Sodom is not still burning. The fire was "eternal" ([aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}) in result, not in ongoing combustion.
+4. Jesus describes this event: "it rained fire and brimstone from heaven, and destroyed them all" (Luke 17:29). The vocabulary is apollymi -- destruction.
+5. Jude 1:7 calls this "the vengeance of eternal fire" and says Sodom is "set forth for an example." Sodom is not still burning. The fire was "eternal" (aionios) in result, not in ongoing combustion.
 6. 2 Peter 2:6 says God turned Sodom "into ashes" and made it "an ensample." The result of the fire-and-brimstone judgment is ashes.
 
 **Cross-references:** Gen 19:28 parallels with Isa 34:10 (fire/brimstone + smoke ascending), Rev 18:9 (smoke of her burning observed), Jude 1:7 and 2 Pet 2:6 (Sodom as example). E202 documents the "eternal fire" applied to Sodom.
@@ -57,9 +57,9 @@ What do Revelation 14:9-11 and 19:3 describe? What is the OT background for the 
 3. "Leave them neither root nor branch" -- nothing of them remains. Complete destruction.
 4. "Ashes under the soles of your feet" -- the wicked are reduced to ashes. The righteous walk on the ashes of the destroyed wicked.
 5. This is an OT eschatological text using fire imagery for complete consumption. The end product is ashes, not ongoing burning.
-6. Already registered as E245 (Cond.) and E246 (Cond.) in etc-06.
+6. Already registered as E245 (Cond.) and E246 (Cond.) in etc6-06.
 
-**Cross-references:** The oven/fire/stubble/ashes imagery in Malachi parallels the chaff-burning of Matt 3:12, the tares-burning of Matt 13:40-42, and the destruction vocabulary pattern documented in etc-06.
+**Cross-references:** The oven/fire/stubble/ashes imagery in Malachi parallels the chaff-burning of Matt 3:12, the tares-burning of Matt 13:40-42, and the destruction vocabulary pattern documented in etc6-06.
 
 ---
 
@@ -99,7 +99,7 @@ The fire-and-brimstone judgment produces *corpses* — dead bodies that require 
 3. **"Tormented with fire and brimstone":** The OT fire-and-brimstone paradigm, from its first occurrence (Gen 19:24 Sodom), describes destruction. Every OT brimstone passage (H1614 gophriyth, 7 occurrences) describes destructive judgment. Luke 17:29, the only non-Revelation NT use of theion (G2303), says the fire and brimstone "destroyed them all."
 4. **"Smoke of their torment ascendeth up for ever and ever":** The verbal correspondence with Isa 34:10 ("the smoke thereof shall go up for ever") is the highest-scoring OT parallel (tool-verified, 0.401). In the OT source, this describes permanent desolation with animals inhabiting the ruins, not ongoing combustion.
 5. **"No rest day nor night":** The phrase uses anapausis (G372). The same word appears in Rev 4:8, where the living creatures "rest not day and night" in ceaseless praise. The Rev 4:8 usage demonstrates that "rest not day and night" characterizes the continuous nature of an activity during its duration, not necessarily an eternal conscious state.
-6. **[basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} (G929) in same-book context:** The noun "torment" ([basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"}) occurs 6 times -- all in Revelation. Three describe Babylon's "torment" (Rev 18:7,10,15). But Babylon's "torment" IS her destruction: "utterly burned with fire" (18:8), "in one hour" (18:10,17), "thrown down, and shall be found no more at all" (18:21). The same word describes a completed destruction event for Babylon.
+6. **basanismos (G929) in same-book context:** The noun "torment" (basanismos) occurs 6 times -- all in Revelation. Three describe Babylon's "torment" (Rev 18:7,10,15). But Babylon's "torment" IS her destruction: "utterly burned with fire" (18:8), "in one hour" (18:10,17), "thrown down, and shall be found no more at all" (18:21). The same word describes a completed destruction event for Babylon.
 7. **Contrast with v.13:** Two verses later, the faithful dead "rest" (anapauomai, cognate of anapausis) from their labors. Beast-worshippers: no rest. Faithful dead: rest. The contrast functions within the passage's own literary structure.
 8. **"In the presence of the holy angels, and in the presence of the Lamb":** The torment occurs before the Lamb and the angels -- a public judgment event. This language does not describe a hidden ongoing state but a visible execution of judgment.
 
@@ -121,7 +121,7 @@ In every case, *enōpion* denotes a judicial or ceremonial event — an appearan
 
 **The ECT tension with the Lamb's presence:** If the torment described in Rev 14:10 is eternal and ongoing, and it occurs "in the presence of the Lamb," then the Lamb eternally witnesses the torment of the wicked. This creates a profound tension with:
 - Rev 21:4 — "God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away." If eternal torment occurs in the Lamb's presence, pain has not passed away — it continues forever within the Lamb's own sight.
-- The character of God as revealed in the etc-17 study: God "retaineth not his anger for ever" (Mic 7:18); "his anger endureth but a moment" (Ps 30:5).
+- The character of God as revealed in the etc6-17 study: God "retaineth not his anger for ever" (Mic 7:18); "his anger endureth but a moment" (Ps 30:5).
 
 **The OT fire-and-brimstone paradigm:** Every OT instance of fire and brimstone describes a destructive judgment *event*, not an ongoing state:
 - Gen 19:24 — Sodom destroyed by fire and brimstone; result: permanent desolation, not perpetual burning
@@ -146,7 +146,7 @@ The fire-and-brimstone falls, destroys, and the aftermath is desolation — not 
 1. Rev 19:3 uses the identical "smoke... for ever and ever" (eis tous aionas ton aionon) formula as Rev 14:11.
 2. This formula is applied to Babylon -- a symbolic entity ("MYSTERY, BABYLON THE GREAT," Rev 17:5). E316 documents this.
 3. Babylon's destruction is described in detail in Rev 17-18: burned with fire (17:16), utterly burned (18:8), come to nought in one hour (18:17), thrown down, found no more at all (18:21).
-4. Babylon's "torment" ([basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"}, 18:7,10,15) IS her destruction. The smoke of her burning is observed by kings, merchants, and shipmasters who stand afar off (18:9,15,18).
+4. Babylon's "torment" (basanismos, 18:7,10,15) IS her destruction. The smoke of her burning is observed by kings, merchants, and shipmasters who stand afar off (18:9,15,18).
 5. The ascending smoke in 19:3 is the memorial/evidence of a completed destruction event -- the same function smoke serves in Gen 19:28 (Abraham observing Sodom's smoke) and Isa 34:10 (Edom's smoke ascending for ever).
 6. This is the strongest same-book, same-author, same-formula evidence for interpreting the "smoke ascending for ever" language: the same formula that some interpret as eternal conscious torment in Rev 14:11 is applied to Babylon's completed destruction in Rev 19:3.
 
@@ -162,7 +162,7 @@ The fire-and-brimstone falls, destroys, and the aftermath is desolation — not 
 1. **Different subjects, different descriptions:** Verse 9 describes the human enemies being "devoured" (katephagen) -- destruction vocabulary. Verse 10 describes the devil, the beast, and the false prophet being "tormented day and night for ever and ever."
 2. The beast and the false prophet are symbolic entities (E205). The devil is a non-human spirit being. None of the three subjects in v.10 is a literal human being.
 3. The human enemies in v.9 are described with destruction vocabulary ("devoured"), not torment vocabulary.
-4. Rev 20:14-15 then describes death, [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}, and unsaved humans being cast into the lake of fire. When humans enter, the identifying term is "second death" (E204) -- death vocabulary, not torment vocabulary.
+4. Rev 20:14-15 then describes death, hades, and unsaved humans being cast into the lake of fire. When humans enter, the identifying term is "second death" (E204) -- death vocabulary, not torment vocabulary.
 5. The text does not say "the wicked shall be tormented day and night for ever and ever." It says the devil, beast, and false prophet experience this. The human fate is described as "devoured" (v.9) and "second death" (vv.14-15).
 
 ---
@@ -181,17 +181,17 @@ The fire-and-brimstone falls, destroys, and the aftermath is desolation — not 
 
 ---
 
-### Revelation 18:7-10,15,21 (Babylon's [Basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"})
+### Revelation 18:7-10,15,21 (Babylon's Basanismos)
 
 **Context:** The fall of Babylon.
 
 **Direct statement:** "So much torment and sorrow give her" (v.7). "She shall be utterly burned with fire" (v.8). "Standing afar off for the fear of her torment, saying, Alas, alas... for in one hour is thy judgment come" (v.10). "The merchants... shall stand afar off for the fear of her torment" (v.15). "Thrown down, and shall be found no more at all" (v.21).
 
 **Key observations:**
-1. [Basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} (G929) is used three times for Babylon's "torment" (18:7,10,15).
+1. Basanismos (G929) is used three times for Babylon's "torment" (18:7,10,15).
 2. Babylon's "torment" is described as: utterly burned with fire (v.8), come in one hour (v.10,17), thrown down and found no more at all (v.21).
-3. The "torment" IS the destruction. [Basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} describes the judgment event itself, which is a completed and total destruction.
-4. This is the closest same-book, same-word context for interpreting [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} in Rev 14:11. Three of the six NT occurrences of [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} describe a completed destruction event.
+3. The "torment" IS the destruction. Basanismos describes the judgment event itself, which is a completed and total destruction.
+4. This is the closest same-book, same-word context for interpreting basanismos in Rev 14:11. Three of the six NT occurrences of basanismos describe a completed destruction event.
 
 ---
 
@@ -276,16 +276,16 @@ In no OT passage does fire and brimstone describe ongoing conscious torment. Eve
 
 In the OT, smoke consistently represents the aftermath/evidence of completed destruction or transience and vanishing. It does not represent ongoing conscious existence.
 
-### Pattern 3: [Basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} in Same-Book Context (Babylon's "Torment" = Destruction)
+### Pattern 3: Basanismos in Same-Book Context (Babylon's "Torment" = Destruction)
 
-The noun [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} (G929) occurs 6 times -- all in Revelation:
+The noun basanismos (G929) occurs 6 times -- all in Revelation:
 1. Rev 9:5 -- scorpion torment, limited to 5 months (temporary)
 2. Rev 14:11 -- smoke of their torment (the passage under study)
 3. Rev 18:7 -- Babylon's torment
 4. Rev 18:10 -- Babylon's torment
 5. Rev 18:15 -- Babylon's torment
 
-Three of six occurrences describe Babylon's "torment," and Babylon's "torment" IS her destruction: utterly burned with fire (18:8), in one hour (18:10,17), thrown down and found no more at all (18:21). One occurrence (Rev 9:5) has an explicit time limit of 5 months. The same-book context demonstrates that [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} does not require "eternal conscious suffering" as its meaning.
+Three of six occurrences describe Babylon's "torment," and Babylon's "torment" IS her destruction: utterly burned with fire (18:8), in one hour (18:10,17), thrown down and found no more at all (18:21). One occurrence (Rev 9:5) has an explicit time limit of 5 months. The same-book context demonstrates that basanismos does not require "eternal conscious suffering" as its meaning.
 
 ### Pattern 4: "No Rest Day and Night" as Quality of Activity, Not Duration
 
@@ -335,9 +335,9 @@ Babylon is explicitly described as utterly destroyed (Rev 18:8,17,21). The smoke
 
 Each later occurrence draws on the earlier: Isa 34 draws on Gen 19's fire-and-brimstone; Revelation draws on Isa 34's smoke-ascending-for-ever. The OT source texts consistently describe destruction with permanent results, not ongoing conscious torment.
 
-### The [Basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} Chain (Rev 9:5 --> Rev 14:11 --> Rev 18:7,10,15)
+### The Basanismos Chain (Rev 9:5 --> Rev 14:11 --> Rev 18:7,10,15)
 
-[Basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} appears to describe: a temporary affliction (9:5, five months), the judgment of beast-worshippers (14:11), and the destruction of Babylon (18:7,10,15). The Babylon usage is the most extensive (3 of 6 occurrences) and the most interpretively informative: Babylon's "torment" is her total, completed destruction.
+Basanismos appears to describe: a temporary affliction (9:5, five months), the judgment of beast-worshippers (14:11), and the destruction of Babylon (18:7,10,15). The Babylon usage is the most extensive (3 of 6 occurrences) and the most interpretively informative: Babylon's "torment" is her total, completed destruction.
 
 ### The Anapausis Contrast (Rev 4:8, 14:11, 14:13)
 
@@ -351,13 +351,13 @@ The contrast is: beast-worshippers face judgment admitting no respite; the faith
 
 ## Word Study Insights
 
-### [Basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} (G929): Not Exclusively "Eternal Conscious Torment"
+### Basanismos (G929): Not Exclusively "Eternal Conscious Torment"
 
-[Basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} occurs 6 times, all in Revelation. Three describe a completed destruction event (Babylon). One describes a temporary affliction (Rev 9:5, five months). The word describes the experience of undergoing judgment, not necessarily a permanent conscious state. Its same-book usage for Babylon's destruction is the controlling context for Rev 14:11.
+Basanismos occurs 6 times, all in Revelation. Three describe a completed destruction event (Babylon). One describes a temporary affliction (Rev 9:5, five months). The word describes the experience of undergoing judgment, not necessarily a permanent conscious state. Its same-book usage for Babylon's destruction is the controlling context for Rev 14:11.
 
-### [Basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (G928): Wide Semantic Range
+### Basanizo (G928): Wide Semantic Range
 
-The verb [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} occurs 12 times and covers: physical illness (Matt 8:6), a boat tossed by waves (Matt 14:24), physical effort/toiling (Mark 6:48), emotional distress (2 Pet 2:8), labor pains (Rev 12:2), demonic fear (Matt 8:29), and divine judgment (Rev 14:10; 20:10). The word describes any form of distress or affliction, not exclusively eternal conscious torment.
+The verb basanizo occurs 12 times and covers: physical illness (Matt 8:6), a boat tossed by waves (Matt 14:24), physical effort/toiling (Mark 6:48), emotional distress (2 Pet 2:8), labor pains (Rev 12:2), demonic fear (Matt 8:29), and divine judgment (Rev 14:10; 20:10). The word describes any form of distress or affliction, not exclusively eternal conscious torment.
 
 ### Anapausis (G372): Rest/Cessation -- Quality of Activity
 
@@ -369,7 +369,7 @@ All 13 occurrences are in Acts (1, quoting Joel) or Revelation (12). In Revelati
 
 ### Theion (G2303): Brimstone -- Agent of Destruction
 
-All 7 NT occurrences. The only non-Revelation use (Luke 17:29) describes Sodom's destruction: "destroyed them all." The OT equivalent (gophriyth, [H1614](https://www.blueletterbible.org/lexicon/h1614/kjv/wlc/0-1/){:target="_blank"}, 7 occurrences) functions as an agent of destruction and desolation in every instance. No occurrence of brimstone in either testament describes ongoing conscious torment.
+All 7 NT occurrences. The only non-Revelation use (Luke 17:29) describes Sodom's destruction: "destroyed them all." The OT equivalent (gophriyth, H1614, 7 occurrences) functions as an agent of destruction and desolation in every instance. No occurrence of brimstone in either testament describes ongoing conscious torment.
 
 ---
 
@@ -380,13 +380,13 @@ All 7 NT occurrences. The only non-Revelation use (Luke 17:29) describes Sodom's
 Read in isolation from its OT source imagery, Rev 14:10-11 appears to describe ongoing conscious torment: "tormented with fire and brimstone... smoke of their torment ascendeth up for ever and ever... no rest day nor night." The ECT reading of this passage carries force from the surface language.
 
 The text under analysis:
-- Rev 14:10 uses [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} ("tormented"), not a destruction verb.
+- Rev 14:10 uses basanizo ("tormented"), not a destruction verb.
 - Rev 14:11 describes "smoke of their torment" -- not smoke of their destruction.
 - "No rest day nor night" parallels conscious activity.
 
 Against this surface reading, the analysis identifies:
 1. The OT source (Isa 34:10) uses the identical formula for a demonstrably completed judgment.
-2. Same-book usage: [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} describes Babylon's completed destruction (Rev 18:7,10,15).
+2. Same-book usage: basanismos describes Babylon's completed destruction (Rev 18:7,10,15).
 3. Same-book usage: "rest not day and night" describes continuous activity in Rev 4:8.
 4. The fire-and-brimstone paradigm from Gen 19 through every OT occurrence describes destruction.
 5. The genre is apocalyptic vision (Tree 3 Gate 3).
@@ -407,7 +407,7 @@ The text distinguishes between these subjects. Whether the fate of the devil can
 
 The "eis tous aionas ton aionon" formula is used ~19 times for God/Christ (Rev 1:6; 4:9; 5:13; 7:12; 10:6; 11:15; 15:7; 22:5, etc.) and 3 times in judgment contexts (Rev 14:11; 19:3; 20:10). When applied to God, the formula carries its maximal force because God is genuinely eternal. The question is whether the same formula automatically carries identical force when applied to judgment.
 
-The OT evidence from etc-07 and etc-08 demonstrates that "forever" vocabulary carries duration determined by its subject: [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} for God's reign (genuinely unending) vs. [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} for a slave's service (one lifetime) vs. [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} for Edom's smoke (ended). The same word carries different durations for different subjects.
+The OT evidence from etc6-07 and etc6-08 demonstrates that "forever" vocabulary carries duration determined by its subject: olam for God's reign (genuinely unending) vs. olam for a slave's service (one lifetime) vs. olam for Edom's smoke (ended). The same word carries different durations for different subjects.
 
 ---
 

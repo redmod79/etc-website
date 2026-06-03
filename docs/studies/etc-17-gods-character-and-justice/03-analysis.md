@@ -18,21 +18,21 @@ This formula is repeated or echoed in at least 5 other OT passages: Ps 86:15, Jo
 #### Psalm 103:8-14 -- God's Mercy Exceeds His Wrath
 **Text:** "The LORD [is] merciful and gracious, slow to anger, and plenteous in mercy. He will not always chide: neither will he keep [his anger] for ever. He hath not dealt with us after our sins; nor rewarded us according to our iniquities... For he knoweth our frame; he remembereth that we [are] dust."
 
-**Analysis:** David echoes the Ex 34:6 formula and adds: (1) God will not always chide, (2) He will not keep anger forever, (3) He has not dealt with us according to our sins, (4) He remembers we are dust. The statement "he knoweth our frame; he remembereth that we [are] dust" connects directly to the anthropological finding of etc-01: man IS dust (Gen 2:7; 3:19). God's response to human sin is informed by His knowledge of human frailty and mortality.
+**Analysis:** David echoes the Ex 34:6 formula and adds: (1) God will not always chide, (2) He will not keep anger forever, (3) He has not dealt with us according to our sins, (4) He remembers we are dust. The statement "he knoweth our frame; he remembereth that we [are] dust" connects directly to the anthropological finding of etc6-01b: man IS dust (Gen 2:7; 3:19). God's response to human sin is informed by His knowledge of human frailty and mortality.
 
 **Tree 1 classification:** E (direct quote).
 
 #### Psalm 145:8-9,17,20 -- The LORD Is Good to All
-**Text:** "The LORD [is] gracious, and full of compassion; slow to anger, and of great mercy. The LORD [is] good to all: and his tender mercies [are] over all his works... The LORD [is] righteous in all his ways, and holy in all his works... The LORD preserveth all them that love him: but all the wicked will he destroy ([shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}, H8045)."
+**Text:** "The LORD [is] gracious, and full of compassion; slow to anger, and of great mercy. The LORD [is] good to all: and his tender mercies [are] over all his works... The LORD [is] righteous in all his ways, and holy in all his works... The LORD preserveth all them that love him: but all the wicked will he destroy (shamad, H8045)."
 
-**Analysis:** This psalm again echoes Ex 34:6 and then states the eschatological outcome: preservation for those who love God, destruction ([shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}) for the wicked. The word [shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"} was studied in etc-06 and means "to destroy utterly, to exterminate" -- cessation vocabulary, not torment vocabulary.
+**Analysis:** This psalm again echoes Ex 34:6 and then states the eschatological outcome: preservation for those who love God, destruction (shamad) for the wicked. The word shamad was studied in etc6-06 and means "to destroy utterly, to exterminate" -- cessation vocabulary, not torment vocabulary.
 
 **Tree 1 classification:** E (direct quote).
 
 #### Nahum 1:2-3,6-8 -- Wrath and Goodness Together
 **Text:** "God [is] jealous, and the LORD revengeth... slow to anger, and great in power, and will not at all acquit [the wicked]... Who can stand before his indignation?... his fury is poured out like fire... The LORD [is] good, a strong hold in the day of trouble... But with an overrunning flood he will make an utter end."
 
-**Analysis:** Nahum balances wrath and goodness in the same passage. The wrath vocabulary is vivid: jealous, revengeth, furious, fury poured out like fire. But the result of that wrath is stated: "he will make an utter end" ([kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}, [H3615](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"} -- consume, finish, studied in etc-06). The result is termination, not perpetuation.
+**Analysis:** Nahum balances wrath and goodness in the same passage. The wrath vocabulary is vivid: jealous, revengeth, furious, fury poured out like fire. But the result of that wrath is stated: "he will make an utter end" (kalah, H3617 -- complete destruction, utter end). The result is termination, not perpetuation.
 
 **Tree 1 classification:** E (direct quote).
 
@@ -60,9 +60,9 @@ This formula is repeated or echoed in at least 5 other OT passages: Ps 86:15, Jo
 **Tree 1 classification:** E (direct statement about the nature of divine punishment).
 
 #### Romans 2:5-6 -- According to Deeds
-**Text:** "But after thy hardness and impenitent heart treasurest up unto thyself wrath against the day of wrath and revelation of the righteous judgment [dikaiokrasia, G1341] of God; Who will render to every man according to his deeds."
+**Text:** "But after thy hardness and impenitent heart treasurest up unto thyself wrath against the day of wrath and revelation of the righteous judgment [dikaiokrisia, G1341] of God; Who will render to every man according to his deeds."
 
-**Analysis:** "According to his deeds" (kata ta erga autou) is the explicit principle. The deeds of a 70-year human life are finite. "According to" those finite deeds, God renders a proportional judgment. The unique word dikaiokrasia (righteous judgment, hapax legomenon) describes God's eschatological judgment as inherently just. Note also that v.7 treats immortality as something to be "sought" -- consistent with etc-02 findings. And v.12: those who sinned without law "shall perish" ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} -- destruction vocabulary).
+**Analysis:** "According to his deeds" (kata ta erga autou) is the explicit principle. The deeds of a 70-year human life are finite. "According to" those finite deeds, God renders a proportional judgment. The unique word dikaiokrisia (righteous judgment, hapax legomenon) describes God's eschatological judgment as inherently just. Note also that v.7 treats immortality as something to be "sought" -- consistent with etc6-02 findings. And v.12: those who sinned without law "shall perish" (apollymi -- destruction vocabulary).
 
 **Tree 1 classification:** E (direct statement of the proportionality principle).
 
@@ -91,7 +91,7 @@ In every case, the result is death/destruction -- never ongoing torment. Cain's 
 #### Romans 6:23 -- Wages of Sin
 **Text:** "For the wages of sin [is] death; but the gift of God [is] eternal life through Jesus Christ our Lord."
 
-**Analysis:** The contrast is death vs. eternal life. Death ([thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}) is the "wages" (opsonia -- military pay, proportional payment for service rendered). Eternal life is a "gift" ([charisma](https://www.blueletterbible.org/lexicon/g5486/kjv/tr/0-1/){:target="_blank"} -- unearned grace). If the punishment for sin were eternal conscious torment, the text would say "the wages of sin is eternal torment." It says death.
+**Analysis:** The contrast is death vs. eternal life. Death (thanatos) is the "wages" (opsonia -- military pay, proportional payment for service rendered). Eternal life is a "gift" (charisma -- unearned grace). If the punishment for sin were eternal conscious torment, the text would say "the wages of sin is eternal torment." It says death.
 
 Cross-testament parallels confirm: Rom 5:21 ("sin hath reigned unto death"), Rom 8:2 ("the law of the Spirit of life... made me free from the law of sin and death"), Rom 5:17 ("death reigned by one").
 
@@ -111,7 +111,7 @@ If the actual penalty were infinite conscious torment (infinitely worse than dea
 #### 2 Peter 3:9 -- Not Willing That Any Should Perish
 **Text:** "The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish [apollymi, G622], but that all should come to repentance."
 
-**Analysis:** God is "not willing that any should perish." The word is [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} -- the same destruction word used throughout the NT for the fate of the wicked (John 3:16; Matt 10:28; etc., studied in etc-06). God's stated will is that no one experience this perishing. The alternative is repentance, not an alternative form of afterlife.
+**Analysis:** God is "not willing that any should perish." The word is apollymi -- the same destruction word used throughout the NT for the fate of the wicked (John 3:16; Matt 10:28; etc., studied in etc6-06). God's stated will is that no one experience this perishing. The alternative is repentance, not an alternative form of afterlife.
 
 **Tree 1 classification:** E (direct statement of God's desire).
 

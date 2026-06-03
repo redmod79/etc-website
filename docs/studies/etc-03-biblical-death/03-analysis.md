@@ -37,7 +37,7 @@
 **Context:** God's action after the fall, explaining why man was expelled from the garden.
 **Direct statement:** Man was barred from the tree of life specifically to prevent him from living forever.
 **Key observations:**
-- The phrase "live for ever" ([chay](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"} le-[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}) indicates that without the tree of life, man would NOT live forever. This implies mortality is the natural result of being barred from the life source.
+- The phrase "live for ever" (chay le-olam) indicates that without the tree of life, man would NOT live forever. This implies mortality is the natural result of being barred from the life source.
 - If man already had an immortal soul that would live forever regardless, barring access to the tree of life would be pointless. The text presents the tree of life as necessary for continued existence.
 - This passage is already registered as E006 in the master evidence file.
 
@@ -48,19 +48,19 @@
 #### Ecclesiastes 12:7
 **Text:** "Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it."
 **Context:** The conclusion of Solomon's meditation on aging and death (Ecc 12:1-7).
-**Direct statement:** At death, two things happen: dust returns to earth; spirit ([ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}) returns to God.
+**Direct statement:** At death, two things happen: dust returns to earth; spirit (ruach) returns to God.
 **Key observations:**
 - This is the explicit reversal of Gen 2:7: dust + breath = living soul; at death, dust returns and spirit returns. The living soul ceases.
-- The text says the spirit returns to God "who gave it." This identifies [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} as God-given, not self-generating.
+- The text says the spirit returns to God "who gave it." This identifies ruach as God-given, not self-generating.
 - The text does NOT say the spirit returns as a conscious entity. Ps 146:4 states that in "that very day his thoughts perish." The text describes a reversal of the creation formula, not a transition to a different conscious state.
 - Already registered as E009.
 
 #### Ecclesiastes 3:19-20
 **Text:** "For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no preeminence above a beast: for all is vanity. All go unto one place; all are of the dust, and all turn to dust again."
 **Context:** Solomon's observation about the shared fate of humans and animals.
-**Direct statement:** Man and beast share the same breath ([ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}) and the same fate: death and return to dust.
+**Direct statement:** Man and beast share the same breath (ruach) and the same fate: death and return to dust.
 **Key observations:**
-- "One breath" ([ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} echad) -- the animating principle is the same for both.
+- "One breath" (ruach echad) -- the animating principle is the same for both.
 - "Man hath no preeminence above a beast" -- in the matter of death, humans and animals are equal.
 - "All go unto one place; all are of the dust, and all turn to dust again" -- death is defined as returning to dust for both.
 - Already registered as E008.
@@ -71,7 +71,7 @@
 **Direct statement:** The dead lack knowledge, reward, memory, love, hatred, envy, work, device, knowledge, and wisdom.
 **Key observations:**
 - Verse 5 states the dead "know not any thing" -- total negation of cognitive activity.
-- Verse 6 states love, hatred, and envy "have perished" ([abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}, H6) -- the same verb used for destruction/perishing elsewhere.
+- Verse 6 states love, hatred, and envy "have perished" (abad, H6) -- the same verb used for destruction/perishing elsewhere.
 - Verse 10 lists four categories of activity absent in death: work, device (planning), knowledge, wisdom. This is a comprehensive negation of mental and volitional activity.
 - The phrase "under the sun" appears in v.6, not v.5 or v.10. The ECT-direction inference (I002 in master) proposes that "under the sun" limits all of Ecclesiastes' death statements to earthly perspective. The text does not state this limitation.
 - Already registered as E019, E020, E021.
@@ -79,17 +79,17 @@
 #### Psalm 146:4
 **Text:** "His breath goeth forth, he returneth to his earth; in that very day his thoughts perish."
 **Context:** A psalm warning against trusting in human princes/leaders who are mortal.
-**Direct statement:** When breath ([ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}) departs, the person returns to earth, and thoughts perish in that very day.
+**Direct statement:** When breath (ruach) departs, the person returns to earth, and thoughts perish in that very day.
 **Key observations:**
 - "In that very day" -- the cessation of thought is immediate, not gradual or delayed.
-- "His thoughts perish" -- eshtonot (H6250, thoughts/plans) + [abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"} (H6, to perish/be destroyed).
+- "His thoughts perish" -- eshtonot (H6250, thoughts/plans) + abad (H6, to perish/be destroyed).
 - This directly contradicts any reading that the departing spirit carries consciousness. The text says thoughts perish when breath departs.
 - Already registered as E011.
 
 #### Psalm 104:29
 **Text:** "Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust."
 **Context:** A psalm celebrating God's providential care of all creation (animals and humans).
-**Direct statement:** When God takes breath ([ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}), creatures die and return to dust.
+**Direct statement:** When God takes breath (ruach), creatures die and return to dust.
 **Key observations:**
 - The subject is all creatures, not just humans (the psalm discusses animals in vv.24-28).
 - Death is described as God taking back what he gave: breath.
@@ -128,11 +128,11 @@
 #### Job 34:14-15
 **Text:** "If he set his heart upon man, if he gather unto himself his spirit and his breath; All flesh shall perish together, and man shall turn again unto dust."
 **Context:** Elihu's speech to Job about God's sovereignty.
-**Direct statement:** If God withdraws spirit ([ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}) and breath ([neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"}), all flesh perishes and returns to dust.
+**Direct statement:** If God withdraws spirit (ruach) and breath (neshamah), all flesh perishes and returns to dust.
 **Key observations:**
-- Confirms that life is maintained by God's ongoing provision of [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}/[neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"}.
+- Confirms that life is maintained by God's ongoing provision of ruach/neshamah.
 - Death is the withdrawal of this provision.
-- "All flesh shall perish" ([gava](https://www.blueletterbible.org/lexicon/h1478/kjv/wlc/0-1/){:target="_blank"}, [H1478](https://www.blueletterbible.org/lexicon/h1478/kjv/wlc/0-1/){:target="_blank"} -- to expire, breathe last) -- universal application.
+- "All flesh shall perish" (gava, H1478 -- to expire, breathe last) -- universal application.
 - Already registered as E012.
 
 #### Isaiah 38:18-19
@@ -147,10 +147,10 @@
 #### James 2:26
 **Text:** "For as the body without the spirit is dead, so faith without works is dead also."
 **Context:** James' argument about faith and works.
-**Direct statement:** The body without spirit ([pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"}) is dead.
+**Direct statement:** The body without spirit (pneuma) is dead.
 **Key observations:**
 - This provides a NT definition of death: separation of spirit from body = death.
-- This is consistent with the OT pattern: body (dust) + spirit ([ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}) = life; body minus spirit = death.
+- This is consistent with the OT pattern: body (dust) + spirit (ruach) = life; body minus spirit = death.
 - The text uses death as an analogy. The analogy works because the audience understands death as the body lacking the animating spirit.
 - The text does not say the spirit that departs is conscious. It says the body without the spirit is dead.
 - Already registered as E013.
@@ -164,7 +164,7 @@
 **Context:** Paul's theological argument about sin, death, and grace.
 **Direct statement:** Death entered the world through one man (Adam) as a result of sin. Death "passed upon" and "reigned over" all men.
 **Key observations:**
-- Paul uses [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (G2288) throughout this passage -- the same word used for physical death, spiritual death, and the second death. He does not use different vocabulary for different kinds of death.
+- Paul uses thanatos (G2288) throughout this passage -- the same word used for physical death, spiritual death, and the second death. He does not use different vocabulary for different kinds of death.
 - "Death by sin" (v.12) -- death is caused by sin. "Death reigned" (v.14,17) -- death exercised dominion.
 - The contrast is death vs. eternal life (v.21): "sin hath reigned unto death... grace reign... unto eternal life." These are presented as exhaustive alternatives.
 - This passage connects Gen 2:17 (the warning) to universal human experience (all die because all sin).
@@ -175,9 +175,9 @@
 **Context:** Paul's conclusion to his argument about sin and grace in Romans 6.
 **Direct statement:** Sin earns death; God gives eternal life.
 **Key observations:**
-- "Wages" (opsonia, G3800) = earned payment. "Gift" ([charisma](https://www.blueletterbible.org/lexicon/g5486/kjv/tr/0-1/){:target="_blank"}, G5486) = free gift. The contrast: death is earned; life is given.
+- "Wages" (opsonia, G3800) = earned payment. "Gift" (charisma, G5486) = free gift. The contrast: death is earned; life is given.
 - The structure presents death and eternal life as exhaustive, mutually exclusive alternatives. No third option (e.g., "eternal torment") is mentioned.
-- [Thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (G2288) is used -- the same word for all types of death.
+- Thanatos (G2288) is used -- the same word for all types of death.
 - Already registered as E087.
 
 #### 1 Corinthians 15:21-22
@@ -195,7 +195,7 @@
 **Direct statement:** Death is an enemy. It will be destroyed.
 **Key observations:**
 - Death is personified as an enemy (cf. Rev 6:8; 20:14).
-- Death is destroyed ([katargeo](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"}, [G2673](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} -- to make entirely idle, abolish, render inoperative). The same verb is used in 2 Tim 1:10 ("abolished death").
+- Death is destroyed (katargeo, G2673 -- to make entirely idle, abolish, render inoperative). The same verb is used in 2 Tim 1:10 ("abolished death").
 - If death is destroyed/abolished, it ceases to operate. Already registered as E065.
 
 #### 1 Corinthians 15:54-57
@@ -210,16 +210,16 @@
 #### Hebrews 2:14-15
 **Text:** "Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil; And deliver them who through fear of death were all their lifetime subject to bondage."
 **Context:** The author of Hebrews explaining why Christ became human.
-**Direct statement:** Christ died to destroy ([katargeo](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"}, G2673) the one who had the power of death (the devil) and to deliver those enslaved by fear of death.
+**Direct statement:** Christ died to destroy (katargeo, G2673) the one who had the power of death (the devil) and to deliver those enslaved by fear of death.
 **Key observations:**
 - "The power of death" (kratos tou thanatou) -- death is portrayed as a power held by the devil.
 - "Fear of death" kept people in bondage. This implies death is an enemy, something to fear, not a gateway to a better existence.
-- The verb [katargeo](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} is the same used in 1 Cor 15:26 (death destroyed) and 2 Tim 1:10 (death abolished).
+- The verb katargeo is the same used in 1 Cor 15:26 (death destroyed) and 2 Tim 1:10 (death abolished).
 
 #### Hebrews 9:27
 **Text:** "And as it is appointed unto men once to die, but after this the judgment."
 **Context:** The author comparing Christ's sacrifice to the annual Day of Atonement.
-**Direct statement:** Death is appointed (apokeimai, [G606](https://www.blueletterbible.org/lexicon/g606/kjv/tr/0-1/){:target="_blank"} -- to be reserved, laid up) for all men, followed by judgment.
+**Direct statement:** Death is appointed (apokeimai, G606 -- to be reserved, laid up) for all men, followed by judgment.
 **Key observations:**
 - Death is universal ("appointed unto men") and singular ("once to die").
 - The sequence is death, then judgment -- not death, then consciousness, then judgment.
@@ -228,10 +228,10 @@
 #### 2 Timothy 1:10
 **Text:** "But is now made manifest by the appearing of our Saviour Jesus Christ, who hath abolished death, and hath brought life and immortality to light through the gospel."
 **Context:** Paul describing Christ's accomplishment.
-**Direct statement:** Christ abolished ([katargeo](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"}) death and revealed life and immortality through the gospel.
+**Direct statement:** Christ abolished (katargeo) death and revealed life and immortality through the gospel.
 **Key observations:**
-- Death is abolished/made inoperative. [Katargeo](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"} (same word as 1 Cor 15:26 and Heb 2:14).
-- Life and immortality ([aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"}) are "brought to light" -- they are revealed, not inherent.
+- Death is abolished/made inoperative. Katargeo (same word as 1 Cor 15:26 and Heb 2:14).
+- Life and immortality (aphtharsia) are "brought to light" -- they are revealed, not inherent.
 - Already registered as E027.
 
 #### Isaiah 25:8
@@ -271,7 +271,7 @@
 **Context:** Paul describing the believers' past condition before conversion.
 **Direct statement:** Believers were "dead in trespasses and sins" before being "quickened" (made alive) with Christ.
 **Key observations:**
-- The same word [nekros](https://www.blueletterbible.org/lexicon/g3498/kjv/tr/0-1/){:target="_blank"} (G3498) is used for literal corpses (Matt 22:32; 1 Cor 15:35) and for the spiritually dead (Eph 2:1,5).
+- The same word nekros (G3498) is used for literal corpses (Matt 22:32; 1 Cor 15:35) and for the spiritually dead (Eph 2:1,5).
 - "Dead in trespasses and sins" describes a present condition of those physically alive. This is death language applied metaphorically.
 - The metaphor works precisely because the audience understands what death IS: cessation of life, inability to act. The spiritually dead are incapable of spiritual life, just as the physically dead are incapable of physical life.
 
@@ -297,20 +297,20 @@
 **Key observations:**
 - "Passed from death unto life" -- death and life are exhaustive alternatives. One passes FROM one TO the other.
 - "The hour is coming, and now is" -- both present spiritual reality and future physical reality are in view.
-- The same word [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (G2288) is used in both the spiritual sense (v.24) and the physical sense (elsewhere). No separate vocabulary.
+- The same word thanatos (G2288) is used in both the spiritual sense (v.24) and the physical sense (elsewhere). No separate vocabulary.
 
 #### Romans 8:5-6,13
 **Text:** "For to be carnally minded is death; but to be spiritually minded is life and peace... For if ye live after the flesh, ye shall die."
 **Context:** Paul's contrast between flesh and Spirit.
 **Direct statement:** Carnal mindedness = death. Spiritual mindedness = life and peace. Living after the flesh leads to death.
 **Key observations:**
-- [Thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (G2288) describes the spiritual state of the carnally minded -- the same word used for physical death.
+- Thanatos (G2288) describes the spiritual state of the carnally minded -- the same word used for physical death.
 - The contrast is death vs. life and peace. These are presented as opposites.
 
 #### Ephesians 4:18
 **Text:** "Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart."
 **Context:** Paul describing the condition of Gentiles outside of Christ.
-**Direct statement:** The unsaved are "alienated from the life of God" (apallotrioo apo [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} tou theou).
+**Direct statement:** The unsaved are "alienated from the life of God" (apallotrioo apo zoe tou theou).
 **Key observations:**
 - This is the closest the Bible comes to describing spiritual death as "separation from God's life." The text says they are alienated FROM the life of God, not that they are separated FROM God as a location.
 - The vocabulary is alienation (relational/covenantal), not spatial separation.
@@ -321,7 +321,7 @@
 **Direct statement:** Those who love have passed from death to life. Those who do not love "abide in death."
 **Key observations:**
 - Same pattern as John 5:24: death -> life transition.
-- "Abideth in death" (meno en [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}) -- death is a state one remains in unless transferred to life.
+- "Abideth in death" (meno en thanatos) -- death is a state one remains in unless transferred to life.
 
 #### 1 John 5:12
 **Text:** "He that hath the Son hath life; and he that hath not the Son of God hath not life."
@@ -334,7 +334,7 @@
 #### Romans 7:11
 **Text:** "For sin, taking occasion by the commandment, deceived me, and by it slew me."
 **Context:** Paul's autobiographical account of encountering the law.
-**Direct statement:** Sin "slew" ([apokteino](https://www.blueletterbible.org/lexicon/g615/kjv/tr/0-1/){:target="_blank"}, G615) Paul through the commandment.
+**Direct statement:** Sin "slew" (apokteino, G615) Paul through the commandment.
 **Key observations:**
 - Paul was physically alive when he wrote this. The "slaying" is metaphorical/spiritual.
 - The same verb used for literal killing is applied to spiritual death.
@@ -344,7 +344,7 @@
 **Context:** Zechariah's prophecy about John the Baptist's mission.
 **Direct statement:** People sit in "the shadow of death" (skia thanatou) and need light.
 **Key observations:**
-- "Shadow of death" echoes the OT [tsalmaveth](https://www.blueletterbible.org/lexicon/h6757/kjv/wlc/0-1/){:target="_blank"} (Ps 23:4; Job 3:5). It describes a condition of spiritual darkness, not physical death.
+- "Shadow of death" echoes the OT tsalmaveth (Ps 23:4; Job 3:5). It describes a condition of spiritual darkness, not physical death.
 
 #### 1 Peter 2:24
 **Text:** "Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness."
@@ -362,9 +362,9 @@
 **Context:** Christ's message to the church at Smyrna.
 **Direct statement:** Overcomers are exempt from the second death.
 **Key observations:**
-- The term "second death" (ho [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} ho deuteros) uses [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} -- the same word for all types of death.
+- The term "second death" (ho thanatos ho deuteros) uses thanatos -- the same word for all types of death.
 - The "second" implies a first death (physical death) and a second (final) death.
-- Those who overcome are "not hurt" (ou me adikeo, [G91](https://www.blueletterbible.org/lexicon/g91/kjv/tr/0-1/){:target="_blank"} -- not harmed/injured) by it.
+- Those who overcome are "not hurt" (ou me adikeo, G91 -- not harmed/injured) by it.
 
 #### Revelation 20:6
 **Text:** "Blessed and holy is he that hath part in the first resurrection: on such the second death hath no power."
@@ -377,10 +377,10 @@
 #### Revelation 20:14
 **Text:** "And death and hell were cast into the lake of fire. This is the second death."
 **Context:** The events following the great white throne judgment.
-**Direct statement:** Death and [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (G86) are cast into the lake of fire. The text explicitly identifies this as "the second death."
+**Direct statement:** Death and hades (G86) are cast into the lake of fire. The text explicitly identifies this as "the second death."
 **Key observations:**
 - The text defines the second death: it IS the lake of fire (or at minimum, the casting into it).
-- Death and [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} are personified and destroyed -- consistent with 1 Cor 15:26 ("the last enemy that shall be destroyed is death").
+- Death and hades are personified and destroyed -- consistent with 1 Cor 15:26 ("the last enemy that shall be destroyed is death").
 - The passage does not say the second death is eternal torment. It identifies the second death with the lake of fire, then separately in Rev 20:10 describes the fate of the devil, beast, and false prophet.
 
 #### Revelation 21:8
@@ -389,7 +389,7 @@
 **Direct statement:** The wicked "have their part in" (to meros, their portion) the lake of fire, which is the second death.
 **Key observations:**
 - Again, the second death is explicitly identified with the lake of fire.
-- The text calls it "death" ([thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}) -- the same word used for cessation, return to dust, etc. throughout Scripture.
+- The text calls it "death" (thanatos) -- the same word used for cessation, return to dust, etc. throughout Scripture.
 - The text does not define the second death as ongoing conscious torment. It calls it "death" -- the same word whose meaning has been established throughout Scripture.
 
 #### Revelation 20:10
@@ -400,7 +400,7 @@
 - The subjects are the devil, the beast, and the false prophet -- not human beings.
 - Tree 3 Gate 1 (Subject Gate) is relevant: are these literal human beings? The beast and false prophet are symbolic entities in Revelation's apocalyptic imagery.
 - Rev 20:14-15 describes humans being cast into the lake of fire separately, and calls it "the second death" -- not "torment."
-- This passage is examined in depth in later etc studies (etc-07 through etc-13). For this study, the observation is that "the second death" is the term applied to the human fate, while "tormented day and night" is applied to the devil, beast, and false prophet.
+- This passage is examined in depth in later etc6 studies (etc6-07 through etc6-13). For this study, the observation is that "the second death" is the term applied to the human fate, while "tormented day and night" is applied to the devil, beast, and false prophet.
 
 #### Matthew 25:41,46
 **Text:** (v.41) "Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels." (v.46) "And these shall go away into everlasting punishment: but the righteous into life eternal."
@@ -408,23 +408,23 @@
 **Direct statement:** The cursed depart into everlasting fire. They go into everlasting punishment; the righteous into life eternal.
 **Key observations:**
 - "Everlasting fire" was "prepared for the devil and his angels" -- not originally for humans.
-- The word translated "punishment" is [kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} (G2851), which in classical Greek means corrective punishment or pruning/cutting off. The NT usage is limited (only here and 1 John 4:18).
-- The contrast is "everlasting punishment" vs. "life eternal." The same adjective ([aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}, G166) modifies both.
-- This passage is examined in depth in later etc studies. For this study's purpose, the passage uses "punishment" and "fire" language, not "death" language directly, but Nave's classifies it under "Second Death."
+- The word translated "punishment" is kolasis (G2851), which in classical Greek means corrective punishment or pruning/cutting off. The NT usage is limited (only here and 1 John 4:18).
+- The contrast is "everlasting punishment" vs. "life eternal." The same adjective (aionios, G166) modifies both.
+- This passage is examined in depth in later etc6 studies. For this study's purpose, the passage uses "punishment" and "fire" language, not "death" language directly, but Nave's classifies it under "Second Death."
 
 #### Mark 9:43-44
 **Text:** "And if thy hand offend thee, cut it off: it is better for thee to enter into life maimed, than having two hands to go into hell, into the fire that never shall be quenched: Where their worm dieth not, and the fire is not quenched."
 **Context:** Jesus' teaching on avoiding sin.
-**Direct statement:** [Gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} has unquenchable fire and an undying worm.
+**Direct statement:** Gehenna has unquenchable fire and an undying worm.
 **Key observations:**
 - Jesus quotes Isa 66:24, which describes corpses ("carcases of the men that have transgressed"), not living people.
-- "Their worm dieth not" -- in Isa 66:24, the worm feeds on dead bodies (peger, [H6297](https://www.blueletterbible.org/lexicon/h6297/kjv/wlc/0-1/){:target="_blank"} = corpse/carcass).
-- This passage is examined in depth in a later etc study.
+- "Their worm dieth not" -- in Isa 66:24, the worm feeds on dead bodies (peger, H6297 = corpse/carcass).
+- This passage is examined in depth in a later etc6 study.
 
 #### Ezekiel 18:4,20-24
 **Text:** (v.4) "The soul that sinneth, it shall die." (v.20) "The soul that sinneth, it shall die." (v.21) "But if the wicked will turn from all his sins... he shall surely live, he shall not die." (v.23) "Have I any pleasure at all that the wicked should die? saith the Lord GOD: and not that he should return from his ways, and live?"
 **Context:** God's message through Ezekiel about individual responsibility.
-**Direct statement:** The sinning soul ([nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}) dies. The repentant soul lives.
+**Direct statement:** The sinning soul (nephesh) dies. The repentant soul lives.
 **Key observations:**
 - The contrast throughout is die (mut, H4191) vs. live (chayah, H2421). These are exhaustive alternatives.
 - "Have I any pleasure at all that the wicked should die?" -- God's stated preference is that the wicked turn and live. The alternative to turning is death, not torment.
@@ -432,11 +432,11 @@
 
 #### Other "Second Death" passages (Rom 1:32; 8:13; James 1:15; 2 Pet 2:12; 2 Thess 1:9)
 These are briefly noted:
-- **Rom 1:32:** Those who commit sins are "worthy of death" ([thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}).
-- **Rom 8:13:** "If ye live after the flesh, ye shall die" ([apothnesko](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"}).
-- **James 1:15:** "Sin, when it is finished, bringeth forth death" ([thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}).
-- **2 Pet 2:12:** The wicked "shall utterly perish in their own corruption" (kataphtheiro + [phthora](https://www.blueletterbible.org/lexicon/g5356/kjv/tr/0-1/){:target="_blank"}). Already registered as E095.
-- **2 Thess 1:9:** "Punished with everlasting destruction" ([olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}). Already registered as E090.
+- **Rom 1:32:** Those who commit sins are "worthy of death" (thanatos).
+- **Rom 8:13:** "If ye live after the flesh, ye shall die" (apothnesko).
+- **James 1:15:** "Sin, when it is finished, bringeth forth death" (thanatos).
+- **2 Pet 2:12:** The wicked "shall utterly perish in their own corruption" (kataphtheiro + phthora). Already registered as E095.
+- **2 Thess 1:9:** "Punished with everlasting destruction" (olethros aionios). Already registered as E090.
 
 All these passages use death/destruction vocabulary for the final fate of the wicked. None uses "eternal torment" or "eternal conscious suffering" vocabulary. The consistent vocabulary is death, perish, destroy, corruption.
 
@@ -451,7 +451,7 @@ All these passages use death/destruction vocabulary for the final fate of the wi
 **Key observations:**
 - Death vocabulary is used metaphorically for the believer's new status in relation to sin.
 - The metaphor depends on the literal meaning of death: the old self has ceased to function, no longer operates.
-- "The body of sin might be destroyed ([katargeo](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"})" -- the same verb used for the destruction of death itself (1 Cor 15:26; 2 Tim 1:10; Heb 2:14).
+- "The body of sin might be destroyed (katargeo)" -- the same verb used for the destruction of death itself (1 Cor 15:26; 2 Tim 1:10; Heb 2:14).
 
 #### Colossians 2:20
 **Text:** "Wherefore if ye be dead with Christ from the rudiments of the world..."
@@ -480,15 +480,15 @@ All these passages use death/destruction vocabulary for the final fate of the wi
 #### Psalm 89:48
 **Text:** "What man is he that liveth, and shall not see death? shall he deliver his soul from the hand of the grave?"
 **Context:** A psalm of Ethan the Ezrahite.
-**Direct statement:** No man can avoid death. No man can deliver his soul ([nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}) from the grave ([sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}).
+**Direct statement:** No man can avoid death. No man can deliver his soul (nephesh) from the grave (sheol).
 **Key observations:**
 - Death is universal for humans.
-- The soul ([nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}) goes to the grave ([sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}). The [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} is not exempt from [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}.
+- The soul (nephesh) goes to the grave (sheol). The nephesh is not exempt from sheol.
 
 #### Psalm 90:3
 **Text:** "Thou turnest man to destruction; and sayest, Return, ye children of men."
 **Context:** A prayer of Moses.
-**Direct statement:** God turns man to destruction (dakka, [H1793](https://www.blueletterbible.org/lexicon/h1793/kjv/wlc/0-1/){:target="_blank"} -- crushing, contrition).
+**Direct statement:** God turns man to destruction (dakka, H1793 -- crushing, contrition).
 **Key observations:**
 - Death is described as destruction/crushing, consistent with "return to dust."
 
@@ -511,7 +511,7 @@ All these passages use death/destruction vocabulary for the final fate of the wi
 #### Revelation 1:18
 **Text:** "I am he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death."
 **Context:** Christ's self-identification to John.
-**Direct statement:** Christ was dead ([nekros](https://www.blueletterbible.org/lexicon/g3498/kjv/tr/0-1/){:target="_blank"}), is now alive forever, and holds the keys of [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} and death.
+**Direct statement:** Christ was dead (nekros), is now alive forever, and holds the keys of hades and death.
 **Key observations:**
 - Christ experienced death and overcame it.
 - "Keys of hell and death" -- Christ has authority over death and the grave.
@@ -530,15 +530,15 @@ All these passages use death/destruction vocabulary for the final fate of the wi
 
 1. **Death consistently defined as return to dust / cessation of life.** From Gen 3:19 through Ecc 12:7, Ps 146:4, and Ps 104:29, the definition of death is the reversal of creation: dust returns to earth, spirit returns to God, the living soul ceases.
 
-2. **Same vocabulary for all types of death.** Hebrew uses [maveth](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"}/mut and Greek uses [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}/[apothnesko](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} for physical death, spiritual death, the second death, and figurative death. The Bible does not introduce new vocabulary for different kinds of death.
+2. **Same vocabulary for all types of death.** Hebrew uses maveth/mut and Greek uses thanatos/apothnesko for physical death, spiritual death, the second death, and figurative death. The Bible does not introduce new vocabulary for different kinds of death.
 
 3. **Death consistently contrasted with life as exhaustive alternatives.** Deut 30:15,19; John 5:24; Rom 6:23; Gal 6:8; 1 John 5:12 all present death and life as a binary pair with no third option.
 
 4. **Death as sleep across seven or more authors.** The sleep metaphor implies unconsciousness, rest, and future awakening (resurrection). It does not imply continued awareness.
 
-5. **Spiritual death uses the same vocabulary as physical death.** "Dead in trespasses and sins" (Eph 2:1) uses [nekros](https://www.blueletterbible.org/lexicon/g3498/kjv/tr/0-1/){:target="_blank"} -- the same word for a corpse. The metaphor's force depends on the literal meaning of death being cessation.
+5. **Spiritual death uses the same vocabulary as physical death.** "Dead in trespasses and sins" (Eph 2:1) uses nekros -- the same word for a corpse. The metaphor's force depends on the literal meaning of death being cessation.
 
-6. **The "second death" is called "death."** Revelation uses [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} for the second death. It does not introduce a new word or concept -- it applies the established meaning of death to a final event.
+6. **The "second death" is called "death."** Revelation uses thanatos for the second death. It does not introduce a new word or concept -- it applies the established meaning of death to a final event.
 
 7. **No verse defines death as "separation of soul from body."** James 2:26 states the body without the spirit is dead, but does not say the spirit continues to live consciously apart from the body. The text defines what a dead body is, not what the spirit does after departure.
 
@@ -554,13 +554,13 @@ All these passages use death/destruction vocabulary for the final fate of the wi
 
 ## Word Study Insights
 
-1. **[Maveth](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"} (H4194)** has 160+ occurrences spanning physical death, the state of death ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}), death as penalty for sin, and death personified. The LXX renders it as [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} 97 times and as [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} 17 times, showing the connection between death and the grave.
+1. **Maveth (H4194)** has 170 occurrences spanning physical death, the state of death (hades), death as penalty for sin, and death personified. The LXX renders it as thanatos 97 times and as hades 17 times, showing the connection between death and the grave.
 
-2. **Mut (H4191)** with 835+ occurrences covers dying, killing, and being dead. The "mot tamut" emphatic construction in Gen 2:17 is the same form used for judicial death penalties throughout the Torah.
+2. **Mut (H4191)** with 1028 occurrences covers dying, killing, and being dead. The "mot tamut" emphatic construction in Gen 2:17 is the same form used for judicial death penalties throughout the Torah.
 
-3. **[Thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (G2288)** with 119 occurrences covers all categories: physical death, wages of sin, Christ's death, spiritual death, the second death, and death personified. One word covers the entire semantic range.
+3. **Thanatos (G2288)** with 119 occurrences covers all categories: physical death, wages of sin, Christ's death, spiritual death, the second death, and death personified. One word covers the entire semantic range.
 
-4. **[Apothnesko](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} (G599)** with 112 occurrences covers physical dying, dying in sin, dying with Christ, and spiritual dying. Again, one word for all categories.
+4. **Apothnesko (G599)** with 122 occurrences covers physical dying, dying in sin, dying with Christ, and spiritual dying. Again, one word for all categories.
 
 5. **The absence of separate vocabulary is significant.** If the Bible intended to distinguish between fundamentally different kinds of death (cessation vs. separation vs. transition to another realm), different vocabulary would be expected. Instead, the same words are used across all categories, suggesting a unified concept.
 
@@ -568,11 +568,11 @@ All these passages use death/destruction vocabulary for the final fate of the wi
 
 1. **Gen 2:17 and "in the day."** Adam did not physically die on the day he ate. Possible readings: (a) "in the day" is idiomatic for "when" (cf. Gen 2:4); (b) the dying process began that day; (c) both spiritual and physical death were set in motion. The text does not resolve this. What is clear: Gen 3:19 and Gen 5:5 show that physical death was the ultimate fulfillment of the warning.
 
-2. **Rev 20:10 and "tormented day and night."** The subjects are the devil, beast, and false prophet -- symbolic/spiritual entities, not literal human beings. The text distinguishes between their fate (tormented) and the human fate (the second death, Rev 20:14-15). This passage will be examined in depth in later etc studies.
+2. **Rev 20:10 and "tormented day and night."** The subjects are the devil, beast, and false prophet -- symbolic/spiritual entities, not literal human beings. The text distinguishes between their fate (tormented) and the human fate (the second death, Rev 20:14-15). This passage will be examined in depth in later etc6 studies.
 
-3. **Matt 25:46 and "everlasting punishment."** The same adjective ([aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}) modifies both punishment and life. The nature of the punishment is not defined in this verse; the word [kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} does not specify torment vs. destruction. This passage will be examined in depth in later etc studies.
+3. **Matt 25:46 and "everlasting punishment."** The same adjective (aionios) modifies both punishment and life. The nature of the punishment is not defined in this verse; the word kolasis does not specify torment vs. destruction. This passage will be examined in depth in later etc6 studies.
 
-4. **Mark 9:43-44 and "worm dieth not, fire not quenched."** Jesus quotes Isa 66:24, which describes corpses (not living people). The undying worm and unquenched fire consume the dead, not torment the living. This passage will be examined in depth in later etc studies.
+4. **Mark 9:43-44 and "worm dieth not, fire not quenched."** Jesus quotes Isa 66:24, which describes corpses (not living people). The undying worm and unquenched fire consume the dead, not torment the living. This passage will be examined in depth in later etc6 studies.
 
 ### Genesis 2:17 and the "Spiritual Death" Interpretation
 
@@ -610,7 +610,7 @@ This is devastating to the "spiritual death" interpretation: if death were merel
 
 **5. Fulfillment recorded (Gen 5:5):** "And all the days that Adam lived were nine hundred and thirty years: and he died." The narrator records Adam's physical death as the fulfillment of Gen 2:17 -- not his spiritual separation in Genesis 3, but his physical death in Genesis 5. The narrator treats physical death as the fulfillment.
 
-**6. The "separation" definition is not lexical:** No Hebrew lexicon defines *[muth](https://www.blueletterbible.org/lexicon/h4191/kjv/wlc/0-1/){:target="_blank"}* (H4191) as "separation." No Greek lexicon defines *[thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}* (G2288) as "separation." The separation definition is a theological construct imposed on the text, not a meaning derived from the vocabulary. (This is established in detail in Section A of this study.)
+**6. The "separation" definition is not lexical:** No Hebrew lexicon defines *muth* (H4191) as "separation." No Greek lexicon defines *thanatos* (G2288) as "separation." The separation definition is a theological construct imposed on the text, not a meaning derived from the vocabulary. (This is established in detail in Section A of this study.)
 
 **7. Pauline interpretation (Rom 5:12):** "Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned." Paul treats the death of Gen 2:17 as the death all humans experience -- physical death that "passed upon all men." He does not distinguish a "spiritual death" category from physical death in this passage. The death that entered through Adam is the death that all humans die.
 
@@ -620,5 +620,5 @@ The "spiritual death" reading of Gen 2:17 requires *mot tamut* to mean something
 
 ---
 
-*Analysis completed for etc-03: What Does Death Mean in the Bible?*
+*Analysis completed for etc6-03: What Does Death Mean in the Bible?*
 *Approximately 85 verses analyzed across 8 sections.*

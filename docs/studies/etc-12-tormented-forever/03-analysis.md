@@ -26,8 +26,8 @@
 - The subject is the human armies from v.8.
 - The text does not say they were "tormented." It says they were "devoured."
 - Katephagen is an aorist active indicative -- a completed action. The fire devoured (consumed) them.
-- This parallels 2 Kings 1:10,12 where fire from heaven "consumed" ([akal](https://www.blueletterbible.org/lexicon/h398/kjv/wlc/0-1/){:target="_blank"}) the soldiers; Num 16:35 where fire "consumed" the 250 men; Lev 10:2 where fire "devoured" ([akal](https://www.blueletterbible.org/lexicon/h398/kjv/wlc/0-1/){:target="_blank"}) Nadab and Abihu.
-**Cross-references:** The fire-from-heaven-devours pattern in the OT consistently describes complete consumption, not ongoing torment. The same verb ([katesthio](https://www.blueletterbible.org/lexicon/g2719/kjv/tr/0-1/){:target="_blank"}) is used in Heb 10:27: "fiery indignation, which shall devour the adversaries."
+- This parallels 2 Kings 1:10,12 where fire from heaven "consumed" (akal) the soldiers; Num 16:35 where fire "consumed" the 250 men; Lev 10:2 where fire "devoured" (akal) Nadab and Abihu.
+**Cross-references:** The fire-from-heaven-devours pattern in the OT consistently describes complete consumption, not ongoing torment. A related verb, esthio (G2068, "to eat"), is used in Heb 10:27: "fiery indignation, which shall devour the adversaries." Esthio and katesthio (G2719) are etymologically related (katesthio = kata + esthio) and the KJV translates both as "devour" in these contexts, but they are distinct lexemes.
 
 ### Revelation 20:10 (Devil, Beast, False Prophet -- TORMENT Vocabulary)
 **Context:** After the human armies are devoured (v.9), the devil is cast into the lake of fire where the beast and false prophet already are (from Rev 19:20).
@@ -53,7 +53,7 @@
 - FAIL: "Genre is apocalyptic vision."
 
 **The verb "basanisthesontai" (shall be tormented):**
-- 3rd person plural future passive indicative of [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (G928).
+- 3rd person plural future passive indicative of basanizo (G928).
 - The grammatical subject of this verb is the three entities named in the verse: devil, beast, false prophet.
 - The verb does not grammatically extend to the human armies of v.9 (who were "devoured") or to the humans of vv.14-15 (who enter the lake as "second death").
 
@@ -71,17 +71,17 @@
 
 ### Revelation 20:11-13 (Great White Throne Judgment)
 **Context:** The dead, small and great, stand before God. Books are opened. Judgment according to works.
-**Direct statement:** The sea, death, and [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} deliver up the dead. They are judged according to their works.
+**Direct statement:** The sea, death, and hades deliver up the dead. They are judged according to their works.
 **Key observations:** This is the judgment of individual human beings. The vocabulary is "judged" (krino, G2919) -- not "tormented." The text describes a judicial proceeding.
 
-### Revelation 20:14 (Death and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} Cast In -- "Second Death")
+### Revelation 20:14 (Death and Hades Cast In -- "Second Death")
 **Context:** After the judgment of v.12-13.
 **Direct statement:** "And death and hell were cast into the lake of fire. This is the second death."
 **Key observations:**
-- Death and [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} are personified/abstracted entities cast into the lake.
+- Death and hades are personified/abstracted entities cast into the lake.
 - The text provides an identity statement: "This is the second death."
 - The lake of fire IS the second death. The text equates them.
-- No torment language is attached. The identifying term is [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (G2288, death).
+- No torment language is attached. The identifying term is thanatos (G2288, death).
 
 ### Revelation 20:15 (Human Wicked Cast In -- NO Torment Formula)
 **Context:** After the identity statement of v.14.
@@ -100,8 +100,8 @@
 **Key observations:**
 - Eight categories of human wicked are named.
 - Their fate is described as "the second death."
-- The text does not use [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} or [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"}.
-- The identifying term is again [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (death), not [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (torment).
+- The text does not use basanizo or basanismos.
+- The identifying term is again thanatos (death), not basanizo (torment).
 - This is the text's own name for the lake of fire when applied to human beings.
 
 ### Revelation 14:9-11 (Beast-Worshippers -- Apocalyptic Context)
@@ -109,9 +109,9 @@
 **Direct statement:** "He shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb: And the smoke of their torment ascendeth up for ever and ever."
 **Key observations:**
 - The subjects are beast-worshippers -- humans described in relation to the apocalyptic beast.
-- This passage uses [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (v.10) and [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} (v.11) in the context of beast-worship.
+- This passage uses basanizo (v.10) and basanismos (v.11) in the context of beast-worship.
 - Tree 3 Gate 3 FAIL: apocalyptic vision genre.
-- The text is situated within Revelation's symbolic framework. *(Examined in depth in etc-11-smoke-ascending-forever.)*
+- The text is situated within Revelation's symbolic framework. *(Examined in depth in etc6-11-smoke-ascending-forever.)*
 
 ---
 
@@ -123,7 +123,7 @@ The text uses distinct vocabulary for distinct subjects across the passage:
 |--------|---------|-----------|----------|
 | 20:9 | Human armies (Gog/Magog) | "devoured" (katephagen) | Destruction |
 | 20:10 | Devil, beast, false prophet | "tormented day and night for ever and ever" | Torment formula |
-| 20:14 | Death and [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} | "cast into the lake of fire. This is the second death." | Death identity |
+| 20:14 | Death and hades | "cast into the lake of fire. This is the second death." | Death identity |
 | 20:15 | Human wicked ("whosoever") | "cast into the lake of fire" | No torment language appended |
 | 21:8 | Eight categories of human wicked | "the second death" | Death identity |
 
@@ -137,7 +137,7 @@ The text itself makes this distinction. When human enemies face fire, they are "
 
 ---
 
-## [Basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (G928) Semantic Range Analysis
+## Basanizo (G928) Semantic Range Analysis
 
 ### Distribution by Category (12 Occurrences)
 
@@ -159,30 +159,30 @@ The text itself makes this distinction. When human enemies face fire, they are "
 
 ### Observations
 
-1. The KJV translates [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} as: tormented, tossed, toiling, vexed, pained, torment. The word covers physical suffering, labor exertion, emotional distress, weather disturbance, childbirth, and divine judgment. It is not a technical term for eschatological punishment.
+1. The KJV translates basanizo as: tormented, tossed, toiling, vexed, pained, torment. The word covers physical suffering, labor exertion, emotional distress, weather disturbance, childbirth, and divine judgment. It is not a technical term for eschatological punishment.
 
 2. Seven of twelve uses (58%) are not about eschatological judgment. These include a sick servant, a boat in a storm, disciples rowing, Lot's emotional distress, and a woman in childbirth.
 
 3. All five judgment uses are within the apocalyptic framework (four in Revelation) or involve demons speaking about their own future (Matt 8:29).
 
-4. When [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} appears with eschatological fear, the speakers in the Gospels are demons -- supernatural entities, not humans (Matt 8:29; Mark 5:7; Luke 8:28).
+4. When basanizo appears with eschatological fear, the speakers in the Gospels are demons -- supernatural entities, not humans (Matt 8:29; Mark 5:7; Luke 8:28).
 
-5. Rev 9:5 uses [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} with an explicit five-month time limit. The word itself does not inherently mean "eternal."
+5. Rev 9:5 uses basanizo with an explicit five-month time limit. The word itself does not inherently mean "eternal."
 
-6. Rev 11:10 uses [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} for the prophets' testimony causing distress to earth-dwellers. The "torment" is the prophetic witness, not fire.
+6. Rev 11:10 uses basanizo for the prophets' testimony causing distress to earth-dwellers. The "torment" is the prophetic witness, not fire.
 
-7. No epistle, no Gospel, and no OT passage uses [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} or [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} for the final fate of generic human wicked. The eschatological torment vocabulary is confined to Revelation's apocalyptic framework (plus the demonic statements in the Synoptics).
+7. No epistle, no Gospel, and no OT passage uses basanizo or basanismos for the final fate of generic human wicked. The eschatological torment vocabulary is confined to Revelation's apocalyptic framework (plus the demonic statements in the Synoptics).
 
 ---
 
-## [Basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} (G929) Same-Book Context
+## Basanismos (G929) Same-Book Context
 
-All six occurrences of [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} are in Revelation:
+All six occurrences of basanismos are in Revelation:
 - Rev 9:5 -- explicit 5-month time limit
 - Rev 14:11 -- smoke of torment ascending
 - Rev 18:7, 18:10, 18:15 -- Babylon's "torment"
 
-Three of six (50%) describe Babylon's "torment," which IS Babylon's completed destruction: "utterly burned with fire" (18:8), "in one hour is thy judgment come" (18:10), "thrown down, and shall be found no more at all" (18:21). Babylon's [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} is not ongoing conscious suffering -- it is the experience of undergoing a completed, irreversible destructive judgment.
+Three of six (50%) describe Babylon's "torment," which IS Babylon's completed destruction: "utterly burned with fire" (18:8), "in one hour is thy judgment come" (18:10), "thrown down, and shall be found no more at all" (18:21). Babylon's basanismos is not ongoing conscious suffering -- it is the experience of undergoing a completed, irreversible destructive judgment.
 
 ---
 
@@ -215,7 +215,7 @@ The claim that the fate described for the devil, beast, and false prophet in Rev
 **Response:**
 
 **1. The text distinguishes subjects explicitly.** Rev 20:10 names three subjects: the devil, the beast, and the false prophet — "they shall be tormented day and night for ever and ever." Rev 20:15 names a different group: "whosoever was not found written in the book of life was cast into the lake of fire." Different subjects receive different descriptions:
-- The devil/beast/false prophet → "tormented" (*[basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}*)
+- The devil/beast/false prophet → "tormented" (*basanizo*)
 - Humans not in the book of life → "cast into the lake of fire" (which Rev 20:14 has just identified as "the second death")
 
 If the author intended the beast's fate to apply to humans, why use different vocabulary? The switch from "tormented" to "second death" is a deliberate distinction.
@@ -231,7 +231,7 @@ Every time Revelation describes the fate of *human* followers of the beast, it u
 
 **4. Corporate symbols absorb judgment in OT prophetic literature.** When a symbolic entity is judged in OT prophecy, the judgment falls on the symbol as a way of expressing the downfall of the institution — not the perpetual conscious suffering of every individual within it:
 - Babylon "falls" (Isa 21:9; Jer 51:8; Rev 18:2) — the city/empire ceases to exist as a functioning entity; the individual inhabitants scatter or die
-- The "king of Babylon" in Isaiah 14 "falls" to [Sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} — the empire collapses; the imagery describes the downfall of the institution, not the eternal conscious torment of every Babylonian citizen
+- The "king of Babylon" in Isaiah 14 "falls" to Sheol — the empire collapses; the imagery describes the downfall of the institution, not the eternal conscious torment of every Babylonian citizen
 - The "prince of Tyre" in Ezekiel 28 is "destroyed" — the political entity falls; individuals die
 
 **5. The text's own self-interpretation:** Rev 20:14 explains the lake of fire: "This is the second death." The text interprets itself — the lake of fire is *death*, not *torment*. When humans enter the lake of fire (20:15), they experience what the text has defined it as: the second death.
@@ -246,19 +246,19 @@ When the NT describes the final fate of human wicked outside Revelation, the voc
 
 | Passage | Vocabulary | Category |
 |---------|-----------|----------|
-| Matt 10:28 | "destroy" ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}) soul and body in [gehenna](https://www.blueletterbible.org/lexicon/g1067/kjv/tr/0-1/){:target="_blank"} | Destruction |
-| 2 Thess 1:9 | "everlasting destruction" ([olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"} [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}) | Destruction |
-| Rom 6:23 | "wages of sin is death" ([thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}) | Death |
-| John 3:16 | "not perish" ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}) | Destruction |
-| Phil 3:19 | "whose end is destruction" ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}) | Destruction |
-| 2 Pet 3:7 | "perdition" ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}) of ungodly men | Destruction |
-| Gal 6:8 | "reap corruption" ([phthora](https://www.blueletterbible.org/lexicon/g5356/kjv/tr/0-1/){:target="_blank"}) | Corruption |
-| Matt 7:13 | "broad way that leads to destruction" ([apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}) | Destruction |
-| Heb 10:27 | "fiery indignation which shall devour" | Destruction |
-| Matt 25:46 | "everlasting punishment" ([kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}) | Punishment (not torment) |
+| Matt 10:28 | "destroy" (apollymi) soul and body in gehenna | Destruction |
+| 2 Thess 1:9 | "everlasting destruction" (olethros aionios) | Destruction |
+| Rom 6:23 | "wages of sin is death" (thanatos) | Death |
+| John 3:16 | "not perish" (apollymi) | Destruction |
+| Phil 3:19 | "whose end is destruction" (apoleia) | Destruction |
+| 2 Pet 3:7 | "perdition" (apoleia) of ungodly men | Destruction |
+| Gal 6:8 | "reap corruption" (phthora) | Corruption |
+| Matt 7:13 | "broad way that leads to destruction" (apoleia) | Destruction |
+| Heb 10:27 | "fiery indignation which shall devour" (esthio, G2068) | Destruction |
+| Matt 25:46 | "everlasting punishment" (kolasis aionios) | Punishment (not torment) |
 | Matt 25:41 | "everlasting fire, prepared for the devil and his angels" | Fire prepared for non-human entities |
 
-No epistle, no Gospel, and no OT passage applies [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} or [basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} to the final fate of generic human wicked. The torment formula ("tormented day and night for ever and ever") appears once in Scripture -- Rev 20:10 -- and is applied to the devil, beast, and false prophet.
+No epistle, no Gospel, and no OT passage applies basanizo or basanismos to the final fate of generic human wicked. The torment formula ("tormented day and night for ever and ever") appears once in Scripture -- Rev 20:10 -- and is applied to the devil, beast, and false prophet.
 
 ---
 
@@ -266,7 +266,7 @@ No epistle, no Gospel, and no OT passage applies [basanizo](https://www.bluelett
 
 1. **Subject differentiation is textual, not interpretive.** The text itself uses different vocabulary for the three non-human/symbolic entities (tormented) versus the human armies (devoured) versus the human wicked (second death). This pattern holds across Rev 19:20-21; 20:9-10; 20:14-15; 21:8.
 
-2. **[Basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} is not a technical eschatological term.** Its semantic range includes physical illness, waves tossing a boat, rowing exertion, emotional distress, childbirth, demonic fear, and divine judgment. The eschatological judgment uses are all in Revelation's apocalyptic framework.
+2. **Basanizo is not a technical eschatological term.** Its semantic range includes physical illness, waves tossing a boat, rowing exertion, emotional distress, childbirth, demonic fear, and divine judgment. The eschatological judgment uses are all in Revelation's apocalyptic framework.
 
 3. **The "tormented for ever and ever" formula is unique to Rev 20:10.** It appears once in Scripture, applied to three non-human/symbolic entities. It is not applied to human beings anywhere in the Bible.
 
@@ -274,7 +274,7 @@ No epistle, no Gospel, and no OT passage applies [basanizo](https://www.bluelett
 
 5. **Tree 3 Gates 1 and 3 both FAIL for Rev 20:10.** Gate 1 (Subject): all three subjects are non-human or symbolic. Gate 3 (Genre): Revelation is apocalyptic vision. Both failures prevent Rev 20:10 from functioning as positional evidence about the fate of literal human beings.
 
-6. **Matt 25:41 states the everlasting fire was "prepared for the devil and his angels."** The fire's primary designation is for supernatural entities. Humans are sent there secondarily. The punishment vocabulary for humans in Matt 25:46 is [kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} (punishment), not [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (torment).
+6. **Matt 25:41 states the everlasting fire was "prepared for the devil and his angels."** The fire's primary designation is for supernatural entities. Humans are sent there secondarily. The punishment vocabulary for humans in Matt 25:46 is kolasis (punishment), not basanizo (torment).
 
 ---
 
@@ -284,17 +284,17 @@ No epistle, no Gospel, and no OT passage applies [basanizo](https://www.bluelett
 
 - Rev 20:9 (humans devoured by fire from heaven) occurs in the same passage as Rev 20:10 (torment formula for devil/beast/false prophet). The immediate juxtaposition of "devoured" for humans and "tormented" for non-human/symbolic entities is a same-passage vocabulary distinction by the same author.
 
-- Rev 14:10-11 (beast-worshippers tormented) uses [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}/[basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} in the context of Revelation's apocalyptic beast-narrative. The subjects are defined by their relation to the symbolic beast. *(Examined in depth in etc-11.)*
+- Rev 14:10-11 (beast-worshippers tormented) uses basanizo/basanismos in the context of Revelation's apocalyptic beast-narrative. The subjects are defined by their relation to the symbolic beast. *(Examined in depth in etc6-11.)*
 
-- Matt 25:41 states the fire was "prepared for the devil and his angels." This is the only passage that directly connects humans to the devil's fire, and it does so by stating humans are sent to a fire prepared for others. The punishment vocabulary for humans in v.46 is [kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"}, not [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}.
+- Matt 25:41 states the fire was "prepared for the devil and his angels." This is the only passage that directly connects humans to the devil's fire, and it does so by stating humans are sent to a fire prepared for others. The punishment vocabulary for humans in v.46 is kolasis, not basanizo.
 
 ---
 
 ## Word Study Insights
 
-**[Basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (G928):** The lexicon defines it as "to torture: pain, toil, torment, toss, vex." The KJV translates it eleven different ways across twelve occurrences. A word translated "tossed" (of waves), "toiling" (of rowing), "vexed" (of emotional distress), and "pained" (of childbirth) is not a technical term for eternal conscious punishment.
+**Basanizo (G928):** The lexicon defines it as "to torture: pain, toil, torment, toss, vex." The KJV translates it eleven different ways across twelve occurrences. A word translated "tossed" (of waves), "toiling" (of rowing), "vexed" (of emotional distress), and "pained" (of childbirth) is not a technical term for eternal conscious punishment.
 
-**[Basanismos](https://www.blueletterbible.org/lexicon/g929/kjv/tr/0-1/){:target="_blank"} (G929):** All six occurrences are in Revelation. Three of six describe Babylon's completed destruction. One has a five-month time limit. The word describes the experience of undergoing judgment -- it does not inherently specify duration.
+**Basanismos (G929):** All six occurrences are in Revelation. Three of six describe Babylon's completed destruction. One has a five-month time limit. The word describes the experience of undergoing judgment -- it does not inherently specify duration.
 
 **Basanos (G931):** Three occurrences. Used for physical diseases (Matt 4:24) and in the parabolic context of Luke 16 (Rich Man and Lazarus). Not used in any eschatological judgment passage.
 
@@ -302,17 +302,17 @@ No epistle, no Gospel, and no OT passage applies [basanizo](https://www.bluelett
 
 **Pseudoprophetes (G5578):** THE false prophet in Revelation (3 of 11 occurrences) is the second beast of Rev 13:11-17, a specific symbolic figure distinct from generic "false prophets" (plural, 8 occurrences).
 
-**Diabolos (G1228):** Consistently a non-human supernatural entity throughout the NT (38 occurrences). Heb 2:14 states Christ came to "destroy" ([katargeo](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"}) the one with the power of death -- the devil. Destruction vocabulary applied to the devil.
+**Diabolos (G1228):** Consistently a non-human supernatural entity throughout the NT (38 occurrences). Heb 2:14 states Christ came to "destroy" (katargeo) the one with the power of death -- the devil. Destruction vocabulary applied to the devil.
 
 ---
 
 ## Difficult Passages
 
 ### Matt 25:41 -- Everlasting Fire Prepared for the Devil
-The text states "everlasting fire, prepared for the devil and his angels." ECT proponents cite this as connecting human fate to the devil's fate. The text does connect humans to the same fire. However: (1) the fire is stated to be "prepared for the devil and his angels" -- its primary designation is for non-human entities; (2) the punishment vocabulary for humans in v.46 is [kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} (punishment), not [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (torment); (3) [kolasis](https://www.blueletterbible.org/lexicon/g2851/kjv/tr/0-1/){:target="_blank"} (G2851) occurs only twice in the NT (here and 1 John 4:18), and its lexical definition includes "pruning/curtailment," not ongoing conscious suffering; (4) the adjective [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} does not inherently mean "eternal/endless" *(examined in etc-08)*; (5) the passage is parabolic in form (sheep/goats separation narrative).
+The text states "everlasting fire, prepared for the devil and his angels." ECT proponents cite this as connecting human fate to the devil's fate. The text does connect humans to the same fire. However: (1) the fire is stated to be "prepared for the devil and his angels" -- its primary designation is for non-human entities; (2) the punishment vocabulary for humans in v.46 is kolasis (punishment), not basanizo (torment); (3) kolasis (G2851) occurs only twice in the NT (here and 1 John 4:18), and its lexical definition includes "pruning/curtailment," not ongoing conscious suffering; (4) the adjective aionios does not inherently mean "eternal/endless" *(examined in etc6-08)*; (5) the passage is parabolic in form (sheep/goats separation narrative).
 
 ### Matt 8:29 -- Demons Ask About Torment "Before the Time"
-The demons ask: "Art thou come hither to torment us before the time?" This shows supernatural entities expecting [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} as their judgment. The speakers are demons -- non-human spirit beings. This is consistent with Rev 20:10, where non-human/symbolic entities receive the torment formula. The passage does not apply [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} to human beings.
+The demons ask: "Art thou come hither to torment us before the time?" This shows supernatural entities expecting basanizo as their judgment. The speakers are demons -- non-human spirit beings. This is consistent with Rev 20:10, where non-human/symbolic entities receive the torment formula. The passage does not apply basanizo to human beings.
 
 ### The Shared Destination Question
 Humans are cast into the same lake of fire as the devil, beast, and false prophet (Rev 20:15). The question is whether same destination requires same experience. The text provides two different descriptions of what happens at that destination: "tormented" for the three non-human/symbolic entities (20:10) and "second death" for humans (20:14-15; 21:8). The text itself distinguishes between these outcomes. Reading "same destination = same experience" requires adding a concept the text does not state, especially when the text provides different terminology for different subjects at that same destination.
@@ -333,7 +333,7 @@ However, the existing psalm-82-gods study (D:/bible/bible-studies/psalm-82-gods/
 
 **Assessment:** The divine council interpretation of Psalm 82 is not needed for the conditionalist case regarding the devil's fate. The conditionalist position on the devil's destruction has stronger support from passages that directly address the devil:
 
-- **E386 (Heb 2:14):** Christ came to "destroy" ([katargeo](https://www.blueletterbible.org/lexicon/g2673/kjv/tr/0-1/){:target="_blank"}) "him that had the power of death, that is, the devil" — destruction vocabulary applied directly to the devil.
+- **E386 (Heb 2:14):** Christ came to "destroy" (katargeo) "him that had the power of death, that is, the devil" — destruction vocabulary applied directly to the devil.
 - **E368 (Ezek 28:18-19):** The prince of Tyre (widely understood as Satan imagery): "I will bring thee to ashes upon the earth... and never shalt thou be any more" — fire/ashes/cessation language.
 - **Rev 20:9:** Human wicked are "devoured" — destruction vocabulary for human enemies in the same passage where the devil is cast into the lake of fire.
 

@@ -1,6 +1,6 @@
-# etc-07: [Olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}/Forever in OT — Word Studies
+# etc6-07: Olam/Forever in OT — Word Studies
 
-## Primary Term: [H5769](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} — [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} (עוֹלָם)
+## Primary Term: H5769 — olam (עוֹלָם)
 
 ### Etymology & Root Meaning
 - **Root**: עלם (alam) — "to conceal, hide"
@@ -33,34 +33,34 @@
 1. **Forward-looking uses** (~380 occurrences): "for ever," "everlasting," "perpetual" — future duration
 2. **Backward-looking uses** (~30 occurrences): "of old," "ancient," "old time" — past duration
 3. **The same word** means "ancient past" AND "everlasting future" — proving it is about *indefinite duration relative to the speaker*, not *absolute infinity*
-4. The translation "eternal" appears only **1 time** out of 432 — KJV translators themselves rarely equated [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} with strict eternity
+4. The translation "eternal" appears only **1 time** out of 432 — KJV translators themselves rarely equated olam with strict eternity
 
 ### LXX (Septuagint) Translation
 The Greek translators chose:
-- **[aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"}** (G165) — 287 times (66.4%) — "an age, a period of time"
-- **[aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}** (G166) — 100 times (23.1%) — "age-lasting, pertaining to an age"
+- **aion** (G165) — 287 times (66.4%) — "an age, a period of time"
+- **aionios** (G166) — 100 times (23.1%) — "age-lasting, pertaining to an age"
 - **genea** (G1074) — 51 times (11.8%) — "a generation"
 
-This is decisive: the LXX translators, working 200+ years before Christ, understood [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} as "age" ([aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"}), not as "eternity" in the absolute sense. The translation as "generation" (51x) particularly shows the finite-duration reading was standard.
+This is decisive: the LXX translators, working 200+ years before Christ, understood olam as "age" (aion), not as "eternity" in the absolute sense. The translation as "generation" (51x) particularly shows the finite-duration reading was standard.
 
 ### Categories of Usage
 | Category | Meaning | Duration | Example |
 |----------|---------|----------|---------|
-| A. God/attributes | Truly unending | Infinite | Ps 90:2 "from [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} to [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} thou art God" |
+| A. God/attributes | Truly unending | Infinite | Ps 90:2 "from olam to olam thou art God" |
 | B. Covenants/institutions | Age-lasting | Limited (ended) | Exo 40:15 "everlasting priesthood" |
-| C. Human subjects | A lifetime | Mortal span | Exo 21:6 "serve him le-[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}" |
-| D. Past reference | Long ago | Indefinite past | Gen 6:4 "men of [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}" (men of old) |
-| E. Eschatological | Contested | Context-dependent | Dan 12:2 "[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} life / [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} contempt" |
-| F. Combined (le-[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} va-ed) | Intensified | Emphatic | Ps 45:6 "for ever and ever" |
+| C. Human subjects | A lifetime | Mortal span | Exo 21:6 "serve him le-olam" |
+| D. Past reference | Long ago | Indefinite past | Gen 6:4 "men of olam" (men of old) |
+| E. Eschatological | Contested | Context-dependent | Dan 12:2 "olam life / olam contempt" |
+| F. Combined (le-olam va-ed) | Intensified | Emphatic | Ps 45:6 "for ever and ever" |
 
 ---
 
-## [H5703](https://www.blueletterbible.org/lexicon/h5703/kjv/wlc/0-1/){:target="_blank"} — ad (עַד)
+## H5703 — ad (עַד)
 
 ### Etymology & Root Meaning
 - **Root meaning**: "a (peremptory) terminus" — an endpoint, a boundary
 - **Semantic development**: From "endpoint" to "duration advancing toward a goal" to "perpetuity"
-- Often paired with [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} in the combined form le-[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} va-ed ("forever and ever")
+- Often paired with olam in the combined form le-olam va-ed ("forever and ever")
 
 ### Translation Statistics (51 OT occurrences)
 | Translation | Count | % |
@@ -75,19 +75,19 @@ This is decisive: the LXX translators, working 200+ years before Christ, underst
 
 ### Key Observations
 1. The root meaning "terminus/endpoint" paradoxically underlies a word translated "forever" — the semantic development is from "the point you're heading toward" to "the furthest point ahead"
-2. Often combined with [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} to create an intensified form
+2. Often combined with olam to create an intensified form
 3. The one occurrence of "eternity" is in Isaiah 57:15 — describing God who "inhabiteth ad" (eternity)
-4. LXX primarily translates as [aion](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} (G165) — confirming the "age" semantics
+4. LXX primarily translates as aion (G165) — confirming the "age" semantics
 
 ### Significant Passages
 - **Isaiah 57:15**: God "inhabiteth eternity (ad)" — maximal use for God
-- **Isaiah 26:4**: "Trust in the LORD le-[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} ad" — doubled construction
-- **Psalm 148:6**: "established them le-[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} la-ad" — stars/heavens established
-- **Daniel 12:3**: wise shine "le-[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} va-ed" — eschatological promise
+- **Isaiah 26:4**: "Trust in the LORD le-olam ad" — doubled construction
+- **Psalm 148:6**: "established them le-olam la-ad" — stars/heavens established
+- **Daniel 12:3**: wise shine "le-olam va-ed" — eschatological promise
 
 ---
 
-## [H5331](https://www.blueletterbible.org/lexicon/h5331/kjv/wlc/0-1/){:target="_blank"} — netsach (נֶצַח)
+## H5331 — netsach (נֶצַח)
 
 ### Etymology & Root Meaning
 - **Root meaning**: "a goal" — "the bright object at a distance travelled towards"
@@ -110,12 +110,12 @@ This is decisive: the LXX translators, working 200+ years before Christ, underst
 1. The root "goal" meaning is explicitly stated in the lexicon — this is perspective-based duration, not absolute infinity
 2. The translation as "victory" and "strength" shows the word's semantic range extends well beyond temporal duration
 3. LXX most frequently translates as **telos** (G5056) — "end, goal" (19x) — confirming the endpoint semantics
-4. LXX also uses [apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"} (G622) — "to destroy" (6x) — associating netsach with destructive completeness
+4. LXX also uses apollymi (G622) — "to destroy" (6x) — associating netsach with destructive completeness
 
 ### Significant Passages
 - **1 Samuel 15:29**: "The Strength (netsach) of Israel will not lie" — non-temporal use
 - **Isaiah 25:8**: "He will swallow up death in victory (la-netsach)" — cited in 1 Cor 15:54
-- **Isaiah 34:10**: Combined with [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} — "none shall pass through it le-netsach netsachim" (for ever and ever)
+- **Isaiah 34:10**: Combined with olam — "none shall pass through it le-netsach netsachim" (for ever and ever)
 - **Psalm 103:9**: "He will not always chide: neither will he keep [anger] la-netsach" — God's wrath NOT netsach
 - **Isaiah 57:16**: "For I will not contend la-netsach" — explicit limitation on divine wrath
 
@@ -125,14 +125,14 @@ Multiple passages use netsach to explicitly state that God's anger is NOT perpet
 - Isa 57:16 — "I will not contend forever (netsach)"
 - Jer 3:5 — "Will he reserve [anger] forever (netsach)?"
 - Jer 3:12 — "I will not keep [anger] forever (netsach)"
-- Lam 3:31 — "For the Lord will not cast off forever ([olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"})"
+- Lam 3:31 — "For the Lord will not cast off forever (olam)"
 - Lam 5:20 — "Wherefore dost thou forget us forever (netsach)?"
 
 This pattern — using "forever" words to ASK whether God's wrath is perpetual, then answering NO — undermines the claim that these same words require infinite duration when applied to punishment.
 
 ---
 
-## [H8548](https://www.blueletterbible.org/lexicon/h8548/kjv/wlc/0-1/){:target="_blank"} — tamid (תָּמִיד)
+## H8548 — tamid (תָּמִיד)
 
 ### Etymology & Root Meaning
 - **Root**: unused root meaning "to stretch"
@@ -156,14 +156,14 @@ This pattern — using "forever" words to ASK whether God's wrath is perpetual, 
 2. **Not ontological eternity**: This is a regularity/continuity word, not an infinity word
 3. The daily sacrifice has ceased (temple destroyed AD 70) — the "continual" offering is no longer continual
 4. LXX translates primarily with dia (G1223, "through") and thysia (G2378, "sacrifice") — confirming the temporal/liturgical semantics
-5. Tamid overlaps with [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} in passages like Lev 24:3-4 where both "continually" (tamid) and "forever" ([olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}) describe the same lampstand service — both ceased when the temple was destroyed
+5. Tamid overlaps with olam in passages like Lev 24:3-4 where both "continually" (tamid) and "forever" (olam) describe the same lampstand service — both ceased when the temple was destroyed
 
 ---
 
-## [H5957](https://www.blueletterbible.org/lexicon/h5957/kjv/wlc/0-1/){:target="_blank"} — alam (עָלַם) — Aramaic
+## H5957 — alam (עָלַם) — Aramaic
 
 ### Etymology & Root Meaning
-- **Aramaic equivalent** of Hebrew [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} (H5769)
+- **Aramaic equivalent** of Hebrew olam (H5769)
 - **Meaning**: "remote time, i.e. the future or past indefinitely; often adverb, forever"
 - Used exclusively in Daniel (and one occurrence in Ezra)
 
@@ -178,19 +178,19 @@ This pattern — using "forever" words to ASK whether God's wrath is perpetual, 
 | and ever | 1 | 5.0% |
 
 ### Key Observations
-1. The courtly greeting "O king, live for ever (alam)" (Dan 2:4; 3:9; 5:10; 6:6,21) is NEVER understood literally — the king will die. This proves alam/[olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} can be conventional/formulaic rather than ontologically precise.
+1. The courtly greeting "O king, live for ever (alam)" (Dan 2:4; 3:9; 5:10; 6:6,21) is NEVER understood literally — the king will die. This proves alam/olam can be conventional/formulaic rather than ontologically precise.
 2. Applied to God's kingdom: "an everlasting (alam) kingdom" (Dan 4:3,34; 7:14,27) — maximal use
 3. Applied to the past: "of old (alam)" (Ezra 4:15,19) — looking backward
-4. The doubled form "from alam to alam" (Dan 2:20) — parallels Hebrew "from [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} to [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}" for God
+4. The doubled form "from alam to alam" (Dan 2:20) — parallels Hebrew "from olam to olam" for God
 5. Dan 7:18 uses the strongest possible form: "ad-alma ve-ad alam almaya" — "for ever, even for ever and ever" — applied to the saints' possession of the kingdom
 
 ### Significance for Daniel 12:2
-Daniel 12:2 uses Hebrew [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} (H5769), not Aramaic alam (H5957), for "everlasting life" and "everlasting contempt." But the same book uses alam for:
+Daniel 12:2 uses Hebrew olam (H5769), not Aramaic alam (H5957), for "everlasting life" and "everlasting contempt." But the same book uses alam for:
 - Royal greetings (known to be non-literal)
 - God's kingdom (truly unending)
 - Past time references (clearly limited)
 
-This confirms that even within a single biblical book, the [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"}/alam word family functions with contextually variable duration.
+This confirms that even within a single biblical book, the olam/alam word family functions with contextually variable duration.
 
 ---
 
@@ -198,30 +198,17 @@ This confirms that even within a single biblical book, the [olam](https://www.bl
 
 | Term | Root Meaning | Occurrences | Primary Translation | Key Semantic Feature |
 |------|-------------|-------------|--------------------|--------------------|
-| [H5769](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} | "concealed" (hidden time) | 432 | "for ever" (45.8%) | Duration beyond sight |
-| [H5703](https://www.blueletterbible.org/lexicon/h5703/kjv/wlc/0-1/){:target="_blank"} ad | "terminus" (endpoint) | 51 | "for ever" (49.0%) | Duration toward a goal |
-| [H5331](https://www.blueletterbible.org/lexicon/h5331/kjv/wlc/0-1/){:target="_blank"} netsach | "goal" (bright distant object) | 44 | "for ever" (47.7%) | As far as one can see |
-| [H8548](https://www.blueletterbible.org/lexicon/h8548/kjv/wlc/0-1/){:target="_blank"} tamid | "stretch" (continuance) | 105 | "continually" (50.5%) | Ongoing regularity |
-| [H5957](https://www.blueletterbible.org/lexicon/h5957/kjv/wlc/0-1/){:target="_blank"} alam | Aramaic of [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} | 20 | "for ever" (40.0%) | Remote/indefinite time |
+| H5769 olam | "concealed" (hidden time) | 432 | "for ever" (45.8%) | Duration beyond sight |
+| H5703 ad | "terminus" (endpoint) | 51 | "for ever" (49.0%) | Duration toward a goal |
+| H5331 netsach | "goal" (bright distant object) | 44 | "for ever" (47.7%) | As far as one can see |
+| H8548 tamid | "stretch" (continuance) | 105 | "continually" (50.5%) | Ongoing regularity |
+| H5957 alam | Aramaic of olam | 20 | "for ever" (40.0%) | Remote/indefinite time |
 
 ### Synthesis
 All five Hebrew/Aramaic "forever" terms share a common semantic foundation: they describe **duration whose endpoint is not visible, not duration that has no endpoint**. The distinction is between:
 - **Epistemological**: "as far as we can see/know" (perspective-based)
 - **Ontological**: "literally without end" (reality-based)
 
-The root meanings consistently point to the epistemological sense. The ontological sense is determined by the nature of the subject: when applied to God (who is genuinely eternal), [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} reaches its maximal force. When applied to finite subjects (slaves, temples, nations), [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} is limited by the subject's own duration.
+The root meanings consistently point to the epistemological sense. The ontological sense is determined by the nature of the subject: when applied to God (who is genuinely eternal), olam reaches its maximal force. When applied to finite subjects (slaves, temples, nations), olam is limited by the subject's own duration.
 
-This has direct implications for interpreting "everlasting punishment" — the question is not "what does [olam](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/){:target="_blank"} mean?" but "what is the nature of the subject being modified?"
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |
+This has direct implications for interpreting "everlasting punishment" — the question is not "what does olam mean?" but "what is the nature of the subject being modified?"

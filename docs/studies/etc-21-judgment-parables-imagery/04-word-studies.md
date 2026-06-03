@@ -2,10 +2,10 @@
 
 ---
 
-## [G2618](https://www.blueletterbible.org/lexicon/g2618/kjv/tr/0-1/){:target="_blank"} [katakaio](https://www.blueletterbible.org/lexicon/g2618/kjv/tr/0-1/){:target="_blank"} -- "Burn Down, Consume"
+## G2618 katakaio -- "Burn Down, Consume"
 
-**Original:** [katakaiO](https://www.blueletterbible.org/lexicon/g2618/kjv/tr/0-1/){:target="_blank"} (from kata + kaio)
-**Transliteration:** [katakaio](https://www.blueletterbible.org/lexicon/g2618/kjv/tr/0-1/){:target="_blank"}
+**Original:** katakaiO (from kata + kaio)
+**Transliteration:** katakaio
 **Part of Speech:** verb
 **Definition:** "to burn down (to the ground), i.e. consume" (Strong's/Thayer)
 
@@ -36,11 +36,11 @@
 - **Rev 18:8** -- "**she shall be utterly burned** with fire"
 
 ### Significance
-The kata- prefix intensifies the burning: "burn DOWN, burn UP completely, consume." Every usage describes complete consumption, not ongoing process. The tares parable uses this word for what happens to the wicked -- they are consumed. Compare with etc-06 which identifies [katakaio](https://www.blueletterbible.org/lexicon/g2618/kjv/tr/0-1/){:target="_blank"} as part of the destruction vocabulary family.
+The kata- prefix intensifies the burning: "burn DOWN, burn UP completely, consume." Every usage describes complete consumption, not ongoing process. The tares parable uses this word for what happens to the wicked -- they are consumed. Compare with etc6-06 which identifies katakaio as part of the destruction vocabulary family.
 
 ---
 
-## [G2575](https://www.blueletterbible.org/lexicon/g2575/kjv/tr/0-1/){:target="_blank"} kaminos -- "Furnace"
+## G2575 kaminos -- "Furnace"
 
 **Original:** kaminos
 **Transliteration:** kaminos
@@ -57,10 +57,10 @@ The kata- prefix intensifies the burning: "burn DOWN, burn UP completely, consum
 
 ### LXX Background -- Hebrew Sources
 The LXX uses kaminos to translate:
-- **[H3564](https://www.blueletterbible.org/lexicon/h3564/kjv/wlc/0-1/){:target="_blank"} kuwr** (6 times, PMI 9.49) -- The primary furnace word for "iron furnace of Egypt" (Deut 4:20; 1 Ki 8:51; Jer 11:4) and refining/melting furnace (Pro 17:3; Ezk 22:18,20,22)
-- **[H861](https://www.blueletterbible.org/lexicon/h861/kjv/wlc/0-1/){:target="_blank"} attuwn** (10 times, PMI 10.08) -- Aramaic furnace word used in Daniel 3 (Shadrach, Meshach, Abednego)
+- **H3564 kuwr** (6 times, PMI 9.49) -- The primary furnace word for "iron furnace of Egypt" (Deut 4:20; 1 Ki 8:51; Jer 11:4) and refining/melting furnace (Pro 17:3; Ezk 22:18,20,22)
+- **H861 attuwn** (10 times, PMI 10.08) -- Aramaic furnace word used in Daniel 3 (Shadrach, Meshach, Abednego)
 
-**Important:** [H8574](https://www.blueletterbible.org/lexicon/h8574/kjv/wlc/0-1/){:target="_blank"} tannuwr (the word in Mal 4:1 "burn as an oven") maps to [G2823](https://www.blueletterbible.org/lexicon/g2823/kjv/tr/0-1/){:target="_blank"} klibanos in the LXX, NOT to kaminos. This means Jesus' "furnace of fire" (kaminos pyros) in Matt 13:42,50 draws on the Dan 3 furnace tradition (attuwn/kaminos) more directly than on Mal 4:1 (tannuwr/klibanos). However, both traditions describe consuming fire.
+**Important:** H8574 tannuwr (the word in Mal 4:1 "burn as an oven") maps to G2823 klibanos in the LXX, NOT to kaminos. This means Jesus' "furnace of fire" (kaminos pyros) in Matt 13:42,50 draws on the Dan 3 furnace tradition (attuwn/kaminos) more directly than on Mal 4:1 (tannuwr/klibanos). However, both traditions describe consuming fire.
 
 ### OT Furnace Context
 1. **Furnace of affliction** (kuwr): Deut 4:20; 1 Ki 8:51; Isa 48:10; Jer 11:4 -- Egypt as iron furnace Israel was refined in
@@ -70,7 +70,7 @@ The LXX uses kaminos to translate:
 
 ---
 
-## [G4655](https://www.blueletterbible.org/lexicon/g4655/kjv/tr/0-1/){:target="_blank"} skotos -- "Darkness, Shadiness"
+## G4655 skotos -- "Darkness, Shadiness"
 
 **Original:** skotos
 **Transliteration:** skotos
@@ -93,7 +93,7 @@ Skotos is used for spiritual darkness (Matt 6:23; John 3:19; Rom 13:12; Eph 5:11
 
 ---
 
-## [G1030](https://www.blueletterbible.org/lexicon/g1030/kjv/tr/0-1/){:target="_blank"} brygmos -- "Gnashing"
+## G1030 brygmos -- "Gnashing"
 
 **Original:** brygmos
 **Transliteration:** brygmos
@@ -124,7 +124,7 @@ In the OT, gnashing teeth consistently expresses **anger, hostility, and rage** 
 
 ---
 
-## [G2805](https://www.blueletterbible.org/lexicon/g2805/kjv/tr/0-1/){:target="_blank"} klauthmos -- "Weeping, Wailing"
+## G2805 klauthmos -- "Weeping, Wailing"
 
 **Original:** klauthmos
 **Transliteration:** klauthmos
@@ -155,7 +155,7 @@ KJV translates klauthmos as "wailing" in the two furnace passages (Matt 13:42, 5
 
 ---
 
-## [G1857](https://www.blueletterbible.org/lexicon/g1857/kjv/tr/0-1/){:target="_blank"} exoteros -- "Outer"
+## G1857 exoteros -- "Outer"
 
 **Original:** exoteros (comparative of exo, "outside")
 **Transliteration:** exoteros
@@ -177,7 +177,7 @@ KJV translates klauthmos as "wailing" in the two furnace passages (Matt 13:42, 5
 
 ---
 
-## [G2215](https://www.blueletterbible.org/lexicon/g2215/kjv/tr/0-1/){:target="_blank"} zizanion -- "Tares, Darnel"
+## G2215 zizanion -- "Tares, Darnel"
 
 **Original:** zizanion
 **Transliteration:** zizanion
@@ -201,7 +201,7 @@ Darnel (Lolium temulentum) is a weed that closely resembles wheat during growth 
 
 ---
 
-## [G4442](https://www.blueletterbible.org/lexicon/g4442/kjv/tr/0-1/){:target="_blank"} pyr -- "Fire"
+## G4442 pyr -- "Fire"
 
 **Original:** pyr
 **Transliteration:** pyr
@@ -238,7 +238,7 @@ Pyr is the most common fire word. In the judgment parables, it appears in two co
 
 ---
 
-## [G2545](https://www.blueletterbible.org/lexicon/g2545/kjv/tr/0-1/){:target="_blank"} kaio -- "To Set on Fire, Kindle"
+## G2545 kaio -- "To Set on Fire, Kindle"
 
 **Original:** kaio
 **Transliteration:** kaio
@@ -256,11 +256,11 @@ Pyr is the most common fire word. In the judgment parables, it appears in two co
 | burneth | 1 |
 
 ### Key Verse: Matt 13:40
-In Matt 13:40, the Greek text uses BOTH kaio and [katakaio](https://www.blueletterbible.org/lexicon/g2618/kjv/tr/0-1/){:target="_blank"}: "the tares are gathered and **burned** (kaio) in the fire" -- but the parsing shows this is actually [katakaio](https://www.blueletterbible.org/lexicon/g2618/kjv/tr/0-1/){:target="_blank"} (G2618), the intensified form. The base verb kaio appears elsewhere (Matt 5:15 -- lighting a candle; Luke 12:35 -- burning lamps; John 5:35 -- burning and shining light; Rev 19:20; 21:8 -- lake burning with fire).
+In Matt 13:40, the Greek text uses BOTH kaio and katakaio: "the tares are gathered and **burned** (kaio) in the fire" -- but the parsing shows this is actually katakaio (G2618), the intensified form. The base verb kaio appears elsewhere (Matt 5:15 -- lighting a candle; Luke 12:35 -- burning lamps; John 5:35 -- burning and shining light; Rev 19:20; 21:8 -- lake burning with fire).
 
 ---
 
-## [G906](https://www.blueletterbible.org/lexicon/g906/kjv/tr/0-1/){:target="_blank"} ballo -- "To Throw, Cast"
+## G906 ballo -- "To Throw, Cast"
 
 **Original:** ballo
 **Transliteration:** ballo
@@ -285,21 +285,21 @@ Note: Matt 8:12 uses ekballo (G1544, ek+ballo, "cast OUT") rather than ballo -- 
 
 ## Hebrew Furnace Terms
 
-### [H3536](https://www.blueletterbible.org/lexicon/h3536/kjv/wlc/0-1/){:target="_blank"} kibshan -- "Smelting Furnace"
+### H3536 kibshan -- "Smelting Furnace"
 - 4 OT occurrences: Gen 19:28; Exo 9:8,10; 19:18
 - Definition: "a smelting furnace (as reducing metals)"
 - Gen 19:28: "the smoke of the country went up as the smoke of a furnace" (Sodom's destruction)
 - Exo 19:18: "mount Sinai was altogether on a smoke...as the smoke of a furnace" (God's presence)
 - LXX mapping: No strong mapping to kaminos
 
-### [H8574](https://www.blueletterbible.org/lexicon/h8574/kjv/wlc/0-1/){:target="_blank"} tannuwr -- "Fire-Pot, Oven, Furnace"
+### H8574 tannuwr -- "Fire-Pot, Oven, Furnace"
 - 19 OT occurrences (15 BLB count)
 - Definition: "a fire-pot"
 - Key verse: **Mal 4:1** -- "the day cometh, that shall burn as an **oven**"
 - LXX mapping: Maps to **klibanos** (G2823), NOT kaminos (G2575)
 - Note: This is the word behind Malachi's "oven" imagery. The LXX distinction (tannuwr = klibanos, kuwr = kaminos) suggests Matt 13:42's kaminos draws more on the Dan 3/Deut 4:20 furnace tradition than on Mal 4:1 directly.
 
-### [H3564](https://www.blueletterbible.org/lexicon/h3564/kjv/wlc/0-1/){:target="_blank"} kuwr -- "Pot, Furnace"
+### H3564 kuwr -- "Pot, Furnace"
 - 9-11 OT occurrences
 - Definition: "a pot or furnace (as if excavated)"
 - Uses: Deut 4:20; 1 Ki 8:51 (iron furnace of Egypt); Pro 17:3; 27:21 (refining gold/silver); Isa 48:10 (furnace of affliction); Jer 11:4 (iron furnace); Ezk 22:18,20,22 (melting furnace)

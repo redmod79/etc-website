@@ -1,12 +1,12 @@
 # Word Studies
 
 ## Question
-What does Scripture explicitly say about the nature and composition of human beings (biblical anthropology)? Focus on [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} (soul), [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} (spirit), [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} (breath), the creation of man, whether humans ARE souls or HAVE souls, and what happens at death.
+What does Scripture explicitly say about the nature and composition of human beings (biblical anthropology)? Focus on nephesh (soul), ruach (spirit), neshamah (breath), the creation of man, whether humans ARE souls or HAVE souls, and what happens at death.
 
 ---
 
-## [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} -- [H5315](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} (נֶפֶשׁ)
-**Original:** [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}
+## nephesh -- H5315 (נֶפֶשׁ)
+**Original:** nephesh
 **Transliteration:** neh-fesh
 **Part of Speech:** Feminine noun
 **Occurrences:** 780 in KJV (753 BLB)
@@ -21,38 +21,38 @@ The extraordinary breadth of translation (214 unique renderings) demonstrates th
 - **"creature"**: 9 occurrences
 - **"person/persons"**: ~15 occurrences
 - **"body"**: 4 occurrences
-- **"dead/the dead"**: ~6 occurrences ([nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} = dead body: Lev 21:11; Num 6:6)
+- **"dead/the dead"**: ~6 occurrences (nephesh = dead body: Lev 21:11; Num 6:6)
 - **"heart/mind"**: ~20 occurrences
 - **"desire/appetite/lust"**: ~10 occurrences
 - **"beast"**: 2 occurrences
 - **"self" (himself, herself, themselves, etc.)**: ~15 occurrences
 
 ### Key Observations
-1. [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} is applied to ANIMALS (Gen 1:20,21,24,30; 2:19; 9:10,12,15,16) -- same word for human and animal "souls"
-2. [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} is used for DEAD BODIES (Lev 21:11; Num 6:6; 19:11,13) -- "soul" = corpse
-3. [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} can DIE (Ezek 18:4,20; Num 35:11,15,30; Josh 10:28,30,32,35,37,39; 11:11)
-4. Man BECAME a living [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} (Gen 2:7) -- not "received" a [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}
-5. [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} is used for appetite/desire (Deut 12:15,20,21; Prov 23:2) -- physical longing
-6. Blood IS the [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} (Lev 17:11,14; Deut 12:23) -- "the life [nephesh] of the flesh is in the blood"
+1. Nephesh is applied to ANIMALS (Gen 1:20,21,24,30; 2:19; 9:10,12,15,16) -- same word for human and animal "souls"
+2. Nephesh is used for DEAD BODIES (Lev 21:11; Num 6:6; 19:11,13) -- "soul" = corpse
+3. Nephesh can DIE (Ezek 18:4,20; Num 35:11,15,30; Josh 10:28,30,32,35,37,39; 11:11)
+4. Man BECAME a living nephesh (Gen 2:7) -- not "received" a nephesh
+5. Nephesh is used for appetite/desire (Deut 12:15,20,21; Prov 23:2) -- physical longing
+6. Blood IS the nephesh (Lev 17:11,14; Deut 12:23) -- "the life [nephesh] of the flesh is in the blood"
 
 ### LXX Connections
-- [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} -> [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} (G5590): 599 occurrences (~80%) -- overwhelmingly dominant mapping
-- [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} -> zao "to live" (G2198): 51 occurrences
-- [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} -> [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} "life" (G2222): 22 occurrences
-- [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} -> [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} "death" (G2288): 25 occurrences (when [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} refers to dead body)
+- nephesh -> psyche (G5590): 599 occurrences (~80%) -- overwhelmingly dominant mapping
+- nephesh -> zao "to live" (G2198): 51 occurrences
+- nephesh -> zoe "life" (G2222): 22 occurrences
+- nephesh -> thanatos "death" (G2288): 25 occurrences (when nephesh refers to dead body)
 
 ### Key Verses
 - Gen 2:7: "man became a living soul [nephesh chayyah]"
-- Gen 1:20,21,24: [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} [chayyah](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"} applied to animals
+- Gen 1:20,21,24: nephesh chayyah applied to animals
 - Lev 17:11: "the life [nephesh] of the flesh is in the blood"
-- Lev 21:11; Num 6:6: [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} = dead body
+- Lev 21:11; Num 6:6: nephesh = dead body
 - Ezek 18:4,20: "the soul [nephesh] that sinneth, it shall die"
 - Ps 16:10: "thou wilt not leave my soul [nephesh] in hell [sheol]"
 
 ---
 
-## [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} -- [H7307](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} (רוּחַ)
-**Original:** [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}
+## ruach -- H7307 (רוּחַ)
+**Original:** ruach
 **Transliteration:** roo-akh
 **Part of Speech:** Feminine noun
 **Occurrences:** 434 in KJV (378 BLB)
@@ -72,19 +72,19 @@ The extraordinary breadth of translation (214 unique renderings) demonstrates th
 - **"vain"**: ~2 occurrences
 
 ### Key Observations
-1. [Ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} has three primary semantic domains: (a) wind, (b) breath/life force, (c) spirit/mind/disposition
-2. [Ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} is applied to ANIMALS (Gen 6:17; 7:15,22; Ecc 3:19,21) -- animals have [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}
-3. [Ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} is what RETURNS to God at death (Ecc 12:7) -- not a conscious entity but the animating life-principle
-4. [Ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} DEPARTS at death (Ps 146:4) and thoughts perish "in that very day"
-5. Gen 2:7 uses [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} (NOT [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}) for what God breathed; Ecc 12:7 uses [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} for what returns
-6. When God takes away [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"}, creatures die and return to dust (Ps 104:29; Job 34:14-15)
-7. [Ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} is described as given by God to all (Isa 42:5; Zec 12:1; Num 16:22; 27:16)
+1. Ruach has three primary semantic domains: (a) wind, (b) breath/life force, (c) spirit/mind/disposition
+2. Ruach is applied to ANIMALS (Gen 6:17; 7:15,22; Ecc 3:19,21) -- animals have ruach
+3. Ruach is what RETURNS to God at death (Ecc 12:7) -- not a conscious entity but the animating life-principle
+4. Ruach DEPARTS at death (Ps 146:4) and thoughts perish "in that very day"
+5. Gen 2:7 uses neshamah (NOT ruach) for what God breathed; Ecc 12:7 uses ruach for what returns
+6. When God takes away ruach, creatures die and return to dust (Ps 104:29; Job 34:14-15)
+7. Ruach is described as given by God to all (Isa 42:5; Zec 12:1; Num 16:22; 27:16)
 
 ### LXX Connections
-- [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} -> [pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} (G4151): 235 occurrences -- dominant (spirit)
-- [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} -> anemos (G417): 44 occurrences (literal wind)
-- [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} -> pnoe (G4157): 10 occurrences (breath)
-- [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} -> mataiotes (G3153): 8 occurrences (vanity -- "vexation of spirit")
+- ruach -> pneuma (G4151): 235 occurrences -- dominant (spirit)
+- ruach -> anemos (G417): 44 occurrences (literal wind)
+- ruach -> pnoe (G4157): 10 occurrences (breath)
+- ruach -> mataiotes (G3153): 8 occurrences (vanity -- "vexation of spirit")
 
 ### Key Verses
 - Gen 6:17; 7:15: "breath [ruach] of life" in animals
@@ -97,8 +97,8 @@ The extraordinary breadth of translation (214 unique renderings) demonstrates th
 
 ---
 
-## [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} -- [H5397](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} (נְשָׁמָה)
-**Original:** [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"}
+## neshamah -- H5397 (נְשָׁמָה)
+**Original:** neshamah
 **Transliteration:** nesh-aw-maw
 **Part of Speech:** Feminine noun
 **Occurrences:** 25 in KJV (24 BLB)
@@ -115,20 +115,20 @@ The extraordinary breadth of translation (214 unique renderings) demonstrates th
 - **"souls"**: 1 occurrence (4%)
 
 ### Key Observations
-1. [Neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} is specifically what God breathed into man in Gen 2:7 -- the "breath of life"
-2. Much rarer than [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} (25 vs 434 occurrences) -- more specialized term
-3. Used alongside [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} in Job 27:3; 34:14 -- suggesting overlap but not identity
-4. Gen 7:22 uses BOTH terms: "the breath [neshamah] of life [ruach]" -- [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} of the [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} of life
+1. Neshamah is specifically what God breathed into man in Gen 2:7 -- the "breath of life"
+2. Much rarer than ruach (25 vs 434 occurrences) -- more specialized term
+3. Used alongside ruach in Job 27:3; 34:14 -- suggesting overlap but not identity
+4. Gen 7:22 uses BOTH terms: "the breath [neshamah] of life [ruach]" -- neshamah of the ruach of life
 5. Applied to divine action: God's breath destroys (2 Sam 22:16; Job 4:9) and creates (Gen 2:7; Job 33:4)
 6. Prov 20:27: "The spirit [neshamah] of man is the candle of the LORD"
 7. Job 32:8: "the inspiration [neshamah] of the Almighty giveth them understanding"
 
 ### LXX Connections
-- [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} -> pnoe (G4157): 14 occurrences -- primary mapping (distinct from [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} -> [pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"})
-- [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} -> [pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} (G4151): 10 occurrences
-- [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} -> [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} (G2222): 3 occurrences
+- neshamah -> pnoe (G4157): 14 occurrences -- primary mapping (distinct from ruach -> pneuma)
+- neshamah -> pneuma (G4151): 10 occurrences
+- neshamah -> zoe (G2222): 3 occurrences
 
-**Key finding**: LXX translators distinguished [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} (-> pnoe) from [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} (-> [pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"}), suggesting they recognized a semantic difference.
+**Key finding**: LXX translators distinguished neshamah (-> pnoe) from ruach (-> pneuma), suggesting they recognized a semantic difference.
 
 ### Key Verses
 - Gen 2:7: "breathed into his nostrils the breath [neshamah] of life"
@@ -140,8 +140,8 @@ The extraordinary breadth of translation (214 unique renderings) demonstrates th
 
 ---
 
-## [naphach](https://www.blueletterbible.org/lexicon/h5301/kjv/wlc/0-1/){:target="_blank"} -- [H5301](https://www.blueletterbible.org/lexicon/h5301/kjv/wlc/0-1/){:target="_blank"} (נָפַח)
-**Original:** [naphach](https://www.blueletterbible.org/lexicon/h5301/kjv/wlc/0-1/){:target="_blank"}
+## naphach -- H5301 (נָפַח)
+**Original:** naphach
 **Transliteration:** naw-fakh
 **Part of Speech:** Verb
 **Occurrences:** 13 in KJV (12 BLB)
@@ -150,15 +150,15 @@ The extraordinary breadth of translation (214 unique renderings) demonstrates th
 "A primitive root; to puff, in various applications (literally, to inflate, blow hard, scatter, kindle, expire; figuratively, to disesteem): blow, breath, give up, cause to lose (life), seething, snuff."
 
 ### Key Observations
-1. This is the verb in Gen 2:7 -- God "breathed" ([naphach](https://www.blueletterbible.org/lexicon/h5301/kjv/wlc/0-1/){:target="_blank"}) into man's nostrils
+1. This is the verb in Gen 2:7 -- God "breathed" (naphach) into man's nostrils
 2. Note definition includes "expire" and "cause to lose (life)" -- the same root for breathing IN also means breathing OUT/dying
 3. Used in Ezek 37:9 -- God commands: "breathe [naphach] upon these slain, that they may live"
 4. Jer 15:9: "she hath given up [naphach] the ghost" -- breathing out = dying
 
 ---
 
-## [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} -- [G5590](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} (ψυχή)
-**Original:** [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}
+## psyche -- G5590 (ψυχή)
+**Original:** psyche
 **Transliteration:** psoo-khay
 **Part of Speech:** Feminine noun
 **Occurrences:** 87 in KJV (105 BLB)
@@ -173,13 +173,13 @@ The extraordinary breadth of translation (214 unique renderings) demonstrates th
 - **"heart"**: 1 occurrence
 
 ### Key Observations
-1. NT equivalent of Hebrew [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} (LXX translates [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} as [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} ~80% of the time)
-2. Like [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}, [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} means both "soul" AND "life" -- no single English equivalent
-3. In Matt 10:28, God can DESTROY ([apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}) the [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} -- it is not inherently indestructible
+1. NT equivalent of Hebrew nephesh (LXX translates nephesh as psyche ~80% of the time)
+2. Like nephesh, psyche means both "soul" AND "life" -- no single English equivalent
+3. In Matt 10:28, God can DESTROY (apollymi) the psyche -- it is not inherently indestructible
 4. In 1 Cor 15:45, "living soul [psyche]" quotes Gen 2:7 LXX
 5. Applied to animals in Rev 8:9; 16:3 -- "every living soul [psyche] died in the sea"
-6. Acts 2:27,31 quotes Ps 16:10 -- [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} in [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (not heaven)
-7. In Acts 2:41; 7:14; 27:37 -- [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} = "person" (counting people)
+6. Acts 2:27,31 quotes Ps 16:10 -- psyche in Hades (not heaven)
+7. In Acts 2:41; 7:14; 27:37 -- psyche = "person" (counting people)
 
 ### Key Verses
 - Matt 10:28: "fear him which is able to destroy both soul [psyche] and body in hell [gehenna]"
@@ -191,8 +191,8 @@ The extraordinary breadth of translation (214 unique renderings) demonstrates th
 
 ---
 
-## [pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} -- [G4151](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} (πνεῦμα)
-**Original:** [pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"}
+## pneuma -- G4151 (πνεῦμα)
+**Original:** pneuma
 **Transliteration:** pnyoo-mah
 **Part of Speech:** Neuter noun
 **Occurrences:** 342 in KJV (385 BLB)
@@ -208,13 +208,13 @@ The extraordinary breadth of translation (214 unique renderings) demonstrates th
 - **"life"**: 1 occurrence
 
 ### Key Observations
-1. NT equivalent of Hebrew [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"} -- same broad range from "wind" to "spirit"
+1. NT equivalent of Hebrew ruach -- same broad range from "wind" to "spirit"
 2. Majority of NT uses refer to the Holy Spirit/Holy Ghost -- not human spirit
-3. At death, Jesus committed his [pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} to God (Luke 23:46; John 19:30)
-4. Stephen committed his [pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} to Jesus (Acts 7:59)
-5. James 2:26: "the body without the spirit [pneuma] is dead" -- [pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} as animating principle
-6. 1 Cor 15:45: "the last Adam [was made] a quickening spirit [pneuma]" -- contrasted with [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}
-7. 1 Thess 5:23: lists [pneuma](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"}, [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}, and [soma](https://www.blueletterbible.org/lexicon/g4983/kjv/tr/0-1/){:target="_blank"} as components
+3. At death, Jesus committed his pneuma to God (Luke 23:46; John 19:30)
+4. Stephen committed his pneuma to Jesus (Acts 7:59)
+5. James 2:26: "the body without the spirit [pneuma] is dead" -- pneuma as animating principle
+6. 1 Cor 15:45: "the last Adam [was made] a quickening spirit [pneuma]" -- contrasted with psyche
+7. 1 Thess 5:23: lists pneuma, psyche, and soma as components
 
 ### Key Verses
 - Luke 23:46: "Father, into thy hands I commend my spirit [pneuma]"
@@ -225,8 +225,8 @@ The extraordinary breadth of translation (214 unique renderings) demonstrates th
 
 ---
 
-## [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} -- [G2222](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} (ζωή)
-**Original:** [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"}
+## zoe -- G2222 (ζωή)
+**Original:** zoe
 **Transliteration:** dzo-ay
 **Part of Speech:** Feminine noun
 **Occurrences:** 80 in KJV (134 BLB)
@@ -240,16 +240,16 @@ The extraordinary breadth of translation (214 unique renderings) demonstrates th
 - **"lifetime"**: 1 occurrence
 
 ### Key Observations
-1. Almost always translated "life" -- very consistent (unlike [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}/[psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"})
-2. Frequently paired with "eternal" ([aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"}) -- "eternal life" ([zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} [aionios](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"})
-3. In John's writings, [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} is something Christ GIVES (John 10:28; 17:2)
+1. Almost always translated "life" -- very consistent (unlike nephesh/psyche)
+2. Frequently paired with "eternal" (aionios) -- "eternal life" (zoe aionios)
+3. In John's writings, zoe is something Christ GIVES (John 10:28; 17:2)
 4. Rom 2:7: "to them who by patient continuance in well doing seek for glory and honour and immortality [aphtharsia], eternal life [zoe aionios]" -- life must be sought
 5. 2 Tim 1:10: Christ "brought life [zoe] and immortality [aphtharsia] to light through the gospel"
 6. Acts 17:25: God "giveth to all life [zoe], and breath [pnoe], and all things"
 
 ---
 
-## pnoe -- [G4157](https://www.blueletterbible.org/lexicon/g4157/kjv/tr/0-1/){:target="_blank"} (πνοή)
+## pnoe -- G4157 (πνοή)
 **Original:** pnoe
 **Transliteration:** pno-ay
 **Part of Speech:** Feminine noun
@@ -262,13 +262,13 @@ The extraordinary breadth of translation (214 unique renderings) demonstrates th
 1. Extremely rare in NT -- only 2 occurrences
 2. Acts 2:2: "a sound from heaven as of a rushing mighty wind [pnoe]"
 3. Acts 17:25: God "giveth to all life, and breath [pnoe], and all things"
-4. Acts 17:25 echoes Gen 2:7 -- LXX uses pnoe for [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} in Gen 2:7
-5. This is the NT equivalent specifically of [neshamah](https://www.blueletterbible.org/lexicon/h5397/kjv/wlc/0-1/){:target="_blank"} (not [ruach](https://www.blueletterbible.org/lexicon/h7307/kjv/wlc/0-1/){:target="_blank"})
+4. Acts 17:25 echoes Gen 2:7 -- LXX uses pnoe for neshamah in Gen 2:7
+5. This is the NT equivalent specifically of neshamah (not ruach)
 
 ---
 
-## [athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} -- [G110](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} (ἀθανασία)
-**Original:** [athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"}
+## athanasia -- G110 (ἀθανασία)
+**Original:** athanasia
 **Transliteration:** ath-an-as-ee-ah
 **Part of Speech:** Feminine noun
 **Occurrences:** 3 in KJV
@@ -294,8 +294,8 @@ The extraordinary breadth of translation (214 unique renderings) demonstrates th
 
 ---
 
-## [aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"} -- [G861](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"} (ἀφθαρσία)
-**Original:** [aphtharsia](https://www.blueletterbible.org/lexicon/g861/kjv/tr/0-1/){:target="_blank"}
+## aphtharsia -- G861 (ἀφθαρσία)
+**Original:** aphtharsia
 **Transliteration:** af-thar-see-ah
 **Part of Speech:** Feminine noun
 **Occurrences:** 8 in KJV
@@ -309,7 +309,7 @@ The extraordinary breadth of translation (214 unique renderings) demonstrates th
 - **"sincerity"**: 2 occurrences (25%)
 
 ### Key Observations
-1. Related to but distinct from [athanasia](https://www.blueletterbible.org/lexicon/g110/kjv/tr/0-1/){:target="_blank"} -- focuses on incorruptibility rather than deathlessness
+1. Related to but distinct from athanasia -- focuses on incorruptibility rather than deathlessness
 2. Rom 2:7: "to them who...seek for...immortality [aphtharsia], eternal life" -- it must be SOUGHT
 3. 1 Cor 15:42: "It is sown in corruption; it is raised in incorruption [aphtharsia]"
 4. 2 Tim 1:10: Christ "hath brought life and immortality [aphtharsia] to light through the gospel"
@@ -317,8 +317,8 @@ The extraordinary breadth of translation (214 unique renderings) demonstrates th
 
 ---
 
-## [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} -- [G2349](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} (θνητός)
-**Original:** [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"}
+## thnetos -- G2349 (θνητός)
+**Original:** thnetos
 **Transliteration:** thnay-tos
 **Part of Speech:** Adjective
 **Occurrences:** 6 in KJV
@@ -340,7 +340,7 @@ The extraordinary breadth of translation (214 unique renderings) demonstrates th
 
 ---
 
-## aphar -- [H6083](https://www.blueletterbible.org/lexicon/h6083/kjv/wlc/0-1/){:target="_blank"} (עָפָר)
+## aphar -- H6083 (עָפָר)
 **Original:** aphar
 **Transliteration:** aw-fawr
 **Part of Speech:** Masculine noun
@@ -360,14 +360,14 @@ The extraordinary breadth of translation (214 unique renderings) demonstrates th
 
 ---
 
-## [maveth](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"} -- [H4194](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"} (מָוֶת)
-**Original:** [maveth](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"}
+## maveth -- H4194 (מָוֶת)
+**Original:** maveth
 **Transliteration:** maw-veth
 **Part of Speech:** Masculine noun
 **Occurrences:** 167 in KJV (160 BLB)
 
 ### Definition
-"From [muth]; death (natural or violent); concretely, the dead, their place or state ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}); figuratively, pestilence, ruin: (be) dead(-ly), death, die(-d)."
+"From [muth]; death (natural or violent); concretely, the dead, their place or state (hades); figuratively, pestilence, ruin: (be) dead(-ly), death, die(-d)."
 
 ### Key Observations
 1. Death entered through sin (Gen 2:17; Rom 5:12)
@@ -378,7 +378,7 @@ The extraordinary breadth of translation (214 unique renderings) demonstrates th
 
 ---
 
-## chayah -- [H2421](https://www.blueletterbible.org/lexicon/h2421/kjv/wlc/0-1/){:target="_blank"} (חָיָה)
+## chayah -- H2421 (חָיָה)
 **Original:** chayah
 **Transliteration:** khaw-yaw
 **Part of Speech:** Verb
@@ -394,16 +394,3 @@ The extraordinary breadth of translation (214 unique renderings) demonstrates th
 4. Ezek 37:3,5,6,9,10,14: Used repeatedly in dry bones vision -- God revives the dead
 5. Hab 2:4: "the just shall live [chayah] by his faith"
 6. The Piel/Hiphil causative forms emphasize God as the SOURCE of life -- not an inherent property
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

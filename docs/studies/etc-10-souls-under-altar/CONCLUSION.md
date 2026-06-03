@@ -4,7 +4,7 @@
 What does Revelation 6:9-11 teach about the state of the dead? Analyze the passage within its apocalyptic genre, the OT altar-blood framework, the Abel's blood parallel (Gen 4:10), the sphazō vocabulary chain, the anapauō rest command, and the Rev 20:4-5 first resurrection connection. Apply Tree 3 genre/subject gates.
 
 ## Summary Answer
-Revelation 6:9-11 occurs within an apocalyptic vision sequence (the seven seals) in which all surrounding elements are symbolic: colored horses, personified Death and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} as riders (Rev 6:8), cosmic upheaval (6:12-14). The "souls" (psychas) under the altar correspond to the OT sacrificial blood poured at the altar base (Lev 4:7,18,25,30). The cry echoes Abel's blood "crying" from the ground (Gen 4:10) -- a forensic personification, not literal vocalization by a conscious dead person. The sphazō vocabulary chain links the martyrs to the Lamb (Rev 5:6,9,12) and to Abel (1 Jn 3:12) within a sacrificial framework. The "rest" command (anapauō, G373) uses the same word as Rev 14:13 (the blessed dead rest from labors) and parallels Daniel 12:13 (rest, then stand at the end). The same group, identified by shared vocabulary (psychas, martyria, logos tou Theou), "lived" at the first resurrection (Rev 20:4-5), locating their transition to "living" at the resurrection, not in an intermediate state. Tree 3 classification: Gate 1 FAIL (symbolic vision-figure), Gate 3 FAIL (apocalyptic genre). Classification: Neutral.
+Revelation 6:9-11 occurs within an apocalyptic vision sequence (the seven seals) in which all surrounding elements are symbolic: colored horses, personified Death and Hades as riders (Rev 6:8), cosmic upheaval (6:12-14). The "souls" (psychas) under the altar correspond to the OT sacrificial blood poured at the altar base (Lev 4:7,18,25,30). The cry echoes Abel's blood "crying" from the ground (Gen 4:10) -- a forensic personification, not literal vocalization by a conscious dead person. The sphazō vocabulary chain links the martyrs to the Lamb (Rev 5:6,9,12) and to Abel (1 Jn 3:12) within a sacrificial framework. The "rest" command (anapauō, G373) uses the same word as Rev 14:13 (the blessed dead rest from labors) and parallels Daniel 12:13 (rest, then stand at the end). The same group, identified by shared vocabulary (psychas, martyria, logos tou Theou), "lived" at the first resurrection (Rev 20:4-5), locating their transition to "living" at the resurrection, not in an intermediate state. Tree 3 classification: Gate 1 FAIL (symbolic vision-figure), Gate 3 FAIL (apocalyptic genre). Classification: Neutral.
 
 ## Key Verses
 - **Rev 6:9** -- "I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held"
@@ -20,7 +20,7 @@ Revelation 6:9-11 occurs within an apocalyptic vision sequence (the seven seals)
 
 ## Evidence Classification
 
-*Evidence items tracked in etc-master-evidence.md*
+*Evidence items tracked in etc6-master-evidence.md*
 
 ### INVESTIGATIVE METHODOLOGY
 - This study investigates what Revelation 6:9-11 states and what interpretive frameworks each side applies.
@@ -40,12 +40,12 @@ Revelation 6:9-11 occurs within an apocalyptic vision sequence (the seven seals)
 | E4 | Abel's blood "crieth" (qol, voice) from the ground to God; the dead Abel is not literally conscious and speaking | Gen 4:10 | Neutral | E335 |
 | E5 | Abel "being dead yet speaketh" -- through his faithful sacrifice, not literal post-mortem vocalization | Heb 11:4 | Neutral | E336 *NEW* |
 | E6 | The blood of Christ "speaketh better things than that of Abel" -- blood itself is said to speak | Heb 12:24 | Neutral | E337 *NEW* |
-| E7 | The [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}/[psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} of the flesh is in the blood; the blood is the [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}/life | Lev 17:11,14; Gen 9:4; Deut 12:23 | Neutral | E014 |
+| E7 | The nephesh/psyche of the flesh is in the blood; the blood is the nephesh/life | Lev 17:11,14; Gen 9:4; Deut 12:23 | Neutral | E014 |
 | E8 | In the OT sacrificial system, the blood of the sin offering was poured at the bottom of the altar of burnt offering (repeated in five passages) | Lev 4:7,18,25,30,34; Exo 29:12 | Neutral | E338 *NEW* |
 | E9 | Sphazō (G4969) is used for both the Lamb (Rev 5:6,9,12) and the martyrs (Rev 6:9; 18:24) -- shared sacrificial vocabulary | Rev 5:6,9,12; 6:9; 18:24 | Neutral | E339 *NEW* |
 | E10 | Sphazō is used for Abel in 1 Jn 3:12 ("slew his brother"), connecting the Abel-martyrs link | 1 Jn 3:12 | Neutral | E340 *NEW* |
 | E11 | The altar itself speaks in Rev 16:7: "I heard another out of the altar say" -- personification of the altar | Rev 16:7 | Neutral | E341 *NEW* |
-| E12 | In the fourth seal (immediately preceding), Death and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} are personified as horsemen | Rev 6:8 | Neutral | E342 *NEW* |
+| E12 | In the fourth seal (immediately preceding), Death and Hades are personified as horsemen | Rev 6:8 | Neutral | E342 *NEW* |
 | E13 | Withheld wages "crieth" (krazō family) in James 5:4 -- the wages cry, not a person | Jas 5:4 | Neutral | E343 *NEW* |
 | E14 | Blessed are the dead which die in the Lord; they rest (anapauō) from their labours | Rev 14:13 | Neutral | E154 |
 | E15 | Daniel shall rest (nuach) and stand in his lot at the end of the days | Dan 12:13 | Neutral | E056 |
@@ -63,11 +63,11 @@ Revelation 6:9-11 occurs within an apocalyptic vision sequence (the seven seals)
 | E27 | In death there is no remembrance of God; in the grave no one gives thanks | Ps 6:5 | Cond. | E017 |
 | E28 | Man lies down and does not rise till the heavens be no more; they shall not awake nor be raised out of their sleep | Job 14:12 | Cond. | E041 |
 | E29 | The dead man's sons come to honour and he knoweth it not | Job 14:21 | Cond. | E042 |
-| E30 | The soul ([nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}) that sins shall die | Ezek 18:4,20 | Cond. | E016 |
+| E30 | The soul (nephesh) that sins shall die | Ezek 18:4,20 | Cond. | E016 |
 | E31 | In the parable, the rich man is depicted in torments; the stated teaching point is "They have Moses and the prophets; let them hear them" | Luke 16:19-31 | Neutral | E155 |
-| E32 | Isaiah 14:9-10 is a [mashal](https://www.blueletterbible.org/lexicon/h4912/kjv/wlc/0-1/){:target="_blank"} (taunt-poem, v.4) using personification: [rephaim](https://www.blueletterbible.org/lexicon/h7496/kjv/wlc/0-1/){:target="_blank"} "speak" in [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} | Isa 14:4,8-10 | Neutral | E171 |
-| E33 | [Psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} (G5590) is used for animal life in Rev 8:9 ("had life [psyche], died") and Rev 16:3 ("every living soul [psyche] died") | Rev 8:9; 16:3 | Neutral | E351 *NEW* |
-| E34 | [Psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} is translated "lives" in Rev 12:11 ("they loved not their lives [psychas] unto the death") -- for the same martyrs | Rev 12:11 | Neutral | E352 *NEW* |
+| E32 | Isaiah 14:9-10 is a mashal (taunt-poem, v.4) using personification: rephaim "speak" in sheol | Isa 14:4,8-10 | Neutral | E171 |
+| E33 | Psyche (G5590) is used for animal life in Rev 8:9 ("had life [psyche], died") and Rev 16:3 ("every living soul [psyche] died") | Rev 8:9; 16:3 | Neutral | E351 *NEW* |
+| E34 | Psyche is translated "lives" in Rev 12:11 ("they loved not their lives [psychas] unto the death") -- for the same martyrs | Rev 12:11 | Neutral | E352 *NEW* |
 | E35 | In Revelation, the martyrs overcame "by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death" | Rev 12:11 | Neutral | E352 |
 | E36 | Babylon is found "drunken with the blood of the saints, and with the blood of the martyrs of Jesus" | Rev 17:6 | Neutral | E353 *NEW* |
 | E37 | "In her was found the blood of prophets, and of saints, and of all that were slain [sphazō] upon the earth" | Rev 18:24 | Neutral | E354 *NEW* |
@@ -78,14 +78,14 @@ Revelation 6:9-11 occurs within an apocalyptic vision sequence (the seven seals)
 
 All items classified as Conditionalist have been documented in prior studies with full Tree 3 validation:
 
-- E23/E019 (Ecc 9:5): Classified Conditionalist in etc-01. All four gates passed.
-- E24/E011 (Ps 146:4): Classified Conditionalist in etc-01. All four gates passed.
-- E25/E018 (Ps 115:17): Classified Conditionalist in etc-01. All four gates passed.
-- E26/E021 (Ecc 9:10): Classified Conditionalist in etc-01. All four gates passed.
-- E27/E017 (Ps 6:5): Classified Conditionalist in etc-01. All four gates passed.
-- E28/E041 (Job 14:12): Classified Conditionalist in etc-01. All four gates passed.
-- E29/E042 (Job 14:21): Classified Conditionalist in etc-01. All four gates passed.
-- E30/E016 (Ezek 18:4,20): Classified Conditionalist in etc-01. All four gates passed.
+- E23/E019 (Ecc 9:5): Classified Conditionalist in etc6-01b. All four gates passed.
+- E24/E011 (Ps 146:4): Classified Conditionalist in etc6-01b. All four gates passed.
+- E25/E018 (Ps 115:17): Classified Conditionalist in etc6-01b. All four gates passed.
+- E26/E021 (Ecc 9:10): Classified Conditionalist in etc6-01b. All four gates passed.
+- E27/E017 (Ps 6:5): Classified Conditionalist in etc6-01b. All four gates passed.
+- E28/E041 (Job 14:12): Classified Conditionalist in etc6-01b. All four gates passed.
+- E29/E042 (Job 14:21): Classified Conditionalist in etc6-01b. All four gates passed.
+- E30/E016 (Ezek 18:4,20): Classified Conditionalist in etc6-01b. All four gates passed.
 
 **Tree 3 for new E-items from Rev 6:9-11 (E1-E3, mapped to Master E156):**
 
@@ -94,9 +94,9 @@ V2: "cried with a loud voice" (Rev 6:10) = conscious activity vocabulary. Candid
 
 **Step 2 -- Validation Gates:**
 
-- **Gate 1 (Subject Gate):** The "souls under the altar" are vision-figures in an apocalyptic vision. The preceding seal personifies Death and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} as horsemen (Rev 6:8). All surrounding seals use symbolic imagery. The subjects are symbolic entities in an apocalyptic vision. **FAIL: Subject is a symbolic vision-figure.**
+- **Gate 1 (Subject Gate):** The "souls under the altar" are vision-figures in an apocalyptic vision. The preceding seal personifies Death and Hades as horsemen (Rev 6:8). All surrounding seals use symbolic imagery. The subjects are symbolic entities in an apocalyptic vision. **FAIL: Subject is a symbolic vision-figure.**
 
-- **Gate 3 (Genre Gate):** Revelation is apocalyptic vision literature. Nave's classifies the book under VISION. Rev 1:1 states the book "signified" (communicated by signs). The seal sequence contains colored horses, personified Death/[Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}, cosmic upheaval. **FAIL: Genre is apocalyptic vision.**
+- **Gate 3 (Genre Gate):** Revelation is apocalyptic vision literature. Nave's classifies the book under VISION. Rev 1:1 states the book "signified" (communicated by signs). The seal sequence contains colored horses, personified Death/Hades, cosmic upheaval. **FAIL: Genre is apocalyptic vision.**
 
 **Step 3 -- Reclassification:**
 
@@ -112,15 +112,15 @@ V2: "cried with a loud voice" (Rev 6:10) = conscious activity vocabulary. Candid
 
 | # | Necessary Implication | Based on | Position | Why Unavoidable | Master ID |
 |---|---|---|---|---|---|
-| N1 | The psychas under the altar spatially correspond to the blood poured at the base of the OT altar | E1 (psychas under the altar), E7 ([nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} = blood = life), E8 (blood poured at altar base in OT system) | Neutral | If [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} = [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} = blood = life (established by Lev 17:11,14; Gen 9:4; Deut 12:23), and the OT sacrificial blood was poured at the bottom of the altar (Lev 4:7,18,25,30,34; Exo 29:12), then psychas "under" (hypokatō) the altar = blood-life at the altar base. The spatial correspondence is the plain meaning of the OT background. | N045 *NEW* |
+| N1 | The psychas under the altar spatially correspond to the blood poured at the base of the OT altar | E1 (psychas under the altar), E7 (nephesh = blood = life), E8 (blood poured at altar base in OT system) | Neutral | If psyche = nephesh = blood = life (established by Lev 17:11,14; Gen 9:4; Deut 12:23), and the OT sacrificial blood was poured at the bottom of the altar (Lev 4:7,18,25,30,34; Exo 29:12), then psychas "under" (hypokatō) the altar = blood-life at the altar base. The spatial correspondence is the plain meaning of the OT background. | N045 *NEW* |
 | N2 | The sphazō vocabulary chain places the Lamb and the martyrs in the same sacrificial framework | E9 (same word for Lamb and martyrs), E10 (same word for Abel) | Neutral | Sphazō is a sacrificial/butchering term. Its use for both the Lamb (Rev 5:6,9,12) and the martyrs (Rev 6:9; 18:24) and Abel (1 Jn 3:12) places all three in a shared sacrificial framework. Both sides accept that sphazō creates this connection. | N046 *NEW* |
 | N3 | The anapauō link between Rev 6:11 and Rev 14:13 identifies the martyrs' "rest" with the condition of the blessed dead | E3 (told to rest, anapauō), E14 (dead in Lord rest, anapauō) | Neutral | The same Greek word (anapauō) describes both: the martyrs' instruction in Rev 6:11 and the blessed dead's condition in Rev 14:13. Both passages are in the same book by the same author. The verbal link means both describe the same condition. Both sides can accept this textual observation. | N047 *NEW* |
 | N4 | Rev 20:4-5 identifies the same group as Rev 6:9 and locates their "living" at the first resurrection | E1 (psychas, slain, word of God, testimony), E16 (same vocabulary: psychas, martyria, logos tou Theou; "they lived... this is the first resurrection") | Neutral | The vocabulary overlap is exact (psychas, martyria, logos tou Theou). Both passages describe martyrs killed for testimony and the word of God. Rev 20:4-5 states they "lived" at the first resurrection. Both sides accept the textual connection between the two passages. | N048 *NEW* |
-| N5 | Death involves cessation of cognitive activity (8+ OT authors) | E023-E029 (Ecc 9:5; Ps 146:4; 115:17; 6:5; Ecc 9:10; Job 14:12,21) | Cond. | Ten explicit statements from 8+ authors state the dead lack knowledge, thoughts, remembrance, praise, work, wisdom, awareness. Already established as N004 in etc-01. | N004 |
+| N5 | Death involves cessation of cognitive activity (8+ OT authors) | E023-E029 (Ecc 9:5; Ps 146:4; 115:17; 6:5; Ecc 9:10; Job 14:12,21) | Cond. | Ten explicit statements from 8+ authors state the dead lack knowledge, thoughts, remembrance, praise, work, wisdom, awareness. Already established as N004 in etc6-01b. | N004 |
 
 **N-tier verification (3-question test applied to each):**
 
-- **N1/N045:** (1) An ECT scholar accepts that [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} = [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} and that [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} = blood (Lev 17:11); they accept that OT blood was poured at the altar base. The spatial correspondence is observable. YES. (2) One meaning: psychas under altar = blood-life at altar base. YES. (3) Zero added concepts: the [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}-blood-altar connection is in the E-items. YES. PASSES.
+- **N1/N045:** (1) An ECT scholar accepts that psyche = nephesh and that nephesh = blood (Lev 17:11); they accept that OT blood was poured at the altar base. The spatial correspondence is observable. YES. (2) One meaning: psychas under altar = blood-life at altar base. YES. (3) Zero added concepts: the nephesh-blood-altar connection is in the E-items. YES. PASSES.
 
 - **N2/N046:** (1) Both sides accept that sphazō is used for both the Lamb and the martyrs. The sacrificial framework is a grammatical/lexical observation. YES. (2) One meaning. YES. (3) Zero added. YES. PASSES.
 
@@ -128,7 +128,7 @@ V2: "cried with a loud voice" (Rev 6:10) = conscious activity vocabulary. Candid
 
 - **N4/N048:** (1) Both sides accept the vocabulary overlap between Rev 6:9 and 20:4. Both accept that Rev 20:4-5 describes the first resurrection. YES. (2) One meaning. YES. (3) Zero added. YES. PASSES.
 
-- **N5/N004:** Already verified in etc-01 and etc-04. PASSES.
+- **N5/N004:** Already verified in etc6-01b and etc6-04. PASSES.
 
 ---
 
@@ -136,8 +136,8 @@ V2: "cried with a loud voice" (Rev 6:10) = conscious activity vocabulary. Candid
 
 | # | Claim | Type | Position | What the Bible Actually Says | Why This Is an Inference | Criteria |
 |---|-------|------|----------|------------------------------|--------------------------|----------|
-| I1 | Rev 6:9-11 teaches that the souls of dead martyrs are consciously present in heaven, aware of earthly events, and communicating with God | I-C | ECT-direction | E1 (Rev 6:9: in an apocalyptic vision, John sees psychas under the altar). E2 (Rev 6:10: they cry "How long?"). E3 (Rev 6:11: given white robes, told to rest). E4 (Gen 4:10: Abel's blood cries without consciousness). E11 (Rev 16:7: the altar itself speaks). E12 (Rev 6:8: Death and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} personified as horsemen). E21 (Nave's classifies Revelation as VISION). E22 (Rev 1:1: book communicates by signs). | The claim treats apocalyptic vision imagery as a literal description of the dead's state. The passage is in a genre (apocalyptic vision) where all interpreters recognize symbolic elements. The blood-of-Abel parallel (Gen 4:10) shows that "crying out" imagery does not require literal consciousness. The altar itself speaks in Rev 16:7 (personification). Death and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} ride horses in Rev 6:8 (personification). The claim requires treating apocalyptic personification as literal description of consciousness -- an external hermeneutical framework. | #3 (external framework: treating apocalyptic personification as literal description), Gate 1 and Gate 3 failures in Tree 3 |
-| I2 | Rev 6:9-11 uses the blood-crying-from-the-ground motif (Gen 4:10) as forensic personification, not evidence of conscious survival after death | I-A | Cond. | E4 (Gen 4:10: Abel's blood cries from ground). E5 (Heb 11:4: Abel dead yet speaks through sacrifice). E6 (Heb 12:24: blood of Christ speaks). E13 (Jas 5:4: wages cry). E1-E3 (the Rev 6:9-11 text). N1 (psychas under altar = blood-life at altar base). N2 (sphazō sacrificial framework). | All vocabulary and concepts are drawn from E/N tables. It is an inference because it systematizes the Abel parallel, the [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}-blood-altar framework, and the personification pattern into a comprehensive interpretation of Rev 6:9-11. The systematization step makes it an inference rather than a necessary implication. | #5 (systematizing E/N items into a comprehensive reading) |
+| I1 | Rev 6:9-11 teaches that the souls of dead martyrs are consciously present in heaven, aware of earthly events, and communicating with God | I-C | ECT-direction | E1 (Rev 6:9: in an apocalyptic vision, John sees psychas under the altar). E2 (Rev 6:10: they cry "How long?"). E3 (Rev 6:11: given white robes, told to rest). E4 (Gen 4:10: Abel's blood cries without consciousness). E11 (Rev 16:7: the altar itself speaks). E12 (Rev 6:8: Death and Hades personified as horsemen). E21 (Nave's classifies Revelation as VISION). E22 (Rev 1:1: book communicates by signs). | The claim treats apocalyptic vision imagery as a literal description of the dead's state. The passage is in a genre (apocalyptic vision) where all interpreters recognize symbolic elements. The blood-of-Abel parallel (Gen 4:10) shows that "crying out" imagery does not require literal consciousness. The altar itself speaks in Rev 16:7 (personification). Death and Hades ride horses in Rev 6:8 (personification). The claim requires treating apocalyptic personification as literal description of consciousness -- an external hermeneutical framework. | #3 (external framework: treating apocalyptic personification as literal description), Gate 1 and Gate 3 failures in Tree 3 |
+| I2 | Rev 6:9-11 uses the blood-crying-from-the-ground motif (Gen 4:10) as forensic personification, not evidence of conscious survival after death | I-A | Cond. | E4 (Gen 4:10: Abel's blood cries from ground). E5 (Heb 11:4: Abel dead yet speaks through sacrifice). E6 (Heb 12:24: blood of Christ speaks). E13 (Jas 5:4: wages cry). E1-E3 (the Rev 6:9-11 text). N1 (psychas under altar = blood-life at altar base). N2 (sphazō sacrificial framework). | All vocabulary and concepts are drawn from E/N tables. It is an inference because it systematizes the Abel parallel, the nephesh-blood-altar framework, and the personification pattern into a comprehensive interpretation of Rev 6:9-11. The systematization step makes it an inference rather than a necessary implication. | #5 (systematizing E/N items into a comprehensive reading) |
 | I3 | The martyrs' "rest" (anapauō) in Rev 6:11 indicates unconscious sleep between death and resurrection, consistent with the death-as-sleep pattern | I-A | Cond. | E3 (Rev 6:11: told to rest, anapauō). E14 (Rev 14:13: dead in Lord rest, anapauō). E15 (Dan 12:13: rest, then stand). E16 (Rev 20:4-5: same group lived at first resurrection). E23-E29 (death-state passages: dead know nothing, thoughts perish, etc.). N3 (anapauō link between Rev 6:11 and 14:13). N4 (same group at first resurrection). N5 (cessation of cognition at death). | All vocabulary and concepts are in the E/N tables. It is an inference because it systematizes the anapauō link, the rest-then-resurrection pattern, and the death-state testimony into a comprehensive claim about the martyrs' condition. Each individual component is explicit or necessary; the synthesis is inference. | #5 (systematizing) |
 | I4 | The "white robes" given to the souls indicate conscious reception of a reward in heaven prior to the resurrection | I-C | ECT-direction | E3 (Rev 6:11: white robes given). E22 (Rev 1:1: book communicates by signs/symbols). Rev 3:4-5 (white garments for overcomers), Rev 7:9,13-14 (white robes washed in blood of Lamb). | The claim treats the giving of white robes in an apocalyptic vision as a literal bestowal on conscious beings. In the same book, the Lamb has seven horns and seven eyes (Rev 5:6), Babylon is a woman dressed in purple and scarlet (Rev 17:4), and the dragon has seven heads (Rev 12:3). The white robes are symbolic of vindication, not evidence of consciousness. The claim requires treating apocalyptic symbolism as literal. | #3 (external framework: literalizing apocalyptic symbolism) |
 
@@ -147,7 +147,7 @@ V2: "cried with a loud voice" (Rev 6:10) = conscious activity vocabulary. Candid
 
 No I-B items are identified in this study's primary evidence. The passage's ECT-direction claims (I1, I4) are classified I-C (compatible external), not I-B, because they do not have E/N items on both sides within this study. The ECT-direction claims require importing an external framework (treating apocalyptic imagery as literal description) rather than drawing from competing E/N statements.
 
-The broader I-B item from etc-04 (I026/Master I026: "Rev 6:9-11 teaches dead martyrs are consciously present in heaven") remains classified I-C in the master file. This study provides additional evidence supporting that classification through the Abel's blood parallel, the [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}-blood-altar framework, the sphazō chain, the anapauō link, the Rev 20:4-5 connection, and the personification pattern (altar speaking in Rev 16:7, Death/[Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} riding horses in Rev 6:8).
+The broader I-B item from etc6-04 (I026/Master I026: "Rev 6:9-11 teaches dead martyrs are consciously present in heaven") remains classified I-C in the master file. This study provides additional evidence supporting that classification through the Abel's blood parallel, the nephesh-blood-altar framework, the sphazō chain, the anapauō link, the Rev 20:4-5 connection, and the personification pattern (altar speaking in Rev 16:7, Death/Hades riding horses in Rev 6:8).
 
 ---
 
@@ -160,7 +160,7 @@ The broader I-B item from etc-04 (I026/Master I026: "Rev 6:9-11 teaches dead mar
 - Items that state what both sides accept (textual observations, genre identifications, vocabulary facts) are classified Neutral.
 
 **Step A2: Verify positional classifications of E-items.**
-- All Conditionalist E-items (E23-E30) have full Tree 3 documentation in prior studies (etc-01). All four gates passed for each.
+- All Conditionalist E-items (E23-E30) have full Tree 3 documentation in prior studies (etc6-01b). All four gates passed for each.
 - No E-items classified ECT. The Rev 6:9-11 items (E1-E3/E156) fail Gate 1 (symbolic vision-figure) and Gate 3 (apocalyptic genre). Reclassified to Neutral. Full Tree 3 documentation provided above.
 - All new E-items from this study (E5-E22, E33-E37) are textual observations accepted by both sides (vocabulary facts, genre classifications, cross-references). Classified Neutral.
 
@@ -177,7 +177,7 @@ The broader I-B item from etc-04 (I026/Master I026: "Rev 6:9-11 teaches dead mar
 - I4 (white robes = conscious reward): Requires literalizing apocalyptic symbolism -- external framework. I-C. Checked.
 
 **Step D: Verify inference classifications (direction test).**
-- I1: Requires reading apocalyptic personification as literal consciousness -- conflicts with the observable personification in the same context (altar speaks, Death/[Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} ride horses). I-C (compatible external: does not directly override the E-items, which remain accepted). Checked.
+- I1: Requires reading apocalyptic personification as literal consciousness -- conflicts with the observable personification in the same context (altar speaks, Death/Hades ride horses). I-C (compatible external: does not directly override the E-items, which remain accepted). Checked.
 - I2: Does not require any E/N to mean other than lexical value. Aligns. I-A. Checked.
 - I3: Does not require any E/N to mean other than lexical value. Aligns. I-A. Checked.
 - I4: Does not directly override E3 (acknowledges robes are given); imports literalization framework. I-C. Checked.
@@ -197,38 +197,38 @@ The broader I-B item from etc-04 (I026/Master I026: "Rev 6:9-11 teaches dead mar
 
 ### Master Evidence Update
 
-New items added to D:/Bible/bible-studies/etc-master-evidence.md:
+New items added to D:/Bible/bible-studies/etc6-master-evidence.md:
 
 | New ID | Statement | Reference | Position | First Appeared |
 |--------|-----------|-----------|----------|----------------|
-| E336 | Abel "being dead yet speaketh" -- through his faithful sacrifice | Heb 11:4 | Neutral | etc-10 |
-| E337 | The blood of Christ "speaketh better things than that of Abel" -- blood speaks | Heb 12:24 | Neutral | etc-10 |
-| E338 | In the OT sacrificial system, blood of the sin offering was poured at the bottom of the altar (5 passages) | Lev 4:7,18,25,30,34; Exo 29:12 | Neutral | etc-10 |
-| E339 | Sphazō (G4969) is used for both the Lamb (Rev 5:6,9,12) and the martyrs (Rev 6:9; 18:24) -- shared sacrificial vocabulary | Rev 5:6,9,12; 6:9; 18:24 | Neutral | etc-10 |
-| E340 | Sphazō is used for Abel (1 Jn 3:12), connecting the Abel-martyrs sacrificial link | 1 Jn 3:12 | Neutral | etc-10 |
-| E341 | The altar itself speaks in Rev 16:7: "I heard another out of the altar say" -- personification | Rev 16:7 | Neutral | etc-10 |
-| E342 | In the fourth seal, Death and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} are personified as horsemen (Rev 6:8) | Rev 6:8 | Neutral | etc-10 |
-| E343 | Withheld wages "crieth" (krazō family) -- non-personal entity cries (Jas 5:4) | Jas 5:4 | Neutral | etc-10 |
-| E344 | The same group as Rev 6:9 (psychas, martyria, logos tou Theou) "lived and reigned with Christ a thousand years. This is the first resurrection." | Rev 20:4-5 | Neutral | etc-10 |
-| E345 | "The rest of the dead lived not again until the thousand years were finished" | Rev 20:5a | Neutral | etc-10 |
-| E346 | God avenges the blood of his servants: Deut 32:43 promises; Rev 19:2 fulfills Rev 6:10's cry | Deut 32:43; Rev 19:2 | Neutral | etc-10 |
-| E347 | Jesus connects Abel's blood to the prophets: "all the righteous blood... from the blood of righteous Abel" | Matt 23:35 | Neutral | etc-10 |
-| E348 | "The blood of all the prophets... may be required... from the blood of Abel" | Luke 11:50-51 | Neutral | etc-10 |
-| E349 | Nave's Topical Bible classifies Revelation under VISION | Nave's classification | Neutral | etc-10 |
-| E350 | Rev 1:1 states the book communicates through signs (sēmainō) | Rev 1:1 | Neutral | etc-10 |
-| E351 | [Psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} (G5590) is used for animal life in Rev 8:9 and 16:3 | Rev 8:9; 16:3 | Neutral | etc-10 |
-| E352 | [Psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} is translated "lives" in Rev 12:11 for the same martyrs ("loved not their lives unto the death") | Rev 12:11 | Neutral | etc-10 |
-| E353 | Babylon "drunken with the blood of the saints, and with the blood of the martyrs of Jesus" | Rev 17:6 | Neutral | etc-10 |
-| E354 | "In her was found the blood of prophets, and of saints, and of all that were slain [sphazō] upon the earth" | Rev 18:24 | Neutral | etc-10 |
-| N045 | The psychas under the altar spatially correspond to the blood poured at the base of the OT altar | E156, E014, E338 | Neutral | etc-10 |
-| N046 | The sphazō vocabulary chain places the Lamb and the martyrs in the same sacrificial framework | E339, E340 | Neutral | etc-10 |
-| N047 | The anapauō link between Rev 6:11 and Rev 14:13 identifies the martyrs' "rest" with the condition of the blessed dead | E156, E154 | Neutral | etc-10 |
-| N048 | Rev 20:4-5 identifies the same group as Rev 6:9 and locates their "living" at the first resurrection | E156, E344 | Neutral | etc-10 |
-| I049 | Rev 6:9-11 uses the blood-crying-from-the-ground motif (Gen 4:10) as forensic personification | I-A | Cond. | etc-10 |
-| I050 | The martyrs' "rest" (anapauō) indicates unconscious sleep between death and resurrection | I-A | Cond. | etc-10 |
-| I051 | The "white robes" given to the souls indicate conscious reception of a reward in heaven prior to the resurrection | I-C | ECT-direction | etc-10 |
+| E336 | Abel "being dead yet speaketh" -- through his faithful sacrifice | Heb 11:4 | Neutral | etc6-10 |
+| E337 | The blood of Christ "speaketh better things than that of Abel" -- blood speaks | Heb 12:24 | Neutral | etc6-10 |
+| E338 | In the OT sacrificial system, blood of the sin offering was poured at the bottom of the altar (5 passages) | Lev 4:7,18,25,30,34; Exo 29:12 | Neutral | etc6-10 |
+| E339 | Sphazō (G4969) is used for both the Lamb (Rev 5:6,9,12) and the martyrs (Rev 6:9; 18:24) -- shared sacrificial vocabulary | Rev 5:6,9,12; 6:9; 18:24 | Neutral | etc6-10 |
+| E340 | Sphazō is used for Abel (1 Jn 3:12), connecting the Abel-martyrs sacrificial link | 1 Jn 3:12 | Neutral | etc6-10 |
+| E341 | The altar itself speaks in Rev 16:7: "I heard another out of the altar say" -- personification | Rev 16:7 | Neutral | etc6-10 |
+| E342 | In the fourth seal, Death and Hades are personified as horsemen (Rev 6:8) | Rev 6:8 | Neutral | etc6-10 |
+| E343 | Withheld wages "crieth" (krazō family) -- non-personal entity cries (Jas 5:4) | Jas 5:4 | Neutral | etc6-10 |
+| E344 | The same group as Rev 6:9 (psychas, martyria, logos tou Theou) "lived and reigned with Christ a thousand years. This is the first resurrection." | Rev 20:4-5 | Neutral | etc6-10 |
+| E345 | "The rest of the dead lived not again until the thousand years were finished" | Rev 20:5a | Neutral | etc6-10 |
+| E346 | God avenges the blood of his servants: Deut 32:43 promises; Rev 19:2 fulfills Rev 6:10's cry | Deut 32:43; Rev 19:2 | Neutral | etc6-10 |
+| E347 | Jesus connects Abel's blood to the prophets: "all the righteous blood... from the blood of righteous Abel" | Matt 23:35 | Neutral | etc6-10 |
+| E348 | "The blood of all the prophets... may be required... from the blood of Abel" | Luke 11:50-51 | Neutral | etc6-10 |
+| E349 | Nave's Topical Bible classifies Revelation under VISION | Nave's classification | Neutral | etc6-10 |
+| E350 | Rev 1:1 states the book communicates through signs (sēmainō) | Rev 1:1 | Neutral | etc6-10 |
+| E351 | Psyche (G5590) is used for animal life in Rev 8:9 and 16:3 | Rev 8:9; 16:3 | Neutral | etc6-10 |
+| E352 | Psyche is translated "lives" in Rev 12:11 for the same martyrs ("loved not their lives unto the death") | Rev 12:11 | Neutral | etc6-10 |
+| E353 | Babylon "drunken with the blood of the saints, and with the blood of the martyrs of Jesus" | Rev 17:6 | Neutral | etc6-10 |
+| E354 | "In her was found the blood of prophets, and of saints, and of all that were slain [sphazō] upon the earth" | Rev 18:24 | Neutral | etc6-10 |
+| N045 | The psychas under the altar spatially correspond to the blood poured at the base of the OT altar | E156, E014, E338 | Neutral | etc6-10 |
+| N046 | The sphazō vocabulary chain places the Lamb and the martyrs in the same sacrificial framework | E339, E340 | Neutral | etc6-10 |
+| N047 | The anapauō link between Rev 6:11 and Rev 14:13 identifies the martyrs' "rest" with the condition of the blessed dead | E156, E154 | Neutral | etc6-10 |
+| N048 | Rev 20:4-5 identifies the same group as Rev 6:9 and locates their "living" at the first resurrection | E156, E344 | Neutral | etc6-10 |
+| I049 | Rev 6:9-11 uses the blood-crying-from-the-ground motif (Gen 4:10) as forensic personification | I-A | Cond. | etc6-10 |
+| I050 | The martyrs' "rest" (anapauō) indicates unconscious sleep between death and resurrection | I-A | Cond. | etc6-10 |
+| I051 | The "white robes" given to the souls indicate conscious reception of a reward in heaven prior to the resurrection | I-C | ECT-direction | etc6-10 |
 
-Existing items with "Also In" updated to include etc-10:
+Existing items with "Also In" updated to include etc6-10:
 - E011, E014, E016, E017, E018, E019, E021, E041, E042, E056, E154, E155, E156, E171, E335, I026, N004
 
 ---
@@ -253,7 +253,7 @@ Note: The 8 Conditionalist E-items are all death-state passages (Ecc 9:5; Ps 146
 
 | Date | Study | Items Added | Notes |
 |------|-------|-------------|-------|
-| 2026-02-20 | etc-10 | E336-E354, N045-N048, I049-I051 | Souls Under the Altar study (26 new items: 19 new E, 4 new N, 3 new I). Dedicated analysis of Rev 6:9-11. Genre confirmed apocalyptic vision (Nave's VISION classification; Rev 1:1 sēmainō). Tree 3: Gate 1 FAIL (symbolic vision-figure), Gate 3 FAIL (apocalyptic genre). Reclassified Neutral. Abel's blood parallel (Gen 4:10) established as the interpretive precedent for the blood-crying motif. [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}-blood-altar framework: psychas under altar = blood-life at altar base (Lev 4:7,18,25,30; 17:11). Sphazō chain links Lamb, martyrs, Abel. Anapauō (Rev 6:11 = Rev 14:13) identifies martyrs' "rest" with the blessed dead's rest. Rev 20:4-5 (same vocabulary) locates the martyrs' "living" at the first resurrection. Altar itself speaks (Rev 16:7). Updated "Also In" for 17 existing items. |
+| 2026-02-20 | etc6-10 | E336-E354, N045-N048, I049-I051 | Souls Under the Altar study (26 new items: 19 new E, 4 new N, 3 new I). Dedicated analysis of Rev 6:9-11. Genre confirmed apocalyptic vision (Nave's VISION classification; Rev 1:1 sēmainō). Tree 3: Gate 1 FAIL (symbolic vision-figure), Gate 3 FAIL (apocalyptic genre). Reclassified Neutral. Abel's blood parallel (Gen 4:10) established as the interpretive precedent for the blood-crying motif. Nephesh-blood-altar framework: psychas under altar = blood-life at altar base (Lev 4:7,18,25,30; 17:11). Sphazō chain links Lamb, martyrs, Abel. Anapauō (Rev 6:11 = Rev 14:13) identifies martyrs' "rest" with the blessed dead's rest. Rev 20:4-5 (same vocabulary) locates the martyrs' "living" at the first resurrection. Altar itself speaks (Rev 16:7). Updated "Also In" for 17 existing items. |
 
 ---
 
@@ -273,9 +273,9 @@ Note: The 8 Conditionalist E-items are all death-state passages (Ecc 9:5; Ps 146
 
 ## What CAN Be Said (Scripture Explicitly States or Necessarily Implies)
 
-1. Revelation 6:9-11 occurs within an apocalyptic vision sequence where all surrounding elements are symbolic (colored horses, personified Death and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}, cosmic upheaval). Nave's Topical Bible classifies Revelation under VISION. Rev 1:1 states the book communicates through signs (sēmainō).
+1. Revelation 6:9-11 occurs within an apocalyptic vision sequence where all surrounding elements are symbolic (colored horses, personified Death and Hades, cosmic upheaval). Nave's Topical Bible classifies Revelation under VISION. Rev 1:1 states the book communicates through signs (sēmainō).
 
-2. The "souls" (psychas) under the altar correspond to the OT sacrificial blood poured at the base of the altar (Lev 4:7,18,25,30,34; Exo 29:12). [Psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} = [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} = blood = life (Lev 17:11,14; Gen 9:4; Deut 12:23). The souls are "under" (hypokatō) the altar -- where sacrificial blood collects.
+2. The "souls" (psychas) under the altar correspond to the OT sacrificial blood poured at the base of the altar (Lev 4:7,18,25,30,34; Exo 29:12). Psyche = nephesh = blood = life (Lev 17:11,14; Gen 9:4; Deut 12:23). The souls are "under" (hypokatō) the altar -- where sacrificial blood collects.
 
 3. The sphazō vocabulary chain links the Lamb (Rev 5:6,9,12), the martyrs (Rev 6:9; 18:24), and Abel (1 Jn 3:12) in a shared sacrificial framework. The martyrs are presented as sacrifice-victims whose blood-life is at the altar base.
 
@@ -297,7 +297,7 @@ Note: The 8 Conditionalist E-items are all death-state passages (Ecc 9:5; Ps 146
 
 1. **It cannot be said that Rev 6:9-11 teaches the dead are conscious.** The passage is an apocalyptic vision (Gate 3 FAIL), the subjects are symbolic vision-figures (Gate 1 FAIL), and the blood-of-Abel parallel (Gen 4:10) demonstrates that "crying" does not require literal consciousness. The altar itself speaks in Rev 16:7. Deriving a doctrine of conscious intermediate existence from apocalyptic imagery requires treating apocalyptic personification as literal description -- an external framework (I-C).
 
-2. **It cannot be said that the "souls" are disembodied conscious entities.** [Psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} (G5590) = [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} (H5315) = blood = life (Lev 17:11,14; Gen 9:4; Deut 12:23). In the OT, the blood of the sacrifice was poured at the base of the altar (Lev 4:7,18,25,30). The psychas "under the altar" correspond to blood-life at the altar base. In Revelation, [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} is used for animal life (Rev 8:9; 16:3) and for "lives" (Rev 12:11), not exclusively for a conscious spirit-entity.
+2. **It cannot be said that the "souls" are disembodied conscious entities.** Psyche (G5590) = nephesh (H5315) = blood = life (Lev 17:11,14; Gen 9:4; Deut 12:23). In the OT, the blood of the sacrifice was poured at the base of the altar (Lev 4:7,18,25,30). The psychas "under the altar" correspond to blood-life at the altar base. In Revelation, psyche is used for animal life (Rev 8:9; 16:3) and for "lives" (Rev 12:11), not exclusively for a conscious spirit-entity.
 
 3. **It cannot be said that the "white robes" prove the dead receive rewards before resurrection.** White robes are symbolic in Revelation (Rev 3:4-5; 7:9,13-14). The Lamb has seven horns and seven eyes (Rev 5:6). Symbolic entities receive symbolic actions in apocalyptic visions.
 
@@ -311,13 +311,13 @@ Note: The 8 Conditionalist E-items are all death-state passages (Ecc 9:5; Ps 146
 
 ### The Apocalyptic Genre of Revelation
 
-Revelation is classified as VISION in Nave's Topical Bible. Rev 1:1 states the book was "signified" (sēmainō) -- communicated through signs and symbols. The seal sequence in Rev 6 contains: colored horses (seals 1-4), personified Death and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} as riders (seal 4, Rev 6:8), the passage under study (seal 5), and cosmic upheaval where the sun becomes black, the moon becomes blood, stars fall, and heaven rolls up as a scroll (seal 6, Rev 6:12-14). Every seal in the sequence uses symbolic imagery.
+Revelation is classified as VISION in Nave's Topical Bible. Rev 1:1 states the book was "signified" (sēmainō) -- communicated through signs and symbols. The seal sequence in Rev 6 contains: colored horses (seals 1-4), personified Death and Hades as riders (seal 4, Rev 6:8), the passage under study (seal 5), and cosmic upheaval where the sun becomes black, the moon becomes blood, stars fall, and heaven rolls up as a scroll (seal 6, Rev 6:12-14). Every seal in the sequence uses symbolic imagery.
 
-The fourth seal, immediately preceding the fifth, personifies Death ([Thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}) and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} as riders on a pale horse. The literary context of the fifth seal is one of continuous symbolic representation. Interpreting the fifth seal as a literal description of conscious disembodied existence while treating the surrounding seals as symbolic is not demanded by the text.
+The fourth seal, immediately preceding the fifth, personifies Death (Thanatos) and Hades as riders on a pale horse. The literary context of the fifth seal is one of continuous symbolic representation. Interpreting the fifth seal as a literal description of conscious disembodied existence while treating the surrounding seals as symbolic is not demanded by the text.
 
-### The [Nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}-Blood-Altar Framework
+### The Nephesh-Blood-Altar Framework
 
-The OT establishes three facts: (1) [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}/[psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} = blood = life (Lev 17:11,14; Gen 9:4; Deut 12:23); (2) in the sacrificial system, the blood of the offering was poured at the bottom of the altar (Lev 4:7,18,25,30,34; Exo 29:12); (3) the martyrs are described with sacrificial vocabulary (sphazō, the same word used for the Lamb).
+The OT establishes three facts: (1) nephesh/psyche = blood = life (Lev 17:11,14; Gen 9:4; Deut 12:23); (2) in the sacrificial system, the blood of the offering was poured at the bottom of the altar (Lev 4:7,18,25,30,34; Exo 29:12); (3) the martyrs are described with sacrificial vocabulary (sphazō, the same word used for the Lamb).
 
 When John sees psychas (blood-life) "under" (hypokatō) the altar, the OT background identifies what he sees: the blood-life of the sacrificial victims at the base of the heavenly altar. The spatial correspondence between OT blood at the altar base and the psychas under the altar is exact.
 
@@ -331,7 +331,7 @@ The sphazō vocabulary chain confirms the Abel connection. Abel was "slain" (sph
 
 ### The Sphazō Chain: Lamb, Martyrs, Abel
 
-Sphazō appears only 8 times in the entire NT: Rev 5:6,9,12 (the Lamb); Rev 6:4 (general killing); Rev 6:9 (martyrs); Rev 13:3 (the beast, parodying the Lamb); Rev 18:24 (all slain on earth); 1 Jn 3:12 (Abel). The word is a sacrificial/butchering term. Its concentrated use in Revelation creates a vocabulary chain linking the Lamb's sacrifice to the martyrs' sacrifice to Abel's sacrifice. The martyrs are presented as having made a sacrifice-death, with their blood-life now at the altar base.
+Sphazō appears 10 times across 9 verses in the entire NT: Rev 5:6,9,12 (the Lamb); Rev 6:4 (general killing); Rev 6:9 (martyrs); Rev 13:3 (the beast, parodying the Lamb); Rev 13:8 (the Lamb slain from the foundation of the world); Rev 18:24 (all slain on earth); 1 Jn 3:12 (Abel -- twice in this verse). The word is a sacrificial/butchering term. Its concentrated use in Revelation creates a vocabulary chain linking the Lamb's sacrifice to the martyrs' sacrifice to Abel's sacrifice. The martyrs are presented as having made a sacrifice-death, with their blood-life now at the altar base.
 
 ### The Anapauō Rest-Then-Resurrection Pattern
 
@@ -354,10 +354,10 @@ The cry of Rev 6:10 ("How long... dost thou not judge and avenge [ekdikeō] our 
 ### Cross-Study Integration
 
 This study confirms and deepens findings from prior studies:
-- **etc-01** established the [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}-[psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} framework: [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} = living being, shared with animals, = blood. This study applies that framework to the psychas under the altar.
-- **etc-04** classified Rev 6:9-11 as E39/E156 (Neutral) and I5/I026 (I-C ECT-direction). This study provides the detailed exegetical basis for that classification through the Abel parallel, the altar-blood framework, the sphazō chain, the anapauō link, and the Rev 20:4-5 connection.
-- **etc-09** analyzed Abel's blood parallel (E335) in the context of Luke 16:19-31. This study extends the Abel parallel to the Rev 6:9-11 passage and traces the sphazō vocabulary chain.
-- **etc-07/etc-08** established that Revelation's "forever and ever" language echoes OT ended-judgment patterns. The same apocalyptic-literary approach applies here: Revelation uses symbolic and literary devices, not didactic descriptions of the afterlife state.
+- **etc6-01b** established the nephesh-psyche framework: nephesh = living being, shared with animals, = blood. This study applies that framework to the psychas under the altar.
+- **etc6-04** classified Rev 6:9-11 as E39/E156 (Neutral) and I5/I026 (I-C ECT-direction). This study provides the detailed exegetical basis for that classification through the Abel parallel, the altar-blood framework, the sphazō chain, the anapauō link, and the Rev 20:4-5 connection.
+- **etc6-09** analyzed Abel's blood parallel (E335) in the context of Luke 16:19-31. This study extends the Abel parallel to the Rev 6:9-11 passage and traces the sphazō vocabulary chain.
+- **etc6-07/etc6-08** established that Revelation's "forever and ever" language echoes OT ended-judgment patterns. The same apocalyptic-literary approach applies here: Revelation uses symbolic and literary devices, not didactic descriptions of the afterlife state.
 
 ---
 
@@ -367,7 +367,7 @@ This study examined 37 explicit statements, 5 necessary implications, and 4 infe
 
 8 explicit statements describe the dead as unconscious (death-state passages from Ecc 9:5; Ps 146:4; 115:17; 6:5; Ecc 9:10; Job 14:12,21; Ezek 18:4,20; classified Conditionalist). 0 explicit statements from Rev 6:9-11 are classified ECT. The Rev 6:9-11 items (E1-E3/E156) fail Gate 1 (symbolic vision-figure) and Gate 3 (apocalyptic genre) of Tree 3 and are classified Neutral.
 
-29 Neutral E-items document textual observations accepted by both sides: the passage's apocalyptic genre, the Abel's blood parallel, the [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}-blood-altar framework, the sphazō vocabulary chain, the anapauō rest link, the Rev 20:4-5 first resurrection connection, the altar speaking in Rev 16:7, Death and [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} personified in Rev 6:8, the vindication arc from Rev 6:10 to Rev 19:2, and the blood-crying pattern from Gen 4:10 through Heb 11:4, 12:24, and Jas 5:4.
+29 Neutral E-items document textual observations accepted by both sides: the passage's apocalyptic genre, the Abel's blood parallel, the nephesh-blood-altar framework, the sphazō vocabulary chain, the anapauō rest link, the Rev 20:4-5 first resurrection connection, the altar speaking in Rev 16:7, Death and Hades personified in Rev 6:8, the vindication arc from Rev 6:10 to Rev 19:2, and the blood-crying pattern from Gen 4:10 through Heb 11:4, 12:24, and Jas 5:4.
 
 4 Neutral N-items identify textual connections: psychas under altar = blood at altar base; sphazō chain = sacrificial framework; anapauō in Rev 6:11 = anapauō in Rev 14:13; Rev 20:4-5 = same group at first resurrection. 1 Conditionalist N-item (N004: cessation of cognitive activity in death, 8+ authors) is referenced for SIS context.
 
@@ -377,17 +377,4 @@ This study examined 37 explicit statements, 5 necessary implications, and 4 infe
 
 *Study completed: 2026-02-20*
 *Files: 01-topics.md, 02-verses.md, 03-analysis.md, 04-word-studies.md, CONCLUSION.md*
-*Evidence items tracked in etc-master-evidence.md*
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |
+*Evidence items tracked in etc6-master-evidence.md*

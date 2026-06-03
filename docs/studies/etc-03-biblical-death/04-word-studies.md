@@ -1,4 +1,4 @@
-# etc-03: Word Studies -- "What Does Death Mean in the Bible?"
+# etc6-03: Word Studies -- "What Does Death Mean in the Bible?"
 
 > Retrieved via search_strongs.py (--lookup, --lexicon, --verses, --lxx-map, --hebrew-source)
 
@@ -6,17 +6,17 @@
 
 ## PRIMARY HEBREW WORDS
 
-### [H4194](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"}: [maveth](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"} (death -- noun)
+### H4194: maveth (death -- noun)
 
 | Field | Value |
 |-------|-------|
-| Hebrew | [מָוֶת](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"} |
-| Transliteration | [maveth](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"} |
+| Hebrew | מָוֶת |
+| Transliteration | maveth |
 | Pronunciation | maw-veth |
 | Part of Speech | masculine noun (n-m) |
 | BLB Count | 160 |
 | KJV Occurrences | 167 |
-| Definition | Death (natural or violent); concretely, the dead, their place or state ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}); figuratively, pestilence, ruin |
+| Definition | Death (natural or violent); concretely, the dead, their place or state (hades); figuratively, pestilence, ruin |
 
 **Translation Distribution:**
 - "of death" -- 26x (15.6%)
@@ -32,34 +32,34 @@
 **Semantic Range:**
 - Physical death (natural): Gen 25:11; 27:2; 1 Sam 20:3; Ps 89:48
 - Physical death (violent/judicial): Deut 19:6; 21:22; 22:26; 1 Sam 20:31
-- State of death ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}/[sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}): Ps 6:5; 49:14-15; 88:10-12; Isa 38:18
+- State of death (hades/sheol): Ps 6:5; 49:14-15; 88:10-12; Isa 38:18
 - Death as penalty for sin: Gen 2:17; Deut 30:15,19; Prov 14:12; Ezek 18:4
 - Figurative pestilence/ruin: Job 18:13; 28:22; 38:17; Prov 5:5; 7:27
-- Shadow of death ([tsalmaveth](https://www.blueletterbible.org/lexicon/h6757/kjv/wlc/0-1/){:target="_blank"}): Ps 23:4; Job 3:5 (compound with H6757)
+- Shadow of death (tsalmaveth): Ps 23:4; Job 3:5 (compound with H6757)
 - Death personified: Hos 13:14; Song 8:6; Isa 25:8; 28:15,18
 
 **LXX Mappings (from --lxx-map):**
 | Greek | Count | PMI Score | Meaning |
 |-------|-------|-----------|---------|
-| [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} | 97x | 27.43 | Death (primary equivalent) |
-| [G5054](https://www.blueletterbible.org/lexicon/g5054/kjv/tr/0-1/){:target="_blank"} teleute | 8x | 15.58 | Decease |
-| [G86](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} | 17x | 15.33 | [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}/underworld |
-| [G599](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} [apothnesko](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} | 35x | 13.12 | To die off |
-| [G2222](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} [zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"} | 12x | 8.79 | Life (in contrast contexts) |
-| [G5053](https://www.blueletterbible.org/lexicon/g5053/kjv/tr/0-1/){:target="_blank"} teleutao | 6x | 7.31 | To finish life |
-| [G5590](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} | 17x | 5.72 | Soul/breath (death of the soul) |
-| [G2348](https://www.blueletterbible.org/lexicon/g2348/kjv/tr/0-1/){:target="_blank"} thnesko | 4x | 5.36 | To die |
+| G2288 thanatos | 97x | 27.43 | Death (primary equivalent) |
+| G5054 teleute | 8x | 15.58 | Decease |
+| G86 hades | 17x | 15.33 | Hades/underworld |
+| G599 apothnesko | 35x | 13.12 | To die off |
+| G2222 zoe | 12x | 8.79 | Life (in contrast contexts) |
+| G5053 teleutao | 6x | 7.31 | To finish life |
+| G5590 psyche | 17x | 5.72 | Soul/breath (death of the soul) |
+| G2348 thnesko | 4x | 5.36 | To die |
 
-**Key finding:** The LXX translators rendered [maveth](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"} as [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} 17 times, suggesting the Jews understood death as connected to the place/state of the dead. [Maveth](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"} was also rendered with [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} (soul) 17 times, in contexts where the soul experiences death.
+**Key finding:** The LXX translators rendered maveth as hades 17 times, suggesting the Jews understood death as connected to the place/state of the dead. Maveth was also rendered with psyche (soul) 17 times, in contexts where the soul experiences death.
 
 ---
 
-### [H4191](https://www.blueletterbible.org/lexicon/h4191/kjv/wlc/0-1/){:target="_blank"}: mut (to die -- verb)
+### H4191: mut (to die -- verb)
 
 | Field | Value |
 |-------|-------|
 | Hebrew | מוּת |
-| Transliteration | [muwth](https://www.blueletterbible.org/lexicon/h4191/kjv/wlc/0-1/){:target="_blank"} |
+| Transliteration | muwth |
 | Pronunciation | mooth |
 | Part of Speech | verb (v) |
 | BLB Count | 835 |
@@ -89,15 +89,15 @@
 **LXX Mappings (from --lxx-map):**
 | Greek | Count | PMI Score | Meaning |
 |-------|-------|-----------|---------|
-| [G599](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} [apothnesko](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} | 366x | 28.53 | To die off (primary equivalent) |
-| [G2289](https://www.blueletterbible.org/lexicon/g2289/kjv/tr/0-1/){:target="_blank"} [thanatoo](https://www.blueletterbible.org/lexicon/g2289/kjv/tr/0-1/){:target="_blank"} | 121x | 23.57 | To kill, put to death |
-| [G5053](https://www.blueletterbible.org/lexicon/g5053/kjv/tr/0-1/){:target="_blank"} teleutao | 62x | 20.34 | To finish life |
-| [G2348](https://www.blueletterbible.org/lexicon/g2348/kjv/tr/0-1/){:target="_blank"} thnesko | 52x | 19.11 | To die |
-| [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} | 84x | 15.81 | Death (noun used for verb) |
-| [G3498](https://www.blueletterbible.org/lexicon/g3498/kjv/tr/0-1/){:target="_blank"} [nekros](https://www.blueletterbible.org/lexicon/g3498/kjv/tr/0-1/){:target="_blank"} | 27x | 14.24 | Dead (adjective) |
-| [G615](https://www.blueletterbible.org/lexicon/g615/kjv/tr/0-1/){:target="_blank"} [apokteino](https://www.blueletterbible.org/lexicon/g615/kjv/tr/0-1/){:target="_blank"} | 48x | 12.94 | To kill |
-| [G3036](https://www.blueletterbible.org/lexicon/g3036/kjv/tr/0-1/){:target="_blank"} lithoboleo | 17x | 12.65 | To stone |
-| [G2290](https://www.blueletterbible.org/lexicon/g2290/kjv/tr/0-1/){:target="_blank"} thapto | 36x | 12.25 | To bury |
+| G599 apothnesko | 366x | 28.53 | To die off (primary equivalent) |
+| G2289 thanatoo | 121x | 23.57 | To kill, put to death |
+| G5053 teleutao | 62x | 20.34 | To finish life |
+| G2348 thnesko | 52x | 19.11 | To die |
+| G2288 thanatos | 84x | 15.81 | Death (noun used for verb) |
+| G3498 nekros | 27x | 14.24 | Dead (adjective) |
+| G615 apokteino | 48x | 12.94 | To kill |
+| G3036 lithoboleo | 17x | 12.65 | To stone |
+| G2290 thapto | 36x | 12.25 | To bury |
 
 **Key finding:** The verb mut maps to 15+ Greek words, showing the broad semantic range of Hebrew death vocabulary. The causative uses (kill, slay, put to death) map to different Greek words than the intransitive uses (to die).
 
@@ -105,12 +105,12 @@
 
 ## PRIMARY GREEK WORDS
 
-### [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}: [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (death -- noun)
+### G2288: thanatos (death -- noun)
 
 | Field | Value |
 |-------|-------|
-| Greek | [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} |
-| Transliteration | [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} |
+| Greek | thanatos |
+| Transliteration | thanatos |
 | Pronunciation | than-at-os |
 | Part of Speech | masculine noun (n-m) |
 | BLB Count | 119 |
@@ -130,14 +130,14 @@
 **Hebrew Source Words (from --hebrew-source):**
 | Hebrew | Count | PMI Score | Meaning |
 |--------|-------|-----------|---------|
-| [H4194](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"} [maveth](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"} | 97x | 27.43 | Death (primary source) |
-| [H1698](https://www.blueletterbible.org/lexicon/h1698/kjv/wlc/0-1/){:target="_blank"} deber | 34x | 22.00 | Pestilence |
-| [H4191](https://www.blueletterbible.org/lexicon/h4191/kjv/wlc/0-1/){:target="_blank"} mut | 84x | 15.81 | To die |
-| [H7458](https://www.blueletterbible.org/lexicon/h7458/kjv/wlc/0-1/){:target="_blank"} raab | 25x | 15.73 | Hunger/famine |
-| [H6757](https://www.blueletterbible.org/lexicon/h6757/kjv/wlc/0-1/){:target="_blank"} [tsalmaveth](https://www.blueletterbible.org/lexicon/h6757/kjv/wlc/0-1/){:target="_blank"} | 12x | 15.62 | Shadow of death |
-| [H7585](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} | 14x | 11.98 | [Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}/grave |
-| [H2416](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"} [chay](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"} | 31x | 9.63 | Alive (contrast contexts) |
-| [H2719](https://www.blueletterbible.org/lexicon/h2719/kjv/wlc/0-1/){:target="_blank"} chereb | 27x | 9.48 | Sword |
+| H4194 maveth | 97x | 27.43 | Death (primary source) |
+| H1698 deber | 34x | 22.00 | Pestilence |
+| H4191 mut | 84x | 15.81 | To die |
+| H7458 raab | 25x | 15.73 | Hunger/famine |
+| H6757 tsalmaveth | 12x | 15.62 | Shadow of death |
+| H7585 sheol | 14x | 11.98 | Hades/grave |
+| H2416 chay | 31x | 9.63 | Alive (contrast contexts) |
+| H2719 chereb | 27x | 9.48 | Sword |
 
 **NT Distribution by Category:**
 - Physical death: Matt 10:21; 26:38; Mark 13:12; Luke 2:26; Heb 9:27
@@ -148,16 +148,16 @@
 - Death personified/cosmic: Rev 1:18; 6:8; 20:13,14; 21:4
 - Death overcome: 1 Cor 15:54,55; 2 Tim 1:10; Heb 2:14; Rev 1:18
 
-**Key finding:** [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} is used for physical death, the wages of sin, spiritual death, the second death, and death personified -- all with the same word. The NT does not use different vocabulary for different "kinds" of death.
+**Key finding:** G2288 is used for physical death, the wages of sin, spiritual death, the second death, and death personified -- all with the same word. The NT does not use different vocabulary for different "kinds" of death.
 
 ---
 
-### [G599](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"}: [apothnesko](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} (to die -- verb)
+### G599: apothnesko (to die -- verb)
 
 | Field | Value |
 |-------|-------|
-| Greek | [apothnesko](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} |
-| Transliteration | [apothnesko](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} |
+| Greek | apothnesko |
+| Transliteration | apothnesko |
 | Pronunciation | ap-oth-nace-ko |
 | Part of Speech | verb (v) |
 | BLB Count | 112 |
@@ -183,27 +183,27 @@
 
 ## ADDITIONAL DEATH-RELATED WORDS
 
-### [G2289](https://www.blueletterbible.org/lexicon/g2289/kjv/tr/0-1/){:target="_blank"}: [thanatoo](https://www.blueletterbible.org/lexicon/g2289/kjv/tr/0-1/){:target="_blank"} (to put to death -- verb)
+### G2289: thanatoo (to put to death -- verb)
 
 | Field | Value |
 |-------|-------|
-| Greek | [thanatoo](https://www.blueletterbible.org/lexicon/g2289/kjv/tr/0-1/){:target="_blank"} |
+| Greek | thanatoo |
 | Occurrences | 11 |
 | Definition | To kill (literally or figuratively); to become dead, cause to be put to death |
 | Key Verses | Matt 10:21; 26:59; 27:1; Rom 7:4; 8:13,36; 1 Pet 3:18 |
 
-### [G3498](https://www.blueletterbible.org/lexicon/g3498/kjv/tr/0-1/){:target="_blank"}: [nekros](https://www.blueletterbible.org/lexicon/g3498/kjv/tr/0-1/){:target="_blank"} (dead -- adjective)
+### G3498: nekros (dead -- adjective)
 
 | Field | Value |
 |-------|-------|
-| Greek | [nekros](https://www.blueletterbible.org/lexicon/g3498/kjv/tr/0-1/){:target="_blank"} |
+| Greek | nekros |
 | Occurrences | 132 |
 | Definition | Dead (literally or figuratively); a corpse |
 | Key Verses | Matt 8:22; 22:32; Luke 15:24,32; 20:38; John 5:25; Rom 6:11,13; Eph 2:1,5; 5:14; Col 1:18; 2:13; Rev 1:5,17,18; 20:5,12 |
 
-**Note:** [G3498](https://www.blueletterbible.org/lexicon/g3498/kjv/tr/0-1/){:target="_blank"} [nekros](https://www.blueletterbible.org/lexicon/g3498/kjv/tr/0-1/){:target="_blank"} is used both for literally dead persons AND for those "dead in trespasses and sins" (Eph 2:1,5; Col 2:13). Same word, same vocabulary.
+**Note:** G3498 nekros is used both for literally dead persons AND for those "dead in trespasses and sins" (Eph 2:1,5; Col 2:13). Same word, same vocabulary.
 
-### [G5053](https://www.blueletterbible.org/lexicon/g5053/kjv/tr/0-1/){:target="_blank"}: teleutao (to finish life -- verb)
+### G5053: teleutao (to finish life -- verb)
 
 | Field | Value |
 |-------|-------|
@@ -212,7 +212,7 @@
 | Definition | To finish life (by implication, of death) |
 | Key Verses | Matt 2:19; 9:18; 15:4; 22:25; Mark 7:10; 9:41,46; Luke 7:2; John 11:39; Acts 2:29; 7:15; Heb 11:22 |
 
-### [G5054](https://www.blueletterbible.org/lexicon/g5054/kjv/tr/0-1/){:target="_blank"}: teleute (decease -- noun)
+### G5054: teleute (decease -- noun)
 
 | Field | Value |
 |-------|-------|
@@ -221,27 +221,27 @@
 | Definition | Decease; death |
 | Key Verse | Matt 2:15 |
 
-### [G2349](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"}: [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} (mortal -- adjective)
+### G2349: thnetos (mortal -- adjective)
 
 | Field | Value |
 |-------|-------|
-| Greek | [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} |
+| Greek | thnetos |
 | Occurrences | 6 |
 | Definition | Liable to die; mortal |
 | Key Verses | Rom 6:12; 8:11; 1 Cor 15:53; 2 Cor 4:11; 5:4 |
 
 **Note:** This word explicitly describes human bodies as "mortal" (liable to die). 1 Cor 15:53 says "this mortal must put on immortality."
 
-### [G3500](https://www.blueletterbible.org/lexicon/g3500/kjv/tr/0-1/){:target="_blank"}: [nekrosis](https://www.blueletterbible.org/lexicon/g3500/kjv/tr/0-1/){:target="_blank"} (deadness -- noun)
+### G3500: nekrosis (deadness -- noun)
 
 | Field | Value |
 |-------|-------|
-| Greek | [nekrosis](https://www.blueletterbible.org/lexicon/g3500/kjv/tr/0-1/){:target="_blank"} |
+| Greek | nekrosis |
 | Occurrences | 2 |
 | Definition | Decease; figuratively, impotency -- deadness, dying |
 | Key Verses | Rom 4:19 (deadness of Sarah's womb); 2 Cor 4:10 (dying of the Lord Jesus) |
 
-### [G4880](https://www.blueletterbible.org/lexicon/g4880/kjv/tr/0-1/){:target="_blank"}: synapothnesko (to die together with -- verb)
+### G4880: synapothnesko (to die together with -- verb)
 
 | Field | Value |
 |-------|-------|
@@ -250,7 +250,7 @@
 | Definition | To decease (literally) in company with, or (figuratively) similarly to |
 | Key Verses | Mark 14:31; 2 Cor 7:3; 2 Tim 2:11 |
 
-### [G1935](https://www.blueletterbible.org/lexicon/g1935/kjv/tr/0-1/){:target="_blank"}: epithanatios (doomed to death -- adjective)
+### G1935: epithanatios (doomed to death -- adjective)
 
 | Field | Value |
 |-------|-------|
@@ -259,7 +259,7 @@
 | Definition | Doomed to death; appointed to death |
 | Key Verse | 1 Cor 4:9 |
 
-### [H4463](https://www.blueletterbible.org/lexicon/h4463/kjv/wlc/0-1/){:target="_blank"}: mamowth (mortal disease/corpse -- noun)
+### H4463: mamowth (mortal disease/corpse -- noun)
 
 | Field | Value |
 |-------|-------|
@@ -268,7 +268,7 @@
 | Definition | A mortal disease; concretely, a corpse |
 | Key Verses | 2 Kings 11:2; Jer 16:4; Ezek 28:3 |
 
-### [H8546](https://www.blueletterbible.org/lexicon/h8546/kjv/wlc/0-1/){:target="_blank"}: temuwthah (execution/doom -- noun)
+### H8546: temuwthah (execution/doom -- noun)
 
 | Field | Value |
 |-------|-------|
@@ -281,29 +281,16 @@
 
 ## KEY OBSERVATIONS FROM WORD STUDIES
 
-1. **Same vocabulary for all types of death.** Hebrew uses [maveth](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"}/mut for physical death, spiritual death, and death as penalty for sin. Greek uses [thanatos](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"}/[apothnesko](https://www.blueletterbible.org/lexicon/g599/kjv/tr/0-1/){:target="_blank"} identically. The Bible does not use separate vocabulary for "spiritual death" vs. "physical death" -- the same words are used for both.
+1. **Same vocabulary for all types of death.** Hebrew uses maveth/mut for physical death, spiritual death, and death as penalty for sin. Greek uses thanatos/apothnesko identically. The Bible does not use separate vocabulary for "spiritual death" vs. "physical death" -- the same words are used for both.
 
-2. **Death is the opposite of life ([zoe](https://www.blueletterbible.org/lexicon/g2222/kjv/tr/0-1/){:target="_blank"}/[chay](https://www.blueletterbible.org/lexicon/h2416/kjv/wlc/0-1/){:target="_blank"}).** The consistent pairing of death with life (Deut 30:15,19; John 5:24; Rom 6:23; Rom 8:6) shows death as the negation or absence of life, not as a different form of existence.
+2. **Death is the opposite of life (zoe/chay).** The consistent pairing of death with life (Deut 30:15,19; John 5:24; Rom 6:23; Rom 8:6) shows death as the negation or absence of life, not as a different form of existence.
 
-3. **LXX renders [maveth](https://www.blueletterbible.org/lexicon/h4194/kjv/wlc/0-1/){:target="_blank"} as [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} 17 times** and as [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} 17 times. The first shows the Jews understood death as connected to the grave/underworld. The second shows they understood that the soul ([nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}/[psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}) experiences death.
+3. **LXX renders maveth as hades 17 times** and as psyche 17 times. The first shows the Jews understood death as connected to the grave/underworld. The second shows they understood that the soul (nephesh/psyche) experiences death.
 
-4. **[G2349](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} [thnetos](https://www.blueletterbible.org/lexicon/g2349/kjv/tr/0-1/){:target="_blank"} (mortal)** applied to human bodies in 6 passages, consistently describing humans as subject to death. The remedy is "putting on immortality" (1 Cor 15:53), not revealing inherent immortality.
+4. **G2349 thnetos (mortal)** applied to human bodies in 6 passages, consistently describing humans as subject to death. The remedy is "putting on immortality" (1 Cor 15:53), not revealing inherent immortality.
 
-5. **The "mot tamut" construction** (Gen 2:17) uses the verb [H4191](https://www.blueletterbible.org/lexicon/h4191/kjv/wlc/0-1/){:target="_blank"} twice for emphasis: "dying you shall die." The same construction appears in judicial death penalties (Exod 21:12,15-17; Lev 20:2ff) where it means actual death.
-
----
-
-*Retrieved by Research Agent using search_strongs.py for etc-03*
+5. **The "mot tamut" construction** (Gen 2:17) uses the verb H4191 twice for emphasis: "dying you shall die." The same construction appears in judicial death penalties (Exod 21:12,15-17; Lev 20:2ff) where it means actual death.
 
 ---
 
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |
+*Retrieved by Research Agent using search_strongs.py for etc6-03*

@@ -1,8 +1,8 @@
 # Word Studies
 
-## [G5590](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} -- [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} (ψυχή)
-**Original:** [ψυχή](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}
-**Transliteration:** [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"}
+## G5590 -- psyche (ψυχή)
+**Original:** ψυχή
+**Transliteration:** psyche
 **Pronunciation:** psoo-khay
 **Part of Speech:** feminine noun
 **Definition:** From psykhō; breath, i.e. (by implication) spirit, abstractly or concretely (the animal sentient principle only)
@@ -24,12 +24,12 @@
 | minds | 1 | 1.1% |
 
 ### Key Observations
-- Greek equivalent of Hebrew [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} (H5315)
+- Greek equivalent of Hebrew nephesh (H5315)
 - Translated "life" nearly as often as "soul" -- the word means "life" or "the living being"
 - In Rev 6:9, psychas = "souls" = the lives/blood of the slain
 - In Rev 20:4, psychas = "souls" of beheaded martyrs -- same word, same group
 - In Rev 12:11, psychas = "lives" ("loved not their lives unto the death")
-- In Rev 16:3, "every living soul died" ([psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} = living creature)
+- In Rev 16:3, "every living soul died" (psyche = living creature)
 - The word is used for animals in Rev 8:9 ("the third part of the creatures which were in the sea, and had life [psyche], died")
 
 ### Key Verses in Revelation
@@ -40,11 +40,11 @@
 - Rev 20:4 -- "the souls [psychas] of them that were beheaded"
 
 ### LXX Connection
-The LXX uses [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} to translate [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} throughout the OT. The [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"}-blood equation (Lev 17:11,14; Gen 9:4; Deu 12:23) carries into the NT: [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/){:target="_blank"} = [nephesh](https://www.blueletterbible.org/lexicon/h5315/kjv/wlc/0-1/){:target="_blank"} = blood = life.
+The LXX uses psyche to translate nephesh throughout the OT. The nephesh-blood equation (Lev 17:11,14; Gen 9:4; Deu 12:23) carries into the NT: psyche = nephesh = blood = life.
 
 ---
 
-## [G2379](https://www.blueletterbible.org/lexicon/g2379/kjv/tr/0-1/){:target="_blank"} -- thysiastērion (θυσιαστήριον)
+## G2379 -- thysiastērion (θυσιαστήριον)
 **Original:** θυσιαστήριον
 **Transliteration:** thysiastērion
 **Pronunciation:** thoo-see-as-tay-ree-on
@@ -76,7 +76,7 @@ The LXX uses [psyche](https://www.blueletterbible.org/lexicon/g5590/kjv/tr/0-1/)
 
 ---
 
-## [G4969](https://www.blueletterbible.org/lexicon/g4969/kjv/tr/0-1/){:target="_blank"} -- sphazō (σφάζω)
+## G4969 -- sphazō (σφάζω)
 **Original:** σφάζω
 **Transliteration:** sphazō
 **Pronunciation:** sfad-zo
@@ -109,7 +109,7 @@ The use of the same word (sphazō) for both Christ and the martyrs places the ma
 
 ---
 
-## [G2896](https://www.blueletterbible.org/lexicon/g2896/kjv/tr/0-1/){:target="_blank"} -- krazō (κράζω)
+## G2896 -- krazō (κράζω)
 **Original:** κράζω
 **Transliteration:** krazō
 **Pronunciation:** krad-zo
@@ -142,7 +142,7 @@ The krazō word in Gen 4:10 (LXX) and Jas 5:4 establishes a pattern where non-pe
 
 ---
 
-## [G373](https://www.blueletterbible.org/lexicon/g373/kjv/tr/0-1/){:target="_blank"} -- anapauō (ἀναπαύω)
+## G373 -- anapauō (ἀναπαύω)
 **Original:** ἀναπαύω
 **Transliteration:** anapauō
 **Pronunciation:** an-ap-ow-o
@@ -185,7 +185,7 @@ The krazō word in Gen 4:10 (LXX) and Jas 5:4 establishes a pattern where non-pe
 
 ---
 
-## [G1556](https://www.blueletterbible.org/lexicon/g1556/kjv/tr/0-1/){:target="_blank"} -- ekdikeō (ἐκδικέω)
+## G1556 -- ekdikeō (ἐκδικέω)
 **Original:** ἐκδικέω
 **Transliteration:** ekdikeō
 **Pronunciation:** ek-dik-eh-o
@@ -218,16 +218,3 @@ The krazō word in Gen 4:10 (LXX) and Jas 5:4 establishes a pattern where non-pe
 
 ### The Vindication Arc
 Rev 6:10 (cry for vindication) --> Rev 16:5-7 (vindication affirmed by the altar) --> Rev 19:2 (vindication accomplished). The same word (ekdikeō) bookends this narrative arc.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |

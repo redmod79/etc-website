@@ -64,6 +64,7 @@ extra_javascript:
   - javascripts/verse-popup.js
   - javascripts/study-breadcrumbs.js
   - javascripts/external-links.js
+  - javascripts/version-toggle.js
 
 extra_css:
   - stylesheets/extra.css

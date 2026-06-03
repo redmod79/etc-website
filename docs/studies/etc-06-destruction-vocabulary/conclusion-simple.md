@@ -12,14 +12,14 @@ The Bible's vocabulary for the fate of the wicked is dominated by destruction an
 
 In the Old Testament, four Hebrew words carry most of the weight:
 
-- **[abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}** -- to perish, to be destroyed (roughly 184 occurrences)
-- **[shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}** -- to destroy utterly, to exterminate (roughly 90 occurrences)
-- **[kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}** -- to consume, to finish, to use up (roughly 206 occurrences)
-- **[shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}** -- to corrupt, to ruin, to decay (roughly 147 occurrences)
+- **[abad](https://www.blueletterbible.org/lexicon/h6/kjv/wlc/0-1/){:target="_blank"}** -- to perish, to be destroyed (roughly 219 occurrences)
+- **[shamad](https://www.blueletterbible.org/lexicon/h8045/kjv/wlc/0-1/){:target="_blank"}** -- to destroy utterly, to exterminate (roughly 101 occurrences)
+- **[kalah](https://www.blueletterbible.org/lexicon/h3615/kjv/wlc/0-1/){:target="_blank"}** -- to consume, to finish, to use up (roughly 258 occurrences)
+- **[shachath](https://www.blueletterbible.org/lexicon/h7843/kjv/wlc/0-1/){:target="_blank"}** -- to corrupt, to ruin, to decay (roughly 164 occurrences)
 
 In the New Testament, three Greek words continue the same pattern:
 
-- **[apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}** -- to destroy fully, to perish (roughly 92 occurrences)
+- **[apollymi](https://www.blueletterbible.org/lexicon/g622/kjv/tr/0-1/){:target="_blank"}** -- to destroy fully, to perish (roughly 102 occurrences)
 - **[apoleia](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"}** -- destruction, ruin, perdition (roughly 20 occurrences)
 - **[olethros](https://www.blueletterbible.org/lexicon/g3639/kjv/tr/0-1/){:target="_blank"}** -- destruction, ruin (4 occurrences)
 
@@ -129,7 +129,7 @@ The annihilation view reads these words at face value: destruction means destruc
 
 ## Conclusion
 
-The dominant biblical vocabulary for the fate of the wicked is destruction vocabulary. Across roughly 743 combined occurrences, in both testaments, from more than a dozen authors, the words used are words that mean perishing, being destroyed, being consumed, and ceasing to exist. No lexicon defines any of these words as "torment." The similes that illustrate this fate depict natural processes of dissolution. Several passages state the outcome as non-existence in plain terms.
+The dominant biblical vocabulary for the fate of the wicked is destruction vocabulary. Across roughly 868 combined occurrences, in both testaments, from more than a dozen authors, the words used are words that mean perishing, being destroyed, being consumed, and ceasing to exist. No lexicon defines any of these words as "torment." The similes that illustrate this fate depict natural processes of dissolution. Several passages state the outcome as non-existence in plain terms.
 
 Passages that do use torment or punishment vocabulary -- such as Revelation 14:10-11 and Matthew 25:46 -- use different words from a different word family. Those passages raise legitimate questions and deserve their own careful study. But they do not change the meaning of the destruction words, which carry their plain lexical force throughout both testaments.
 

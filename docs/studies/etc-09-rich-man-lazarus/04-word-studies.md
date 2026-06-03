@@ -1,14 +1,14 @@
 # Word Studies
 
-## [G86](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} -- [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (ᾅδης)
-**Original:** [ᾅδης](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}
+## G86 -- hades (ᾅδης)
+**Original:** ᾅδης
 **Transliteration:** haides
 **Pronunciation:** hah-dace
 **Part of Speech:** proper locative noun
 **BLB Count:** 11
 
 ### Definition
-From alpha (as negative particle) and eido; properly, unseen, i.e. "[Hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"}" -- the place (state) of departed souls.
+From alpha (as negative particle) and eido; properly, unseen, i.e. "Hades" -- the place (state) of departed souls.
 
 ### KJV Translations
 | Translation | Count | Percentage |
@@ -29,20 +29,20 @@ From alpha (as negative particle) and eido; properly, unseen, i.e. "[Hades](http
 8. **Revelation 1:18** -- "have the keys of **hell** and of death"
 9. **Revelation 6:8** -- "Death, and **Hell** followed with him"
 10. **Revelation 20:13** -- "death and **hell** delivered up the dead"
-11. **Revelation 20:14** -- "death and **hell** were cast into the lake of fire" ([hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} is not the final state)
+11. **Revelation 20:14** -- "death and **hell** were cast into the lake of fire" (hades is not the final state)
 
 ### LXX Connection
-The LXX translates Hebrew [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} as [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} 58 of 65 times. Acts 2:27,31 directly quote Psalm 16:10 ([sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"} in Hebrew, [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} in Greek), confirming the [sheol](https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/){:target="_blank"}-[hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} equivalence.
+The LXX translates Hebrew sheol as hades 58 of 65 times. Acts 2:27,31 directly quote Psalm 16:10 (sheol in Hebrew, hades in Greek), confirming the sheol-hades equivalence.
 
 ### Key Observations
-- Only Luke 16:23 depicts consciousness in [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} -- within a parable
-- Same-author passages (Acts 2:27,31) use [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} as the place Christ's soul was NOT left, in the context of resurrection
-- Same author (Luke) records Peter stating David "is not ascended into the heavens" (Acts 2:34) -- David is in [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (dead and buried, Acts 2:29), not in heaven
-- Revelation 20:13-14: [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} gives up its dead at the judgment and is then cast into the lake of fire -- [hades](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} is temporary, not the final state
+- Only Luke 16:23 depicts consciousness in hades -- within a parable
+- Same-author passages (Acts 2:27,31) use hades as the place Christ's soul was NOT left, in the context of resurrection
+- Same author (Luke) records Peter stating David "is not ascended into the heavens" (Acts 2:34) -- David is in hades (dead and buried, Acts 2:29), not in heaven
+- Revelation 20:13-14: hades gives up its dead at the judgment and is then cast into the lake of fire -- hades is temporary, not the final state
 
 ---
 
-## [G931](https://www.blueletterbible.org/lexicon/g931/kjv/tr/0-1/){:target="_blank"} -- basanos (βάσανος)
+## G931 -- basanos (βάσανος)
 **Original:** βάσανος
 **Transliteration:** basanos
 **Pronunciation:** bas-an-os
@@ -66,14 +66,14 @@ Perhaps remotely from the same as basis (through the notion of going to the bott
 ### Key Observations
 - basanos originally meant "touchstone" (a stone used to test the purity of gold), then came to mean "a means of testing" and then "torture/torment"
 - Outside Luke 16, basanos appears ONLY in Matthew 4:24, referring to physical diseases -- not eschatological punishment
-- basanos is the NOUN form; the VERB form [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (G928) is the standard NT "torment" verb used in Revelation 14:10 and 20:10
-- Luke 16 uses the noun basanos but NOT the verb [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} -- a vocabulary distinction from the eschatological torment passages
+- basanos is the NOUN form; the VERB form basanizo (G928) is the standard NT "torment" verb used in Revelation 14:10 and 20:10
+- Luke 16 uses the noun basanos but NOT the verb basanizo -- a vocabulary distinction from the eschatological torment passages
 
 ---
 
-## [G928](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} -- [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (βασανίζω)
-**Original:** [βασανίζω](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}
-**Transliteration:** [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"}
+## G928 -- basanizo (βασανίζω)
+**Original:** βασανίζω
+**Transliteration:** basanizo
 **Pronunciation:** bas-an-id-zo
 **Part of Speech:** verb
 **BLB Count:** 12
@@ -111,11 +111,11 @@ From basanos; to torture: pain, toil, torment, toss, vex.
 12. **Revelation 20:10** -- "shall be **tormented** day and night for ever and ever" (eschatological)
 
 ### Key Observation
-[basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} is the standard NT verb for eschatological torment (Rev 14:10; 20:10). It does NOT appear in Luke 16:19-31. Luke 16 uses the NOUN basanos (G931) and the unrelated verb odunao (G3600). If Luke intended to describe the same phenomenon as the eschatological torment of Revelation, the vocabulary divergence is notable.
+basanizo is the standard NT verb for eschatological torment (Rev 14:10; 20:10). It does NOT appear in Luke 16:19-31. Luke 16 uses the NOUN basanos (G931) and the unrelated verb odunao (G3600). If Luke intended to describe the same phenomenon as the eschatological torment of Revelation, the vocabulary divergence is notable.
 
 ---
 
-## [G3600](https://www.blueletterbible.org/lexicon/g3600/kjv/tr/0-1/){:target="_blank"} -- odunao (ὀδυνάω)
+## G3600 -- odunao (ὀδυνάω)
 **Original:** ὀδυνάω
 **Transliteration:** odunao
 **Pronunciation:** od-oo-nah-o
@@ -143,12 +143,12 @@ From odune; to grieve: sorrow, torment.
 - odunao means "to grieve, to sorrow" -- it is fundamentally a grief/distress word, not an eschatological torment word
 - The non-Luke 16 uses describe ordinary human grief: a mother's worry about her lost child (Luke 2:48) and friends' sorrow at parting (Acts 20:38)
 - The KJV translates odunao as "sorrowing" in Luke 2:48 and Acts 20:38 but as "tormented" in Luke 16:24-25 -- same Greek word, different English translations depending on context
-- odunao belongs to a DIFFERENT word family from [basanizo](https://www.blueletterbible.org/lexicon/g928/kjv/tr/0-1/){:target="_blank"} (G928). The two are not interchangeable
+- odunao belongs to a DIFFERENT word family from basanizo (G928). The two are not interchangeable
 - Same-author usage: Luke uses odunao in both his Gospel and Acts. In non-parabolic contexts, he uses it for grief/sorrow. Only in the Rich Man and Lazarus parable does the KJV translate it as "tormented"
 
 ---
 
-## [G2859](https://www.blueletterbible.org/lexicon/g2859/kjv/tr/0-1/){:target="_blank"} -- kolpos (κόλπος)
+## G2859 -- kolpos (κόλπος)
 **Original:** κόλπος
 **Transliteration:** kolpos
 **Pronunciation:** kol-pos
@@ -186,9 +186,9 @@ Exodus 4:6; Proverbs 6:27; Isaiah 65:6; Jeremiah 32:18; 39:18
 
 ---
 
-## [G3857](https://www.blueletterbible.org/lexicon/g3857/kjv/tr/0-1/){:target="_blank"} -- [paradeisos](https://www.blueletterbible.org/lexicon/g3857/kjv/tr/0-1/){:target="_blank"} (παράδεισος)
-**Original:** [παράδεισος](https://www.blueletterbible.org/lexicon/g3857/kjv/tr/0-1/){:target="_blank"}
-**Transliteration:** [paradeisos](https://www.blueletterbible.org/lexicon/g3857/kjv/tr/0-1/){:target="_blank"}
+## G3857 -- paradeisos (παράδεισος)
+**Original:** παράδεισος
+**Transliteration:** paradeisos
 **Pronunciation:** par-ad-i-sos
 **Part of Speech:** masculine noun
 **BLB Count:** 3
@@ -210,15 +210,15 @@ Of Oriental origin (compare pardes); a park, i.e. (specially), an Eden (place of
 Genesis 2:8; 3:1; 13:10; Nehemiah 2:8; Ecclesiastes 2:5; Song of Songs 4:13; Ezekiel 28:13; 31:8
 
 ### Key Observations
-- Luke 16:19-31 does NOT use [paradeisos](https://www.blueletterbible.org/lexicon/g3857/kjv/tr/0-1/){:target="_blank"} for the location of the righteous dead
+- Luke 16:19-31 does NOT use paradeisos for the location of the righteous dead
 - Luke 16 uses "Abraham's bosom" (kolpos Abraam) instead -- a unique, non-standard term
-- The same author (Luke) uses [paradeisos](https://www.blueletterbible.org/lexicon/g3857/kjv/tr/0-1/){:target="_blank"} in Luke 23:43 -- if "Abraham's bosom" were a real afterlife location, Luke's failure to use the standard term [paradeisos](https://www.blueletterbible.org/lexicon/g3857/kjv/tr/0-1/){:target="_blank"} is notable
+- The same author (Luke) uses paradeisos in Luke 23:43 -- if "Abraham's bosom" were a real afterlife location, Luke's failure to use the standard term paradeisos is notable
 - 2 Corinthians 12:4: Paul was caught up to paradise while alive; this is a vision, not death
 - Revelation 2:7: paradise is future ("will I give"), associated with the tree of life
 
 ---
 
-## [G3850](https://www.blueletterbible.org/lexicon/g3850/kjv/tr/0-1/){:target="_blank"} -- parabole (παραβολή)
+## G3850 -- parabole (παραβολή)
 **Original:** παραβολή
 **Transliteration:** parabole
 **Pronunciation:** par-ab-ol-ay
@@ -274,16 +274,3 @@ From paraballo; a similitude ("parable"), i.e. (symbolically) fictitious narrati
 | Luke 16:19 | anthropos tis plousios | NO | Disputed |
 
 The pattern shows that Luke uses "a certain rich man" as a parabolic introduction. It receives a parabole label in 12:16 and is used without a label in 16:1 (universally agreed to be a parable) and 16:19 (disputed).
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report built on 28 supporting studies examines the angel view vs. the godly human view using explicit biblical evidence. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |
