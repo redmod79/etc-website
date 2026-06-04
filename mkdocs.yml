@@ -374,3 +374,32 @@ nav:
       - Verses: studies/etc-18-comprehensive-synthesis/02-verses.md
       - Topics: studies/etc-18-comprehensive-synthesis/01-topics.md
       - Research Scope: studies/etc-18-comprehensive-synthesis/PROMPT.md
+
+  # ── Supplemental Studies ──
+  - "Supplemental Studies":
+
+    - "S1 -- Smoke Imagery in the Hebrew Mind":
+      - Conclusion: studies/etc-S1-smoke-imagery-hebrew-mind/CONCLUSION.md
+      - Analysis: studies/etc-S1-smoke-imagery-hebrew-mind/03-analysis.md
+      - Verses: studies/etc-S1-smoke-imagery-hebrew-mind/02-verses.md
+      - Word Studies: studies/etc-S1-smoke-imagery-hebrew-mind/04-word-studies.md
+      - Topics: studies/etc-S1-smoke-imagery-hebrew-mind/01-topics.md
+      - Research Scope: studies/etc-S1-smoke-imagery-hebrew-mind/PROMPT.md
+      - Raw Data:
+        - "Greek Parsing": studies/etc-S1-smoke-imagery-hebrew-mind/raw-data/greek-parsing.md
+        - "Hebrew Parsing": studies/etc-S1-smoke-imagery-hebrew-mind/raw-data/hebrew-parsing.md
+        - "Cross-Testament Parallels": studies/etc-S1-smoke-imagery-hebrew-mind/raw-data/parallels.md
+        - "Nave's Topics": studies/etc-S1-smoke-imagery-hebrew-mind/raw-data/naves-topics.md
+
+    - "S2 -- The 'Day and Night' Formula in Revelation":
+      - Conclusion: studies/etc-S2-day-and-night-formula-revelation/CONCLUSION.md
+      - Analysis: studies/etc-S2-day-and-night-formula-revelation/03-analysis.md
+      - Verses: studies/etc-S2-day-and-night-formula-revelation/02-verses.md
+      - Word Studies: studies/etc-S2-day-and-night-formula-revelation/04-word-studies.md
+      - Topics: studies/etc-S2-day-and-night-formula-revelation/01-topics.md
+      - Research Scope: studies/etc-S2-day-and-night-formula-revelation/PROMPT.md
+      - Raw Data:
+        - "Greek Parsing": studies/etc-S2-day-and-night-formula-revelation/raw-data/greek-parsing.md
+        - "Hebrew Parsing": studies/etc-S2-day-and-night-formula-revelation/raw-data/hebrew-parsing.md
+        - "Cross-Testament Parallels": studies/etc-S2-day-and-night-formula-revelation/raw-data/parallels.md
+        - "Nave's Topics": studies/etc-S2-day-and-night-formula-revelation/raw-data/naves-topics.md
