@@ -1,0 +1,45 @@
+Greek Parser Output — Miscellaneous Passages
+
+=== Matt 25:46 ===
+Greek: καὶ ἀπελεύσονται οὗτοι εἰς κόλασιν αἰώνιον, οἱ δὲ δίκαιοι εἰς ζωὴν αἰώνιον.
+- κόλασιν (G2851) [N-ASF] Acc Sg F — punishment (NOT torment)
+- αἰώνιον (G166) [A-ASF] Acc Sg F — eternal
+- ζωὴν (G2222) [N-ASF] Acc Sg F — life
+- αἰώνιον (G166) [A-ASF] Acc Sg F — eternal
+Parallel construction: eis kolasin aionion // eis zoen aionion
+
+=== 2 Thess 1:9 ===
+Greek: οἵτινες δίκην τίσουσιν ὄλεθρον αἰώνιον ἀπὸ προσώπου τοῦ Κυρίου
+- ὄλεθρον (G3639) [N-ASM] Acc Sg M — destruction
+- αἰώνιον (G166) [A-ASM] Acc Sg M — eternal
+- ἀπὸ προσώπου (G575+G4383) — from the presence/face
+
+=== 1 Tim 6:16 ===
+Greek: ὁ μόνος ἔχων ἀθανασίαν
+- μόνος (G3441) [A-NSM] — only/alone
+- ἔχων (G2192) [V-PAP-NSM] — having
+- ἀθανασίαν (G110) [N-ASF] — immortality
+
+=== Tit 1:2 ===
+Greek: ἐπ' ἐλπίδι ζωῆς αἰωνίου... πρὸ χρόνων αἰωνίων
+- ζωῆς αἰωνίου (G2222+G166) Gen Sg F — eternal life
+- χρόνων αἰωνίων (G5550+G166) Gen Pl M — eternal times
+Same adjective, manifestly different temporal scope
+
+=== Luke 16:23 ===
+Greek: ἐν τῷ Ἅιδῃ... ὑπάρχων ἐν βασάνοις
+- Ἅιδῃ (G86) [N-DSM] — hades (NOT gehenna)
+- βασάνοις (G931) [N-DPF] — torments (basanos, NOT basanismos G929)
+
+=== Luke 16:24 ===
+Greek: ὀδυνῶμαι ἐν τῇ φλογὶ ταύτῃ
+- ὀδυνῶμαι (G3600) [V-PPI-1S] — I am grieved (odunao, NOT basanizo)
+
+=== Rev 4:8 ===
+Greek: ἀνάπαυσιν οὐκ ἔχουσιν ἡμέρας καὶ νυκτὸς
+- ἀνάπαυσιν (G372) — rest
+- Identical construction to Rev 14:11
+
+=== Rev 19:3 ===
+Greek: ὁ καπνὸς αὐτῆς ἀναβαίνει εἰς τοὺς αἰῶνας τῶν αἰώνων
+- Identical smoke formula as Rev 14:11, applied to Babylon

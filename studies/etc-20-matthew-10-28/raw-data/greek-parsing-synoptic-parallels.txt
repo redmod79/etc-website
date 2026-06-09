@@ -1,0 +1,34 @@
+======================================================================
+  Luke 12:4 - GRAMMATICAL ANALYSIS
+======================================================================
+
+Greek Text: Λέγω δὲ ὑμῖν τοῖς φίλοις μου, μὴ φοβηθῆτε ἀπὸ τῶν ἀποκτεννόντων τὸ σῶμα καὶ μετὰ ταῦτα μὴ ἐχόντων περισσότερόν τι ποιῆσαι.
+
+WORD                 LEMMA           STRONG   PARSING
+Λέγω                 λέγω            G3004    [V-PAI-1S]
+μὴ                   μή              G3361    [PRT-N]
+φοβηθῆτε             φοβέω           G5399    [V-AOM-2P] Aor Pass Impv Pl secondPers
+ἀποκτεννόντων        ἀποκτείνω       G615     [V-PAP-GPM] Pres Act Ptcp Gen Pl M
+σῶμα                 σῶμα            G4983    [N-ASN] Acc Sg N
+
+======================================================================
+  Luke 12:5 - GRAMMATICAL ANALYSIS
+======================================================================
+
+Greek Text: ὑποδείξω δὲ ὑμῖν τίνα φοβηθῆτε· φοβήθητε τὸν μετὰ τὸ ἀποκτεῖναι ἔχοντα ἐξουσίαν ἐμβαλεῖν εἰς τὴν γέενναν. ναί, λέγω ὑμῖν, τοῦτον φοβήθητε.
+
+WORD                 LEMMA           STRONG   PARSING
+φοβηθῆτε·            φοβέω           G5399    [V-AOS-2P] Aor Pass Subj
+φοβήθητε             φοβέω           G5399    [V-AOM-2P] Aor Pass Impv
+ἀποκτεῖναι           ἀποκτείνω       G615     [V-AAN] Aor Act Inf
+ἐμβαλεῖν             ἐμβάλλω         G1685    [V-2AAN] Aor Act Inf
+γέενναν.             γέεννα          G1067    [N-ASF] Acc Sg F
+φοβήθητε.            φοβέω           G5399    [V-AOM-2P] Aor Pass Impv
+
+KEY SYNOPTIC COMPARISON:
+Matthew 10:28: phobeisthe (V-PNM-2P, Present M/P Imperative) + apollymi (V-AAN, Aor Act Inf)
+Luke 12:4-5: phobethete (V-AOM-2P, Aorist Pass Imperative) + apokteino (V-AAN, Aor Act Inf)
+
+Matthew uses PRESENT imperative (ongoing posture of fear); Luke uses AORIST imperative (decisive act)
+Matthew escalates from apokteino to apollymi; Luke uses apokteino for both human and divine action
+Matthew mentions psyche explicitly; Luke omits psyche entirely

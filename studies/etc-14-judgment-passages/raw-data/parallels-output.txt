@@ -1,0 +1,43 @@
+======================================================================
+  HYBRID ANALYSIS NT PARALLELS FOR: REV 20:14
+======================================================================
+
+  Glosses: And - Death and - Hades were cast into the lake - of fire...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  REV 20:15              0.472   0.63  0.40  0.00  burn, cast, into, lake
+  REV 21:8               0.464   0.62  0.40  0.00  burn, death, lake, second
+  REV 20:10              0.429   0.54  0.40  0.00  burn, cast, into, lake
+  REV 20:13              0.401   0.62  0.20  0.00  death, hade
+  REV 1:18               0.383   0.63  0.20  0.00  death, hade
+  REV 19:20              0.378   0.46  0.40  0.00  burn, cast, into, lake
+
+======================================================================
+  HYBRID ANALYSIS OT PARALLELS FOR: REV 20:14
+======================================================================
+
+  Glosses: And - Death and - Hades were cast into the lake - of fire...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  Jesaia 43:2            0.325   0.60  0.10  0.00  burn
+  Canticum 8:6           0.302   0.49  0.20  0.00  burn, death
+  Genesis 19:24          0.298   0.54  0.10  0.00  burn
+  Jesaia 66:15           0.284   0.51  0.10  0.00  burn
+
+======================================================================
+  HYBRID ANALYSIS OT PARALLELS FOR: MAT 25:46
+======================================================================
+
+  Glosses: And will go away these into punishment eternal - but the righteous into life eternal...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  Ezechiel 18:21         0.391   0.73  0.10  0.00  alive
+  Psalmi 119:93          0.391   0.67  0.20  0.00  age, alive
+  Ezechiel 18:24         0.368   0.68  0.10  0.00  alive
+  Genesis 3:22           0.364   0.61  0.20  0.00  age, alive

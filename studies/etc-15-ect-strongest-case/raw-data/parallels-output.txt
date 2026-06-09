@@ -1,0 +1,32 @@
+Cross-Testament Parallels Output
+
+=== Rev 14:11 → OT Parallels ===
+Top match: Isa 34:10 (0.401) — age, burn [continual,forever]
+  Identical smoke-ascending-forever formula. Edom fire ended.
+
+=== Rev 20:10 → OT Parallels ===
+Top match: Deut 13:6 (0.364) — burn, prophet
+  Isa 34:10 (0.332) — age, burn [continual,forever]
+
+=== Matt 25:46 → OT Parallels ===
+Top match: Ezek 18:21 (0.391) — alive
+  Psa 119:93 (0.391) — age, alive
+  Gen 3:22 (0.364) — age, alive
+
+=== 2 Thess 1:9 → OT Parallels ===
+Top match: Psa 73:12 (0.382) — age, power
+  Ezek 25:15 (0.352) — age, destruction
+  Isa 25:8 (0.336) — glory
+
+=== Mark 9:48 → OT Parallels ===
+Top match: Isa 66:24 (0.424) — burn, die, worm
+  DIRECT QUOTATION confirmed by tool
+
+=== Rev 6:9 → OT Parallels ===
+Top match: Lev 17:11 (0.321) — altar, soul
+  Lev 3:2 (0.313) — altar, open
+
+=== Key Finding ===
+The strongest OT parallel for Rev 14:11 is Isa 34:10 — the identical smoke formula
+applied to Edom's destruction that historically ended (animals dwell in ruins, Isa 34:11-17).
+Mark 9:48 is a direct quotation of Isa 66:24 (highest score: 0.424).

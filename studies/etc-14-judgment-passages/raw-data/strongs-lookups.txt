@@ -1,0 +1,19 @@
+G5098 timoria - 1 total occurrence, 1 unique translation:
+     1 (100.0%) punishment
+
+Source: search_strongs.py --lookup G5098
+
+---
+
+G5099 tino - 1 total occurrence, 1 unique translation:
+     1 (100.0%) shall be punished
+
+Source: search_strongs.py --lookup G5099
+
+---
+
+Verses for G5098 (timoria):
+Only 1 NT use: Heb 10:29 "Of how much sorer punishment"
+
+Verses for G5099 (tino):
+Only 1 NT use: 2 Thess 1:9 "Who shall be punished with everlasting destruction"

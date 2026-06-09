@@ -1,0 +1,98 @@
+======================================================================
+  Genesis 2:7
+======================================================================
+
+  וַיִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת־הָֽאָדָ֗ם עָפָר֙ מִן־הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה׃
+
+  Hebrew          Lemma        Parsing                   Gloss
+  --------------- ------------ ------------------------- --------------------
+  וַ              ו            Conj.+NAN                 and
+  יִּיצֶר֩        יצר          Verb.Qal.Wayq.3ms         shape
+  יְהוָ֨ה         יהוה         PropN.ms.Abs.+NAN         YHWH
+  אֱלֹהִ֜ים       אלהים        Noun.mp.Abs               god(s)
+  אֶת             את           Prep                      <object marker>
+  הָֽ             ה            Art.+NAN                  the
+  אָדָ֗ם          אדם          Noun.ms.Abs               human, mankind
+  עָפָר֙          עפר          Noun.ms.Abs               dust
+  מִן             מן           Prep                      from
+  הָ֣             ה            Art.+NAN                  the
+  אֲדָמָ֔ה        אדמה         Noun.fs.Abs               soil
+  וַ              ו            Conj.+NAN                 and
+  יִּפַּ֥ח        נפח          Verb.Qal.Wayq.3ms         blow
+  בְּ             ב            Prep                      in
+  אַפָּ֖יו        אף           Noun.md.Abs.+3ms          nose
+  נִשְׁמַ֣ת       נשׁמה        Noun.fs.Cst               breath
+  חַיִּ֑ים        חיים         Noun.mp.Abs               life
+  וַֽ             ו            Conj.+NAN                 and
+  יְהִ֥י          היה          Verb.Qal.Wayq.3ms         be
+  הָֽ             ה            Art.+NAN                  the
+  אָדָ֖ם          אדם          Noun.ms.Abs               human, mankind
+  לְ              ל            Prep                      to
+  נֶ֥פֶשׁ         נפשׁ         Noun.fs.Abs               soul
+  חַיָּֽה         חי           Adj.fs.Abs                alive
+
+======================================================================
+  Ezekiel 18:4
+======================================================================
+
+  הֵ֤ן כָּל־הַנְּפָשֹׁות֙ לִ֣י הֵ֔נָּה כְּנֶ֧פֶשׁ הָאָ֛ב וּכְנֶ֥פֶשׁ הַבֵּ֖ן לִי־הֵ֑נָּה הַנֶּ֥פֶשׁ הַחֹטֵ֖את הִ֥יא תָמֽוּת׃ ס
+
+  Hebrew          Lemma        Parsing                   Gloss
+  --------------- ------------ ------------------------- --------------------
+  הֵ֤ן            הן           Interj                    behold
+  כָּל            כל           Noun.ms.Cst               whole
+  הַ              ה            Art.+NAN                  the
+  נְּפָשֹׁות֙     נפשׁ         Noun.fp.Abs               soul
+  לִ֣י            ל            Prep.+1us                 to
+  הֵ֔נָּה         הנה          PersPron.3fp.+NAN         they
+  כְּ             כ            Prep                      as
+  נֶ֧פֶשׁ         נפשׁ         Noun.fs.Cst               soul
+  הָ              ה            Art.+NAN                  the
+  אָ֛ב            אב           Noun.ms.Abs               father
+  וּ              ו            Conj.+NAN                 and
+  כְ              כ            Prep                      as
+  נֶ֥פֶשׁ         נפשׁ         Noun.fs.Cst               soul
+  הַ              ה            Art.+NAN                  the
+  בֵּ֖ן           בן           Noun.ms.Abs               son
+  לִי             ל            Prep.+1us                 to
+  הֵ֑נָּה         הנה          PersPron.3fp.+NAN         they
+  הַ              ה            Art.+NAN                  the
+  נֶּ֥פֶשׁ        נפשׁ         Noun.fs.Abs               soul
+  הַ              ה            Art.+NAN                  the
+  חֹטֵ֖את         חטא          Verb.Qal.Ptcp.fs.Abs      miss (= sinning)
+  הִ֥יא           היא          PersPron.3fs.+NAN         she
+  תָמֽוּת         מות          Verb.Qal.Impf.3fs         die
+
+======================================================================
+  Isaiah 66:24
+======================================================================
+
+  וְיָצְא֣וּ וְרָא֔וּ בְּפִגְרֵי֙ הָאֲנָשִׁ֔ים הַפֹּשְׁעִ֖ים בִּ֑י כִּ֣י תֹולַעְתָּ֞ם לֹ֣א תָמ֗וּת וְאִשָּׁם֙ לֹ֣א תִכְבֶּ֔ה וְהָי֥וּ דֵרָאֹ֖ון לְכָל־בָּשָֽׂר׃
+
+  Hebrew          Lemma        Parsing                   Gloss
+  --------------- ------------ ------------------------- --------------------
+  וְ              ו            Conj.+NAN                 and
+  יָצְא֣וּ        יצא          Verb.Qal.Perf.3p          go out
+  וְ              ו            Conj.+NAN                 and
+  רָא֔וּ          ראה          Verb.Qal.Perf.3p          see
+  בְּ             ב            Prep                      in
+  פִגְרֵי֙        פגר          Noun.mp.Cst               corpse
+  הָ              ה            Art.+NAN                  the
+  אֲנָשִׁ֔ים      אישׁ         Noun.mp.Abs               man
+  הַ              ה            Art.+NAN                  the
+  פֹּשְׁעִ֖ים     פשׁע         Verb.Qal.Ptcp.mp.Abs      rebel
+  בִּ֑י           ב            Prep.+1us                 in
+  כִּ֣י           כי           Conj.+NAN                 that
+  תֹולַעְתָּ֞ם    תולעת        Noun.fs.Abs.+3mp          worm
+  לֹ֣א            לא           Neg.+NAN                  not
+  תָמ֗וּת         מות          Verb.Qal.Impf.3fs         die
+  וְ              ו            Conj.+NAN                 and
+  אִשָּׁם֙        אשׁ          Noun.s.Abs.+3mp           fire
+  לֹ֣א            לא           Neg.+NAN                  not
+  תִכְבֶּ֔ה       כבה          Verb.Qal.Impf.3fs         go out
+  וְ              ו            Conj.+NAN                 and
+  הָי֥וּ          היה          Verb.Qal.Perf.3p          be
+  דֵרָאֹ֖ון       דראון        Noun.ms.Abs               abhorrence
+  לְ              ל            Prep                      to
+  כָל             כל           Noun.ms.Cst               whole
+  בָּשָֽׂר        בשׂר         Noun.ms.Abs               flesh

@@ -1,0 +1,152 @@
+RAW GREEK PARSER OUTPUT
+=======================
+All parser output from greek_parser.py for this study.
+
+======================================================================
+  Revelation 20:14 - GRAMMATICAL ANALYSIS
+======================================================================
+
+Greek Text: kai ho thanatos kai ho Haides eblethesan eis ten limnen tou puros. houtos ho thanatos ho deuteros estin, he limne tou puros.
+
+WORD                 LEMMA           STRONG   PARSING
+kai                  kai             G2532    [CONJ]
+ho                   ho              G3588    [T-NSM] Nom Sg M
+thanatos             thanatos        G2288    [N-NSM] Nom Sg M
+kai                  kai             G2532    [CONJ]
+ho                   ho              G3588    [T-NSM] Nom Sg M
+Haides               hades           G86      [N-NSM] Nom Sg M
+eblethesan           ballo           G906     [V-API-3P] Aor Pass Ind Pl thirdPers
+eis                  eis             G1519    [PREP]
+ten                  ho              G3588    [T-ASF] Acc Sg F
+limnen               limne           G3041    [N-ASF] Acc Sg F
+tou                  ho              G3588    [T-GSN] Gen Sg N
+puros                pyr             G4442    [N-GSN] Gen Sg N
+houtos               houtos          G3778    [D-NSM] Nom Sg M
+ho                   ho              G3588    [T-NSM] Nom Sg M
+thanatos             thanatos        G2288    [N-NSM] Nom Sg M
+ho                   ho              G3588    [T-NSM] Nom Sg M
+deuteros             deuteros        G1208    [A-NSM] Nom Sg M
+estin                eimi            G1510    [V-PAI-3S] Pres Act Ind Sg thirdPers
+he                   ho              G3588    [T-NSF] Nom Sg F
+limne                limne           G3041    [N-NSF] Nom Sg F
+tou                  ho              G3588    [T-GSN] Gen Sg N
+puros                pyr             G4442    [N-GSN] Gen Sg N
+
+======================================================================
+  Revelation 20:10 - GRAMMATICAL ANALYSIS
+======================================================================
+
+Greek Text: kai ho diabolos ho planon autous eblethe eis ten limnen tou puros kai theiou, hopou kai to therion kai ho pseudoprophetes, kai basanisthesontai hemeras kai nyktos eis tous aionas ton aionon.
+
+Key verbs:
+- eblethe (ballo G906) V-API-3S Aor Pass Ind
+- basanisthesontai (basanizo G928) V-FPI-3P Fut Pass Ind
+- planon (planao G4105) V-PAP-NSM Pres Act Ptcp
+
+======================================================================
+  Revelation 20:9 - GRAMMATICAL ANALYSIS
+======================================================================
+
+Greek Text: kai anebesan epi to platos tes ges, kai ekykleusan ten parembolen ton hagion kai ten polin ten egapemenen; kai katebe pyr ek tou ouranou kai katephagen autous;
+
+Key verbs:
+- katephagen (katesthio G2719) V-2AAI-3S Aor Act Ind -- devoured (humans)
+- katebe (katabaino G2597) V-2AAI-3S Aor Act Ind -- came down (fire)
+
+======================================================================
+  Revelation 21:8 - GRAMMATICAL ANALYSIS
+======================================================================
+
+Key words:
+- meros (G3313) N-NSN -- part/portion
+- estin (eimi G1510) V-PAI-3S -- is (identification copula)
+- thanatos (G2288) N-NSM + deuteros (G1208) A-NSM -- second death
+
+======================================================================
+  Revelation 2:11 - GRAMMATICAL ANALYSIS
+======================================================================
+
+Key construction:
+- ou me (G3756 + G3361) double negation = strongest Greek negation
+- adikethei (adikeo G91) V-APS-3S Aor Pass Subj
+- nikon (nikao G3528) V-PAP-NSM Pres Act Ptcp -- overcomer
+
+======================================================================
+  Revelation 20:6 - GRAMMATICAL ANALYSIS
+======================================================================
+
+Key words:
+- deuteros thanatos (G1208 + G2288) -- second death
+- ouk echei (G3756 + G2192 V-PAI-3S) -- does not have
+- exousian (G1849 N-ASF) -- authority/jurisdiction/power
+
+======================================================================
+  Revelation 19:20 - GRAMMATICAL ANALYSIS
+======================================================================
+
+Key words:
+- zontes (zao G2198) V-PAP-NPM Pres Act Ptcp -- alive
+- eblethesan (ballo G906) V-API-3P Aor Pass Ind -- were cast
+- kaiomenes (kaio G2545) V-PPP-GSF Pres Pass Ptcp -- burning
+
+======================================================================
+  Revelation 19:21 - GRAMMATICAL ANALYSIS
+======================================================================
+
+Key verb:
+- apektanthesan (apokteino G615) V-API-3P Aor Pass Ind -- were slain (humans)
+
+======================================================================
+  Revelation 20:13 - GRAMMATICAL ANALYSIS
+======================================================================
+
+Key verbs:
+- edoken (didomi G1325) V-AAI-3S -- gave up (sea as agent)
+- edokan (didomi G1325) V-AAI-3P -- gave up (death+hades as agents)
+- ekrithesan (krino G2919) V-API-3P -- were judged
+
+======================================================================
+  1 Corinthians 15:26 - GRAMMATICAL ANALYSIS
+======================================================================
+
+Key verb:
+- katargeitai (katargeo G2673) V-PPI-3S Pres Pass Ind -- is being destroyed/abolished
+
+======================================================================
+  1 Corinthians 15:54 - GRAMMATICAL ANALYSIS
+======================================================================
+
+Key verb:
+- Katepothe (katapino G2666) V-API-3S Aor Pass Ind -- was swallowed up (death)
+
+======================================================================
+  Matthew 25:41 - GRAMMATICAL ANALYSIS
+======================================================================
+
+Key words:
+- hetoimasmenon (hetoimazo G2090) V-RPP-ASN Perf Pass Ptcp -- prepared (for devil)
+- diabolo (diabolos G1228) A-DSM -- devil (dative of advantage/purpose)
+- aionion (aionios G166) A-ASN -- eternal/everlasting
+
+======================================================================
+  Revelation 21:4 - GRAMMATICAL ANALYSIS
+======================================================================
+
+Key construction:
+- ho thanatos ouk estai eti -- death will not be anymore
+- estai (eimi G1510) V-FDI-3S Fut Mid Ind -- shall be
+- eti (G2089) ADV -- anymore/still
+
+======================================================================
+  Hebrews 2:14 - GRAMMATICAL ANALYSIS
+======================================================================
+
+Key verb:
+- katargese (katargeo G2673) V-AAS-3S Aor Act Subj -- might destroy (the devil)
+
+======================================================================
+  2 Timothy 1:10 - GRAMMATICAL ANALYSIS
+======================================================================
+
+Key verb:
+- katargesantos (katargeo G2673) V-AAP-GSM Aor Act Ptcp -- having abolished (death)

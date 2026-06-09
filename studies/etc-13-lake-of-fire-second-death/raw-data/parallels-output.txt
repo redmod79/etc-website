@@ -1,0 +1,51 @@
+RAW CROSS-TESTAMENT PARALLELS OUTPUT
+======================================
+
+======================================================================
+  HYBRID ANALYSIS NT PARALLELS FOR: REV 20:14
+======================================================================
+Top matches:
+  REV 20:15              0.472   burn, cast, into, lake
+  REV 21:8               0.464   death, lake, second
+  REV 20:10              0.429   burn, cast, into, lake
+  REV 20:13              0.401   death, hade
+  REV 1:18               0.383   death, hade
+  REV 19:20              0.378   burn, cast, into, lake
+  REV 6:8                0.355   death, hade
+  ACT 2:27               0.344   hade, into
+
+======================================================================
+  HYBRID ANALYSIS OT PARALLELS FOR: REV 20:14
+======================================================================
+Top matches:
+  Jesaia 43:2            0.325   burn
+  Proverbia 26:18        0.323   cast, death
+  Canticum 8:6           0.302   burn, death
+  Genesis 19:24          0.298   burn
+
+======================================================================
+  HYBRID ANALYSIS OT PARALLELS FOR: 1CO 15:54
+======================================================================
+Top matches:
+  Proverbia 11:7         0.358   death
+  Jesaia 25:8            0.346   death
+  Psalmi 118:18          0.342   death
+  Ezechiel 18:32         0.338   death
+
+======================================================================
+  HYBRID ANALYSIS NT PARALLELS FOR: MAT 25:41
+======================================================================
+Top matches:
+  REV 14:10              0.418   angel, burn
+  REV 20:10              0.414   age, burn, devil, into
+  MAT 4:11               0.416   angel, devil
+  MAT 25:34              0.371   prepar
+
+======================================================================
+  HYBRID ANALYSIS OT PARALLELS FOR: REV 20:9
+======================================================================
+Top matches:
+  Judices 20:40          0.392   burn, heaven
+  Reges_II 2:11          0.363   burn, heaven
+  Numeri 16:35           0.328   burn
+  Chronica_II 7:1        0.327   burn, heaven

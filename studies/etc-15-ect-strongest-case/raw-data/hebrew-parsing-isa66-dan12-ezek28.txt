@@ -1,0 +1,40 @@
+Hebrew Parser Output — Isaiah 66:24, Daniel 12:2, Ezekiel 28:18-19
+
+=== Isaiah 66:24 ===
+Hebrew: וְיָצְאוּ וְרָאוּ בְּפִגְרֵי הָאֲנָשִׁים הַפֹּשְׁעִים בִּי כִּי תֹולַעְתָּם לֹא תָמוּת וְאִשָּׁם לֹא תִכְבֶּה וְהָיוּ דֵרָאוֹן לְכָל־בָּשָׂר
+
+Key morphological data:
+- פִגְרֵי (peger H6297) Noun mp Cst = corpses (construct state: "corpses of")
+- תֹולַעְתָּם (tola'at H8438) Noun fs Abs + 3mp suffix = their worm
+- תָמוּת (muwth H4191) Verb Qal Impf 3fs = dies (feminine agreeing with tola'at)
+- כבה (kabah H3518) Verb Qal Impf 3fs = is quenched (feminine agreeing with esh)
+- דֵרָאוֹן (dera'on H1860) Noun ms Abs = abhorrence/contempt
+
+CRITICAL: The subjects are PEGER (corpses). Peger always = dead body in 24/24 OT uses.
+
+=== Daniel 12:2 ===
+Hebrew: וְרַבִּים מִיְּשֵׁנֵי אַדְמַת־עָפָר יָקִיצוּ אֵלֶּה לְחַיֵּי עֹולָם וְאֵלֶּה לַחֲרָפוֹת לְדִרְאוֹן עֹולָם
+
+Key morphological data:
+- חַיֵּי (chayyim H2416) Noun mp Cst = life (construct: "life of")
+- עֹולָם (olam H5769) Noun ms Abs = eternity — "everlasting life"
+- חֲרָפוֹת (cherpah H2781) Noun fp Abs = reproaches/shame
+- דִרְאוֹן (dera'on H1860) Noun ms Cst = abhorrence/contempt (construct)
+- עֹולָם (olam H5769) Noun ms Abs = eternity — "everlasting contempt"
+
+PARALLEL STRUCTURE: chayyei olam // dera'on olam — identical olam modification on both outcomes
+
+=== Ezekiel 28:18 ===
+Hebrew: ... וָאוֹצִא־אֵשׁ מִתּוֹכְךָ הִיא אֲכָלַתְךָ וָאֶתֶּנְךָ לְאֵפֶר עַל־הָאָרֶץ לְעֵינֵי כָּל־רֹאֶיךָ
+
+Key: אֵשׁ (esh H784) fire; אֲכָלַתְךָ (akal H398 Qal Perf 3fs+2ms) she devoured you; אֵפֶר (epher H665) ashes
+"I brought forth fire from your midst, it devoured you, I brought you to ashes upon the earth"
+
+=== Ezekiel 28:19 ===
+Hebrew: ... בַּלָּהוֹת הָיִיתָ וְאֵינְךָ עַד־עוֹלָם
+
+Key: אֵינְךָ (ayin H369 + 2ms suffix) you are nothing/non-existent; עַד־עוֹלָם (ad-olam H5704+H5769) unto forever
+"You have become a terror, and you are nothing (non-existent) until forever"
+
+CRITICAL: Same being (Satan-figure) described in Rev 20:10 with torment vocabulary.
+Ezek 28:18-19 describes the SAME entity with CESSATION vocabulary: devoured, ashes, non-existent forever.

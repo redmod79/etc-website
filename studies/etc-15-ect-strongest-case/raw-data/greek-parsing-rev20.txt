@@ -1,0 +1,17 @@
+Greek Parser Output — Revelation 20:9-10,14
+
+Rev 20:9: καὶ ἀνέβησαν ἐπὶ τὸ πλάτος τῆς γῆς, καὶ ἐκύκλευσαν τὴν παρεμβολὴν τῶν ἁγίων καὶ τὴν πόλιν τὴν ἠγαπημένην· καὶ κατέβη πῦρ ἐκ τοῦ οὐρανοῦ καὶ κατέφαγεν αὐτούς·
+Key: katephagen (G2719, katesthio) Aor Act Ind 3S — devoured them (HUMANS)
+
+Rev 20:10: καὶ ὁ διάβολος ὁ πλανῶν αὐτοὺς ἐβλήθη εἰς τὴν λίμνην τοῦ πυρὸς καὶ θείου, ὅπου καὶ τὸ θηρίον καὶ ὁ ψευδοπροφήτης, καὶ βασανισθήσονται ἡμέρας καὶ νυκτὸς εἰς τοὺς αἰῶνας τῶν αἰώνων.
+Key: basanisthesontai (G928) Fut Pass Ind 3P — they shall be tormented (DEVIL/BEAST/FALSE PROPHET)
+Three subjects: diabolos (devil), therion (beast), pseudoprophetes (false prophet) — all non-human
+
+Rev 20:14: καὶ ὁ θάνατος καὶ ὁ Ἅιδης ἐβλήθησαν εἰς τὴν λίμνην τοῦ πυρός. οὗτος ὁ θάνατος ὁ δεύτερός ἐστιν, ἡ λίμνη τοῦ πυρός.
+Key: houtos ho thanatos ho deuteros estin — this is the second death (predicate nominative X=Y)
+
+VOCABULARY DIFFERENTIATION:
+v.9: Humans → katephagen (devoured)
+v.10: Devil/beast/false prophet → basanisthesontai (tormented)
+v.14: Lake of fire → ho thanatos ho deuteros (the second death)
+v.15: Humans → cast into lake of fire = second death

@@ -1,0 +1,40 @@
+======================================================================
+  HYBRID ANALYSIS OT PARALLELS FOR: MAT 10:28
+======================================================================
+
+  Glosses: And not you should be afraid of those killing the body the however soul not...
+
+  --- TOP OT MATCHES ---
+  Numeri 35:31           0.394   kill, soul
+  Jesaia 14:20           0.390   consume, kill
+  Numeri 11:15           0.383   kill
+  Numeri 35:30           0.367   kill, soul
+  Deuteronomium 19:6     0.365   kill, soul
+  Psalmi 143:3           0.364   soul
+  Iob 11:20              0.361   consume, soul
+  Josua 20:3             0.357   kill, soul
+  Deuteronomium 12:23    0.356   soul
+  Ecclesiastes 8:13      0.355   afraid
+
+======================================================================
+  HYBRID ANALYSIS NT PARALLELS FOR: MAT 10:28
+======================================================================
+
+  --- TOP NT MATCHES ---
+  LUK 12:4               0.493   able, body, fear, kill
+  LUK 12:5               0.469   fear, hell, however, kill
+  MAT 5:30               0.411   body, consume, hell
+  MAT 5:29               0.395   body, consume, hell
+  ACT 2:27               0.376   soul
+  ROM 8:13               0.369   body, however
+  HEB 10:39              0.367   however, soul
+  JAS 4:12               0.342   able, consume, however
+  ACT 3:23               0.330   consume, soul
+
+======================================================================
+  CONCEPT CONTEXT: Matthew 10:28
+======================================================================
+  Concepts: LIFE (G5590 psyche)
+
+  SAME CHAPTER: Matt 10:39 [psyche+apollymi]
+  SAME BOOK: Matt 11:29, 12:18, 16:16, 16:25, 16:26, 18:8, 18:9, 19:16, 19:17, 19:29
